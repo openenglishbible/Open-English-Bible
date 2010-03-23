@@ -1,0 +1,25 @@
+; Remove some extraneous 'And' beginnings of sentences. 
+
+In Mark:
+	1:10	And just		->	Just
+	1:21	And they		->	They
+	1:27	And they		->	They
+	2:3		And some		->	Some
+	2:15	And later		->	Later
+	3:8		And a			->	A
+	3:13	And Jesus		->	Jesus
+	3:14	And he			->	He
+	3:22	And the			->	The
+	3:31	And his			->	His
+	4:21	And Jesus		->	Jesus
+	5:1		And they		->	They
+	5:11	hillside.		->	hillside;
+	5:12	And the			->	and the
+	5:22	And one			->	One
+	6:22	And when		->	When
+	6:33	And many		->	Many
+	7:24	And he			->	He
+	8:16	bread.			->	bread;
+	8:17	And, noticing	->	and, noticing
+	12:1	And Jesus		->	Jesus
+	15:21	And they		->	They

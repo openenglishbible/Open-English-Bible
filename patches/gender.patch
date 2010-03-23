@@ -1,0 +1,57 @@
+;	Modern language does not use 'man' as a gender-neutral signifier
+
+In Mark:
+	1:17	men			->		people
+	2:21	man			->		one
+	2:21	he does		->		they do
+	2:22	man			->		one
+	2:22	he does		->		they do
+	2:27	man			->		people
+	2:27	man			->		people
+	3:28	men			->		people
+	6:44	men			->		people
+	7:7		the precepts of men		->		human precepts
+	7:8		the traditions of men	->		human traditions
+	7:10	him			->		anyone
+	7:10	his			->		their
+	7:11	man			->		person
+	7:11	his			->		their
+	7:12	him			->		them
+	7:12	his			->		their
+	7:15	man			->		person
+	7:15	him			->		them
+	7:15	him			->		them
+	7:15	man			->		person
+	7:15	him			->		them
+	7:18	man			->		person
+	7:18	man			->		person
+	7:18	him			->		them
+	7:20	man			->		person
+	7:20	him			->		them
+	7:21	men			->		people
+	7:23	man			->		person
+	8:33	man does	->		people do
+	8:34	any man		->		anyone
+	8:34	let him		->		let them
+	8:34	his cross	->		their cross
+	8:35	his life	->		their life
+	8:35	his			->		their
+	8:36	man			->		person
+	8:36	his			->		their
+	8:37	man			->		person
+	8:37	his			->		their
+	8:38	him			->		them
+	10:9	man must not	->	no one must
+	10:23	men			->		people
+	10:25	man			->		person
+	10:27	men			->		people
+	11:14	man			->		one
+	12:25	men			->		people
+	12:27	men			->		people
+	13:13	man			->		person
+	13:15	man			->		person
+	13:15	his			->		their
+	13:16	his			->		their
+	13:16	his			->		their
+	13:34	his special	->		their special
+	14:41	men			->		people

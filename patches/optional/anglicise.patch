@@ -1,0 +1,19 @@
+; Optional patch - changes to some words to make appropriate for Commonwealth English
+
+In Mark:
+	1:4		Baptizer		->	Baptiser
+	6:14	Baptizer		->	Baptiser
+	6:24	Baptizer		->	Baptiser
+	1:5		baptized		->	baptised
+	1:8		baptized		->	baptised
+	1:8		baptize			->	baptise
+	1:9		baptized		->	baptised
+	6:33	recognized		->	recognised
+	16:16	baptized		->	baptised
+	1:28	neighborhood	->	neighbourhood
+	5:17	neighborhood	->	neighbourhood
+	6:4		honor			->	honour
+	7:6		honor			->	honour
+	7:10	Honor			->	Honour
+	12:39	honor			->	honour
+	12:33	neighbor		->	neighbour
