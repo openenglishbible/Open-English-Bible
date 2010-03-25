@@ -1,17 +1,17 @@
 (../tex/Bible.tex
 
-ConTeXt  ver: 2010.03.20 22:59 MKIV  fmt: 2010.3.24  int: english/english
+ConTeXt  ver: 2010.03.20 22:59 MKIV  fmt: 2010.3.25  int: english/english
 
 system          : cont-new loaded
-(/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/cont-new.tex
+(/Users/oebible/context/tex/texmf-context/tex/context/base/cont-new.tex
 systems         : beware: some patches loaded from cont-new.tex
-(/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/cont-new.mkiv))
+(/Users/oebible/context/tex/texmf-context/tex/context/base/cont-new.mkiv))
 system          : cont-fil loaded
-(/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/cont-fil.tex
+(/Users/oebible/context/tex/texmf-context/tex/context/base/cont-fil.tex
 loading         : ConTeXt File Synonyms
 )
 system          : cont-sys.rme loaded
-(/Users/oebible/OEB/context/tex/texmf-context/tex/context/user/cont-sys.rme (/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/type-def.mkiv) (/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/type-lua.tex) (/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/type-siz.tex (/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/type-siz.mkiv)) (/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/type-otf.tex (/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/type-otf.mkiv)))
+(/Users/oebible/context/tex/texmf-context/tex/context/user/cont-sys.rme (/Users/oebible/context/tex/texmf-context/tex/context/base/type-def.mkiv) (/Users/oebible/context/tex/texmf-context/tex/context/base/type-lua.tex) (/Users/oebible/context/tex/texmf-context/tex/context/base/type-siz.tex (/Users/oebible/context/tex/texmf-context/tex/context/base/type-siz.mkiv)) (/Users/oebible/context/tex/texmf-context/tex/context/base/type-otf.tex (/Users/oebible/context/tex/texmf-context/tex/context/base/type-otf.mkiv)))
 system          : Bible.top loaded
 %
 %	begin of optionfile
@@ -54,26 +54,26 @@ system          : mark RABook defined [RABook]
 system          : mark RASection defined [RASection]
 !math virtual   : the mapping is incomplete for 'pxmath' at 5.25pt
 fonts           : beware: fontclass ignored (if needed use: [fontclass][size][settings])
-(/Users/oebible/OEB/context/tex/texmf-context/tex/context/third/lettrine/t-lettrine.tex)
+(/Users/oebible/context/tex/texmf-context/tex/context/third/lettrine/t-lettrine.tex)
 system          : module lettrine loaded
 systems         : begin file ../tex/Bible.tex at line 56
 structure       : title @ level 2 : 0.0 -> Open English Bible
 fonts           : resetting map file list
-{/Users/oebible/OEB/context/tex/texmf-context/fonts/map/pdftex/context/original-empty.map}
+{/Users/oebible/context/tex/texmf-context/fonts/map/pdftex/context/original-empty.map}
 fonts           : using map file: original-base
-{/Users/oebible/OEB/context/tex/texmf-context/fonts/map/pdftex/context/original-base.map}
+{/Users/oebible/context/tex/texmf-context/fonts/map/pdftex/context/original-base.map}
 fonts           : using map file: original-ams-base
-{/Users/oebible/OEB/context/tex/texmf-context/fonts/map/pdftex/context/original-ams-base.map}
+{/Users/oebible/context/tex/texmf-context/fonts/map/pdftex/context/original-ams-base.map}
 fonts           : using map file: original-ams-euler
-{/Users/oebible/OEB/context/tex/texmf-context/fonts/map/pdftex/context/original-ams-euler.map}
+{/Users/oebible/context/tex/texmf-context/fonts/map/pdftex/context/original-ams-euler.map}
 fonts           : using map file: original-public-lm
-{/Users/oebible/OEB/context/tex/texmf-context/fonts/map/pdftex/context/original-public-lm.map}
+{/Users/oebible/context/tex/texmf-context/fonts/map/pdftex/context/original-public-lm.map}
 fonts           : using map file: lm-math
-{/Users/oebible/OEB/context/tex/texmf/fonts/map/dvips/lm/lm-math.map}
+{/Users/oebible/context/tex/texmf/fonts/map/dvips/lm/lm-math.map}
 fonts           : using map file: lm-rm
-{/Users/oebible/OEB/context/tex/texmf/fonts/map/dvips/lm/lm-rm.map}
+{/Users/oebible/context/tex/texmf/fonts/map/dvips/lm/lm-rm.map}
 fonts           : using map file: original-youngryu-px
-{/Users/oebible/OEB/context/tex/texmf-context/fonts/map/pdftex/context/original-youngryu-px.map}
+{/Users/oebible/context/tex/texmf-context/fonts/map/pdftex/context/original-youngryu-px.map}
 !pages          : flushing realpage 1, userpage 1, subpage 1
 !pages          : flushing realpage 2, userpage 2
 structure       : title @ level 2 : 0.0 -> Table of Contents
@@ -14656,30 +14656,30 @@ structure       : section @ level 3 : 0.2.7 -> Another appendix
 !pages          : flushing realpage 54, userpage 54
 systems         : end file ../tex/Bible.tex at line 798
 system          : cont-err loaded
-(/Users/oebible/OEB/context/tex/texmf-context/tex/context/base/cont-err.tex
+(/Users/oebible/context/tex/texmf-context/tex/context/base/cont-err.tex
 systems         : no file 'cont-sys.tex', using 'cont-sys.rme' instead
-) )</Users/oebible/OEB/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></Users/oebible/OEB/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf></Users/oebible/OEB/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></Users/oebible/OEB/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf></Users/oebible/OEB/context/tex/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></Users/oebible/OEB/context/tex/texmf/fonts/type1/public/pxfonts/pxsy.pfb>
-mkiv lua stats : used config path          - /Users/oebible/OEB/context/tex/texmf/web2c/texmf.cnf
-mkiv lua stats : used cache path           - /Users/oebible/OEB/context/tex/texmf-cache
-mkiv lua stats : input load time           - 0.042 seconds
+) )</Users/oebible/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-bold.otf></Users/oebible/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf></Users/oebible/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-italic.otf></Users/oebible/context/tex/texmf/fonts/opentype/public/tex-gyre/texgyrepagella-regular.otf></Users/oebible/context/tex/texmf/fonts/opentype/public/lm/lmmono10-regular.otf></Users/oebible/context/tex/texmf/fonts/type1/public/pxfonts/pxsy.pfb>
+mkiv lua stats : used config path          - /Users/oebible/context/tex/texmf/web2c/texmf.cnf
+mkiv lua stats : used cache path           - /Users/oebible/context/tex/texmf-cache
+mkiv lua stats : input load time           - 0.040 seconds
 mkiv lua stats : stored bytecode data      - 66 modules, 52 tables, 118 chunks
 mkiv lua stats : loaded tex modules        - 1 requested, 1 found (*-lettrine), 0 missing
 mkiv lua stats : node list callback tasks  - 6 unique task lists, 6 instances (re)created, 17665 calls
 mkiv lua stats : cleaned up reserved nodes - 25 nodes, 9 lists of 1411
 mkiv lua stats : node memory usage         - 20 glue_spec
 mkiv lua stats : h-node processing time    - 0.106 seconds including kernel
-mkiv lua stats : attribute processing time - 0.625 seconds front- and backend
+mkiv lua stats : attribute processing time - 0.618 seconds front- and backend
 mkiv lua stats : used backend              - pdf (backend for directly generating pdf output)
 mkiv lua stats : loaded patterns           - en:us:pat:exc:2
-mkiv lua stats : startup time              - 0.763 seconds including runtime option file processing
+mkiv lua stats : startup time              - 0.770 seconds including runtime option file processing
 mkiv lua stats : callbacks                 - direct: 33578, indirect: 4680, total: 38258
 mkiv lua stats : lxml preparation time     - 0.000 seconds, 0 nodes, 15 lpath calls, 0 cached calls
-mkiv lua stats : v-node processing time    - 0.383 seconds 
+mkiv lua stats : v-node processing time    - 0.376 seconds 
 mkiv lua stats : result saved in file      - Bible.pdf
 mkiv lua stats : loaded fonts              - 43 files: lmmono10-regular.otf lmmono12-regular.otf lmmono8-regular.otf lmmono9-regular.otf lmroman12-bold.otf lmroman12-regular.otf lmroman7-bold.otf lmroman7-regular.otf lmroman9-bold.otf lmroman9-regular.otf lmsans12-regular.otf lmsans8-regular.otf lmsans9-regular.otf texgyrepagella-bold.otf texgyrepagella-italic.otf texgyrepagella-regular.otf eufb10.tfm eufb7.tfm eufm10.tfm eufm7.tfm msam10.tfm msam7.tfm msbm10.tfm msbm7.tfm lmex10.tfm lmmi12.tfm lmmi7.tfm lmmi9.tfm lmmib10.tfm lmmib7.tfm lmsy10.tfm lmsy7.tfm lmsy9.tfm rm-lmr12.tfm rm-lmr7.tfm rm-lmr9.tfm pxex.tfm pxsy.tfm pxsya.tfm pxsyb.tfm rpxmi.tfm rpxpplri.tfm rpxr.tfm
-mkiv lua stats : fonts load time           - 0.929 seconds 
+mkiv lua stats : fonts load time           - 0.932 seconds 
 mkiv lua stats : luatex banner             - this is luatex, version beta-0.52.0-2010031913
 mkiv lua stats : control sequences         - 31747 of 165536
 mkiv lua stats : current memory usage      - 112 MB (ctx: 114 MB)
-mkiv lua stats : runtime                   - 6.659 seconds, 53 processed pages, 54 shipped pages, 8.109 pages/second
+mkiv lua stats : runtime                   - 6.559 seconds, 53 processed pages, 54 shipped pages, 8.233 pages/second
 

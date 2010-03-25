@@ -1,65 +1,65 @@
 
 
-	\definemarking[RAChapter]
-	\definemarking[RABook]
-	\definemarking[RASection]
-	
-	\setuppapersize [A5][letter] 
-%	\setuparranging [2UP,rotated,doublesided]
-	\setuppagenumbering [alternative=doublesided] 
-	\setuplayout [location=middle, marking=on] 
-	
-%	\definefontsynonym [HoeflerTextRegular] [file:HoeflerText-Regular] [features=default]
-%	\definefontsynonym [HoeflerTextItalic] [file:HoeflerText-Italic] [features=default]
-%	\definefontsynonym [HoeflerTextBold] [file:HoeflerText-Black] [features=default]
-%	\definefontsynonym [Serif] [HoeflerTextRegular] 
-%	\definefontsynonym [SerifBold] [HoeflerTextBold] 
-%	\definefontsynonym [SerifItalic] [HoeflerTextItalic] 
-	
-	\usetypescript[pagella][handling][highquality]
-%	\definefontfeature [hz] [default] [protrusion=pure, mode=node, script=latn] 
-%	\definetypeface [biblefont] [rm] [serif] [pagella] [default] [features=hz] 
-	\setupbodyfont [pagella, 10.5pt] 
-	\setupalign [handling] 
-	
-	\setupbodyfontenvironment[default][em=italic]
-	
-	\setuppagenumbering[location=]
-	\setupheadertexts[{\em \getmarking[RASection]}][{\getmarking[RABook] ~\getmarking[RAChapter]}]
-	\setupfootertexts[pagenumber] 
-	\setuphead[title][header=high,footer=chapter,page=right] 
-	
-	\setupspacing[packed]   % normal word space at the end of sentences
-	\setupwhitespace[none]  % no space between paragraphs
-	\setupindenting[yes, small, next]
-	\setupinterlinespace[line=13pt] % Line spacing
-	
-	\define[1]\V{\setupinmargin[style=small] \inmargin{#1}}
-	\define[1]\C{\setupinmargin[style=bold] \inmargin{#1} \marking[RAChapter]{#1}}
-	\define[1]\MS{\section{#1} \marking[RASection]{#1}}
-	\define[1]\MSS{{\midaligned{\em #1}}}
-	\define[1]\MT{{\midaligned{\sc #1}}\blank ~}
-	\define[1]\RAHeader{\chapter{#1} \marking[RABook]{#1}}
-		
-	\emergencystretch\maxdimen
-	
-	\setuphead[chapter][number=no, textstyle=cap, before=\blank, after=\blank, align={middle, nothyphenated, verytolerant}]
-	\setuphead[section][number=no, textstyle=em, before=\blank, after=\blank, align={middle, nothyphenated, verytolerant}]
-		
-	\setuplist[chapter][alternative=c]
-	
-	\def\CapStretchAmount{.08em}
-	\def\CapStretch#1{\def\stretchedspaceamount{\CapStretchAmount}\stretchednormalcase{#1}}
-	
-	\usemodule[lettrine]
-	
-	\starttext
-	
-	\title{Open English Bible}
+        \definemarking[RAChapter]
+        \definemarking[RABook]
+        \definemarking[RASection]
 
-	\title{Table of Contents}
-	\placelist[chapter]
-	\RAHeader{Preface and Frequently Asked Questions}
+        \setuppapersize [A5][letter]
+    %	\setuparranging [2UP,rotated,doublesided]
+        \setuppagenumbering [alternative=doublesided]
+        \setuplayout [location=middle, marking=on]
+
+    %	\definefontsynonym [HoeflerTextRegular] [file:HoeflerText-Regular] [features=default]
+    %	\definefontsynonym [HoeflerTextItalic] [file:HoeflerText-Italic] [features=default]
+    %	\definefontsynonym [HoeflerTextBold] [file:HoeflerText-Black] [features=default]
+    %	\definefontsynonym [Serif] [HoeflerTextRegular]
+    %	\definefontsynonym [SerifBold] [HoeflerTextBold]
+    %	\definefontsynonym [SerifItalic] [HoeflerTextItalic]
+
+        \usetypescript[pagella][handling][highquality]
+    %	\definefontfeature [hz] [default] [protrusion=pure, mode=node, script=latn]
+    %	\definetypeface [biblefont] [rm] [serif] [pagella] [default] [features=hz]
+        \setupbodyfont [pagella, 10.5pt]
+        \setupalign [handling]
+
+        \setupbodyfontenvironment[default][em=italic]
+
+        \setuppagenumbering[location=]
+        \setupheadertexts[{\em \getmarking[RASection]}][{\getmarking[RABook] ~\getmarking[RAChapter]}]
+        \setupfootertexts[pagenumber]
+        \setuphead[title][header=high,footer=chapter,page=right]
+
+        \setupspacing[packed]   % normal word space at the end of sentences
+        \setupwhitespace[none]  % no space between paragraphs
+        \setupindenting[yes, small, next]
+        \setupinterlinespace[line=13pt] % Line spacing
+
+        \define[1]\V{\setupinmargin[style=small] \inmargin{#1}}
+        \define[1]\C{\setupinmargin[style=bold] \inmargin{#1} \marking[RAChapter]{#1}}
+        \define[1]\MS{\section{#1} \marking[RASection]{#1}}
+        \define[1]\MSS{{\midaligned{\em #1}}}
+        \define[1]\MT{{\midaligned{\sc #1}}\blank ~}
+        \define[1]\RAHeader{\chapter{#1} \marking[RABook]{#1}}
+
+        \emergencystretch\maxdimen
+
+        \setuphead[chapter][number=no, textstyle=cap, before=\blank, after=\blank, align={middle, nothyphenated, verytolerant}]
+        \setuphead[section][number=no, textstyle=em, before=\blank, after=\blank, align={middle, nothyphenated, verytolerant}]
+
+        \setuplist[chapter][alternative=c]
+
+        \def\CapStretchAmount{.08em}
+        \def\CapStretch#1{\def\stretchedspaceamount{\CapStretchAmount}\stretchednormalcase{#1}}
+
+        \usemodule[lettrine]
+
+        \starttext
+
+        \title{Open English Bible}
+
+        \title{Table of Contents}
+        \placelist[chapter]
+        \RAHeader{Preface and Frequently Asked Questions}
 
 \subsubject{What is this?}
 
@@ -229,14 +229,14 @@ http://openenglishbible.org
 \indenting[yes]\par
  \V{2}It is said in the Prophet Isaiah — ‘Behold! I send my Messenger before your face; he shall prepare your way.
  \V{3}The voice of one crying aloud in the Wilderness: “Make ready the way of the Lord, make his paths straight.”’
- \V{4}And in fulfillment of this, John the Baptiser appeared in the Wilderness, proclaiming a baptism upon repentance, for the forgiveness of sins.
- \V{5}The whole of Judea, as well as all the inhabitants of Jerusalem, went out to him; and they were baptised by him in the river Jordan, confessing their sins.
+ \V{4}And in fulfillment of this, John the Baptizer appeared in the Wilderness, proclaiming a baptism upon repentance, for the forgiveness of sins.
+ \V{5}The whole of Judea, as well as all the inhabitants of Jerusalem, went out to him; and they were baptized by him in the river Jordan, confessing their sins.
 \indenting[yes]\par
  \V{6}John was clad in clothing of camels’ hair, with a belt of leather round his waist, and lived on locusts and wild honey;
  \V{7}and he proclaimed — “There is coming after me one more powerful than I, and I am not fit even to stoop down and unfasten his sandals.
- \V{8}I have baptised you with water, but he will baptise you with the Holy Spirit.”
+ \V{8}I have baptized you with water, but he will baptize you with the Holy Spirit.”
 \indenting[yes]\par
- \V{9}Now about that time Jesus came from Nazareth in Galilee, and was baptised by John in the Jordan.
+ \V{9}Now about that time Jesus came from Nazareth in Galilee, and was baptized by John in the Jordan.
  \V{10}Just as he was coming up out of the water, he saw the heavens rent apart, and the Spirit, like a dove, descending upon him,
  \V{11}and from the heavens came a voice — “You are my Son, the Beloved; in you I delight.”
 \indenting[yes]\par
@@ -258,7 +258,7 @@ http://openenglishbible.org
  \V{24}“What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are — the Holy One of God!”
  \V{25}But Jesus rebuked the spirit:  “Be silent! Come out from him.”  \V{26}The foul spirit threw the man into a fit, and with a loud cry came out from him.
  \V{27}They were all so amazed that they kept asking: “What is this? Strange teaching indeed! He gives his commands with authority even to the foul spirits, and they obey him!”
- \V{28}And the fame of Jesus spread at once in all directions, through the whole neighbourhood of Galilee.
+ \V{28}And the fame of Jesus spread at once in all directions, through the whole neighborhood of Galilee.
 \indenting[yes]\par
  \V{29}As soon as they had come out from the Synagogue, they went, with James and John, into the house of Simon and Andrew.
  \V{30}Now Simon’s mother-in-law was lying ill with fever, and they at once told Jesus about her.
@@ -370,7 +370,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{14}On this the men who tended them ran away, and carried the news to the town, and to the country round; and the people went to see what had happened.
  \V{15}When they came to Jesus, they found the possessed man sitting there, clothed and in his right mind — the very man who had had the `Legion’ in him — and they were awe-struck.
  \V{16}Then those who had seen it related to them all that had happened to the possessed man, as well as about the pigs;
- \V{17}upon which they began to beg Jesus to leave their neighbourhood.
+ \V{17}upon which they began to beg Jesus to leave their neighborhood.
 \indenting[yes]\par
  \V{18}As Jesus was getting into the boat, the possessed man begged him to let him stay with him.
  \V{19}But Jesus refused.  “Go back to your home, to your own people,” he said,  “and tell them of all that the Lord has done for you, and how he took pity on you.”  \V{20}So the man went, and began to proclaim in the district of the Ten Towns all that Jesus had done for him; and every one was amazed.
@@ -382,7 +382,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
 \indenting[yes]\par
  \V{25}Meanwhile a woman who for twelve years had suffered from hemorrhage,
  \V{26}and undergone much at the hands of many doctors, (spending all she had without obtaining any relief, but, on the contrary, growing worse),
- \V{27}Heard about Jesus, came behind in the crowd, and touched his cloak.
+ \V{27}heard about Jesus, came behind in the crowd, and touched his cloak.
  \V{28}“If I can only touch his clothes,” she said, “I shall get well!”
  \V{29}At once the mischief was stopped, and she felt in herself that she was cured of her complaint.
  \V{30}Jesus at once became aware of the power that had gone out from him, and, turning round in the crowd, he said:  “Who touched my clothes?”  \V{31}“You see the people pressing round you,” exclaimed his disciples, “and yet you say  `Who touched me?’”  \V{32}But Jesus looked about to see who had done it.
@@ -398,7 +398,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \C{6}On leaving that place, Jesus, followed by his disciples, went to his own part of the country.
  \V{2}When the Sabbath came, he began to teach in the Synagogue; and the people, as they listened, were deeply impressed. “Where did he get this?” they said, “and what is this wisdom that has been given him? and these miracles which he is doing?
  \V{3}Is not he the carpenter, the son of Mary, and the brother of James, and Joses, and Judas, and Simon? And are not his sisters, too, living here among us?” This proved a hindrance to their believing in him;
- \V{4}on which Jesus said:  “A prophet is not without honour, except in his own country, and among his own relations, and in his own home.”  \V{5}And he could not work any miracle there, beyond placing his hands upon a few infirm persons, and curing them;
+ \V{4}on which Jesus said:  “A prophet is not without honor, except in his own country, and among his own relations, and in his own home.”  \V{5}And he could not work any miracle there, beyond placing his hands upon a few infirm persons, and curing them;
  \V{6}and he wondered at the want of faith shown by the people. Jesus went round the villages, one after another, teaching.
 \blank\indenting[no]
  \V{7}\CapStretch{\sc He called the Twelve to him}, and began to send them out as his Messengers, two and two, and gave them authority over foul spirits.
@@ -407,7 +407,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{10} “Whenever you go to stay at a house,” he said,  “remain there till you leave that place;  \V{11} And if a place does not welcome you, or listen to you, as you go out of it shake off the dust that is on the soles of your feet, as a protest against them.”  \V{12}So they set out, and proclaimed the need of repentance.
  \V{13}They drove out many demons, and anointed with oil many who were infirm, and cured them.
 \indenting[yes]\par
- \V{14}Now King Herod heard of Jesus; for his name had become well known. People were saying — ”John the Baptiser must have risen from the dead, and that is why these miraculous powers are active in him.”
+ \V{14}Now King Herod heard of Jesus; for his name had become well known. People were saying — ”John the Baptizer must have risen from the dead, and that is why these miraculous powers are active in him.”
  \V{15}Others again said — “He is Elijah,” and others — “He is a Prophet, like one of the great Prophets.”
  \V{16}But when Herod heard of him, he said — “The man whom I beheaded — John — he must be risen!”
 \indenting[yes]\par
@@ -419,7 +419,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{21}A suitable opportunity, however, occurred when Herod, on his birthday, gave a dinner to his high officials, and his generals, and the foremost men in Galilee.
  \V{22}When his daughter — that is, the daughter of Herodias — came in and danced, she delighted Herod and those who were dining with him. “Ask me for whatever you like,” the King said to the girl, “and I will give it to you”;
  \V{23}and he swore to her that he would give her whatever she asked him — up to half his kingdom.
- \V{24}The girl went out, and said to her mother “What must I ask for?” “The head of John the Baptiser,’ answered her mother.
+ \V{24}The girl went out, and said to her mother “What must I ask for?” “The head of John the Baptizer,’ answered her mother.
  \V{25}So she went in as quickly as possible to the King, and made her request. “I want you,” she said, “to give me at once, on a dish, the head of John the Baptist.”
  \V{26}The King was much distressed; yet, on account of his oath and of the guests at his table, he did not like to refuse her.
  \V{27}He immediately dispatched one of his bodyguard, with orders to bring John’s head. The man went and beheaded John in the prison,
@@ -430,7 +430,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{30}When the Apostles came back to Jesus, they told him all that they had done and all that they had taught.
  \V{31} “Come by yourselves privately to some lonely spot,” he said,  ”and rest for a while”  — for there were so many people coming and going that they had not time even to eat.
  \V{32}So they set off privately in their boat for a lonely spot.
- \V{33}Many people saw them going, and recognised them, and from all the towns they flocked together to the place on foot, and got there before them.
+ \V{33}Many people saw them going, and recognized them, and from all the towns they flocked together to the place on foot, and got there before them.
  \V{34}On getting out of the boat, Jesus saw a great crowd, and his heart was moved at the sight of them, because they were ‘like sheep without a shepherd’; and he began to teach them many things.
  \V{35}When it grew late, his disciples came up to him, and said: ”This is a lonely spot, and it is already late.
  \V{36}Send the people away, so that they may go to the farms and villages around and buy themselves something to eat.”
@@ -460,7 +460,7 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{3}(For the Pharisees, and indeed all strict Jews, will not eat without first scrupulously washing their hands, holding in this to the traditions of their ancestors.
  \V{4}When they come from market, they will not eat without first sprinkling themselves; and there are many other customs which they have inherited and hold to, such as the ceremonial washing of cups, and jugs, and copper pans).
  \V{5}So the Pharisees and the Teachers of the Law asked Jesus this question — “How is it that your disciples do not follow the traditions of our ancestors, but eat their food with defiled hands?”
- \V{6}His answer was:  “It was well said by Isaiah when he prophesied about you hypocrites in the words — ‘This is a people that honour me with their lips, while their hearts are far removed from me;  \V{7} but vainly do they worship me, For they teach but human precepts.’  \V{8} You neglect God’s commandments and hold to human traditions.  \V{9} Wisely do you set aside God’s commandments,” he exclaimed,  “to keep your own traditions!  \V{10} For while Moses said `Honour your father and your mother,’ and `Let anyone who abuses their father or mother suffer death,’  \V{11} you say `If a person says to their father or mother “Whatever of mine might have been of service to you is Korban”’ (which means `Given to God’) — 
+ \V{6}His answer was:  “It was well said by Isaiah when he prophesied about you hypocrites in the words — ‘This is a people that honor me with their lips, while their hearts are far removed from me;  \V{7} but vainly do they worship me, For they teach but human precepts.’  \V{8} You neglect God’s commandments and hold to human traditions.  \V{9} Wisely do you set aside God’s commandments,” he exclaimed,  “to keep your own traditions!  \V{10} For while Moses said `Honor your father and your mother,’ and `Let anyone who abuses their father or mother suffer death,’  \V{11} you say `If a person says to their father or mother “Whatever of mine might have been of service to you is Korban”’ (which means `Given to God’) — 
  \V{12} why, then you do not allow them to do anything further for their father or mother!  \V{13} In this way you nullify the words of God by your traditions, which you hand down; and you do many similar things.” \indenting[yes]\par
  \V{14}Then Jesus called the people to him again, and said:  “Listen to me, all of you, and mark my words.  \V{15} There is nothing external to a person, which by going into them can ‘defile’ them; but the things that come out from a person are the things that defile them.” \indenting[yes]\par
  \V{17}When Jesus went indoors, away from the crowd, his disciples began questioning him about this saying.
@@ -630,11 +630,11 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{26} “As to the dead, and the fact that they rise, have you never read in the Book of Moses, in the passage about the Bush, how God spoke to him thus — ‘I am the God of Abraham, and the God of Isaac, and the God of Jacob’?  \V{27} He is not God of dead people, but of living. You are greatly mistaken.” \indenting[yes]\par
  \V{28}Then came up one of the Teachers of the Law who had heard their discussions. Knowing that Jesus had answered them wisely, he asked him this question: “What is the first of all the commandments?”
  \V{29} “The first,” answered Jesus,  “is — ‘Hear, O Israel; the Lord our God is the one Lord;  \V{30} and you must love the Lord your God with all your heart, and with all your soul, and with all your mind, and with all your strength.’  \V{31} The second is this — ‘You must love your neighbor as you love yourself.’ There is no commandment greater than these.”  \V{32}“Wisely answered, Teacher!” exclaimed the Teacher of the Law. “It is true, as you say, that ‘there is one God,’ and that ‘there is no other besides him’;
- \V{33}and to ‘love him with all one’s heart, and with all one’s understanding, and with all one’s strength,’ and to ‘love one’s neighbour as one loves oneself’ is far beyond all ‘burnt-offerings and sacrifices.’”
+ \V{33}and to ‘love him with all one’s heart, and with all one’s understanding, and with all one’s strength,’ and to ‘love one’s neighbor as one loves oneself’ is far beyond all ‘burnt-offerings and sacrifices.’”
  \V{34}Seeing that he had answered with discernment, Jesus said to him:  “You are not far from the Kingdom of God.” \indenting[yes]\par After that no one ventured to question him further.
 \indenting[yes]\par
  \V{35}While Jesus was teaching in the Temple Courts, he asked:  “How is it that the Teachers of the Law say that the Christ is to be David’s son?  \V{36} David said himself, speaking under the inspiration of the Holy Spirit —  ‘The Lord said to my lord: “Sit at my right hand, until I put your enemies beneath your feet.’”  \V{37} David himself calls him ‘lord,’ how comes it, then, that he is to be his son?” \indenting[yes]\par The mass of the people listened to Jesus with delight.
- \V{38}In the course of his teaching, Jesus said:  “See that you are on your guard against the Teachers of the Law, who delight to walk about in long robes, and to be greeted in the streets with respect,  \V{39} and to have the best seats in the Synagogues, and places of honour at dinner.  \V{40} They are the men that rob widows of their homes, and make a pretense of saying long prayers. Their sentence will be all the heavier.” \indenting[yes]\par
+ \V{38}In the course of his teaching, Jesus said:  “See that you are on your guard against the Teachers of the Law, who delight to walk about in long robes, and to be greeted in the streets with respect,  \V{39} and to have the best seats in the Synagogues, and places of honor at dinner.  \V{40} They are the men that rob widows of their homes, and make a pretense of saying long prayers. Their sentence will be all the heavier.” \indenting[yes]\par
  \V{41}Then Jesus sat down opposite the chests for the Temple offerings, and watched how the people put money into them. Many rich people were putting in large sums;
  \V{42}but one poor widow came and put in two small coins, worth very little.
  \V{43}On this, calling his disciples to him, Jesus said:  “I tell you that this poor widow has put in more than all the others who were putting money into the chests;  \V{44} for every one else put in something from what he had to spare, while she, in her need, put in all she had — everything that she had to live on.” \blank\indenting[no]
@@ -790,11 +790,11 @@ They came to the other side of the Sea — the country of the Gerasenes;
  \V{12}Afterwards, altered in appearance, he made himself known to two of them, as they were walking, on their way into the country.
  \V{13}They also went and told the rest, but they did not believe even them.
  \V{14}Later on, he made himself known to the Eleven themselves as they were at a meal, and reproached them with their want of faith and their stubbornness, because they did not believe those who had seen him after he had risen from the dead.
- \V{15}Then he said to them:  “Go into all the world, and proclaim the Good News to all creation.  \V{16} He who believes and is baptised shall be saved; but he who refuses to believe will be condemned.  \V{17} Moreover these signs shall attend those who believe. In my Name they shall drive out demons; they shall speak with ‘tongues’;  \V{18} they shall take up serpents in their hands; and, if they drink any poison, it shall not hurt them; they will place their hands on sick people and they shall recover.”  \V{19}So the Lord Jesus, after he had spoken to them, was taken up into Heaven, and sat at the right hand of God.
+ \V{15}Then he said to them:  “Go into all the world, and proclaim the Good News to all creation.  \V{16} He who believes and is baptized shall be saved; but he who refuses to believe will be condemned.  \V{17} Moreover these signs shall attend those who believe. In my Name they shall drive out demons; they shall speak with ‘tongues’;  \V{18} they shall take up serpents in their hands; and, if they drink any poison, it shall not hurt them; they will place their hands on sick people and they shall recover.”  \V{19}So the Lord Jesus, after he had spoken to them, was taken up into Heaven, and sat at the right hand of God.
  \V{20}But they set out, and made the proclamation everywhere, the Lord working with them, and confirming the Message by the signs which attended it.
 \MS{Another appendix}
 \indenting[yes]\par But all that had been enjoined on them they reported briefly to Peter and his companions. Afterwards Jesus himself sent them out, from east to west, the sacred and imperishable proclamation of eternal Salvation.\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }
-	
-	\stoptext
-	
-	
+
+        \stoptext
+
+        

@@ -13,7 +13,7 @@ jobvariables.checksums={
 jobvariables = jobvariables or { }
 jobvariables.collected = jobvariables.collected or { }
 jobvariables.collected={
- randomseed=0.96093672884672,
+ randomseed=0.48766858386233,
  totalnofparbackgrounds=0,
 }
 jobpasses = jobpasses or { }
