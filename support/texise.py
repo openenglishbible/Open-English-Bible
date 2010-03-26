@@ -2,86 +2,148 @@ import re
 import os
 import parseUsfm
 
+
+class TexPrinter(object):
+    def renderID(self, token):      return ""
+    def renderIDE(self, token):     return ""
+    def renderH(self, token):       return '\RAHeader{' + token.value + '} '
+    def renderMT(self, token):      return '\MT{' + token.value + '} '
+    def renderMS(self, token):      return '\MS{' + token.value + '} '
+    def renderMS2(self, token):     return '\MSS{' + token.value + '} '
+    def renderP(self, token):       return '\indenting[yes]\par '
+    def renderS(self, token):       return '\\blank\indenting[no]'
+    def renderC(self, token):
+        if not token.value == '1':
+            return '\n \C{' + token.value + '} '
+        else:
+            return ''
+    def renderV(self, token):
+        if not (token.value == '1' or token.value == ''):
+            return '\n \V{' + token.value + '} '
+        else:
+            return ''
+    def renderWJS(self, token):     return ""
+    def renderWJE(self, token):     return ""
+    def renderTEXT(self, token):    return " " + token.value + " "
+
+
 class TransformToContext(object):
 
+    def markShortVerses(self, tokens):
+        # This is manual until I work out how to do it automatically
+        d = (
+            ('4', '3'),
+            ('9', '40'),
+            ('10', '5'),
+            ('10', '18'),
+            ('14', '17'),
+            ('14', '39'),
+            ('15', '25'),
+            ('15', '30')
+        )
+        for t in d:
+            self.findAndMarkVerse(tokens, t[0], t[1])
 
-    def smallcaps(self, s, i):
-        i2 = i
-        while i2 < len(s):
-            if (i2 - i) < 50:  #we are early, look for comma
-                if s[i2] == ',' or s[i2] == ';' or s[i2:i2+3] == 'and':
-                    s = s[:i] + '\CapStretch{\sc ' + s[i:i2] + '}' + s[i2:]
-                    i2 = len(s) # break
-                i2 = i2 + 1
-            else: # look for space
-                if s[i2] == ' ':
-                    s = s[:i] + '\CapStretch{\sc ' + s[i:i2] + '}' + s[i2:]
-                    i2 = len(s) # break
-                i2 = i2 + 1
-        return s
-
-    def smallCapSections(self, s):
+    def findAndMarkVerse(self, tokens, chapter, verse):
+        i = 0
+        while i < len(tokens):
+            c = tokens[i]
+            if c.isC() and (c.value == chapter):
+                while i < len(tokens):
+                    v = tokens[i]
+                    if v.isV() and verse == v.value:
+                        i = i + 1
+                        while i < len(tokens):
+                            nextV = tokens[i]
+                            if nextV.isV():
+                                nextV.value = v.value + ', ' + nextV.value
+                                v.value = ''
+                                return
+                            i = i + 1
+                    i = i + 1
+                return
+            i = i + 1
+        return
+            
+    def smallCapSections(self, tokens):
         # Deal with sections
+        i = 0
+        while i < len(tokens):
+            t = tokens[i]
+            if t.isS():
+                while i < len(tokens):
+                    t = tokens[i]
+                    if t.isTEXT():
+                        t.value = self.smallCapText(t.value)
+                        break
+                    i = i + 1
+            i = i + 1
 
+        return tokens
+
+    def smallCapText(self, s):
         i = 0
         while i < len(s):
-            if (s[i:i+2] == '\s') and not (s[i:i+3] == '\sc')  :
-                l = len(r'\blank\indenting[no]')
-                s = s[:i] + r'\blank\indenting[no]' + s[i+2:]
-                i = i + l
-                # look forward for start of line
-                while s[i].isspace() or (s[i] == '\\') or s[i].isdigit() or (s[i-1] == '\\'):
-                    i = i + 1
-                s = self.smallcaps(s, i)
-                i = 0
-            i = i  + 1
-
-        return s
-
-    def lineDropFirstChapter(self, s):
-        # Deal with first drop cap
-
-        i = 0
-        while (i + 5) < len(s):
-            print str(len(s)) + '    ' + str(i + 5)
-            while ((i + 5) < len(s)) and not (s[i:i + 4] == '\c 1' and s[i+4].isspace()):
+            if i < 50:  #we are early, look for comma
+                if s[i] == ',' or s[i] == ';' or s[i:i+3] == 'and':
+                    s = '\CapStretch{\sc ' + s[:i] + '}' + s[i:]
+                    return s
                 i = i + 1
-            if (i + 5) < len(s):
-                i2 = i + 4
-                while s[i2].isspace():
-                    i2 = i2 + 1
-                s = s[:i] + '\lettrine[Lines=3, Ante={\C{1}}]{' + s[i2:i2+1] + '}{GG}' + s[i2+1:]
-                i = i2 + 1 + 50
-            else:
-                return s
-        return s
+            else: # look for space
+                if s[i] == ' ':
+                    s = '\CapStretch{\sc ' + s[:i] + '}' + s[i:]
+                    return s
+                i = i + 1
+        raise Exception("Break not found for SmallCapText")
+
+
+    def lineDropFirstChapter(self, tokens):
+        i = 0
+        while i < len(tokens):
+            t = tokens[i]
+            if t.isC():
+                if t.value == '1':
+                    while i < len(tokens):
+                        t = tokens[i]
+                        if t.isTEXT():
+                            t.value = self.lineDropFirstChapterText(t.value)
+                            break
+                        i = i + 1
+            i = i + 1
+
+        return tokens
+
+    def lineDropFirstChapterText(self, s):
+        print s
+        i = 0
+        while i < len(s):
+            if i < 50:  #we are early, look for comma
+                if s[i] == ',' or s[i] == ';' or s[i:i+3] == 'and':
+                    s = '\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + '}{\CapStretch{\sc ' + s[1:i] + '}}' + s[i:]
+                    return s
+                i = i + 1
+            else: # look for space
+                if s[i] == ' ':
+                    s = '\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + '}{\CapStretch{\sc ' + s[1:i] + '}}' + s[i:]
+                    return s
+                i = i + 1
+        # return lot
+        return '\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + '}{\CapStretch{\sc ' + s[1:] + '}}'
+
 
     def translateBook(self, name):
 
         f = open(self.patchedDir + '/' + name + '.usfm')
-        #fc = unicode(f.read(), 'utf-8').strip()
         fc = f.read()
         f.close()
 
+        tokens = parseUsfm.parseString(fc)
+        self.markShortVerses(tokens)
+        tokens = self.smallCapSections(tokens)
+        #tokens = self.lineDropFirstChapter(tokens)
+
         s = ''
-        p = parseUsfm.parseString(fc)
-
-        for token in p:
-            if token[0] == 'v':
-                if not token[1] == '1':
-                    s = s + '\n \V{' + token[1] + '} '
-            if token[0] == 'c': s = s + ' \n\C{' + token[1] + '} '
-            if token[0] == 'wjs' or token[0] == 'wje': pass
-            if token[0] == 'p': s = s + '\indenting[yes]\par '
-            if token[0] == 'id' or token[0] == 'ide': pass
-            if token[0] == 'h': s = s + '\RAHeader{' + token[1] + '} '
-            if token[0] == 'mt': s = s + '\MT{' + token[1] + '} '
-            if token[0] == 'ms': s = s + '\MS{' + token[1] + '} '
-            if token[0] == 'ms2': s = s + '\MSS{' + token[1] + '} '
-            if token[0] == 'text':  s = s + token[1]
-
-        #s = self.smallCapSections(s)
-
+        for t in tokens: s = s + t.renderOn(TexPrinter())
         s = s + "\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
 
         return s
