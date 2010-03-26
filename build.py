@@ -19,5 +19,5 @@ c.setupAndRun('patched', 'preface', 'tex')
 
 # Build PDF
 print 'Building PDF..'
-print commands.getoutput(""". ../../context/tex/setuptex ; cd tex-working; rm * ; context ../tex/Bible.tex; cp *.pdf ../pdf/""")
+#print commands.getoutput(""". ../../context/tex/setuptex ; cd tex-working; rm * ; context ../tex/Bible.tex; cp *.pdf ../pdf/""")
 print 'Finished.'

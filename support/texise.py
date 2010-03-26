@@ -32,6 +32,7 @@ class TransformToContext(object):
     def markShortVerses(self, tokens):
         # This is manual until I work out how to do it automatically
         d = (
+            ('3', '24'),
             ('4', '3'),
             ('9', '40'),
             ('10', '5'),
