@@ -4,14 +4,57 @@ import parseUsfm
 
 
 class TexPrinter(object):
+    def __init__(self):
+        self.printerState = {}
+
+    def startNarrower(self, n):
+        s = ''
+        if 'narrower' in self.printerState and self.printerState['narrower'] == True:
+            self.printerState['narrower'] = False
+            s = s + '\stopnarrower'
+        self.printerState['narrower'] = True
+        s = s + "\startnarrower[" + str(n) + "*left,1*right]\indenting[no]"
+        return s
+
+    def stopNarrower(self):
+        s = ''
+        if 'narrower' in self.printerState and self.printerState['narrower'] == True:
+            self.printerState['narrower'] = False
+            s = s + '\stopnarrower'
+        return s
+
+    def markForSmallCaps(self):
+        self.printerState['smallcaps'] = True
+
+    def renderSmallCaps(self, s):
+        if 'smallcaps' in self.printerState and self.printerState['smallcaps'] == True:
+            self.printerState['smallcaps'] = False
+            return self.smallCapText(s)
+        return s
+
+    def smallCapText(self, s):
+         i = 0
+         while i < len(s):
+             if i < 40:  #we are early, look for comma
+                 if s[i] == ',' or s[i] == ';' or s[i:i+3] == 'and':
+                     s = '\CapStretch{' + s[:i] + '}' + s[i:]
+                     return s
+                 i = i + 1
+             else: # look for space
+                 if s[i] == ' ':
+                     s = '\CapStretch{' + s[:i] + '}' + s[i:]
+                     return s
+                 i = i + 1
+         return'\CapStretch{' + s + '}'
+
     def renderID(self, token):      return ""
     def renderIDE(self, token):     return ""
     def renderH(self, token):       return '\RAHeader{' + token.value + '} '
     def renderMT(self, token):      return '\MT{' + token.value + '} '
     def renderMS(self, token):      return '\MS{' + token.value + '} '
     def renderMS2(self, token):     return '\MSS{' + token.value + '} '
-    def renderP(self, token):       return '\indenting[yes]\par '
-    def renderS(self, token):       return '\\blank\indenting[no]\par'
+    def renderP(self, token):       return self.stopNarrower() + '\indenting[yes]\par '
+    def renderS(self, token):       self.markForSmallCaps() ; return self.stopNarrower() + '\\blank\indenting[no]\par '
     def renderC(self, token):
         if not token.value == '1':
             return '\n \C{' + token.value + '} '
@@ -24,12 +67,11 @@ class TexPrinter(object):
             return ''
     def renderWJS(self, token):     return ""
     def renderWJE(self, token):     return ""
-    def renderTEXT(self, token):    return " " + token.value + " "
-    def renderQ(self, token):       return ""
-    def renderQ1(self, token):      return ""
-    def renderQ2(self, token):      return ""
-    def renderNB(self, token):      return ""
-
+    def renderTEXT(self, token):    return " " + self.renderSmallCaps(token.value) + " "
+    def renderQ(self, token):       return self.startNarrower(1)
+    def renderQ1(self, token):      return self.startNarrower(1)
+    def renderQ2(self, token):      return self.startNarrower(2)
+    def renderNB(self, token):      return self.stopNarrower() + "\indenting[no]\par "
 
 class TransformToContext(object):
 
@@ -75,38 +117,6 @@ class TransformToContext(object):
             i = i + 1
         return
             
-    def smallCapSections(self, tokens):
-        # Deal with sections
-        i = 0
-        while i < len(tokens):
-            t = tokens[i]
-            if t.isS():
-                while i < len(tokens):
-                    t = tokens[i]
-                    if t.isTEXT():
-                        t.value = self.smallCapText(t.value)
-                        break
-                    i = i + 1
-            i = i + 1
-
-        return tokens
-
-    def smallCapText(self, s):
-        i = 0
-        while i < len(s):
-            if i < 50:  #we are early, look for comma
-                if s[i] == ',' or s[i] == ';' or s[i:i+3] == 'and':
-                    s = '\CapStretch{\sc ' + s[:i] + '}' + s[i:]
-                    return s
-                i = i + 1
-            else: # look for space
-                if s[i] == ' ':
-                    s = '\CapStretch{\sc ' + s[:i] + '}' + s[i:]
-                    return s
-                i = i + 1
-        return'\CapStretch{\sc ' + s + '}'
-
-
     def lineDropFirstChapter(self, tokens):
         i = 0
         while i < len(tokens):
@@ -149,11 +159,11 @@ class TransformToContext(object):
 
         tokens = parseUsfm.parseString(fc)
         self.markShortVerses(tokens)
-        tokens = self.smallCapSections(tokens)
         #tokens = self.lineDropFirstChapter(tokens)
 
         s = ''
-        for t in tokens: s = s + t.renderOn(TexPrinter())
+        tp = TexPrinter()
+        for t in tokens: s = s + t.renderOn(tp)
         s = s + "\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
 
         return s
@@ -211,7 +221,7 @@ class TransformToContext(object):
         \setuplist[chapter][alternative=c]
 
         \def\CapStretchAmount{.08em}
-        \def\CapStretch#1{\def\stretchedspaceamount{\CapStretchAmount}\stretchednormalcase{#1}}
+        \def\CapStretch#1{\def\stretchedspaceamount{\CapStretchAmount}\stretchednormalcase{\sc #1}}
 
         \usemodule[lettrine]
 
