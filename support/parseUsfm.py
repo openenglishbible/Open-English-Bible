@@ -24,9 +24,13 @@ c       = usfmTokenNumber("c")
 v       = usfmTokenNumber("v")
 wjs     = usfmToken("wj")
 wje     = usfmToken("wj*")
+q       = usfmToken("q")
+q1      = usfmToken("q1")
+q2      = usfmToken("q2")
+nb      = usfmToken("nb")
 textBlock   = Group(Optional(NoMatch(), "text") + phrase )
 
-element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | textBlock
+element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | nb | textBlock
 usfm    = OneOrMore( element )
 
 # input string
@@ -48,6 +52,10 @@ def createToken(t):
         'v':    VToken,
         'wj':   WJSToken,
         'wj*':  WJEToken,
+        'q':    QToken,
+        'q1':   Q1Token,
+        'q2':   Q2Token,
+        'nb':   NBToken,
         'text': TEXTToken
     }
     for k, v in options.iteritems():
@@ -74,6 +82,10 @@ class UsfmToken(object):
     def isWJS(self):    return False
     def isWJE(self):    return False
     def isTEXT(self):   return False
+    def isQ(self):      return False
+    def isQ1(self):     return False
+    def isQ2(self):     return False
+    def isNB(self):     return False
 
 class IDToken(UsfmToken):
     def renderOn(self, printer):
@@ -139,3 +151,23 @@ class SToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderS(self)
     def isS(self):      return True
+
+class QToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderQ(self)
+    def isQ(self):      return True
+
+class Q1Token(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderQ1(self)
+    def isQ1(self):      return True
+
+class Q2Token(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderQ2(self)
+    def isQ2(self):      return True
+
+class NBToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderNB(self)
+    def isNB(self):      return True

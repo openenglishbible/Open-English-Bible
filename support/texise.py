@@ -11,7 +11,7 @@ class TexPrinter(object):
     def renderMS(self, token):      return '\MS{' + token.value + '} '
     def renderMS2(self, token):     return '\MSS{' + token.value + '} '
     def renderP(self, token):       return '\indenting[yes]\par '
-    def renderS(self, token):       return '\\blank\indenting[no]'
+    def renderS(self, token):       return '\\blank\indenting[no]\par'
     def renderC(self, token):
         if not token.value == '1':
             return '\n \C{' + token.value + '} '
@@ -25,6 +25,10 @@ class TexPrinter(object):
     def renderWJS(self, token):     return ""
     def renderWJE(self, token):     return ""
     def renderTEXT(self, token):    return " " + token.value + " "
+    def renderQ(self, token):       return ""
+    def renderQ1(self, token):      return ""
+    def renderQ2(self, token):      return ""
+    def renderNB(self, token):      return ""
 
 
 class TransformToContext(object):
@@ -32,35 +36,40 @@ class TransformToContext(object):
     def markShortVerses(self, tokens):
         # This is manual until I work out how to do it automatically
         d = (
-            ('3', '24'),
-            ('4', '3'),
-            ('9', '40'),
-            ('10', '5'),
-            ('10', '18'),
-            ('14', '17'),
-            ('14', '39'),
-            ('15', '25'),
-            ('15', '30')
+            ('MRK', '3', '24'),
+            ('MRK', '4', '3'),
+            ('MRK', '9', '40'),
+            ('MRK', '10', '5'),
+            ('MRK', '10', '18'),
+            ('MRK', '14', '17'),
+            ('MRK', '14', '39'),
+            ('MRK', '15', '25'),
+            ('MRK', '15', '30')
         )
         for t in d:
-            self.findAndMarkVerse(tokens, t[0], t[1])
+            self.findAndMarkVerse(tokens, t[0], t[1], t[2])
 
-    def findAndMarkVerse(self, tokens, chapter, verse):
+    def findAndMarkVerse(self, tokens, book, chapter, verse):
         i = 0
         while i < len(tokens):
-            c = tokens[i]
-            if c.isC() and (c.value == chapter):
+            b = tokens[i]
+            if b.isID() and (b.value == book):
                 while i < len(tokens):
-                    v = tokens[i]
-                    if v.isV() and verse == v.value:
-                        i = i + 1
+                    c = tokens[i]
+                    if c.isC() and (c.value == chapter):
                         while i < len(tokens):
-                            nextV = tokens[i]
-                            if nextV.isV():
-                                nextV.value = v.value + ', ' + nextV.value
-                                v.value = ''
-                                return
+                            v = tokens[i]
+                            if v.isV() and verse == v.value:
+                                i = i + 1
+                                while i < len(tokens):
+                                    nextV = tokens[i]
+                                    if nextV.isV():
+                                        nextV.value = v.value + ', ' + nextV.value
+                                        v.value = ''
+                                        return
+                                    i = i + 1
                             i = i + 1
+                        return
                     i = i + 1
                 return
             i = i + 1
@@ -95,7 +104,7 @@ class TransformToContext(object):
                     s = '\CapStretch{\sc ' + s[:i] + '}' + s[i:]
                     return s
                 i = i + 1
-        raise Exception("Break not found for SmallCapText")
+        return'\CapStretch{\sc ' + s + '}'
 
 
     def lineDropFirstChapter(self, tokens):
