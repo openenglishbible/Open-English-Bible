@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#
+
 import os
 import parseUsfm
 
@@ -12,9 +15,9 @@ class HTMLPrinter(object):
     def renderMS(self, token):      return '<h3>' + token.value + '</h3>'
     def renderMS2(self, token):     return '<h4>' + token.value + '</h4>'
     def renderP(self, token):       return '<p />'
-    def renderS(self, token):       return '<p /><p />'
-    def renderC(self, token):       return '<chapter>' + token.value + '</chapter>'
-    def renderV(self, token):       return '<verse>' + token.value + '</verse>'
+    def renderS(self, token):       return '<p /><p align="Center">—</p>'
+    def renderC(self, token):       return '<chapter id="' + token.value + '">'
+    def renderV(self, token):       return '<verse id="' + token.value + '">'
     def renderWJS(self, token):     return ""
     def renderWJE(self, token):     return ""
     def renderTEXT(self, token):    return " " + token.value + " "
