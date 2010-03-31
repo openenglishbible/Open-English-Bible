@@ -1,0 +1,15 @@
+; Optional patch - changes to some words to make appropriate for American English
+
+In Mark:
+	1:4		fulfilment		->	fulfillment
+	14:49	fulfilment		->	fulfillment
+	7:6		honour			->	honor
+	7:10	Honour			->	Honor
+	10:19	Honour			->	Honor
+	12:39	honour			->	honor
+	12:31	neighbour		->	neighbor
+	12:33	neighbour		->	neighbor
+	6:33	recognised		->	recognized
+	1:28	neighbourhood	->	neighborhood
+	5:17	neighbourhood	->	neighborhood
+	

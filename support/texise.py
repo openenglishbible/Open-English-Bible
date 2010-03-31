@@ -176,7 +176,8 @@ class TransformToContext(object):
         \definemarking[RABook]
         \definemarking[RASection]
 
-        \setuppapersize [A5][letter]
+        \definepapersize [Trade][width=6in, height=9in]
+        \setuppapersize [Trade][Trade]
     %	\setuparranging [2UP,rotated,doublesided]
         \setuppagenumbering [alternative=doublesided]
         \setuplayout [location=middle, marking=on]
