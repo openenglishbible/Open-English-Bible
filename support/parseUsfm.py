@@ -35,7 +35,7 @@ usfm    = OneOrMore( element )
 
 # input string
 def parseString( aString ):
-    tokens = usfm.parseString( aString )
+    tokens = usfm.parseString( aString, parseAll=True )
     return [createToken(t) for t in tokens]
 
 def createToken(t):

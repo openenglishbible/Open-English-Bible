@@ -158,7 +158,7 @@ class TransformToContext(object):
         f.close()
 
         tokens = parseUsfm.parseString(fc)
-        self.markShortVerses(tokens)
+        #self.markShortVerses(tokens)
         #tokens = self.lineDropFirstChapter(tokens)
 
         s = ''
@@ -249,8 +249,7 @@ class TransformToContext(object):
 
         # Setup list of patches and books to use
         #
-        books = os.listdir(self.patchedDir)
-        books = [b[:-5] for b in books if b[-5:] == '.usfm']
+        books = ['Matthew', 'Mark']
         preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         bookTex = preface
         for book in books:
