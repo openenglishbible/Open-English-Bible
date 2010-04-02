@@ -15,14 +15,13 @@ p.patch()
 
 print '#### Building PDF...'
 
-
 # Convert to ConTeXt
 print '     Converting to TeX...'
 c = texise.TransformToContext()
 c.setupAndRun('patched', 'preface', 'working/tex')
 
 # Build PDF
-if False:
+if True:
     print '     Building PDF..'
     c = """. ../../context/tex/setuptex ; cd working/tex-working; rm * ; context ../tex/Bible.tex; cp *.pdf ../../built/"""
     pp = Popen(c, shell=True, stdout=PIPE)
