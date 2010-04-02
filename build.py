@@ -22,11 +22,12 @@ c = texise.TransformToContext()
 c.setupAndRun('patched', 'preface', 'working/tex')
 
 # Build PDF
-print '     Building PDF..'
-c = """. ../../context/tex/setuptex ; cd working/tex-working; rm * ; context ../tex/Bible.tex; cp *.pdf ../../built/"""
-pp = Popen(c, shell=True, stdout=PIPE)
-for ln in pp.stdout:
-    print '     ',ln[:-1]
+if False:
+    print '     Building PDF..'
+    c = """. ../../context/tex/setuptex ; cd working/tex-working; rm * ; context ../tex/Bible.tex; cp *.pdf ../../built/"""
+    pp = Popen(c, shell=True, stdout=PIPE)
+    for ln in pp.stdout:
+        print '     ',ln[:-1]
 
 # Convert to HTML
 print '     Converting to HTML...'

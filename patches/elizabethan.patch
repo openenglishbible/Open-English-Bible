@@ -1,28 +1,88 @@
 In Mark:
-	1:2		thy				-> 		your
-	1:2		thy				-> 		your
-	1:11	Thou art		->		You are
-	1:11	thee			->		you
-	7:10	thy				->		your
-	7:10	thy				->		your	
-	10:19	thy				->		your	
-	10:19	thy				->		your
-	12:30	thou shalt		->		you must
-	12:30	thy				->		your	
-	12:30	thy				->		your	
-	12:30	thy				->		your	
-	12:30	thy				->		your	
-	12:30	thy				->		your
-	12:31	Thou shalt		->		You must		
-	12:31	thou dost		->		you	
-	12:31	thy				->		your	
-	12:31	thyself			->		yourself	
-	12:36	thy				->		your	
-	12:36	thy				->		your	
-	14:36	thee			->		you
-	14:36	thou willest	->		you will
-	15:34	hast thou		->		have you
+	1:2		thy					-> 		your
+	1:2		thy					-> 		your
+	1:11	Thou art			->		You are
+	1:11	thee				->		you
+	7:10	thy					->		your
+	7:10	thy					->		your	
+	10:19	thy					->		your	
+	10:19	thy					->		your
+	12:30	thou shalt			->		you must
+	12:30	thy					->		your	
+	12:30	thy					->		your	
+	12:30	thy					->		your	
+	12:30	thy					->		your	
+	12:30	thy					->		your
+	12:31	Thou shalt			->		You must		
+	12:31	thou dost			->		you	
+	12:31	thy					->		your	
+	12:31	thyself				->		yourself	
+	12:36	thy					->		your	
+	12:36	thy					->		your	
+	14:36	thee				->		you
+	14:36	thou willest		->		you will
+	15:34	hast thou			->		have you
 
 In Matthew:
-    2:6     thou            ->      you
+	2:6		And thou			->		And you
+	2:6		art					->		are
+	2:6		thee				->		you
+    4:6		thou shouldst		->		you should
+    4:6		thy					->		your
+    4:6		thee				->		you
+    4:6		thee				->		you
+    4:7		Thou shalt			->		You shall
+    4:7		thy					->		your
+    4:10	Thou shalt			->		You shall
+    4:10	thy					->		your
+    4:33	Thou shalt			->		You shall
+    4:33	thou				->		you
+    4:33	thine				->		your
+    5:21	Thou shalt			->		You shall
+    5:27	Thou shalt			->		You shall
+    5:33	Thou shalt			->		You shall
+    5:33	thou shall			->		you shall
+    5:43	Thou shalt			->		You shall
+    5:43	thy					->		your
+    5:43	thy					->		your
+    6:9		thy					->		your
+    6:10	thy					->		your
+    6:10	thy					->		your
+    11:10	thy					->		your
+    11:10	thy					->		your
+    11:10	thee				->		you
+    11:25	thou has			->		you have
+    11:25	thou hast			->		you have
+    11:25	thee				->		you
+    11:26	thee				->		you
+    11:26	thee				->		you
+    15:4	thy					->		your
+    19:18   Thou shalt			->		You shall
+    19:18   Thou shalt			->		You shall
+    19:18   Thou shalt			->		You shall
+    19:18   Thou shalt			->		You shall
+    19:19   Thou shalt			->		You shall
+    19:19	thou dost thyself	->		you love yourself
+    19:19	thy					->		your
+    19:19	thy					->		your
+    21:5	thy					->		your
+    21:5	thee				->		you
+    21:16	thou hast			->		you have
+    22:37   Thou shalt			->		You shall
+    22:37	thy					->		your
+    22:37	thy					->		your
+    22:37	thy					->		your
+    22:37	thy					->		your
+    22:39   Thou shalt			->		You shall
+    22:39	thy					->		your
+    22:39	thou dost thyself	->		you love yourself
+    22:44	thy					->		your
+    22:44	thy					->		your
+    26:39	thou willest		->		you will
+    26:42	thy					->		your
+    27:46	has thou			->		have you
+    
+
+    
+
     

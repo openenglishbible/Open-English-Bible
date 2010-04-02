@@ -9,8 +9,8 @@ class Patcher(object):
         self.outputDir = outputDir
 
     def debugPrint(self, st):
-        pass
-
+        print '      ' + st.encode('utf-8')
+ 
     def patch(self):
         # Setup list of patches and books to use
         #
@@ -63,15 +63,17 @@ class Patcher(object):
                     if i2 == -1:
                         self.debugPrint('ERROR finding VERSE at ' + lines[i])
 
+                    ii = i2
                     i2 = s.find(b, i2)
                     if i2 == -1:
                         self.debugPrint('ERROR finding BEFORE at ' + lines[i])
-
-                    self.debugPrint('      > ' + s[i2:i2 + len(b)])
+                        self.debugPrint(s[ii:ii + 50])
+                        self.debugPrint(str(ii))
+                    #self.debugPrint('      > ' + s[i2:i2 + len(b)])
 
                     s = s[0:i2] + a + s[i2+len(b):len(s)]
 
-                    self.debugPrint('        ' + s[i2:i2 + len(a)])
+                    #self.debugPrint('        ' + s[i2:i2 + len(a)])
 
                     i = i + 1
 
