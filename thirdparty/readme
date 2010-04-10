@@ -1,0 +1,11 @@
+This directory is for third party support, such as ConTeXt. 
+The top level build script will manage this directory for you-
+see:
+
+python build.py --help
+
+and
+
+python build.py --setup
+
+
