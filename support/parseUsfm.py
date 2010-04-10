@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 #
 
+import sys
+
 from pyparsing import Word, alphas, OneOrMore, nums, Literal, White, Group, Suppress, Empty, NoMatch, Optional, CharsNotIn
 
 def usfmToken(key): return Group(Suppress(backslash) + Literal( key ) + Suppress(White()))
@@ -9,8 +11,11 @@ def usfmTokenNumber(key): return Group(Suppress(backslash) + Literal( key ) + Su
 
 
 # define grammar
-phrase      = Word( alphas + "-.,!? —‘“”’;:()" + nums )
+phrase      = Word( alphas + "-.,!? —‘“”’;:()'\"[]" + nums )
 backslash   = Literal("\\")
+plus        = Literal("+")
+
+textBlock   = Group(Optional(NoMatch(), "text") + phrase )
 
 id      = usfmTokenValue( "id", phrase )
 ide     = usfmTokenValue( "ide", phrase )
@@ -27,15 +32,24 @@ wje     = usfmToken("wj*")
 q       = usfmToken("q")
 q1      = usfmToken("q1")
 q2      = usfmToken("q2")
+qts     = usfmToken("qt")
+qte     = usfmToken("qt*")
 nb      = usfmToken("nb")
-textBlock   = Group(Optional(NoMatch(), "text") + phrase )
+fs      = usfmTokenValue("f", plus)
+fe      = usfmToken("f*")
 
-element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | nb | textBlock
+
+element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | qts | qte | nb | fs | fe | textBlock
 usfm    = OneOrMore( element )
 
 # input string
 def parseString( aString ):
-    tokens = usfm.parseString( aString, parseAll=True )
+    try:
+        tokens = usfm.parseString( aString, parseAll=True )
+    except Exception as e:
+        print e
+        print aString[:50]
+        sys.exit()
     return [createToken(t) for t in tokens]
 
 def createToken(t):
@@ -56,6 +70,10 @@ def createToken(t):
         'q1':   Q1Token,
         'q2':   Q2Token,
         'nb':   NBToken,
+        'qt':   QTSToken,
+        'qt*':  QTEToken,
+        'f':    FSToken,
+        'f*':   FEToken,
         'text': TEXTToken
     }
     for k, v in options.iteritems():
@@ -69,6 +87,7 @@ def createToken(t):
 class UsfmToken(object):
     def __init__(self, value=None):
         self.value = value
+    def getValue(self): return self.value
     def isID(self):     return False
     def isIDE(self):    return False
     def isH(self):      return False
@@ -85,7 +104,11 @@ class UsfmToken(object):
     def isQ(self):      return False
     def isQ1(self):     return False
     def isQ2(self):     return False
+    def isQTS(self):    return False
+    def isQTE(self):    return False
     def isNB(self):     return False
+    def isFS(self):    return False
+    def isFE(self):    return False
 
 class IDToken(UsfmToken):
     def renderOn(self, printer):
@@ -171,3 +194,23 @@ class NBToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderNB(self)
     def isNB(self):      return True
+
+class QTSToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderQTS(self)
+    def isQTS(self):      return True
+
+class QTEToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderQTE(self)
+    def isQTE(self):      return True
+
+class FSToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderFS(self)
+    def isFS(self):      return True
+
+class FEToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderFE(self)
+    def isFE(self):      return True

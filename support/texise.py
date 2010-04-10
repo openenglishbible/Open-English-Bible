@@ -72,6 +72,10 @@ class TexPrinter(object):
     def renderQ1(self, token):      return self.startNarrower(1)
     def renderQ2(self, token):      return self.startNarrower(2)
     def renderNB(self, token):      return self.stopNarrower() + "\indenting[no]\par "
+    def renderQTS(self, token):     return ''
+    def renderQTE(self, token):     return ''
+    def renderFS(self, token):      return '\\footnote{'
+    def renderFE(self, token):      return '}'
 
 class TransformToContext(object):
 
@@ -226,6 +230,8 @@ class TransformToContext(object):
 
         \usemodule[lettrine]
 
+        \setupnote[footnote][way=bypage]
+
         \starttext
 
         \title{Open English Bible}
@@ -249,7 +255,33 @@ class TransformToContext(object):
 
         # Setup list of patches and books to use
         #
-        books = ['Matthew', 'Mark']
+        books = [   'Matthew',
+                    'Mark',
+                    'Luke',
+                    'John',
+                    'Acts',
+                    'Romans',
+                    '1 Corinthians',
+                    '2 Corinthians',
+                    'Galatians',
+                    'Ephesians',
+                    'Philippians',
+                    'Colossians',
+                    '1 Thessalonians',
+                    '2 Thessalonians',
+                    '1 Timothy',
+                    '2 Timothy',
+                    'Titus',
+                    'Philemon',
+                    'Hebrews',
+                    'James',
+                    '1 Peter',
+                    '2 Peter',
+                    '1 John',
+                    '2 John',
+                    '3 John',
+                    'Jude',
+                    'Revelation']
         preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         bookTex = preface
         for book in books:

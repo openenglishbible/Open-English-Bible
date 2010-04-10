@@ -25,15 +25,20 @@ class HTMLPrinter(object):
     def renderQ1(self, token):      return ''
     def renderQ2(self, token):      return ''
     def renderNB(self, token):      return ''
+    def renderQTS(self, token):      return ''
+    def renderQTE(self, token):      return ''
+    def renderFS(self, token):      return ''
+    def renderFE(self, token):      return ''
 
 class TransformToHTML(object):
 
     def translateBook(self, name):
 
         f = open(self.patchedDir + '/' + name + '.usfm')
-        fc = f.read()
+        fc = f.read()                                                                   
         f.close()
 
+        print '        > ' + name
         tokens = parseUsfm.parseString(fc)
 
         s = ''
@@ -63,8 +68,33 @@ class TransformToHTML(object):
 
         # Setup list of patches and books to use
         #
-        books = os.listdir(self.patchedDir)
-        books = [b[:-5] for b in books if b[-5:] == '.usfm']
+        books = [   'Matthew',
+                    'Mark',
+                    'Luke',
+                    'John',
+                    'Acts',
+                    'Romans',
+                    '1 Corinthians',
+                    '2 Corinthians',
+                    'Galatians',
+                    'Ephesians',
+                    'Philippians',
+                    'Colossians',
+                    '1 Thessalonians',
+                    '2 Thessalonians',
+                    '1 Timothy',
+                    '2 Timothy',
+                    'Titus',
+                    'Philemon',
+                    'Hebrews',
+                    'James',
+                    '1 Peter',
+                    '2 Peter',
+                    '1 John',
+                    '2 John',
+                    '3 John',
+                    'Jude',
+                    'Revelation']
         #preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         #bookTex = preface
         bookTex = ''
