@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#
+
 import os
 import commands
 import sys
@@ -31,7 +34,16 @@ class Patcher(object):
         bookname = self.outputDir + '/' + book + '.usfm'
         f = open(bookname, 'w')
         f.write(s.encode('utf-8'))
-        f.close()    
+        f.close()
+
+    def findPatch(self, s, b, st, en):
+        i = st
+        while i < en:
+            x = s.find(b, i, en)
+            if x == -1: return -1
+            if s[x-1].isspace() or (s[x-1] in u"-.,!? —‘“”’;:()'\"[]"): return x
+            i = x + 1
+        return -1
         
     def applyPatchToBook(self, b, s, patch):
         self.debugPrint('    ' + patch)
@@ -59,7 +71,7 @@ class Patcher(object):
 			r = self.rangeOfChapter(s,c,0,len(s))
 			r = self.rangeOfVerse(s,v,r[0],r[1])
 			ii = r[0]
-			i2 = s.find(b, r[0], r[1])
+			i2 = self.findPatch(s, b, r[0], r[1])
 			if i2 == -1:
 				self.debugPrint('ERROR finding BEFORE at ' + lines[i])
 				self.debugPrint('"' + b + '" >> "' + a + '"')

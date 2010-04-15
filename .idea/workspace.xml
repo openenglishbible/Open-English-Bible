@@ -2,21 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="a5289a62-acc6-4c86-aa36-01b780b64d54" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support/patch.py" afterPath="$PROJECT_DIR$/support/patch.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/built/Bible.html" afterPath="$PROJECT_DIR$/built/Bible.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/Mark.usfm" afterPath="$PROJECT_DIR$/source/Mark.usfm" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support/htmlise.py" afterPath="$PROJECT_DIR$/support/htmlise.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.py" afterPath="$PROJECT_DIR$/build.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support/parseUsfm.py" afterPath="$PROJECT_DIR$/support/parseUsfm.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/built/Bible.pdf" afterPath="$PROJECT_DIR$/built/Bible.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patched/Mark.usfm" afterPath="$PROJECT_DIR$/patched/Mark.usfm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support/texise.py" afterPath="$PROJECT_DIR$/support/texise.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/support/fixCaps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patches/gender.patch" afterPath="$PROJECT_DIR$/patches/gender.patch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/scripts/diff.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/patched/Matthew.usfm" afterPath="$PROJECT_DIR$/patched/Matthew.usfm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/Matthew.usfm" afterPath="$PROJECT_DIR$/source/Matthew.usfm" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/working/tex/Bible.tex" afterPath="$PROJECT_DIR$/working/tex/Bible.tex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/support/parseUsfm.py" afterPath="$PROJECT_DIR$/support/parseUsfm.py" />
     </list>
-    <ignored path=".idea/workspace.xml" />
     <ignored path="Open-English-Bible.iws" />
+    <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +27,7 @@
   <component name="DaemonCodeAnalyzer">
     <disable_hints>
       <file url="file://$PROJECT_DIR$/build.py" />
+      <file url="file://$PROJECT_DIR$/scripts/diff.py" />
       <file url="file://$PROJECT_DIR$/support/parseUsfm.py" />
       <file url="file://$PROJECT_DIR$/support/texise.py" />
     </disable_hints>
@@ -44,16 +41,7 @@
       <file leaf-file-name="build.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="71" selection-start="1510" selection-end="1510" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="fixCaps.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/support/fixCaps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="7" selection-start="3261" selection-end="3261" vertical-scroll-proportion="0.0">
+            <state line="4" column="0" selection-start="74" selection-end="87" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -62,7 +50,7 @@
       <file leaf-file-name="gender.patch" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/patches/gender.patch">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="103" column="24" selection-start="2648" selection-end="2648" vertical-scroll-proportion="0.0">
+            <state line="177" column="24" selection-start="7382" selection-end="7382" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -71,16 +59,16 @@
       <file leaf-file-name="patch.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/support/patch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="74" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0">
+            <state line="45" column="97" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="README" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/legal/README">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="0" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0">
+            <state line="21" column="0" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.5833333">
               <folding />
             </state>
           </provider>
@@ -89,7 +77,7 @@
       <file leaf-file-name="htmlise.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/support/htmlise.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="35" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.0">
+            <state line="64" column="39" selection-start="2320" selection-end="2320" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -104,10 +92,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="parseUsfm.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="parseUsfm.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/support/parseUsfm.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="99" column="116" selection-start="2980" selection-end="2980" vertical-scroll-proportion="2.0135593">
+            <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="diff.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/scripts/diff.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="95" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -126,22 +123,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/source/Mark.usfm" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/tex-working/.gitignore" />
         <option value="$PROJECT_DIR$/patches/elizabethan.patch" />
         <option value="$PROJECT_DIR$/source/Matthew.usfm" />
         <option value="$PROJECT_DIR$/legal/README" />
         <option value="$PROJECT_DIR$/patches/gender.patch" />
         <option value="$PROJECT_DIR$/support/patchusfm.py" />
-        <option value="$PROJECT_DIR$/support/patch.py" />
         <option value="$PROJECT_DIR$/patched/WayRomans.usfm" />
         <option value="$PROJECT_DIR$/source/WayRomans.usfm" />
-        <option value="$PROJECT_DIR$/support/htmlise.py" />
         <option value="$PROJECT_DIR$/support/texise.py" />
         <option value="$PROJECT_DIR$/build.py" />
-        <option value="$PROJECT_DIR$/support/parseUsfm.py" />
         <option value="$PROJECT_DIR$/support/fixCaps.py" />
+        <option value="$PROJECT_DIR$/support/htmlise.py" />
+        <option value="$PROJECT_DIR$/support/diff.py" />
+        <option value="$PROJECT_DIR$/support/parseUsfm.py" />
+        <option value="$PROJECT_DIR$/scripts/diff.py" />
+        <option value="$PROJECT_DIR$/support/patch.py" />
       </list>
     </option>
   </component>
@@ -204,6 +201,20 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Open-English-Bible" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Open-English-Bible" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="scripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -217,7 +228,11 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/support" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/scripts" />
       <recent name="$PROJECT_DIR$/python" />
     </key>
   </component>
@@ -279,22 +294,6 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Build Web" type="PythonConfigurationType" factoryName="Python">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="/usr/bin/python" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <module name="Open-English-Bible" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/build.py" />
-      <option name="PARAMETERS" value="--web" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="Patch" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -311,10 +310,9 @@
       <ConfigurationWrapper RunnerId="PythonRunner" />
       <method />
     </configuration>
-    <list size="3">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python.Build all" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Build Web" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Patch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Patch" />
     </list>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -356,20 +354,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="22" width="1265" height="774" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28440368" sideWeight="0.99597096" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Dependency Viewer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24899274" sideWeight="0.704893" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24899274" sideWeight="0.704893" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.28440368" sideWeight="0.994382" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28440368" sideWeight="0.994382" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32874617" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39931154" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -426,11 +424,6 @@
         <state line="10" column="113" selection-start="374" selection-end="375" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/patched/WayRomans.usfm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="16" selection-start="1221" selection-end="1221" vertical-scroll-proportion="0.4534005" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/source/Matthew.usfm">
       <provider selected="true" editor-type-id="text-editor">
         <state line="1260" column="171" selection-start="134019" selection-end="134019" vertical-scroll-proportion="0.0" />
@@ -438,27 +431,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="71" selection-start="1510" selection-end="1510" vertical-scroll-proportion="0.0" />
+        <state line="4" column="0" selection-start="74" selection-end="87" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/patches/gender.patch">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="103" column="24" selection-start="2648" selection-end="2648" vertical-scroll-proportion="0.0" />
+        <state line="177" column="24" selection-start="7382" selection-end="7382" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/support/patch.py">
+    <entry file="file://$PROJECT_DIR$/scripts/diff.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="74" selection-start="341" selection-end="341" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/legal/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="0" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/support/htmlise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="35" selection-start="1739" selection-end="1739" vertical-scroll-proportion="0.0" />
+        <state line="17" column="95" selection-start="305" selection-end="305" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/support/texise.py">
@@ -466,16 +453,28 @@
         <state line="169" column="23" selection-start="6291" selection-end="6306" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/support/fixCaps.py">
+    <entry file="file://$PROJECT_DIR$/support/parseUsfm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="7" selection-start="3261" selection-end="3261" vertical-scroll-proportion="0.0">
+        <state line="0" column="0" selection-start="0" selection-end="25" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/support/parseUsfm.py">
+    <entry file="file://$PROJECT_DIR$/support/htmlise.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="116" selection-start="2980" selection-end="2980" vertical-scroll-proportion="2.0135593">
+        <state line="64" column="39" selection-start="2320" selection-end="2320" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/support/patch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="45" column="97" selection-start="1333" selection-end="1333" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/legal/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.5833333">
           <folding />
         </state>
       </provider>

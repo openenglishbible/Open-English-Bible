@@ -16,8 +16,8 @@ class HTMLPrinter(object):
     def renderMS2(self, token):     return '<h4>' + token.value + '</h4>'
     def renderP(self, token):       return '<p />'
     def renderS(self, token):       return '<p /><p align="Center">—</p>'
-    def renderC(self, token):       return '<chapter id="' + token.value + '">'
-    def renderV(self, token):       return '<verse id="' + token.value + '">'
+    def renderC(self, token):       return '<h1>' + token.value + '</h1>'
+    def renderV(self, token):       return '<b>' + token.value + '</b>'
     def renderWJS(self, token):     return ""
     def renderWJE(self, token):     return ""
     def renderTEXT(self, token):    return " " + token.value + " "

@@ -214,3 +214,4 @@ class FEToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderFE(self)
     def isFE(self):      return True
+
