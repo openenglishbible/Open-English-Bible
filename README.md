@@ -17,3 +17,10 @@ As such, the OEB as a translation does not stand within the Tyndale tradition bu
 Notes
 -----
 
+Paragraphs added to:
+
+* Mark
+* Matthew
+* 1 Corinthians
+* 1 John
+* 1 Peter

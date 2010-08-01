@@ -8,27 +8,29 @@ class TexPrinter(object):
         self.printerState = {}
 
     def startNarrower(self, n):
-        s = ''
-        if 'narrower' in self.printerState and self.printerState['narrower'] == True:
-            self.printerState['narrower'] = False
-            s = s + '\stopnarrower'
-        self.printerState['narrower'] = True
-        s = s + "\startnarrower[" + str(n) + "*left,1*right]\indenting[no]"
+        s = u''
+        if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
+            self.printerState[u'narrower'] = False
+            s = s + u'\stopnarrower'
+        else:
+            s = s + u'\\blank[small]'
+        self.printerState[u'narrower'] = True
+        s = s + u'\startnarrower[' + str(n) + u'*left,1*right]\indenting[no]'
         return s
 
     def stopNarrower(self):
-        s = ''
-        if 'narrower' in self.printerState and self.printerState['narrower'] == True:
-            self.printerState['narrower'] = False
-            s = s + '\stopnarrower'
+        s = u''
+        if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
+            self.printerState[u'narrower'] = False
+            s = s + u'\\blank[small]\stopnarrower'
         return s
 
     def markForSmallCaps(self):
-        self.printerState['smallcaps'] = True
+        self.printerState[u'smallcaps'] = True
 
     def renderSmallCaps(self, s):
-        if 'smallcaps' in self.printerState and self.printerState['smallcaps'] == True:
-            self.printerState['smallcaps'] = False
+        if u'smallcaps' in self.printerState and self.printerState[u'smallcaps'] == True:
+            self.printerState[u'smallcaps'] = False
             return self.smallCapText(s)
         return s
 
@@ -36,61 +38,62 @@ class TexPrinter(object):
          i = 0
          while i < len(s):
              if i < 40:  #we are early, look for comma
-                 if s[i] == ',' or s[i] == ';' or s[i:i+3] == 'and':
-                     s = '\CapStretch{' + s[:i] + '}' + s[i:]
+                 if s[i] == u',' or s[i] == u';' or s[i:i+3] == u'and':
+                     s = u'\CapStretch{' + s[:i] + u'}' + s[i:]
                      return s
                  i = i + 1
              else: # look for space
                  if s[i] == ' ':
-                     s = '\CapStretch{' + s[:i] + '}' + s[i:]
+                     s = u'\CapStretch{' + s[:i] + u'}' + s[i:]
                      return s
                  i = i + 1
-         return'\CapStretch{' + s + '}'
+         return u'\CapStretch{' + s + u'}'
 
-    def renderID(self, token):      return ""
-    def renderIDE(self, token):     return ""
-    def renderH(self, token):       return '\RAHeader{' + token.value + '} '
-    def renderMT(self, token):      return '\MT{' + token.value + '} '
-    def renderMS(self, token):      return '\MS{' + token.value + '} '
-    def renderMS2(self, token):     return '\MSS{' + token.value + '} '
-    def renderP(self, token):       return self.stopNarrower() + '\indenting[yes]\par '
-    def renderS(self, token):       self.markForSmallCaps() ; return self.stopNarrower() + '\\blank\indenting[no]\par '
+    def renderID(self, token):      return u''
+    def renderIDE(self, token):     return u''
+    def renderH(self, token):       return u'\RAHeader{' + token.value + u'} '
+    def renderMT(self, token):      return self.stopNarrower() + u'\MT{' + token.value + u'} '
+    def renderMS(self, token):      return self.stopNarrower() + u'\MS{' + token.value + u'} '
+    def renderMS2(self, token):     return self.stopNarrower() + u'\MSS{' + token.value + '} '
+    def renderP(self, token):       return self.stopNarrower() + u'\indenting[yes]\par '
+    def renderS(self, token):       self.markForSmallCaps() ; return self.stopNarrower() + u'\\blank\indenting[no]\par '
     def renderC(self, token):
-        if not token.value == '1':
-            return '\n \C{' + token.value + '} '
+        if not token.value == u'1':
+            return u'\n \C{' + token.value + u'} '
         else:
-            return ''
+            return u''
     def renderV(self, token):
-        if not (token.value == '1' or token.value == ''):
-            return '\n \V{' + token.value + '} '
+        if not (token.value == u'1' or token.value == u''):
+            return u'\n \V{' + token.value + u'} '
         else:
             return ''
-    def renderWJS(self, token):     return ""
-    def renderWJE(self, token):     return ""
-    def renderTEXT(self, token):    return " " + self.renderSmallCaps(token.value) + " "
+    def renderWJS(self, token):     return u""
+    def renderWJE(self, token):     return u""
+    def renderTEXT(self, token):    return u" " + self.renderSmallCaps(token.value) + u" "
     def renderQ(self, token):       return self.startNarrower(1)
     def renderQ1(self, token):      return self.startNarrower(1)
     def renderQ2(self, token):      return self.startNarrower(2)
-    def renderNB(self, token):      return self.stopNarrower() + "\indenting[no]\par "
-    def renderQTS(self, token):     return ''
-    def renderQTE(self, token):     return ''
-    def renderFS(self, token):      return '\\footnote{'
-    def renderFE(self, token):      return '}'
+    def renderQ3(self, token):      return self.startNarrower(3)
+    def renderNB(self, token):      return self.stopNarrower() + u"\indenting[no]\par "
+    def renderQTS(self, token):     return u''
+    def renderQTE(self, token):     return u''
+    def renderFS(self, token):      return u'\\footnote{'
+    def renderFE(self, token):      return u'}'
 
 class TransformToContext(object):
 
     def markShortVerses(self, tokens):
         # This is manual until I work out how to do it automatically
         d = (
-            ('MRK', '3', '24'),
-            ('MRK', '4', '3'),
-            ('MRK', '9', '40'),
-            ('MRK', '10', '5'),
-            ('MRK', '10', '18'),
-            ('MRK', '14', '17'),
-            ('MRK', '14', '39'),
-            ('MRK', '15', '25'),
-            ('MRK', '15', '30')
+            (u'MRK', u'3',  u'24'),
+            (u'MRK', u'4',  u'3'),
+            (u'MRK', u'9',  u'40'),
+            (u'MRK', u'10', u'5'),
+            (u'MRK', u'10', u'18'),
+            (u'MRK', u'14', u'17'),
+            (u'MRK', u'14', u'39'),
+            (u'MRK', u'15', u'25'),
+            (u'MRK', u'15', u'30')
         )
         for t in d:
             self.findAndMarkVerse(tokens, t[0], t[1], t[2])
@@ -110,7 +113,7 @@ class TransformToContext(object):
                                 while i < len(tokens):
                                     nextV = tokens[i]
                                     if nextV.isV():
-                                        nextV.value = v.value + ', ' + nextV.value
+                                        nextV.value = v.value + u', ' + nextV.value
                                         v.value = ''
                                         return
                                     i = i + 1
@@ -126,7 +129,7 @@ class TransformToContext(object):
         while i < len(tokens):
             t = tokens[i]
             if t.isC():
-                if t.value == '1':
+                if t.value == u'1':
                     while i < len(tokens):
                         t = tokens[i]
                         if t.isTEXT():
@@ -143,38 +146,38 @@ class TransformToContext(object):
         while i < len(s):
             if i < 50:  #we are early, look for comma
                 if s[i] == ',' or s[i] == ';' or s[i:i+3] == 'and':
-                    s = '\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + '}{\CapStretch{\sc ' + s[1:i] + '}}' + s[i:]
+                    s = u'\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + u'}{\CapStretch{\sc ' + s[1:i] + u'}}' + s[i:]
                     return s
                 i = i + 1
             else: # look for space
                 if s[i] == ' ':
-                    s = '\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + '}{\CapStretch{\sc ' + s[1:i] + '}}' + s[i:]
+                    s = u'\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + u'}{\CapStretch{\sc ' + s[1:i] + u'}}' + s[i:]
                     return s
                 i = i + 1
         # return lot
-        return '\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + '}{\CapStretch{\sc ' + s[1:] + '}}'
+        return u'\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + u'}{\CapStretch{\sc ' + s[1:] + u'}}'
 
 
     def translateBook(self, name):
 
         f = open(self.patchedDir + '/' + name + '.usfm')
-        fc = f.read()
+        fc = unicode(f.read(), 'utf-8')
         f.close()
 
         tokens = parseUsfm.parseString(fc)
         #self.markShortVerses(tokens)
         #tokens = self.lineDropFirstChapter(tokens)
 
-        s = ''
+        s = u''
         tp = TexPrinter()
         for t in tokens: s = s + t.renderOn(tp)
-        s = s + "\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
+        s = s + u"\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
 
         return s
 
     def saveAll(self, allBooks):
 
-        s = r"""
+        s = unicode(r"""
 
         \definemarking[RAChapter]
         \definemarking[RABook]
@@ -238,7 +241,7 @@ class TransformToContext(object):
 
         \title{Table of Contents}
         \placelist[chapter]
-        """ + allBooks + r"""
+        """, 'ascii') + allBooks + ur"""
 
         \stoptext
 
@@ -285,5 +288,5 @@ class TransformToContext(object):
         preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         bookTex = preface
         for book in books:
-            bookTex = bookTex + unicode(self.translateBook(book), 'utf-8')
+            bookTex = bookTex + self.translateBook(book)
         self.saveAll(bookTex)

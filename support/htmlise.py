@@ -8,47 +8,48 @@ class HTMLPrinter(object):
     def __init__(self):
         pass
 
-    def renderID(self, token):      return ""
-    def renderIDE(self, token):     return ""
-    def renderH(self, token):       return '<h1>' + token.value + '</h1>'
-    def renderMT(self, token):      return '<h2>' + token.value + '</h2>'
-    def renderMS(self, token):      return '<h3>' + token.value + '</h3>'
-    def renderMS2(self, token):     return '<h4>' + token.value + '</h4>'
-    def renderP(self, token):       return '<p />'
-    def renderS(self, token):       return '<p /><p align="Center">—</p>'
-    def renderC(self, token):       return '<h1>' + token.value + '</h1>'
-    def renderV(self, token):       return '<b>' + token.value + '</b>'
-    def renderWJS(self, token):     return ""
-    def renderWJE(self, token):     return ""
-    def renderTEXT(self, token):    return " " + token.value + " "
-    def renderQ(self, token):       return ''
-    def renderQ1(self, token):      return ''
-    def renderQ2(self, token):      return ''
-    def renderNB(self, token):      return ''
-    def renderQTS(self, token):      return ''
-    def renderQTE(self, token):      return ''
-    def renderFS(self, token):      return ''
-    def renderFE(self, token):      return ''
+    def renderID(self, token):      return u""
+    def renderIDE(self, token):     return u""
+    def renderH(self, token):       return u'<h1>' + token.value + u'</h1>'
+    def renderMT(self, token):      return u'<h2>' + token.value + u'</h2>'
+    def renderMS(self, token):      return u'<h3>' + token.value + u'</h3>'
+    def renderMS2(self, token):     return u'<h4>' + token.value + u'</h4>'
+    def renderP(self, token):       return u'<p />'
+    def renderS(self, token):       return u'<p /><p align="Center">—</p>'
+    def renderC(self, token):       return u'<h1>' + token.value + u'</h1>'
+    def renderV(self, token):       return u'<b>' + token.value + u'</b>'
+    def renderWJS(self, token):     return u""
+    def renderWJE(self, token):     return u""
+    def renderTEXT(self, token):    return u" " + token.value + u" "
+    def renderQ(self, token):       return u''
+    def renderQ1(self, token):      return u''
+    def renderQ2(self, token):      return u''
+    def renderQ3(self, token):      return u''
+    def renderNB(self, token):      return u''
+    def renderQTS(self, token):      return u''
+    def renderQTE(self, token):      return u''
+    def renderFS(self, token):      return u''
+    def renderFE(self, token):      return u''
 
 class TransformToHTML(object):
 
     def translateBook(self, name):
 
         f = open(self.patchedDir + '/' + name + '.usfm')
-        fc = f.read()                                                                   
+        fc = unicode(f.read(), 'utf-8')
         f.close()
 
         print '        > ' + name
         tokens = parseUsfm.parseString(fc)
 
-        s = ''
+        s = u''
         tp = HTMLPrinter()
         for t in tokens: s = s + t.renderOn(tp)
         return s
 
     def saveAll(self, allBooks):
 
-        s = """
+        s = u"""
             <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
             <html xmlns="http://www.w3.org/1999/xhtml">
 	        <head>
@@ -97,7 +98,7 @@ class TransformToHTML(object):
                     'Revelation']
         #preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         #bookTex = preface
-        bookTex = ''
+        bookTex = u''
         for book in books:
-            bookTex = bookTex + unicode(self.translateBook(book), 'utf-8')
+            bookTex = bookTex + self.translateBook(book)
         self.saveAll(bookTex)

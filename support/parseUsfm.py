@@ -11,70 +11,72 @@ def usfmTokenNumber(key): return Group(Suppress(backslash) + Literal( key ) + Su
 
 
 # define grammar
-phrase      = Word( alphas + "-.,!? —‘“”’;:()'\"[]" + nums )
-backslash   = Literal("\\")
-plus        = Literal("+")
+phrase      = Word( alphas + u"-.,!? —–‘“”’;:()'\"[]" + nums )
+backslash   = Literal(u"\\")
+plus        = Literal(u"+")
 
-textBlock   = Group(Optional(NoMatch(), "text") + phrase )
+textBlock   = Group(Optional(NoMatch(), u"text") + phrase )
 
-id      = usfmTokenValue( "id", phrase )
-ide     = usfmTokenValue( "ide", phrase )
-h       = usfmTokenValue( "h", phrase )
-mt      = usfmTokenValue( "mt", phrase )
-ms      = usfmTokenValue( "ms", phrase )
-ms2     = usfmTokenValue( "ms2", phrase )
-s       = usfmToken("s")
-p       = usfmToken("p")
-c       = usfmTokenNumber("c")
-v       = usfmTokenNumber("v")
-wjs     = usfmToken("wj")
-wje     = usfmToken("wj*")
-q       = usfmToken("q")
-q1      = usfmToken("q1")
-q2      = usfmToken("q2")
-qts     = usfmToken("qt")
-qte     = usfmToken("qt*")
-nb      = usfmToken("nb")
-fs      = usfmTokenValue("f", plus)
-fe      = usfmToken("f*")
+id      = usfmTokenValue( u"id", phrase )
+ide     = usfmTokenValue( u"ide", phrase )
+h       = usfmTokenValue( u"h", phrase )
+mt      = usfmTokenValue( u"mt", phrase )
+ms      = usfmTokenValue( u"ms", phrase )
+ms2     = usfmTokenValue( u"ms2", phrase )
+s       = usfmToken(u"s")
+p       = usfmToken(u"p")
+c       = usfmTokenNumber(u"c")
+v       = usfmTokenNumber(u"v")
+wjs     = usfmToken(u"wj")
+wje     = usfmToken(u"wj*")
+q       = usfmToken(u"q")
+q1      = usfmToken(u"q1")
+q2      = usfmToken(u"q2")
+q3      = usfmToken(u"q3")
+qts     = usfmToken(u"qt")
+qte     = usfmToken(u"qt*")
+nb      = usfmToken(u"nb")
+fs      = usfmTokenValue(u"f", plus)
+fe      = usfmToken(u"f*")
 
 
-element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | qts | qte | nb | fs | fe | textBlock
+element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | textBlock
 usfm    = OneOrMore( element )
 
 # input string
-def parseString( aString ):
+def parseString( unicodeString ):
     try:
-        tokens = usfm.parseString( aString, parseAll=True )
+        tokens = usfm.parseString( unicodeString, parseAll=True )
     except Exception as e:
         print e
-        print aString[:50]
+        print repr(unicodeString[:50])
         sys.exit()
     return [createToken(t) for t in tokens]
 
 def createToken(t):
     options = {
-        'id':   IDToken,
-        'ide':  IDEToken,
-        'h':    HToken,
-        'mt':   MTToken,
-        'ms':   MSToken,
-        'ms2':  MS2Token,
-        'p':    PToken,
-        's':    SToken,
-        'c':    CToken,
-        'v':    VToken,
-        'wj':   WJSToken,
-        'wj*':  WJEToken,
-        'q':    QToken,
-        'q1':   Q1Token,
-        'q2':   Q2Token,
-        'nb':   NBToken,
-        'qt':   QTSToken,
-        'qt*':  QTEToken,
-        'f':    FSToken,
-        'f*':   FEToken,
-        'text': TEXTToken
+        u'id':   IDToken,
+        u'ide':  IDEToken,
+        u'h':    HToken,
+        u'mt':   MTToken,
+        u'ms':   MSToken,
+        u'ms2':  MS2Token,
+        u'p':    PToken,
+        u's':    SToken,
+        u'c':    CToken,
+        u'v':    VToken,
+        u'wj':   WJSToken,
+        u'wj*':  WJEToken,
+        u'q':    QToken,
+        u'q1':   Q1Token,
+        u'q2':   Q2Token,
+        u'q3':   Q3Token,
+        u'nb':   NBToken,
+        u'qt':   QTSToken,
+        u'qt*':  QTEToken,
+        u'f':    FSToken,
+        u'f*':   FEToken,
+        u'text': TEXTToken
     }
     for k, v in options.iteritems():
         if t[0] == k:
@@ -104,6 +106,7 @@ class UsfmToken(object):
     def isQ(self):      return False
     def isQ1(self):     return False
     def isQ2(self):     return False
+    def isQ3(self):     return False
     def isQTS(self):    return False
     def isQTE(self):    return False
     def isNB(self):     return False
@@ -189,6 +192,11 @@ class Q2Token(UsfmToken):
     def renderOn(self, printer):
         return printer.renderQ2(self)
     def isQ2(self):      return True
+
+class Q3Token(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderQ3(self)
+    def isQ3(self):      return True
 
 class NBToken(UsfmToken):
     def renderOn(self, printer):
