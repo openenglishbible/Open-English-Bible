@@ -24,3 +24,4 @@ Paragraphs added to:
 * 1 Corinthians
 * 1 John
 * 1 Peter
+* 1 Thessalonians
