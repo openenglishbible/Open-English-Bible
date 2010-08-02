@@ -25,3 +25,4 @@ Paragraphs added to:
 * 1 John
 * 1 Peter
 * 1 Thessalonians
+* 1 Timothy
