@@ -30,6 +30,8 @@ class HTMLPrinter(object):
     def renderQTE(self, token):      return u''
     def renderFS(self, token):      return u''
     def renderFE(self, token):      return u''
+    def renderIS(self, token):      return u'<i>'
+    def renderIE(self, token):      return u'</i>'
 
 class TransformToHTML(object):
 

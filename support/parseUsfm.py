@@ -38,9 +38,11 @@ qte     = usfmToken(u"qt*")
 nb      = usfmToken(u"nb")
 fs      = usfmTokenValue(u"f", plus)
 fe      = usfmToken(u"f*")
+ist     = usfmToken(u"i")
+ien     = usfmToken(u"i*")
 
 
-element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | textBlock
+element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | textBlock
 usfm    = OneOrMore( element )
 
 # input string
@@ -76,6 +78,8 @@ def createToken(t):
         u'qt*':  QTEToken,
         u'f':    FSToken,
         u'f*':   FEToken,
+        u'i':    ISToken,
+        u'i*':   IEToken,
         u'text': TEXTToken
     }
     for k, v in options.iteritems():
@@ -112,6 +116,8 @@ class UsfmToken(object):
     def isNB(self):     return False
     def isFS(self):    return False
     def isFE(self):    return False
+    def isIS(self):    return False
+    def isIE(self):    return False
 
 class IDToken(UsfmToken):
     def renderOn(self, printer):
@@ -222,4 +228,14 @@ class FEToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderFE(self)
     def isFE(self):      return True
+
+class ISToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderIS(self)
+    def isIS(self):      return True
+
+class IEToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderIE(self)
+    def isIE(self):      return True
 

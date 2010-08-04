@@ -13,7 +13,7 @@ class TexPrinter(object):
             self.printerState[u'narrower'] = False
             s = s + u'\stopnarrower'
         else:
-            s = s + u'\\blank[small]'
+            s = s + u'\\blank[medium]'
         self.printerState[u'narrower'] = True
         s = s + u'\startnarrower[' + str(n) + u'*left,1*right]\indenting[no]'
         return s
@@ -22,7 +22,7 @@ class TexPrinter(object):
         s = u''
         if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
             self.printerState[u'narrower'] = False
-            s = s + u'\\blank[small]\stopnarrower'
+            s = s + u'\\blank[medium]\stopnarrower'
         return s
 
     def markForSmallCaps(self):
@@ -37,7 +37,7 @@ class TexPrinter(object):
     def smallCapText(self, s):
          i = 0
          while i < len(s):
-             if i < 40:  #we are early, look for comma
+             if i < 30:  #we are early, look for comma
                  if s[i] == u',' or s[i] == u';' or s[i:i+3] == u'and':
                      s = u'\CapStretch{' + s[:i] + u'}' + s[i:]
                      return s
@@ -53,10 +53,10 @@ class TexPrinter(object):
     def renderIDE(self, token):     return u''
     def renderH(self, token):       return u'\RAHeader{' + token.value + u'} '
     def renderMT(self, token):      return self.stopNarrower() + u'\MT{' + token.value + u'} '
-    def renderMS(self, token):      return self.stopNarrower() + u'\MS{' + token.value + u'} '
-    def renderMS2(self, token):     return self.stopNarrower() + u'\MSS{' + token.value + '} '
+    def renderMS(self, token):      self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'} ' + u'\\blank[medium]\indenting[no]\par '
+    def renderMS2(self, token):     self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '} ' + u'\\blank[medium]\indenting[no]\par '
     def renderP(self, token):       return self.stopNarrower() + u'\indenting[yes]\par '
-    def renderS(self, token):       self.markForSmallCaps() ; return self.stopNarrower() + u'\\blank\indenting[no]\par '
+    def renderS(self, token):       self.markForSmallCaps() ; return self.stopNarrower() + u'\\blank[medium]\indenting[no]\par '
     def renderC(self, token):
         if not token.value == u'1':
             return u'\n \C{' + token.value + u'} '
@@ -79,6 +79,8 @@ class TexPrinter(object):
     def renderQTE(self, token):     return u''
     def renderFS(self, token):      return u'\\footnote{'
     def renderFE(self, token):      return u'}'
+    def renderIS(self, token):      return u'{\em '
+    def renderIE(self, token):      return u'}'
 
 class TransformToContext(object):
 

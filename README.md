@@ -1,7 +1,6 @@
 Open English Bible
 ==================
 
-
 About
 -----
 
@@ -26,3 +25,16 @@ Paragraphs added to:
 * 1 Peter
 * 1 Thessalonians
 * 1 Timothy
+* 2 Corinthians
+* 2 John
+* 2 Peter
+* 2 Thessalonians
+* 2 Timothy
+* 3 John
+* Acts
+* Colossians
+* Ephesians
+* Galations
+* Hebrews
+* James
+
