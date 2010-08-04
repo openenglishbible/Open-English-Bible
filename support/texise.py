@@ -56,7 +56,7 @@ class TexPrinter(object):
     def renderMS(self, token):      self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'} ' + u'\\blank[medium]\indenting[no]\par '
     def renderMS2(self, token):     self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '} ' + u'\\blank[medium]\indenting[no]\par '
     def renderP(self, token):       return self.stopNarrower() + u'\indenting[yes]\par '
-    def renderS(self, token):       self.markForSmallCaps() ; return self.stopNarrower() + u'\\blank[medium]\indenting[no]\par '
+    def renderS(self, token):       return self.stopNarrower() + u'\\blank[medium]\indenting[yes]\par '
     def renderC(self, token):
         if not token.value == u'1':
             return u'\n \C{' + token.value + u'} '
@@ -191,15 +191,15 @@ class TransformToContext(object):
         \setuppagenumbering [alternative=doublesided]
         \setuplayout [location=middle, marking=on]
 
-    %	\definefontsynonym [HoeflerTextRegular] [file:HoeflerText-Regular] [features=default]
-    %	\definefontsynonym [HoeflerTextItalic] [file:HoeflerText-Italic] [features=default]
-    %	\definefontsynonym [HoeflerTextBold] [file:HoeflerText-Black] [features=default]
-    %	\definefontsynonym [Serif] [HoeflerTextRegular]
-    %	\definefontsynonym [SerifBold] [HoeflerTextBold]
-    %	\definefontsynonym [SerifItalic] [HoeflerTextItalic]
+   % 	\definefontsynonym [HoeflerTextRegular] [file:HoeflerText-Regular] [features=default]
+   % 	\definefontsynonym [HoeflerTextItalic] [file:HoeflerText-Italic] [features=default]
+   % 	\definefontsynonym [HoeflerTextBold] [file:HoeflerText-Black] [features=default]
+   % 	\definefontsynonym [Serif] [HoeflerTextRegular]
+   % 	\definefontsynonym [SerifBold] [HoeflerTextBold]
+   % 	\definefontsynonym [SerifItalic] [HoeflerTextItalic]
 
         \usetypescript[pagella][handling][highquality]
-    %	\definefontfeature [hz] [default] [protrusion=pure, mode=node, script=latn]
+    	\definefontfeature [hz] [default] [protrusion=pure, mode=node, script=latn]
     %	\definetypeface [biblefont] [rm] [serif] [pagella] [default] [features=hz]
         \setupbodyfont [pagella, 10.5pt]
         \setupalign [handling]

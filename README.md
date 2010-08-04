@@ -16,10 +16,8 @@ As such, the OEB as a translation does not stand within the Tyndale tradition bu
 Notes
 -----
 
-Paragraphs added to:
+Paragraphs added to (in alphabetical order):
 
-* Mark
-* Matthew
 * 1 Corinthians
 * 1 John
 * 1 Peter
@@ -37,4 +35,12 @@ Paragraphs added to:
 * Galations
 * Hebrews
 * James
-
+* John
+* Jude
+* Luke
+* Mark
+* Matthew
+* Philemon
+* Revelation
+* Romans
+* Titus
