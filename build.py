@@ -7,6 +7,7 @@ import getopt
 import patch
 import texise
 import htmlise
+import readerise
 
 def runscript(c, prefix=''):
     pp = Popen(c, shell=True, stdout=PIPE)
@@ -37,6 +38,7 @@ def buildAll():
 
     buildPDF()
     buildWeb()
+    buildReader()
 
 def buildPDF():
 
@@ -56,12 +58,18 @@ def buildWeb():
     # Convert to HTML
     print '#### Building HTML...'
     c = htmlise.TransformToHTML()
-    c.setupAndRun('patched', 'preface', 'built')
+    c.setupAndRun('patched', 'preface', 'built/html')
+
+def buildReader():
+	    # Convert to HTML
+	    print '#### Building for Reader...'
+	    c = readerise.TransformForReader()
+	    c.setupAndRun('patched', 'preface', 'built/reader')
 
 def main(argv):
     print '#### Starting Build.'
     try:
-        opts, args = getopt.getopt(argv, "shawpg:d", ["setup", "help", "all", "web", "patch", "grammar="])
+        opts, args = getopt.getopt(argv, "shawpg:dr", ["setup", "help", "all", "web", "patch", "reader", "grammar="])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -79,8 +87,10 @@ def main(argv):
         elif opt in ("-p", "--patch"):
             doPatch()
             buildWeb()
+        elif opt in ("-r", "--reader"):
+            doPatch()
+            buildReader()
     print '#### Finished.'
-
 
 def usage():
     print """
@@ -94,6 +104,7 @@ def usage():
         -a or --all to build all books in all targets
         -w or --web to build web version only
         -p or --patch to patch only
+        -r or --reader to build reader files only
     """
 
 if __name__ == "__main__":

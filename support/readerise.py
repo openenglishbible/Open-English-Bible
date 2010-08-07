@@ -34,57 +34,11 @@ class ReaderPrinter(object):
         self.write(u'&nbsp;&nbsp;&nbsp;&nbsp;' * level)
 
     def renderID(self, token): 
-        self.write(u'</p></div></body>')
+        self.write(u'</p></article>')
         self.f.close()
         self.cb = self.books[token.value]
-        self.f = open(self.outputDir + u'/b' + self.cb + u'.html', 'w')
-        self.write("""
-        <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-        <html xmlns="http://www.w3.org/1999/xhtml">
-        <head>
-            <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-            <title>Open English Bible</title>
-        </head>
-		<style media="all" type="text/css">
-		h2.c-num { position:absolute; margin-left:-30px; color: #AAAAAA; }
-		span.v-num-1 { display : none; }
-		span.v-num { color: #AAAAAA; font-size: small}
-		</style>
-        <body>
-        <div style="position:absolute;margin-left:5;width:190px">
-        <p><b>Books</b></p>
-        <ul>
-        <li><a href="b040.html">Matthew</a></li>
-        <li><a href="b041.html">Mark</a></li>
-        <li><a href="b042.html">Luke</a></li>
-        <li><a href="b043.html">John</a></li>
-        <li><a href="b044.html">Acts</a></li>
-        <li><a href="b045.html">Romans</a></li>
-        <li><a href="b046.html">1 Corinthians</a></li>
-        <li><a href="b047.html">2 Corinthians</a></li>
-        <li><a href="b048.html">Galatians</a></li>
-        <li><a href="b049.html">Ephesians</a></li>
-        <li><a href="b050.html">Philippians</a></li>
-        <li><a href="b051.html">Colossians</a></li>
-        <li><a href="b052.html">1 Thessalonians</a></li>
-        <li><a href="b053.html">2 Thessalonians</a></li>
-        <li><a href="b054.html">1 Timothy</a></li>
-        <li><a href="b055.html">2 Timothy</a></li>
-        <li><a href="b056.html">Titus</a></li>
-        <li><a href="b057.html">Philemon</a></li>
-        <li><a href="b058.html">Hebrews</a></li>
-        <li><a href="b059.html">James</a></li>
-        <li><a href="b060.html">1 Peter</a></li>
-        <li><a href="b061.html">2 Peter</a></li>
-        <li><a href="b062.html">1 John</a></li>
-        <li><a href="b063.html">2 John</a></li>
-        <li><a href="b064.html">3 John</a></li>
-        <li><a href="b065.html">Jude</a></li>
-        <li><a href="b066.html">Revelation</a></li>
-        </ul>
-        </div>
-        <div style="margin-left:200px">
-        """)
+        self.f = open(self.outputDir + u'/c' + self.cb + u'001.html', 'w')
+        self.write(u'<article class="chapter nt oeb" lang="en" dir="ltr" rel="c' + self.cb + u'001">')
         self.indentFlag = False
     def renderIDE(self, token):     pass
     def renderH(self, token):       self.write(u'</p><h1 class="bookname">' + token.value + u'</h1><p>')
@@ -96,10 +50,17 @@ class ReaderPrinter(object):
         self.write(u'<br /><br />')
     def renderS(self, token):
         self.indentFlag = False
-        self.write(u'</p><p align="center">_________________________</p><p>')
+        self.write(u'</p><p align="center">___________________________________________________</p><p>')
     def renderC(self, token):
         self.cc = token.value.zfill(3)
-        self.write(u'<h2 class="c-num">' + token.value + u'</h2><p>')
+        if self.cc == u'001':
+            self.write(u'<h2 class="c-num">' + token.value + u'</h2><p>')
+        else:
+            self.write(u'<p></article>')
+            self.f.close()
+            self.f = open(self.outputDir + u'/c' + self.cb + self.cc + u'.html', 'w')
+            self.write(u'<article class="chapter nt oeb" lang="en" dir="ltr" rel="c' + self.cb + self.cc + u'">\n')
+            self.write(u'<h2 class="c-num">' + token.value + u'</h2><p>\n')        
     def renderV(self, token):
         self.cv = token.value.zfill(3)
         if self.cv == u'001':
@@ -151,7 +112,7 @@ class ReaderPrinter(object):
     u'REV': u'066'
     }
 
-class TransformToHTML(object):
+class TransformForReader(object):
     outputDir = ''
     patchedDir = ''
     prefaceDir = ''
@@ -204,56 +165,3 @@ class TransformToHTML(object):
                     'Revelation']
         for book in books:
             self.translateBook(book)
-
-        
-        index = u""""<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-            <html xmlns="http://www.w3.org/1999/xhtml">
-            <head>
-                <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-                <title>Open English Bible</title>
-            </head>
-            <body>
-            <div style="position:absolute;left-margin:5;width:200px">
-            <p><b>Books</b></p>
-            <ul>
-            <li><a href="b040.html">Matthew</a></li>
-            <li><a href="b041.html">Mark</a></li>
-            <li><a href="b042.html">Luke</a></li>
-            <li><a href="b043.html">John</a></li>
-            <li><a href="b044.html">Acts</a></li>
-            <li><a href="b045.html">Romans</a></li>
-            <li><a href="b046.html">1 Corinthians</a></li>
-            <li><a href="b047.html">2 Corinthians</a></li>
-            <li><a href="b048.html">Galatians</a></li>
-            <li><a href="b049.html">Ephesians</a></li>
-            <li><a href="b050.html">Philippians</a></li>
-            <li><a href="b051.html">Colossians</a></li>
-            <li><a href="b052.html">1 Thessalonians</a></li>
-            <li><a href="b053.html">2 Thessalonians</a></li>
-            <li><a href="b054.html">1 Timothy</a></li>
-            <li><a href="b055.html">2 Timothy</a></li>
-            <li><a href="b056.html">Titus</a></li>
-            <li><a href="b057.html">Philemon</a></li>
-            <li><a href="b058.html">Hebrews</a></li>
-            <li><a href="b059.html">James</a></li>
-            <li><a href="b060.html">1 Peter</a></li>
-            <li><a href="b061.html">2 Peter</a></li>
-            <li><a href="b062.html">1 John</a></li>
-            <li><a href="b063.html">2 John</a></li>
-            <li><a href="b064.html">3 John</a></li>
-            <li><a href="b065.html">Jude</a></li>
-            <li><a href="b066.html">Revelation</a></li>
-            </ul>
-            </div>
-            <div style="margin-left:200px">
-            <h1>Open English Bible</h1>
-            <p>Working Release (7 August 2010)</p>
-            </div>
-            </body>
-            </html>
-            """
-    
-        f = open(self.outputDir + u'/index.html', 'w')
-        f.write(index.encode('utf-8'))
-        f.close()
-        
