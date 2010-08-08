@@ -5,14 +5,24 @@ import os
 import commands
 import sys
 
+def listDirectory(directory):                                        
+    allfiles = []
+ 
+    for root, dirs, files in os.walk(directory):
+        for f in files:
+            if f.endswith('.patch'):
+                allfiles.append(os.path.join(root, f))
+                    
+    return allfiles
+
 class Patcher(object):
 
     def setup(self, sourceDir, patchDir, outputDir):
         self.sourceDir = sourceDir
         self.patchDir = patchDir
         self.outputDir = outputDir
-        self.patches = os.listdir(self.patchDir)
-        self.patches = [p[:-6] for p in self.patches if p[-6:] == '.patch']
+        self.patches = listDirectory(self.patchDir)
+        print self.patches
         self.books = os.listdir(self.sourceDir)
         self.books = [b[:-5] for b in self.books if b[-5:] == '.usfm']
     
@@ -48,7 +58,7 @@ class Patcher(object):
     def applyPatchToBook(self, b, s, patch):
         self.debugPrint('    ' + patch)
 
-        f = open(self.patchDir + '/' + patch + '.patch')
+        f = open(patch)
         p = unicode(f.read(), 'utf-8').strip()
         f.close()
 
@@ -67,6 +77,7 @@ class Patcher(object):
 			v = x[0].split(':')[1]
 			b = x[1].split('->')[0].strip()
 			a = x[1].split('->')[1].strip()
+			if a == '~': a = ''
 	
 			r = self.rangeOfChapter(s,c,0,len(s))
 			r = self.rangeOfVerse(s,v,r[0],r[1])

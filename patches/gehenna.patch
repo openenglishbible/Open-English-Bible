@@ -1,15 +1,22 @@
 ; Policy decision - use Gehenna
 
 In Mark:
-	9:43	the Pit		->		Gehenna
-	9:45	the Pit		->		Gehenna
-	9:47	the Pit		->		Gehenna
+    9:43    the Pit           ->        Gehenna
+    9:45    the Pit           ->        Gehenna
+    9:47    the Pit           ->        Gehenna
 
 In Matthew:
-	5:22	the fiery Pit	->		 fiery Gehenna
-	5:29	the Pit		->		Gehenna
-	5:30	the Pit		->		Gehenna
-	10:28	the Pit		->		Gehenna
-	23:15	the Pit		->		Gehenna
-	23:33	the Pit		->		Gehenna
-	
+    5:22    the fiery Pit     ->        fiery Gehenna
+    5:29    the Pit           ->        Gehenna
+    5:30    the Pit           ->        Gehenna
+    10:28   the Pit           ->        Gehenna
+    18:9    the fiery Pit     ->        fiery Gehenna
+    23:15   the Pit           ->        Gehenna
+    23:33   the Pit           ->        Gehenna
+    
+In Luke:
+    12:5    the Pit           ->        Gehenna
+
+In James:
+    3:6     the Pit           ->        Gehenna 
+
