@@ -50,7 +50,7 @@ class ReaderPrinter(object):
         self.write(u'<br /><br />')
     def renderS(self, token):
         self.indentFlag = False
-        self.write(u'</p><p align="center">___________________________________________________</p><p>')
+        self.write(u'</p><p align="center">_____</p><p>')
     def renderC(self, token):
         self.cc = token.value.zfill(3)
         if self.cc == u'001':

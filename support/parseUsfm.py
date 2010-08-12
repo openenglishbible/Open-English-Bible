@@ -25,6 +25,7 @@ ms      = usfmTokenValue( u"ms", phrase )
 ms2     = usfmTokenValue( u"ms2", phrase )
 s       = usfmToken(u"s")
 p       = usfmToken(u"p")
+b       = usfmToken(u"b")
 c       = usfmTokenNumber(u"c")
 v       = usfmTokenNumber(u"v")
 wjs     = usfmToken(u"wj")
@@ -42,7 +43,7 @@ ist     = usfmToken(u"i")
 ien     = usfmToken(u"i*")
 
 
-element = ide | id | h | mt | ms | ms2 | s | p | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | textBlock
+element = ide | id | h | mt | ms | ms2 | s | p | b | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | textBlock
 usfm    = OneOrMore( element )
 
 # input string
@@ -64,6 +65,7 @@ def createToken(t):
         u'ms':   MSToken,
         u'ms2':  MS2Token,
         u'p':    PToken,
+        u'b':    BToken,
         u's':    SToken,
         u'c':    CToken,
         u'v':    VToken,
@@ -101,6 +103,7 @@ class UsfmToken(object):
     def isMS(self):     return False
     def isMS2(self):    return False
     def isP(self):      return False
+    def isB(self):      return False
     def isS(self):      return False
     def isC(self):      return False
     def isV(self):      return False
@@ -153,6 +156,11 @@ class PToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderP(self)
     def isP(self):      return True
+
+class BToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderB(self)
+    def isB(self):      return True
 
 class CToken(UsfmToken):
     def renderOn(self, printer):

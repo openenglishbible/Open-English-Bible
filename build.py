@@ -90,6 +90,8 @@ def main(argv):
         elif opt in ("-r", "--reader"):
             doPatch()
             buildReader()
+        else:
+            usage()
     print '#### Finished.'
 
 def usage():

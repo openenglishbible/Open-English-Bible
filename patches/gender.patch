@@ -137,14 +137,16 @@ In Matthew:
 	23:11	man			->		person
 	24:13	man			->		person
 	10:37	He			->		Anyone
-	5:9   	Sons 		->  Children
-	5:22   	his brother shall be liable to answer for it to the Court; and whoever pours contempt upon his brother shall be liable to answer for it to the High Council, while whoever calls down curses upon him ->  their brother or sister shall be liable to answer for it to the Court; and whoever pours contempt upon their brother or sister shall be liable to answer for it to the High Council, while whoever calls down curses upon them
-	5:23   	has 		->  or sister has
-	5:24   	your brother, ->  them,
+	5:9   	Sons 		->      Children
+	5:22   	his brother ->      their brother or sister
+	5:22   	his brother ->      their brother or sister	
+	5:22    him         ->      them
+	5:23   	has 		->      or sister has
+	5:24   	your brother ->     them
 	5:25   	him on your way to the court; for fear that he should hand you over to the judge, and the judge to his ->  them on your way to the court; for fear that they should hand you over to the judge, and the judge to judge's
 	5:39   	him 		->  them
 	5:40   	him 		->  them
-	5:41   	him.\wj* 	->  them.\wj*
+	5:41   	him 	->  them
 	5:42   	him who asks of you; and, from him ->  the person who asks of you; and, from the person
 	5:45   	Sons 		->  Children
 	5:47   	only, 		->  and sisters only,

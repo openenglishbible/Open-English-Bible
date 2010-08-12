@@ -56,6 +56,7 @@ class TexPrinter(object):
     def renderMS(self, token):      self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'} ' + u'\\blank[medium]\indenting[no]\par '
     def renderMS2(self, token):     self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '} ' + u'\\blank[medium]\indenting[no]\par '
     def renderP(self, token):       return self.stopNarrower() + u'\indenting[yes]\par '
+    def renderB(self, token):       return self.stopNarrower() + u'\\blank\indenting[yes]\par '
     def renderS(self, token):       return self.stopNarrower() + u'\\blank[medium]\indenting[yes]\par '
     def renderC(self, token):
         if not token.value == u'1':
@@ -286,7 +287,8 @@ class TransformToContext(object):
                     '2 John',
                     '3 John',
                     'Jude',
-                    'Revelation']
+                    'Revelation',
+                    'Psalms']
         preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         bookTex = preface
         for book in books:

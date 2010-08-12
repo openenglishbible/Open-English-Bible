@@ -29,7 +29,7 @@ def compare(sbefore, safter):
     return (sbefore[i:-i2], safter[i:-i2])
 
 def isBreak(s):
-    for c in " \n":
+    for c in """\n\t -.,!? —‘“”’;:()'"[]""":
         if c == s: return True
     return False
 
