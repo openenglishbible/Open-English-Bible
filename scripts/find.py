@@ -61,6 +61,7 @@ def findInBook(find, book, replace):
             (i, v) = findElement(book, i)
         if book[i:i+len(find)] == find and isSeparator(book[i-1]) and isSeparator(book[i+len(find)]):
             context = (u'    ' + str(c) + u':' + str(v)).ljust(12)
+            p = p + u'    ; ' + book[i-20:i+80].replace(u'\n', u' ') + u'\n'
             p = p + context + find + u'  ->  ' + replace + u'\n'
             i = i + len(find)
         i = i + 1
