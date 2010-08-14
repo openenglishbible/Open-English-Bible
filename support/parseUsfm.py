@@ -5,13 +5,18 @@ import sys
 
 from pyparsing import Word, alphas, OneOrMore, nums, Literal, White, Group, Suppress, Empty, NoMatch, Optional, CharsNotIn
 
-def usfmToken(key): return Group(Suppress(backslash) + Literal( key ) + Suppress(White()))
-def usfmTokenValue(key, value): return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + value )
-def usfmTokenNumber(key): return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + Word (nums) + Suppress(White()))
+def usfmToken(key):
+    return Group(Suppress(backslash) + Literal( key ) + Suppress(White()))
+def usfmEndToken(key): 
+    return Group(Suppress(backslash) + Literal( key +  u"*"))
+def usfmTokenValue(key, value): 
+    return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + value )
+def usfmTokenNumber(key): 
+    return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + Word (nums) + Suppress(White()))
 
 
 # define grammar
-phrase      = Word( alphas + u"-.,!? —–‘“”’;:()'\"[]" + nums )
+phrase      = Word( alphas + u"-.,!? —–‘“”’;:()'\"[]/&%=" + nums )
 backslash   = Literal(u"\\")
 plus        = Literal(u"+")
 
@@ -22,6 +27,7 @@ ide     = usfmTokenValue( u"ide", phrase )
 h       = usfmTokenValue( u"h", phrase )
 mt      = usfmTokenValue( u"mt", phrase )
 ms      = usfmTokenValue( u"ms", phrase )
+ms1     = usfmTokenValue( u"ms1", phrase )
 ms2     = usfmTokenValue( u"ms2", phrase )
 s       = usfmToken(u"s")
 p       = usfmToken(u"p")
@@ -29,21 +35,26 @@ b       = usfmToken(u"b")
 c       = usfmTokenNumber(u"c")
 v       = usfmTokenNumber(u"v")
 wjs     = usfmToken(u"wj")
-wje     = usfmToken(u"wj*")
+wje     = usfmEndToken(u"wj")
 q       = usfmToken(u"q")
 q1      = usfmToken(u"q1")
 q2      = usfmToken(u"q2")
 q3      = usfmToken(u"q3")
 qts     = usfmToken(u"qt")
-qte     = usfmToken(u"qt*")
+qte     = usfmEndToken(u"qt")
 nb      = usfmToken(u"nb")
 fs      = usfmTokenValue(u"f", plus)
-fe      = usfmToken(u"f*")
+fe      = usfmEndToken(u"f")
 ist     = usfmToken(u"i")
-ien     = usfmToken(u"i*")
+ien     = usfmEndToken(u"i")
+li      = usfmToken(u"li")
+d       = usfmToken(u"d")
+sp      = usfmToken(u"sp")
+adds    = usfmToken(u"add")
+adde    = usfmEndToken(u"add")
 
 
-element = ide | id | h | mt | ms | ms2 | s | p | b | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | textBlock
+element = ide | id | h | mt | ms | ms1 | ms2 | s | p | b | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | li | d | sp | adds | adde | textBlock
 usfm    = OneOrMore( element )
 
 # input string
@@ -63,6 +74,7 @@ def createToken(t):
         u'h':    HToken,
         u'mt':   MTToken,
         u'ms':   MSToken,
+        u'ms1':  MSToken,
         u'ms2':  MS2Token,
         u'p':    PToken,
         u'b':    BToken,
@@ -82,6 +94,13 @@ def createToken(t):
         u'f*':   FEToken,
         u'i':    ISToken,
         u'i*':   IEToken,
+        u'li':   LIToken,
+        u'd':    DToken,
+        u'sp':   SPToken,
+        u'i*':   IEToken,
+        u'li':   LIToken,
+        u'add':  ADDSToken,
+        u'add*': ADDEToken,
         u'text': TEXTToken
     }
     for k, v in options.iteritems():
@@ -117,11 +136,16 @@ class UsfmToken(object):
     def isQTS(self):    return False
     def isQTE(self):    return False
     def isNB(self):     return False
-    def isFS(self):    return False
-    def isFE(self):    return False
-    def isIS(self):    return False
-    def isIE(self):    return False
-
+    def isFS(self):     return False
+    def isFE(self):     return False
+    def isIS(self):     return False
+    def isIE(self):     return False
+    def isLI(self):     return False
+    def isD(self):      return False
+    def isSP(self):     return False
+    def isADDS(self):   return False
+    def isADDE(self):   return False
+    
 class IDToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderID(self)
@@ -247,3 +271,27 @@ class IEToken(UsfmToken):
         return printer.renderIE(self)
     def isIE(self):      return True
 
+class LIToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderLI(self)
+    def isLI(self):      return True
+
+class DToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderD(self)
+    def isD(self):      return True
+    
+class SPToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderSP(self)
+    def isSP(self):      return True
+    
+class ADDSToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderADDS(self)
+    def isADDS(self):    return True
+
+class ADDEToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderADDE(self)
+    def isADDE(self):    return True

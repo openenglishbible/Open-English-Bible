@@ -5,7 +5,7 @@ import parseUsfm
 
 class TexPrinter(object):
     def __init__(self):
-        self.printerState = {}
+        self.printerState = {u'li': False, u'narrower': False, u'd': False}
 
     def startNarrower(self, n):
         s = u''
@@ -25,6 +25,9 @@ class TexPrinter(object):
             s = s + u'\\blank[medium]\stopnarrower'
         return s
 
+    def escapeText(self, s):
+        return s.replace('&', '\\&').replace('%', '\\%')
+ 
     def markForSmallCaps(self):
         self.printerState[u'smallcaps'] = True
 
@@ -48,16 +51,42 @@ class TexPrinter(object):
                      return s
                  i = i + 1
          return u'\CapStretch{' + s + u'}'
+         
+    def startLI(self):
+        if self.printerState[u'li'] == False:
+            self.printerState[u'li'] = True
+            return u'\startitemize \item '
+        else:
+            return u'\item '
+        
+    def stopLI(self):
+        if self.printerState[u'li'] == False:
+            return u''
+        else:
+            self.printerState[u'li'] = False
+            return u'\stopitemize'
 
+    def startD(self):
+        if self.printerState[u'd'] == False:
+            self.printerState[u'd'] = True
+        return u'\par {\startalignment[center] \em '
+
+    def stopD(self):
+        if self.printerState[u'd'] == False:
+            return u''
+        else:
+            self.printerState[u'd'] = False
+            return u'\stopalignment }'
+                    
     def renderID(self, token):      return u''
     def renderIDE(self, token):     return u''
     def renderH(self, token):       return u'\RAHeader{' + token.value + u'} '
-    def renderMT(self, token):      return self.stopNarrower() + u'\MT{' + token.value + u'} '
+    def renderMT(self, token):      return self.stopLI() + self.stopNarrower() + u'\MT{' + token.value + u'} '
     def renderMS(self, token):      self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'} ' + u'\\blank[medium]\indenting[no]\par '
     def renderMS2(self, token):     self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '} ' + u'\\blank[medium]\indenting[no]\par '
-    def renderP(self, token):       return self.stopNarrower() + u'\indenting[yes]\par '
-    def renderB(self, token):       return self.stopNarrower() + u'\\blank\indenting[yes]\par '
-    def renderS(self, token):       return self.stopNarrower() + u'\\blank[medium]\indenting[yes]\par '
+    def renderP(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\indenting[yes]\par '
+    def renderB(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank\indenting[yes]\par '
+    def renderS(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank[medium]\indenting[yes]\par '
     def renderC(self, token):
         if not token.value == u'1':
             return u'\n \C{' + token.value + u'} '
@@ -70,19 +99,26 @@ class TexPrinter(object):
             return ''
     def renderWJS(self, token):     return u""
     def renderWJE(self, token):     return u""
-    def renderTEXT(self, token):    return u" " + self.renderSmallCaps(token.value) + u" "
-    def renderQ(self, token):       return self.startNarrower(1)
-    def renderQ1(self, token):      return self.startNarrower(1)
-    def renderQ2(self, token):      return self.startNarrower(2)
-    def renderQ3(self, token):      return self.startNarrower(3)
-    def renderNB(self, token):      return self.stopNarrower() + u"\indenting[no]\par "
+    def renderTEXT(self, token):
+        s = self.escapeText(token.value)
+        return u" " + self.renderSmallCaps(s) + u" "
+    def renderQ(self, token):       return self.stopD() + self.stopLI() + self.startNarrower(1)
+    def renderQ1(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(1)
+    def renderQ2(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(2)
+    def renderQ3(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(3)
+    def renderNB(self, token):      return self.stopD() + self.stopLI() + self.stopNarrower() + u"\indenting[no]\par "
     def renderQTS(self, token):     return u''
     def renderQTE(self, token):     return u''
     def renderFS(self, token):      return u'\\footnote{'
     def renderFE(self, token):      return u'}'
     def renderIS(self, token):      return u'{\em '
     def renderIE(self, token):      return u'}'
-
+    def renderADDS(self, token):    return u'{\em '
+    def renderADDE(self, token):    return u'}'
+    def renderLI(self, token):      return self.startLI()
+    def renderD(self, token):       return self.startD()
+    def renderSP(self, token):      return self.startD()
+    
 class TransformToContext(object):
 
     def markShortVerses(self, tokens):
@@ -164,7 +200,7 @@ class TransformToContext(object):
     def translateBook(self, name):
 
         f = open(self.patchedDir + '/' + name + '.usfm')
-        fc = unicode(f.read(), 'utf-8')
+        fc = self.stripUnicodeHeader(unicode(f.read(), 'utf-8'))
         f.close()
 
         tokens = parseUsfm.parseString(fc)
@@ -177,6 +213,12 @@ class TransformToContext(object):
         s = s + u"\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
 
         return s
+        
+    def stripUnicodeHeader(self, unicodeString):
+        if unicodeString[0] == u'\ufeff':
+            return unicodeString[1:]
+        else:
+            return unicodeString
 
     def saveAll(self, allBooks):
 
@@ -287,10 +329,11 @@ class TransformToContext(object):
                     '2 John',
                     '3 John',
                     'Jude',
-                    'Revelation',
-                    'Psalms']
+                    'Revelation']
+                 
         preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         bookTex = preface
         for book in books:
             bookTex = bookTex + self.translateBook(book)
+            print '      (' + book + ')'
         self.saveAll(bookTex)

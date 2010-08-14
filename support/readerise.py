@@ -36,7 +36,7 @@ class ReaderPrinter(object):
     def renderID(self, token): 
         self.write(u'</p></article>')
         self.f.close()
-        self.cb = self.books[token.value]
+        self.cb = self.books[token.value[:3]]
         self.f = open(self.outputDir + u'/c' + self.cb + u'001.html', 'w')
         self.write(u'<article class="chapter nt oeb" lang="en" dir="ltr" rel="c' + self.cb + u'001">')
         self.indentFlag = False
@@ -67,6 +67,7 @@ class ReaderPrinter(object):
             self.write(u'\n<span class="verse" rel="v' + self.cb + self.cc + self.cv + u'"><span class="v-num-1">' + token.value + u'&nbsp;</span>\n')
         else:
             self.write(u'</span>\n<span class="verse" rel="v' + self.cb + self.cc + self.cv + u'"><span class="v-num">' + token.value + u'&nbsp;</span>\n')
+ 
     def renderWJS(self, token):     self.write(u'<span class="woc">')
     def renderWJE(self, token):     self.write(u'</span>')
     def renderTEXT(self, token):    self.write(u" " + token.value + u" ")
@@ -77,12 +78,58 @@ class ReaderPrinter(object):
     def renderNB(self, token):      self.writeIndent(0)
     def renderQTS(self, token):     pass
     def renderQTE(self, token):     pass
-    def renderFS(self, token):      pass
-    def renderFE(self, token):      pass
+    def renderFS(self, token):      self.write(u'{')
+    def renderFE(self, token):      self.write(u'}')
     def renderIS(self, token):      self.write(u'<i>')
     def renderIE(self, token):      self.write(u'</i>')
+    def renderB(self, token):       self.write(u'<p />')
+    def renderD(self, token):       self.write(u'<p />')
+    def renderADDS(self, token):    self.write(u'<i>')
+    def renderADDE(self, token):    self.write(u'</i>')
+    def renderLI(self, token):      self.write(u'<p />')
+    def renderSP(self, token):      self.write(u'<p />')
+    
 
     books = {
+    u'GEN': u'001',
+    u'EXO': u'002',
+    u'LEV': u'003',
+    u'NUM': u'004',
+    u'DEU': u'005',
+    u'JOS': u'006',
+    u'JDG': u'007',
+    u'RUT': u'008',
+    u'1SA': u'009',
+    u'2SA': u'010',
+    u'1KI': u'011',
+    u'2KI': u'012',
+    u'1CH': u'013',
+    u'2CH': u'014',
+    u'EZR': u'015',
+    u'NEH': u'016',
+    u'EST': u'017',
+    u'JOB': u'018',
+    u'PSA': u'019',
+    u'PRO': u'020',
+    u'ECC': u'021',
+    u'SNG': u'022',
+    u'ISA': u'023',
+    u'JER': u'024',
+    u'LAM': u'025',
+    u'EZK': u'026',
+    u'DAN': u'027',
+    u'HOS': u'028',
+    u'JOL': u'029',
+    u'AMO': u'030',
+    u'OBA': u'031',
+    u'JON': u'032',
+    u'MIC': u'033',
+    u'NAM': u'034',
+    u'HAB': u'035',
+    u'ZEP': u'036',
+    u'HAG': u'037',
+    u'ZEC': u'038',
+    u'MAL': u'039',
     u'MAT': u'040',
     u'MRK': u'041',
     u'LUK': u'042',
@@ -116,11 +163,17 @@ class TransformForReader(object):
     outputDir = ''
     patchedDir = ''
     prefaceDir = ''
+    
+    def stripUnicodeHeader(self, unicodeString):
+        if unicodeString[0] == u'\ufeff':
+            return unicodeString[1:]
+        else:
+            return unicodeString
 
     def translateBook(self, name):
 
         f = open(self.patchedDir + '/' + name + '.usfm')
-        fc = unicode(f.read(), 'utf-8')
+        fc = self.stripUnicodeHeader(unicode(f.read(), 'utf-8'))
         f.close()
 
         print '        > ' + name
@@ -163,5 +216,7 @@ class TransformForReader(object):
                     '3 John',
                     'Jude',
                     'Revelation']
+        
         for book in books:
             self.translateBook(book)
+ 
