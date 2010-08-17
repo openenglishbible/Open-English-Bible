@@ -13,6 +13,7 @@ def listDirectory(directory):
             if f.endswith('.patch'):
                 allfiles.append(os.path.join(root, f))
                     
+    allfiles.sort()
     return allfiles
 
 class Patcher(object):
@@ -51,7 +52,7 @@ class Patcher(object):
         while i < en:
             x = s.find(b, i, en)
             if x == -1: return -1
-            if s[x-1].isspace() or (s[x-1] in u"-.,!? —‘“”’;:()'\"[]"): return x
+            if (self.isSeparator(s[x-1])) and (self.isSeparator(s[x+len(b)])): return x
             i = x + 1
         return -1
         
@@ -128,6 +129,8 @@ class Patcher(object):
             i2 = finish
         return (i, i2)
 
-
-
+    def isSeparator(self, c):
+        s = u"""\n\t -.,!? —‘“”’;:()'"[]\\"""
+        return s.find(c) != -1
+        
         

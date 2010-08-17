@@ -329,7 +329,8 @@ class TransformToContext(object):
                     '2 John',
                     '3 John',
                     'Jude',
-                    'Revelation']
+                    'Revelation',
+                    'Psalms']
                  
         preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
         bookTex = preface

@@ -1,220 +1,354 @@
-;	Modern language does not use 'man' as a gender-neutral signifier
+;    Modern language does not use ’man’ as a gender-neutral signifier
 
 In Mark:
-	1:17	men			->		people
-	2:21	man			->		one
-	2:21	he does		->		they do
-	2:22	man			->		one
-	2:22	he does		->		they do
-	2:27	man			->		people
-	2:27	man			->		people
-	3:28	men			->		people
-	6:44	men			->		people
-	7:7		the precepts of men		->		human precepts
-	7:8		the traditions of men	->		human traditions
-	7:10	him			->		anyone
-	7:10	his			->		their
-	7:11	man			->		person
-	7:11	his			->		their
-	7:12	him			->		them
-	7:12	his			->		their
-	7:15	man			->		person
-	7:15	him			->		them
-	7:15	him			->		them
-	7:15	man			->		person
-	7:15	him			->		them
-	7:18	man			->		person
-	7:18	man			->		person
-	7:18	him			->		them
-	7:20	man			->		person
-	7:20	him			->		them
-	7:21	men			->		people
-	7:23	man			->		person
-	8:33	man does	->		people do
-	8:34	any man		->		anyone
-	8:34	let him		->		let them
-	8:34	his cross	->		their cross
-	8:35	his life	->		their life
-	8:35	his			->		their
-	8:36	man			->		person
-	8:36	his			->		their
-	8:37	man			->		person
-	8:37	his			->		their
-	8:38	him			->		them
-	10:9	man must not	->	no one must
-	10:23	men			->		people
-	10:25	man			->		person
-	10:27	men			->		people
-	11:14	man			->		one
-	12:25	men			->		people
-	12:27	men			->		people
-	13:13	man			->		person
-	13:15	man			->		person
-	13:15	his			->		their
-	13:16	his			->		their
-	13:16	his			->		their
-	13:34	his special	->		their special
-	14:41	men			->		people
-	
+    1:17    men            ->        people
+    2:21    man            ->        one
+    2:21    he does        ->        they do
+    2:22    man            ->        one
+    2:22    he does        ->        they do
+    2:27    man            ->        people
+    2:27    man            ->        people
+    3:28    men            ->        people
+    6:44    men            ->        people
+    7:7     the precepts of men        ->        human precepts
+    7:8     the traditions of men      ->        human traditions
+    7:10    him            ->        anyone
+    7:10    his            ->        their
+    7:11    man            ->        person
+    7:11    his            ->        their
+    7:12    him            ->        them
+    7:12    his            ->        their
+    7:15    man            ->        person
+    7:15    him            ->        them
+    7:15    him            ->        them
+    7:15    man            ->        person
+    7:15    him            ->        them
+    7:18    man            ->        person
+    7:18    man            ->        person
+    7:18    him            ->        them
+    7:20    man            ->        person
+    7:20    him            ->        them
+    7:21    men            ->        people
+    7:23    man            ->        person
+    8:33    man does       ->        people do
+    8:34    any man        ->        anyone
+    8:34    let him        ->        let them
+    8:34    his cross      ->        their cross
+    8:35    his life       ->        their life
+    8:35    his            ->        their
+    8:36    man            ->        person
+    8:36    his            ->        their
+    8:37    man            ->        person
+    8:37    his            ->        their
+    8:38    him            ->        them
+    10:9    man must not    ->    no one must
+    10:23    men            ->        people
+    10:25    man            ->        person
+    10:27    men            ->        people
+    11:14    man            ->        one
+    12:25    men            ->        people
+    12:27    men            ->        people
+    13:13    man            ->        person
+    13:15    man            ->        person
+    13:15    his            ->        their
+    13:16    his            ->        their
+    13:16    his            ->        their
+    13:34    his special    ->        their special
+    14:41    men            ->        people
+    
 In Matthew:
-	4:19	men			->		people
-	5:12	men			->		they
-	5:15	Men			->		People
-	5:16	your fellow men	->	others
-	6:5		men			->		others
-	6:16	men			->		people
-	6:18	men			->		people
-	6:30	men			->		you
-	7:15	men			->		people
-	7:20	men			->		people
-	8:26	men			->		you
-	9:8		men			->		human beings
-	10:17	your fellow men							-> others
-	10:32	acknowledge me before his fellow men	-> publicly acknowledge me
-	10:33	disowns me before his fellow men		-> publicly disowns me
-	11:7	these men	->	John’s disciples
-	11:12	men			->		people
-	11:18	men			->		people
-	12:31	men			->		people
-	12:36	men			->		people
-	12:41	men			->		people
-	13:17	men			->		people
-	15:9	the precepts of men	->	human precepts
-	16:8	men			->		you
-	17:12	men’s		->		people’s
-	17:22	the hands of his fellow-men	->	human hands
-	19:26	men			->		people
-	20:5	the men		->		they
-	20:6	other men	->		others
-	20:25	great men	->		high officials
-	22:32	men			->		people
-	23:4	men’s		->		people’s
-	23:13	men’s		->		people’s
-	23:27	men’s		->		people’s
-	23:28	men			->		people
-	23:29	men			->		people
-	23:31	men			->		people
-	23:34	men			->		people
-	26:45	men			->		people
-	4:4		man			->		a person
-	7:24	man			->		person
-	7:26	man			->		person
-	9:16	No man		->		Nobody
-	10:22	man			->		person
-	10:36	man’s		->		person’s
-	10:38	man			->		person
-	10:41	man			->		person
-	10:41	man			->		person
-	10:41	man			->		person
-	11:6	man			->		person
-	12:12	man			->		person
-	12:35	man			->		person
-	12:35	man			->		person
-	12:43	man			->		person
-	13:19	man			->		person
-	13:20	man			->		person
-	13:22	man			->		person
-	13:23	man			->		person
-	13:24	man			->		person
-	13:31	man			->		person
-	13:44	man			->		person
-	14:31	man			->		you
-	15:11	man			->		person
-	15:14	man			->		person
-	15:18	man			->		person
-	15:20	man			->		person
-	15:20	man			->		person
-	16:23	man			->		person
-	16:24	any man		->		anyone
-	16:26	man			->		person
-	16:26	man			->		person
-	16:27	every man	->		everyone
-	18:4	man			->		person
-	18:7	man			->		person
-	18:12	man			->		person
-	19:6	man			->		people
-	22:16	man			->		person
-	23:11	man			->		person
-	24:13	man			->		person
-	10:37	He			->		Anyone
-	5:9   	Sons 		->      Children
-	5:22   	his brother ->      their brother or sister
-	5:22   	his brother ->      their brother or sister	
-	5:22    him         ->      them
-	5:23   	has 		->      or sister has
-	5:24   	your brother ->     them
-	5:25   	him on your way to the court; for fear that he should hand you over to the judge, and the judge to his ->  them on your way to the court; for fear that they should hand you over to the judge, and the judge to judge's
-	5:39   	him 		->  them
-	5:40   	him 		->  them
-	5:41   	him 	->  them
-	5:42   	him who asks of you; and, from him ->  the person who asks of you; and, from the person
-	5:45   	Sons 		->  Children
-	5:47   	only, 		->  and sisters only,
-	6:6   	him go into his own room, shut the door, and pray to his Father who dwells in secret; and his Father, who sees what is secret, will recompense him.\wj* ->  them go into their own room, shut the door, and pray to their Father who dwells in secret; and their Father, who sees what is secret, will recompense them.\wj*
-	6:17   	him anoint his head and wash his ->  them anoint their head and wash their
-	6:18   	he may not be seen by people to be fasting, but by his Father who dwells in secret; and his Father, who sees what is secret, will recompense him.\wj* ->  they may not be seen by people to be fasting, but by their Father who dwells in secret; and their Father, who sees what is secret, will recompense them.\wj*
-	6:24   	he will hate one and love the other, or else he will attach himself ->  they will hate one and love the other, or else they will attach themselves
-	6:27   	his 		->  their
-	7:3   	brother’s 	->  friends’s
-	7:4   	brother 	->  friend
-	7:5   	brother’s.\wj* ->  friends’s.\wj*
-	7:8   	he that asks receives, he that searches finds, and to him that knocks the door shall be opened.\wj* ->  the person that asks receives, the person that searches finds, and to the door shall be opened to the person who knocks.\wj*
-	7:9   	his son asks him for a loaf, will give him ->  their child asks them for a loaf, will give them
-	7:10  	he asks for a fish, will give him ->  they ask for a fish, will give them
-	7:24  	his 		->  their
-	7:26  	his 		->  their
-	10:36   his 		->  their
-	10:37   he 			->  anyone
-	10:39   He who has found his life will lose it, while he who, for my sake, has lost his ->  The person who has found their life will lose it, while the peson who, for my sake, has lost their
-	10:40   He who welcomes you is welcoming me; and he ->  Anyone who welcomes you is welcoming me; and anyone
-	10:41   He who welcomes a Prophet, because he is a Prophet, shall receive a Prophet’s reward; and he who welcomes a good person, because he is ->  The person who welcomes a Prophet, because they are a Prophet, shall receive a Prophet’s reward; and anyone who welcomes a good person, because they are
-	10:42   he is a disciple, I tell you that he shall assuredly not lose his ->  they are a disciple, I tell you that they shall assuredly not lose their
-	12:30   He who is not with me is against me, and he ->  Anyone who is not with me is against me, and the person
-	13:4   	he was 		->  they were
-	13:9   	him who has ->  those who have
-	13:19   his 		->  their
-	13:21   he has no root, he stands for only a short time; and, when trouble or persecution arises on account of the Message, he falls ->  they have no root, they stand for only a short time; and, when trouble or persecution arises on account of the Message, they fall
-	13:24   his 		->  their
-	13:25   his 		->  their
-	13:27   him,		->  them,
-	13:28   his 		->  the owner's
-	13:44   his delight, went and sold everything that he ->  their delight, went and sold everything that they
-	13:46   he went and sold everything that he ->  they went and sold everything that they
-	15:11   him, but what comes out from his mouth — that does defile him!” ->  them, but what comes out from their mouth — that does defile them!”
-	18:6   him to be sunk in the depths of the sea with a great millstone hung round his ->  them to be sunk in the depths of the sea with a great millstone hung round their
-	18:12   he ->  the person
-	18:13   he succeeds in finding it, I tell you that he rejoices ->  they succeed in finding it, I tell you that they rejoice
-	18:15   Brother does wrong, go to him and convince him of his fault when you and he are alone. If he listens to you, you have won your Brother.\wj* ->  brother or sister does wrong, go to them and convince them of their fault when you are both alone. If they listen to you, you have won them over.\wj*
-	18:16   he does ->  they do
-	18:17   he refuses to listen to them, speak to the Church; and, if he also refuses to listen to the Church, treat him ->  they refuses to listen to them, speak to the Church; and, if they also refuse to listen to the Church, treat them
-	18:21   my Brother when he ->  someone who
-	18:35   Brother from his ->  brother or sister from your
-	19:23   man ->  person
-	19:24   man ->  person
-	22:5   	his farm, another to his ->  their farm, another to their
-	22:16   man’s ->  person’s
-	23:8   	Brothers.\wj* ->  brothers and sisters.\wj*
-	23:12   himself will be humbled, and whoever shall humble himself ->  themself will be humbled, and whoever shall humble themself
-	23:15   he is gained, you make him ->  they are gained, you make them
-	23:16   his oath counts for nothing; but, if any one swears by the gold of the Temple, his oath is binding him’!\wj* ->  their oath counts for nothing; but, if any one swears by the gold of the Temple, their oath is binding them’!\wj*
-	23:18   his oath counts for nothing, but, if any one swears by the offering placed on it, his oath is binding on him’!\wj* ->  their oath counts for nothing, but, if any one swears by the offering placed on it, their oath is binding on them’!\wj*
-	23:20   man, ->  person,
-	23:21   man, ->  person,
-	23:22   man, ->  person,
-	24:18   his ->  their
-	24:43   he would have been on the watch, and would not have allowed his ->  they would have been on the watch, and would not have allowed their
-	24:45   his ->  their
-	24:46   his ->  their
-	24:47   his master will put him ->  their master will put them
-	24:48   he be a bad servant, and say to himself ->  the servant be a bad servant, and say to themself
-	24:49   his ->  their
-	24:50   he does not expect him, and at an hour of which he is ->  they do not expect him, and at an hour of which they are
-	24:51   him severely, and assign him his ->  the servant severely, and assign them their
-	25:16   man ->  servant
-	25:17   man ->  servant
-	25:18   man ->  servant
-	25:20   man ->  servant
-	28:10   to ->  and sisters to
-	
-	
-	
+    4:19    men            ->        people
+    5:12    men            ->        they
+    5:15    Men            ->        People
+    5:16    your fellow men    ->    others
+    6:5     men            ->        others
+    6:16    men            ->        people
+    6:18    men            ->        people
+    6:30    men            ->        you
+    7:15    men            ->        people
+    7:20    men            ->        people
+    8:26    men            ->        you
+    9:8     men            ->        human beings
+    10:17   your fellow men                            -> others
+    10:32   acknowledge me before his fellow men    -> publicly acknowledge me
+    10:33   disowns me before his fellow men        -> publicly disowns me
+    11:7    these men    ->    John’s disciples
+    11:12   men            ->        people
+    11:18   men            ->        people
+    12:31   men            ->        people
+    12:36   men            ->        people
+    12:41   men            ->        people
+    13:17   men            ->        people
+    15:9    the precepts of men    ->    human precepts
+    16:8    men            ->        you
+    17:12    men’s        ->        people’s
+    17:22    the hands of his fellow-men    ->    human hands
+    19:26    men            ->        people
+    20:5    the men        ->        they
+    20:6    other men    ->        others
+    20:25    great men    ->        high officials
+    22:32    men            ->        people
+    23:4    men’s        ->        people’s
+    23:13    men’s        ->        people’s
+    23:27    men’s        ->        people’s
+    23:28    men            ->        people
+    23:29    men            ->        people
+    23:31    men            ->        people
+    23:34    men            ->        people
+    26:45    men            ->        people
+    4:4        man            ->        a person
+    7:24    man            ->        person
+    7:26    man            ->        person
+    9:16    No man        ->        Nobody
+    10:22    man            ->        person
+    10:36    man’s        ->        person’s
+    10:38    man            ->        person
+    10:41    man            ->        person
+    10:41    man            ->        person
+    10:41    man            ->        person
+    11:6    man            ->        person
+    12:12    man            ->        person
+    12:35    man            ->        person
+    12:35    man            ->        person
+    12:43    man            ->        person
+    13:19    man            ->        person
+    13:20    man            ->        person
+    13:22    man            ->        person
+    13:23    man            ->        person
+    13:24    man            ->        person
+    13:31    man            ->        person
+    13:44    man            ->        person
+    14:31    man            ->        you
+    15:11    man            ->        person
+    15:14    man            ->        person
+    15:18    man            ->        person
+    15:20    man            ->        person
+    15:20    man            ->        person
+    16:23    man            ->        person
+    16:24    any man        ->        anyone
+    16:26    man            ->        person
+    16:26    man            ->        person
+    16:27    every man    ->        everyone
+    18:4    man            ->        person
+    18:7    man            ->        person
+    18:12    man            ->        person
+    19:6    man            ->        people
+    22:16    man            ->        person
+    23:11    man            ->        person
+    24:13    man            ->        person
+    10:37    He            ->        Anyone
+    5:9       sons         ->      children
+    5:22       his brother ->      their brother or sister
+    5:22       his brother ->      their brother or sister    
+    5:22    him         ->      them
+    5:23       has         ->      or sister has
+    5:24       your brother ->     them
+    5:25       him on your way to the court; for fear that he should hand you over to the judge, and the judge to his ->  them on your way to the court; for fear that they should hand you over to the judge, and the judge to judge’s
+    5:39       him         ->  them
+    5:40       him         ->  them
+    5:41       him     ->  them
+    5:42       him who asks of you; and, from him ->  the person who asks of you; and, from the person
+    5:45       sons         ->  children
+    5:47       only,         ->  and sisters only,
+    6:6       him go into his own room, shut the door, and pray to his Father who dwells in secret; and his Father, who sees what is secret, will recompense him ->  them go into their own room, shut the door, and pray to their Father who dwells in secret; and their Father, who sees what is secret, will recompense them
+    6:17       him anoint his head and wash his ->  them anoint their head and wash their
+    6:18       he may not be seen by people to be fasting, but by his Father who dwells in secret; and his Father, who sees what is secret, will recompense him ->  they may not be seen by people to be fasting, but by their Father who dwells in secret; and their Father, who sees what is secret, will recompense them
+    6:24       he will hate one and love the other, or else he will attach himself ->  they will hate one and love the other, or else they will attach themselves
+    6:27      his         ->  their
+    7:3       brother’s   ->  friend’s
+    7:4       brother     ->  friend
+    7:5       brother’s   ->  friend’s
+    7:8       he that asks receives, he that searches finds, and to him that knocks the door shall be opened ->  the person that asks receives, the person that searches finds, and to the door shall be opened to the person who knocks
+    7:9       his son asks him for a loaf, will give him ->  their child asks them for a loaf, will give them
+    7:10      he asks for a fish, will give him ->  they ask for a fish, will give them
+    7:24      his         ->  their
+    7:26      his         ->  their
+    10:36   his         ->  their
+    10:37   he             ->  anyone
+    10:39   He who has found his life will lose it, while he who, for my sake, has lost his ->  The person who has found their life will lose it, while the peson who, for my sake, has lost their
+    10:40   He who welcomes you is welcoming me; and he ->  Anyone who welcomes you is welcoming me; and anyone
+    10:41   He -> The person
+    10:41   he is -> they are
+    10:41   he -> anyone
+    10:41   he is -> they are
+    10:42   he is a disciple, I tell you that he shall assuredly not lose his ->  they are a disciple, I tell you that they shall assuredly not lose their
+    12:30   He who is not with me is against me, and he ->  Anyone who is not with me is against me, and the person
+    13:4       he was         ->  they were
+    13:9       him who has ->  those who have
+    13:19   his         ->  their
+    13:21   he has -> they have
+    13:21   he stands -> they stand
+    13:21   he falls -> they fall
+    13:24   his         ->  their
+    13:25   his         ->  their
+    13:27   him,        ->  them,
+    13:28   his         ->  the owner’s
+    13:44   his delight, went and sold everything that he ->  their delight, went and sold everything that they
+    13:46   he went and sold everything that he ->  they went and sold everything that they
+    15:11   him, but what comes out from his mouth — that does defile him!” ->  them, but what comes out from their mouth — that does defile them!”
+    18:6   him to be sunk in the depths of the sea with a great millstone hung round his ->  them to be sunk in the depths of the sea with a great millstone hung round their
+    18:12   he ->  the person
+    18:13   he succeeds in finding it, I tell you that he rejoices ->  they succeed in finding it, I tell you that they rejoice
+    18:15   brother -> brother or sister
+    18:15   him -> them
+    18:15   his -> their
+    18:15   you and he are alone -> you are both alone
+    18:15   he listens -> they listed
+    18:15   brother -> them over
+    18:16   he does ->  they do
+    18:17   he refuses -> they refuse
+    18:17   he also refuses -> they also refuse
+    18:21   my brother when he ->  someone who
+    18:35   brother from his ->  brother or sister from your
+    19:23   man ->  person
+    19:24   man ->  person
+    22:5    his farm, another to his ->  their farm, another to their
+    22:16   man’s ->  person’s
+    23:8    brothers.\wj* ->  brothers and sisters.\wj*
+    23:12   himself will be humbled, and whoever shall humble himself ->  themself will be humbled, and whoever shall humble themself
+    23:15   he is gained, you make him ->  they are gained, you make them
+    23:16   his -> their
+    23:16   his -> their
+    23:16   him -> them
+    23:18   his -> their
+    23:18   his -> their
+    23:18   him -> them
+    23:20   man, ->  person,
+    23:21   man, ->  person,
+    23:22   man, ->  person,
+    24:18   his ->  their
+    24:43   he would have been on the watch, and would not have allowed his ->  they would have been on the watch, and would not have allowed their
+    24:45   his ->  their
+    24:46   his ->  their
+    24:47   his master will put him ->  their master will put them
+    24:48   he be a bad servant, and say to himself ->  the servant be a bad servant, and say to themself
+    24:49   his ->  their
+    24:50   he does not expect him, and at an hour of which he is ->  they do not expect him, and at an hour of which they are
+    24:51   him severely, and assign him his ->  the servant severely, and assign them their
+    25:16   man ->  servant
+    25:17   man ->  servant
+    25:18   man ->  servant
+    25:20   man ->  servant
+    28:10   to ->  and sisters to
+    
+In Luke:
+    2:14   men ->  those
+    2:52   men ->  people
+    3:6    all mankind ->  everyone
+    3:11   the man -> anyone
+    3:11   him -> the person
+    3:11   the man -> anyone
+    4:4    man ->  a person
+    4:15   everyone ->  every one
+    5:10   men ->  people
+    5:36   man ->  one
+    5:36   he does -> they do
+    5:36   he -> they 
+    5:37   man ->  one
+    5:37   he does -> they do
+    5:39   man -> one
+    5:39   he says -> they say
+    6:22   men ->  people
+    6:26   all men speak ->  everyone speaks
+    6:29   a man ->  someone
+    6:39   man ->  person
+    6:40   his teacher ->  their teacher
+    6:40   his -> their
+    6:41   your brother ->  someone
+    6:42   brother -> friend
+    6:42   Brother -> Friend
+    6:42   brother’s -> friend’s
+    6:45   man -> person
+    6:45   his -> their
+    6:45   man -> person
+    6:45   his -> their
+    6:45   a man -> someone
+    6:45   his -> their
+    6:47   he ->  they
+    6:48   He -> They
+    6:48   man ->  person
+    6:49   man ->  person
+    7:23   man ->  person
+    8:8    him who has ->  those who have
+    8:16   man -> one
+    8:16   he puts -> they put
+    9:23   man -> one
+    9:23   him -> them
+    9:23   his -> their
+    9:24   his -> their
+    9:24   man -> person
+    9:25   a man -> someone
+    9:25   he -> they
+    9:25   he -> they
+    9:25   himself -> themselves
+    9:26   him ->  them
+    9:48   man ->  person
+    9:50   he who is -> whoever’s
+    9:62   his ->  their
+    10:7   his ->  their
+    10:16   He who listens to you is listening to me, and he who rejects you is rejecting me; while he ->  Anyone who listens to you is listening to me, and anyone who rejects you is rejecting me; while the person
+    11:10   he that asks receives, he that searches finds, and to him ->  the person that asks receives, everyone that searches finds, and to the person
+    11:23   He who is not with me is against me, and he ->  Whoever who is not with me is against me, and the person
+    11:24   a man ->  someone
+    11:26   man ->  person
+    11:31   men ->  people
+    11:46   men ->  people
+    12:8    shall acknowledge me before his fellow men ->  publicly acknowledges me
+    12:9    he, who disowns me before his fellow men, ->  the person who publicly disowns me
+    12:10   him ->  the person
+    12:15   his prosperity a man ->  their prosperity a person
+    12:15   he has -> they have
+    12:25   his ->  your
+    12:28   men ->  you
+    12:36   men ->  servants
+    13:15   his ox or his ->  your ox or your
+    13:34   she -> You
+    13:34   her -> you
+    14:5    his son or his ox has fallen into a well, will not immediately pull him ->  your son or your ox has fallen into a well, will not immediately pull them
+    14:9    he -> the host
+    14:9    man -> person
+    14:10   he ->  the host
+    14:11   himself will be humbled, and he who humbles himself ->  themself will be humbled, and everyone who humbles themself
+    14:12   brothers ->  brothers or sisters
+    14:15   he be ->  be the person
+    14:18   man said ->  said
+    14:24   men ->  people
+    14:26   man comes to me and does not hate his father, and mother, and wife, and children, and brothers, and sisters, yes and his -> one comes to me and does not hate their father, and mother, and wife, and children, and brothers, and sisters, yes and their
+    14:27   his ->  their
+    14:28   he wants to build a tower, does not first sit down and reckon the cost, to see if he ->  you want to build a tower, does not first sit down and reckon the cost, to see if you
+    14:29   he -> you
+    14:29   him -> you
+    14:30   man ->  person
+    14:33   he has ->  you have
+    14:33   he ->  you     
+    14:35   Men throw it away. Let him who has ->  People throw it away. Let those who have
+    15:4    What man ->  Who
+    15:7    men ->  people
+    16:10   He who is trustworthy in the smallest matter is trustworthy in a great one also; and he ->  The person who is trustworthy in the smallest matter is trustworthy in a great one also; and the person
+    16:13   he will hate one and love the other, or else he will attach himself ->  they will hate one and love the other, or else they will attach themselves
+    16:15   men who justify themselves before the world, but God can read your hearts; and what is highly esteemed among men ->  ones who justify themselves before the world, but God can read your hearts; and what is highly esteemed among people
+    16:16   his ->  their
+    17:1    him ->  the person
+    17:2    him if he had been flung into the sea with a mill-stone round his neck, rather than that he ->  them if they had been flung into the sea with a mill-stone round their neck, rather than that they
+    17:3    does wrong, reprove him; but if he repents, forgive him ->  or sister does wrong, reprove them; but if they repent, forgive them
+    17:4    he wrongs -> they wrong
+    17:4    him -> them
+    17:31   man is on his house-top and his ->  person is on their house-top and their
+    17:31   he -> they
+    17:33   his ->  their
+    17:34   men ->  people
+    18:2    man ->  people
+    18:4    man ->  people
+    18:24   men of wealth ->  the wealthy
+    18:25   man ->  person
+    18:27   men ->  people
+    19:40   these men ->  they
+    19:47   leading men ->  leaders of the people
+    20:21   men -> spies
+    20:21   man -> person
+    20:36   sons ->  children
+    20:38   men ->  people
+    21:16   brothers ->  brothers and sisters
+    21:26   Men’s ->  People’s
+    
+    

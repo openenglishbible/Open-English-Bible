@@ -68,7 +68,7 @@ def findInBook(find, book, replace):
     return p
             
 def isSeparator(c):
-    s = u"""\n\t -.,!? —‘“”’;:()'"[]"""
+    s = u"""\n\t -.,!? —‘“”’;:()'"[]\\"""
     return s.find(c) != -1
 
 def findElement(book, index):
@@ -107,7 +107,7 @@ def main(argv):
             print p
         else:
             f = open(patch, 'w')
-            f.write(p)
+            f.write(p.encode('utf-8'))
             f.close()
 
     print '#### Finished.'

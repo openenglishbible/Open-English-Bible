@@ -1,61 +1,62 @@
-; TCNT used Immortal Life; return to more common eternal life
+; TCNT used immortal life; return to more common eternal life
 ; Coverage - complete
+; In TCNT this is 'Immortal Life' but we deal with capitalisation earlier
 
 In Mark:
-    10:30   Immortal Life  ->  eternal life
+    10:30   immortal life  ->  eternal life
 
 In Matthew:
-    19:16   Immortal Life  ->  eternal life
-    19:29   Immortal Life  ->  eternal life
+    19:16   immortal life  ->  eternal life
+    19:29   immortal life  ->  eternal life
 
 In Luke:
-    10:25   Immortal Life  ->  eternal life
-    18:18   Immortal Life  ->  eternal life
-    18:30   Immortal Life  ->  eternal life
+    10:25   immortal life  ->  eternal life
+    18:18   immortal life  ->  eternal life
+    18:30   immortal life  ->  eternal life
 
 In John:
-    3:15    Immortal Life  ->  eternal life
-    3:16    Immortal Life  ->  eternal life
-    3:36    Immortal Life  ->  eternal life
-    4:14    Immortal Life  ->  eternal life
-    4:36    Immortal Life  ->  eternal life
-    5:24    Immortal Life  ->  eternal life
-    6:27    Immortal Life  ->  eternal life
-    6:47    Immortal Life  ->  eternal life
-    6:68    Immortal Life  ->  eternal life
-    10:28   Immortal Life  ->  eternal life
-    12:25   Immortal Life  ->  eternal life
-    12:50   Immortal Life  ->  eternal life
-    17:2    Immortal Life  ->  eternal life
-    17:3    Immortal Life  ->  eternal life
+    3:15    immortal life  ->  eternal life
+    3:16    immortal life  ->  eternal life
+    3:36    immortal life  ->  eternal life
+    4:14    immortal life  ->  eternal life
+    4:36    immortal life  ->  eternal life
+    5:24    immortal life  ->  eternal life
+    6:27    immortal life  ->  eternal life
+    6:47    immortal life  ->  eternal life
+    6:68    immortal life  ->  eternal life
+    10:28   immortal life  ->  eternal life
+    12:25   immortal life  ->  eternal life
+    12:50   immortal life  ->  eternal life
+    17:2    immortal life  ->  eternal life
+    17:3    immortal life  ->  eternal life
 
 In Acts:
-    13:46   Immortal Life  ->  eternal life
-    13:48   Immortal Life  ->  eternal life
+    13:46   immortal life  ->  eternal life
+    13:48   immortal life  ->  eternal life
 
 In Romans:
-    5:21    Immortal Life  ->  eternal life
-    6:22    Immortal Life  ->  eternal life
-    6:23    Immortal Life  ->  eternal life
+    5:21    immortal life  ->  eternal life
+    6:22    immortal life  ->  eternal life
+    6:23    immortal life  ->  eternal life
 
 In Galatians:
-    6:8     Immortal Life  ->  eternal life
+    6:8     immortal life  ->  eternal life
 
 In 1 Timothy:
-    1:16    Immortal Life  ->  eternal life
-    6:12    Immortal Life  ->  eternal life
+    1:16    immortal life  ->  eternal life
+    6:12    immortal life  ->  eternal life
 
 In Titus:
-    1:2     Immortal Life  ->  eternal life
-    3:7     Immortal Life  ->  eternal life
+    1:2     immortal life  ->  eternal life
+    3:7     immortal life  ->  eternal life
 
 In 1 John:
-    1:2     Immortal Life  ->  eternal life
-    2:25    Immortal Life  ->  eternal life
-    3:15    Immortal Life  ->  eternal life
-    5:11    Immortal Life  ->  eternal life
-    5:13    Immortal Life  ->  eternal life
-    5:20    Immortal Life  ->  eternal life
+    1:2     immortal life  ->  eternal life
+    2:25    immortal life  ->  eternal life
+    3:15    immortal life  ->  eternal life
+    5:11    immortal life  ->  eternal life
+    5:13    immortal life  ->  eternal life
+    5:20    immortal life  ->  eternal life
 
 In Jude:
-    1:21    Immortal Life  ->  eternal life
+    1:21    immortal life  ->  eternal life
