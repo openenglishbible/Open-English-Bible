@@ -13,34 +13,3 @@ The OEB is being formed by editing the public domain Twentieth Century New Testa
 
 As such, the OEB as a translation does not stand within the Tyndale tradition but has a separate tradition in a similar manner to the NIV and New English Bible.
 
-Notes
------
-
-Paragraphs added to (in alphabetical order):
-
-* 1 Corinthians
-* 1 John
-* 1 Peter
-* 1 Thessalonians
-* 1 Timothy
-* 2 Corinthians
-* 2 John
-* 2 Peter
-* 2 Thessalonians
-* 2 Timothy
-* 3 John
-* Acts
-* Colossians
-* Ephesians
-* Galations
-* Hebrews
-* James
-* John
-* Jude
-* Luke
-* Mark
-* Matthew
-* Philemon
-* Revelation
-* Romans
-* Titus
