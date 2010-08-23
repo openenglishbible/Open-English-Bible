@@ -13,3 +13,6 @@ The OEB is being formed by editing the public domain Twentieth Century New Testa
 
 As such, the OEB as a translation does not stand within the Tyndale tradition but has a separate tradition in a similar manner to the NIV and New English Bible.
 
+Our website is at http://openenglishbible.org
+
+
