@@ -1,5 +1,5 @@
 *
 !.gitignore
-!html/.gitignore
-!reader/.gitignore
+!html
+!reader
 
