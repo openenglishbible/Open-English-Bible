@@ -82,7 +82,7 @@ In Matthew:
     15:9    the precepts of men    ->    human precepts
     16:8    men            ->        you
     17:12    men’s        ->        people’s
-    17:22    the hands of his fellow-men    ->    human hands
+    17:22    the hands of his fellow men    ->    human hands
     19:26    men            ->        people
     20:5    the men        ->        they
     20:6    other men    ->        others
@@ -329,7 +329,9 @@ In Luke:
     16:15   men who justify themselves before the world, but God can read your hearts; and what is highly esteemed among men ->  ones who justify themselves before the world, but God can read your hearts; and what is highly esteemed among people
     16:16   his ->  their
     17:1    him ->  the person
-    17:2    him if he had been flung into the sea with a mill-stone round his neck, rather than that he ->  them if they had been flung into the sea with a mill-stone round their neck, rather than that they
+    17:2    him if he  -> them if they
+	17:2	his -> their
+	17:2    he -> they
     17:3    does wrong, reprove him; but if he repents, forgive him ->  or sister does wrong, reprove them; but if they repent, forgive them
     17:4    he wrongs -> they wrong
     17:4    him -> them

@@ -86,7 +86,6 @@ def main(argv):
             buildWeb()
         elif opt in ("-p", "--patch"):
             doPatch()
-            buildWeb()
         elif opt in ("-r", "--reader"):
             doPatch()
             buildReader()
