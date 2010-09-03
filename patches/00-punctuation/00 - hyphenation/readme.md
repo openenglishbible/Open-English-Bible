@@ -144,6 +144,7 @@ foster-brother
 god-fearing
 hand-mill
 hard-drinking
+heaven-wards
 high-born
 High-Priestly
 hill-country

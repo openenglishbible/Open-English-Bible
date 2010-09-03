@@ -8,6 +8,7 @@ import patch
 import texise
 import htmlise
 import readerise
+import markdownise
 
 def runscript(c, prefix=''):
     pp = Popen(c, shell=True, stdout=PIPE)
@@ -39,6 +40,7 @@ def buildAll():
     buildPDF()
     buildWeb()
     buildReader()
+    buildMarkdown()
 
 def buildPDF():
 
@@ -61,15 +63,21 @@ def buildWeb():
     c.setupAndRun('patched', 'preface', 'built/html')
 
 def buildReader():
-	    # Convert to HTML
-	    print '#### Building for Reader...'
-	    c = readerise.TransformForReader()
-	    c.setupAndRun('patched', 'preface', 'built/reader')
+        # Convert to HTML
+        print '#### Building for Reader...'
+        c = readerise.TransformForReader()
+        c.setupAndRun('patched', 'preface', 'built/reader')
+
+def buildMarkdown():
+        # Convert to HTML
+        print '#### Building for Markdown...'
+        c = markdownise.TransformToMarkdown()
+        c.setupAndRun('patched', 'preface', 'built')
 
 def main(argv):
     print '#### Starting Build.'
     try:
-        opts, args = getopt.getopt(argv, "shawpg:dr", ["setup", "help", "all", "web", "patch", "reader", "grammar="])
+        opts, args = getopt.getopt(argv, "shawpg:drm", ["setup", "help", "all", "web", "patch", "reader", "markdown", "grammar="])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -89,6 +97,9 @@ def main(argv):
         elif opt in ("-r", "--reader"):
             doPatch()
             buildReader()
+        elif opt in ("-m", "--markdown"):
+            doPatch()
+            buildMarkdown()
         else:
             usage()
     print '#### Finished.'

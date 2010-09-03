@@ -52,9 +52,10 @@ d       = usfmToken(u"d")
 sp      = usfmToken(u"sp")
 adds    = usfmToken(u"add")
 adde    = usfmEndToken(u"add")
+nds     = usfmToken(u"nd")
+nde     = usfmEndToken(u"nd")
 
-
-element = ide | id | h | mt | ms | ms1 | ms2 | s | p | b | c | v | wjs | wje | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | li | d | sp | adds | adde | textBlock
+element = ide | id | h | mt | ms | ms1 | ms2 | s | p | b | c | v | wjs | wje | nds | nde | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | li | d | sp | adds | adde | textBlock
 usfm    = OneOrMore( element )
 
 # input string
@@ -101,6 +102,8 @@ def createToken(t):
         u'li':   LIToken,
         u'add':  ADDSToken,
         u'add*': ADDEToken,
+        u'nd':  NDSToken,
+        u'nd*': NDEToken,
         u'text': TEXTToken
     }
     for k, v in options.iteritems():
@@ -112,7 +115,7 @@ def createToken(t):
     raise Exception(t[0])
 
 class UsfmToken(object):
-    def __init__(self, value=None):
+    def __init__(self, value=u""):
         self.value = value
     def getValue(self): return self.value
     def isID(self):     return False
@@ -145,6 +148,8 @@ class UsfmToken(object):
     def isSP(self):     return False
     def isADDS(self):   return False
     def isADDE(self):   return False
+    def isNDS(self):    return False
+    def isNDE(self):    return False
     
 class IDToken(UsfmToken):
     def renderOn(self, printer):
@@ -295,3 +300,13 @@ class ADDEToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderADDE(self)
     def isADDE(self):    return True
+
+class NDSToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderNDS(self)
+    def isNDS(self):    return True
+
+class NDEToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderNDE(self)
+    def isNDE(self):    return True

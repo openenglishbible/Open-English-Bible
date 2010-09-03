@@ -6,23 +6,27 @@ import parseUsfm
 class TexPrinter(object):
     def __init__(self):
         self.printerState = {u'li': False, u'narrower': False, u'd': False}
+        self.smallCapSections = True  # Sometimes we don't want to do this, like for Psalms
+        self.justDidLORD = False
+        self.justDidNB = False
 
     def startNarrower(self, n):
         s = u''
         if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
             self.printerState[u'narrower'] = False
-            s = s + u'\stopnarrower'
+            s = s + u'}'
         else:
-            s = s + u'\\blank[medium]'
+            s = s + u'\n\\blank[medium]'
         self.printerState[u'narrower'] = True
-        s = s + u'\startnarrower[' + str(n) + u'*left,1*right]\indenting[no]'
+        s = s + u'\n\Q{' + str(n) + u'}{'
+        self.justDidNB = True
         return s
 
     def stopNarrower(self):
         s = u''
         if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
             self.printerState[u'narrower'] = False
-            s = s + u'\\blank[medium]\stopnarrower'
+            s = s + u'}\\blank[medium]'
         return s
 
     def escapeText(self, s):
@@ -38,6 +42,9 @@ class TexPrinter(object):
         return s
 
     def smallCapText(self, s):
+         if not self.smallCapSections: 
+             # So we don't muck up Psalms
+             return s
          i = 0
          while i < len(s):
              if i < 30:  #we are early, look for comma
@@ -82,31 +89,42 @@ class TexPrinter(object):
     def renderIDE(self, token):     return u''
     def renderH(self, token):       return u'\RAHeader{' + token.value + u'} '
     def renderMT(self, token):      return self.stopLI() + self.stopNarrower() + u'\MT{' + token.value + u'} '
-    def renderMS(self, token):      self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'} ' + u'\\blank[medium]\indenting[no]\par '
-    def renderMS2(self, token):     self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '} ' + u'\\blank[medium]\indenting[no]\par '
-    def renderP(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\indenting[yes]\par '
-    def renderB(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank\indenting[yes]\par '
-    def renderS(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank[medium]\indenting[yes]\par '
+    def renderMS(self, token):      self.justDidNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'}'
+    def renderMS2(self, token):     self.justDidNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '}'
+    def renderP(self, token):
+        s = self.stopD() + self.stopLI() + self.stopNarrower() + u'\n\n'
+        if self.justDidNB:
+            self.justDidNB = False
+            s = s + '\indentation '
+        return s 
+    def renderB(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank\n\n'
+    def renderS(self, token):       self.justDidNB = True; return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank\n\n\\noindentation '
     def renderC(self, token):
         if not token.value == u'1':
-            return u'\n \C{' + token.value + u'} '
+            return u'\C{' + token.value + u'} '
         else:
             return u''
     def renderV(self, token):
         if not (token.value == u'1' or token.value == u''):
-            return u'\n \V{' + token.value + u'} '
+            return u'\V{' + token.value + u'} '
         else:
             return ''
     def renderWJS(self, token):     return u""
     def renderWJE(self, token):     return u""
     def renderTEXT(self, token):
         s = self.escapeText(token.value)
-        return u" " + self.renderSmallCaps(s) + u" "
+        if self.justDidLORD:
+            if s[0].isalpha():
+                s = u' ' + s
+                self.justDidLORD = False
+        return self.renderSmallCaps(s)
     def renderQ(self, token):       return self.stopD() + self.stopLI() + self.startNarrower(1)
     def renderQ1(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(1)
     def renderQ2(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(2)
     def renderQ3(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(3)
-    def renderNB(self, token):      return self.stopD() + self.stopLI() + self.stopNarrower() + u"\indenting[no]\par "
+    def renderNB(self, token):
+        self.justDidNB = True
+        return self.stopD() + self.stopLI() + self.stopNarrower() + u"\n\n\\noindentation "
     def renderQTS(self, token):     return u''
     def renderQTE(self, token):     return u''
     def renderFS(self, token):      return u'\\footnote{'
@@ -115,6 +133,8 @@ class TexPrinter(object):
     def renderIE(self, token):      return u'}'
     def renderADDS(self, token):    return u'{\em '
     def renderADDE(self, token):    return u'}'
+    def renderNDS(self, token):     return u'{\sc '
+    def renderNDE(self, token):     self.justDidLORD = True; return u'}'
     def renderLI(self, token):      return self.startLI()
     def renderD(self, token):       return self.startD()
     def renderSP(self, token):      return self.startD()
@@ -197,18 +217,25 @@ class TransformToContext(object):
         return u'\lettrine[Lines=3, Ante={\C{1}}]{' + s[0] + u'}{\CapStretch{\sc ' + s[1:] + u'}}'
 
 
-    def translateBook(self, name):
+    def translateBook(self, name, smallCap):
+        
+        fn = self.patchedDir + '/' + name + '.usfm'
+        if not os.path.isfile(fn):
+            print(fn + ' Not Found')
+            return u''
 
-        f = open(self.patchedDir + '/' + name + '.usfm')
+        f = open(fn)
         fc = self.stripUnicodeHeader(unicode(f.read(), 'utf-8'))
         f.close()
 
         tokens = parseUsfm.parseString(fc)
+        
         #self.markShortVerses(tokens)
         #tokens = self.lineDropFirstChapter(tokens)
 
         s = u''
         tp = TexPrinter()
+        tp.smallCapSections = smallCap
         for t in tokens: s = s + t.renderOn(tp)
         s = s + u"\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
 
@@ -230,7 +257,7 @@ class TransformToContext(object):
 
         \definepapersize [Trade][width=6in, height=9in]
         \setuppapersize [Trade][Trade]
-    %	\setuparranging [2UP,rotated,doublesided]
+    	%\setuparranging [2UP, rotated, doublesided]
         \setuppagenumbering [alternative=doublesided]
         \setuplayout [location=middle, marking=on]
 
@@ -256,15 +283,16 @@ class TransformToContext(object):
 
         \setupspacing[packed]   % normal word space at the end of sentences
         \setupwhitespace[none]  % no space between paragraphs
-        \setupindenting[yes, small, next]
+        \setupindenting[small, yes]
         \setupinterlinespace[line=13pt] % Line spacing
 
         \define[1]\V{\setupinmargin[style=small] \inmargin{#1}}
         \define[1]\C{\setupinmargin[style=bold] \inmargin{#1} \marking[RAChapter]{#1}}
-        \define[1]\MS{\section{#1} \marking[RASection]{#1}}
-        \define[1]\MSS{{\midaligned{\em #1}}}
+        \define[1]\MS{\section{#1} \marking[RASection]{#1}\blank\par \noindentation }
+        \define[1]\MSS{{\midaligned{\em #1}}\blank\par \noindentation }
         \define[1]\MT{{\midaligned{\sc #1}}\blank ~}
         \define[1]\RAHeader{\chapter{#1} \marking[RABook]{#1}}
+        \define[2]\Q{\startnarrower[#1*left,1*right]\noindentation #2\stopnarrower }
 
         \emergencystretch\maxdimen
 
@@ -279,7 +307,7 @@ class TransformToContext(object):
         \usemodule[lettrine]
 
         \setupnote[footnote][way=bypage]
-
+        
         \starttext
 
         \title{Open English Bible}
@@ -296,7 +324,7 @@ class TransformToContext(object):
         f.write(s.encode('utf-8'))
         f.close()
 
-    def setupAndRun(self, patchedDir, prefaceDir, outputDir):
+    def setupAndRun(self, patchedDir, prefaceDir, outputDir, smallCap = True):
         self.patchedDir = patchedDir
         self.prefaceDir = prefaceDir
         self.outputDir = outputDir
@@ -329,11 +357,17 @@ class TransformToContext(object):
                     '2 John',
                     '3 John',
                     'Jude',
-                    'Revelation']
+                    'Revelation',
+                    'Psalms']
                  
-        preface = unicode(open(self.prefaceDir + '/preface.tex').read(), 'utf-8').strip()
+        fn = self.prefaceDir + '/preface.tex'
+        if not os.path.isfile(fn):
+            print(fn + ' Not Found')
+            preface = u''
+        else:
+            preface = unicode(open(fn).read(), 'utf-8').strip()
         bookTex = preface
         for book in books:
-            bookTex = bookTex + self.translateBook(book)
+            bookTex = bookTex + self.translateBook(book, smallCap)
             print '      (' + book + ')'
         self.saveAll(bookTex)
