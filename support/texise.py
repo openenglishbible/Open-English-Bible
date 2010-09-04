@@ -5,39 +5,36 @@ import parseUsfm
 
 class TexPrinter(object):
     def __init__(self):
-        self.printerState = {u'li': False, u'narrower': False, u'd': False}
+        self.printerState = {u'li': False, u'd': False}
         self.smallCapSections = True  # Sometimes we don't want to do this, like for Psalms
         self.justDidLORD = False
         self.justDidNB = False
+        self.doNB = False
+        self.narrower = False
+        self.doChapterOrVerse = u''
+        self.smallcaps = False
 
     def startNarrower(self, n):
-        s = u''
-        if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
-            self.printerState[u'narrower'] = False
-            s = s + u'}'
-        else:
-            s = s + u'\n\\blank[medium]'
-        self.printerState[u'narrower'] = True
-        s = s + u'\n\Q{' + str(n) + u'}{'
-        self.justDidNB = True
+        s = u'}' if self.narrower else u'\n\\blank[medium] '
+        self.narrower = True
+        s = s + u'\n\\noindentation \\Q{' + str(n) + u'}{'
+        self.doNB = True
         return s
 
     def stopNarrower(self):
-        s = u''
-        if u'narrower' in self.printerState and self.printerState[u'narrower'] == True:
-            self.printerState[u'narrower'] = False
-            s = s + u'}\\blank[medium]'
+        s = u'}\n\\blank[medium] ' if self.narrower else u''
+        self.narrower = False
         return s
 
     def escapeText(self, s):
         return s.replace('&', '\\&').replace('%', '\\%')
  
     def markForSmallCaps(self):
-        self.printerState[u'smallcaps'] = True
+        self.smallcaps = True
 
     def renderSmallCaps(self, s):
-        if u'smallcaps' in self.printerState and self.printerState[u'smallcaps'] == True:
-            self.printerState[u'smallcaps'] = False
+        if self.smallcaps == True:
+            self.smallcaps = False
             return self.smallCapText(s)
         return s
 
@@ -84,47 +81,60 @@ class TexPrinter(object):
         else:
             self.printerState[u'd'] = False
             return u'\stopalignment }'
+            
+    def newLine(self):
+        s = u'\n\par \n'
+        if self.doNB:
+            self.doNB = False
+            self.justDidNB = True
+            s = s + u'\\noindentation '
+        elif self.justDidNB:
+            self.justDidNB = False
+            s = s + u'\indentation '
+        return s
                     
     def renderID(self, token):      return u''
     def renderIDE(self, token):     return u''
-    def renderH(self, token):       return u'\RAHeader{' + token.value + u'} '
-    def renderMT(self, token):      return self.stopLI() + self.stopNarrower() + u'\MT{' + token.value + u'} '
-    def renderMS(self, token):      self.justDidNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\MS{' + token.value + u'}'
-    def renderMS2(self, token):     self.justDidNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\MSS{' + token.value + '}'
-    def renderP(self, token):
-        s = self.stopD() + self.stopLI() + self.stopNarrower() + u'\n\n'
-        if self.justDidNB:
-            self.justDidNB = False
-            s = s + '\indentation '
-        return s 
-    def renderB(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank\n\n'
-    def renderS(self, token):       self.justDidNB = True; return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank\n\n\\noindentation '
+    def renderH(self, token):       return u'\n\n\RAHeader{' + token.value + u'}\n'
+    def renderMT(self, token):      return self.stopLI() + self.stopNarrower() + u'\n\MT{' + token.value + u'}\n'
+    def renderMS(self, token):      self.doNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\n\MS{' + token.value + u'}' + self.newLine()
+    def renderMS2(self, token):     self.doNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\n\MSS{' + token.value + '}' + self.newLine()
+    def renderP(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + self.newLine() 
+    def renderB(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank \n'
+    def renderS(self, token):       self.doNB = True; return self.stopD() + self.stopLI() + self.stopNarrower() + u'\n\\blank[big] ' + self.newLine() 
     def renderC(self, token):
         if not token.value == u'1':
-            return u'\C{' + token.value + u'} '
-        else:
-            return u''
+            self.doChapterOrVerse = u'\C{' + token.value + u'}'
+        return u' '
     def renderV(self, token):
         if not (token.value == u'1' or token.value == u''):
-            return u'\V{' + token.value + u'} '
-        else:
-            return ''
+            self.doChapterOrVerse =  u'\V{' + token.value + u'}'
+        return ' '
     def renderWJS(self, token):     return u""
     def renderWJE(self, token):     return u""
     def renderTEXT(self, token):
         s = self.escapeText(token.value)
+        if self.smallcaps and not self.doChapterOrVerse == u'':
+            s = self.renderSmallCaps(s)
+            i = s.find(u'}')
+            s = s[0:i+1] + self.doChapterOrVerse + s[i+1:]
+            self.doChapterOrVerse = u''
+        elif not self.doChapterOrVerse == u'':
+            i = s.find(u' ')
+            s = s[0:i] + self.doChapterOrVerse + s[i+1:]
+            self.doChapterOrVerse = u''
+        elif self.smallcaps:
+            s = self.renderSmallCaps(s)
         if self.justDidLORD:
             if s[0].isalpha():
                 s = u' ' + s
-                self.justDidLORD = False
-        return self.renderSmallCaps(s)
+            self.justDidLORD = False    
+        return s
     def renderQ(self, token):       return self.stopD() + self.stopLI() + self.startNarrower(1)
     def renderQ1(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(1)
     def renderQ2(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(2)
     def renderQ3(self, token):      return self.stopD() + self.stopLI() + self.startNarrower(3)
-    def renderNB(self, token):
-        self.justDidNB = True
-        return self.stopD() + self.stopLI() + self.stopNarrower() + u"\n\n\\noindentation "
+    def renderNB(self, token):      self.doNB = True ; return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank[medium] ' + self.newLine() 
     def renderQTS(self, token):     return u''
     def renderQTE(self, token):     return u''
     def renderFS(self, token):      return u'\\footnote{'
@@ -286,13 +296,13 @@ class TransformToContext(object):
         \setupindenting[small, yes]
         \setupinterlinespace[line=13pt] % Line spacing
 
-        \define[1]\V{\setupinmargin[style=small] \inmargin{#1}}
-        \define[1]\C{\setupinmargin[style=bold] \inmargin{#1} \marking[RAChapter]{#1}}
-        \define[1]\MS{\section{#1} \marking[RASection]{#1}\blank\par \noindentation }
-        \define[1]\MSS{{\midaligned{\em #1}}\blank\par \noindentation }
+        \define[1]\V{\setupinmargin[style=small] \inmargin{#1} ~}
+        \define[1]\C{\setupinmargin[style=bold] \inmargin{#1} \marking[RAChapter]{#1} ~}
+        \define[1]\MS{\section{#1} \marking[RASection]{#1}}
+        \define[1]\MSS{{\midaligned{\em #1}}}
         \define[1]\MT{{\midaligned{\sc #1}}\blank ~}
-        \define[1]\RAHeader{\chapter{#1} \marking[RABook]{#1}}
-        \define[2]\Q{\startnarrower[#1*left,1*right]\noindentation #2\stopnarrower }
+        \define[1]\RAHeader{\chapter{#1} \marking[RABook]{#1} }
+        \define[2]\Q{\startnarrower[#1*left,1*right] #2\stopnarrower }
 
         \emergencystretch\maxdimen
 
