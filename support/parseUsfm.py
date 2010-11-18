@@ -7,10 +7,12 @@ from pyparsing import Word, alphas, OneOrMore, nums, Literal, White, Group, Supp
 
 def usfmToken(key):
     return Group(Suppress(backslash) + Literal( key ) + Suppress(White()))
+def usfmBackslashToken(key):
+    return Group(Literal(key))
 def usfmEndToken(key): 
     return Group(Suppress(backslash) + Literal( key +  u"*"))
 def usfmTokenValue(key, value): 
-    return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + value )
+    return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + Optional(value) )
 def usfmTokenNumber(key): 
     return Group(Suppress(backslash) + Literal( key ) + Suppress(White()) + Word (nums) + Suppress(White()))
 
@@ -29,7 +31,9 @@ mt      = usfmTokenValue( u"mt", phrase )
 ms      = usfmTokenValue( u"ms", phrase )
 ms1     = usfmTokenValue( u"ms1", phrase )
 ms2     = usfmTokenValue( u"ms2", phrase )
-s       = usfmToken(u"s")
+s       = usfmTokenValue( u"s", phrase )
+s1      = usfmTokenValue( u"s1", phrase )
+s2      = usfmTokenValue( u"s2", phrase )
 p       = usfmToken(u"p")
 b       = usfmToken(u"b")
 c       = usfmTokenNumber(u"c")
@@ -54,8 +58,9 @@ adds    = usfmToken(u"add")
 adde    = usfmEndToken(u"add")
 nds     = usfmToken(u"nd")
 nde     = usfmEndToken(u"nd")
+pbr     = usfmBackslashToken("\\\\")
 
-element = ide | id | h | mt | ms | ms1 | ms2 | s | p | b | c | v | wjs | wje | nds | nde | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | li | d | sp | adds | adde | textBlock
+element = ide | id | h | mt | ms | ms1 | ms2 | s | s1 | s2 | p | b | c | v | wjs | wje | nds | nde | q | q1 | q2 | q3 | qts | qte | nb | fs | fe | ist | ien | li | d | sp | adds | adde | pbr | textBlock
 usfm    = OneOrMore( element )
 
 # input string
@@ -80,6 +85,8 @@ def createToken(t):
         u'p':    PToken,
         u'b':    BToken,
         u's':    SToken,
+        u's1':   SToken,
+        u's2':   S2Token,
         u'c':    CToken,
         u'v':    VToken,
         u'wj':   WJSToken,
@@ -102,8 +109,9 @@ def createToken(t):
         u'li':   LIToken,
         u'add':  ADDSToken,
         u'add*': ADDEToken,
-        u'nd':  NDSToken,
-        u'nd*': NDEToken,
+        u'nd':   NDSToken,
+        u'nd*':  NDEToken,
+        u'\\\\':  PBRToken,
         u'text': TEXTToken
     }
     for k, v in options.iteritems():
@@ -127,6 +135,7 @@ class UsfmToken(object):
     def isP(self):      return False
     def isB(self):      return False
     def isS(self):      return False
+    def isS2(self):      return False
     def isC(self):      return False
     def isV(self):      return False
     def isWJS(self):    return False
@@ -150,6 +159,7 @@ class UsfmToken(object):
     def isADDE(self):   return False
     def isNDS(self):    return False
     def isNDE(self):    return False
+    def isPBR(self):    return False
     
 class IDToken(UsfmToken):
     def renderOn(self, printer):
@@ -220,6 +230,11 @@ class SToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderS(self)
     def isS(self):      return True
+
+class S2Token(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderS2(self)
+    def isS2(self):      return True
 
 class QToken(UsfmToken):
     def renderOn(self, printer):
@@ -310,3 +325,8 @@ class NDEToken(UsfmToken):
     def renderOn(self, printer):
         return printer.renderNDE(self)
     def isNDE(self):    return True
+
+class PBRToken(UsfmToken):
+    def renderOn(self, printer):
+        return printer.renderPBR(self)
+    def isPBR(self):    return True

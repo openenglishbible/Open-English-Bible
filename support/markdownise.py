@@ -1,6 +1,7 @@
 import re
 import os
 import parseUsfm
+import books
 
 
 class PlainPrinter(object):
@@ -37,6 +38,7 @@ class PlainPrinter(object):
     def renderP(self, token):       return self.stopD() + self.stopNarrower() + u'\n\n    '
     def renderB(self, token):       return self.stopD() + self.stopNarrower() + u'\n\n    '
     def renderS(self, token):       return self.stopD() + self.stopNarrower() + u'\n\n----\n\n    '
+    def renderS2(self, token):       return self.stopD() + self.stopNarrower() + u'\n\n----\n\n    '
     def renderC(self, token):       self.currentC = token.value; return u''
     def renderV(self, token):       return u' [' + self.currentC + u':' + token.value + u'] '
     def renderWJS(self, token):     return u""
@@ -58,6 +60,9 @@ class PlainPrinter(object):
     def renderLI(self, token):      return u'* '
     def renderD(self, token):       return self.startD()
     def renderSP(self, token):      return self.startD()
+    def renderNDS(self, token):     return u''
+    def renderNDE(self, token):     return u' '
+    def renderPBR(self, token):     return u'\n'
     
 class TransformToMarkdown(object):
 
@@ -89,40 +94,10 @@ class TransformToMarkdown(object):
         self.patchedDir = patchedDir
         self.prefaceDir = prefaceDir
         self.outputDir = outputDir
-
-        # Setup list of patches and books to use
-        #
-        books = [   'Matthew',
-                    'Mark',
-                    'Luke',
-                    'John',
-                    'Acts',
-                    'Romans',
-                    '1 Corinthians',
-                    '2 Corinthians',
-                    'Galatians',
-                    'Ephesians',
-                    'Philippians',
-                    'Colossians',
-                    '1 Thessalonians',
-                    '2 Thessalonians',
-                    '1 Timothy',
-                    '2 Timothy',
-                    'Titus',
-                    'Philemon',
-                    'Hebrews',
-                    'James',
-                    '1 Peter',
-                    '2 Peter',
-                    '1 John',
-                    '2 John',
-                    '3 John',
-                    'Jude',
-                    'Revelation']
-                 
+                  
         preface = unicode(open(self.prefaceDir + '/preface.txt').read(), 'utf-8').strip()
         bookTex = preface
-        for book in books:
+        for book in books.books:
             bookTex = bookTex + self.translateBook(book)
             print '      (' + book + ')'
         self.saveAll(bookTex)

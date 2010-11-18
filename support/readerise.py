@@ -3,6 +3,7 @@
 
 import os
 import parseUsfm
+import books
 
 class DummyFile(object):
     def close(self):
@@ -36,7 +37,7 @@ class ReaderPrinter(object):
     def renderID(self, token): 
         self.write(u'</p></article>')
         self.f.close()
-        self.cb = self.books[token.value[:3]]
+        self.cb = books.bookKeys[token.value[:3]]
         self.f = open(self.outputDir + u'/c' + self.cb + u'001.html', 'w')
         self.write(u'<article class="chapter nt oeb" lang="en" dir="ltr" rel="c' + self.cb + u'001">')
         self.indentFlag = False
@@ -51,6 +52,9 @@ class ReaderPrinter(object):
     def renderS(self, token):
         self.indentFlag = False
         self.write(u'</p><p align="center">_____</p><p>')
+    def renderS2(self, token):
+        self.indentFlag = False
+        self.write(u'</p><p align="center">_</p><p>')
     def renderC(self, token):
         self.cc = token.value.zfill(3)
         if self.cc == u'001':
@@ -88,77 +92,10 @@ class ReaderPrinter(object):
     def renderADDE(self, token):    self.write(u'</i>')
     def renderLI(self, token):      self.write(u'<p />')
     def renderSP(self, token):      self.write(u'<p />')
+    def renderNDS(self, token):     return u''
+    def renderNDE(self, token):     return u''
+    def renderPBR(self, token):      self.write(u'<br />')
     
-
-    books = {
-    u'GEN': u'001',
-    u'EXO': u'002',
-    u'LEV': u'003',
-    u'NUM': u'004',
-    u'DEU': u'005',
-    u'JOS': u'006',
-    u'JDG': u'007',
-    u'RUT': u'008',
-    u'1SA': u'009',
-    u'2SA': u'010',
-    u'1KI': u'011',
-    u'2KI': u'012',
-    u'1CH': u'013',
-    u'2CH': u'014',
-    u'EZR': u'015',
-    u'NEH': u'016',
-    u'EST': u'017',
-    u'JOB': u'018',
-    u'PSA': u'019',
-    u'PRO': u'020',
-    u'ECC': u'021',
-    u'SNG': u'022',
-    u'ISA': u'023',
-    u'JER': u'024',
-    u'LAM': u'025',
-    u'EZK': u'026',
-    u'DAN': u'027',
-    u'HOS': u'028',
-    u'JOL': u'029',
-    u'AMO': u'030',
-    u'OBA': u'031',
-    u'JON': u'032',
-    u'MIC': u'033',
-    u'NAM': u'034',
-    u'HAB': u'035',
-    u'ZEP': u'036',
-    u'HAG': u'037',
-    u'ZEC': u'038',
-    u'MAL': u'039',
-    u'MAT': u'040',
-    u'MRK': u'041',
-    u'LUK': u'042',
-    u'JHN': u'043',
-    u'ACT': u'044',
-    u'ROM': u'045',
-    u'1CO': u'046',
-    u'2CO': u'047',
-    u'GAL': u'048',
-    u'EPH': u'049',
-    u'PHP': u'050',
-    u'COL': u'051',
-    u'1TH': u'052',
-    u'2TH': u'053',
-    u'1TI': u'054',
-    u'2TI': u'055',
-    u'TIT': u'056',
-    u'PHM': u'057',
-    u'HEB': u'058',
-    u'JAS': u'059',
-    u'1PE': u'060',
-    u'2PE': u'061',
-    u'1JN': u'062',
-    u'2JN': u'063',
-    u'3JN': u'064',
-    u'JUD': u'065',
-    u'REV': u'066'
-    }
-
 class TransformForReader(object):
     outputDir = ''
     patchedDir = ''
@@ -187,36 +124,6 @@ class TransformForReader(object):
         self.prefaceDir = prefaceDir
         self.outputDir = outputDir
 
-        # Setup list of patches and books to use
-        #
-        books = [   'Matthew',
-                    'Mark',
-                    'Luke',
-                    'John',
-                    'Acts',
-                    'Romans',
-                    '1 Corinthians',
-                    '2 Corinthians',
-                    'Galatians',
-                    'Ephesians',
-                    'Philippians',
-                    'Colossians',
-                    '1 Thessalonians',
-                    '2 Thessalonians',
-                    '1 Timothy',
-                    '2 Timothy',
-                    'Titus',
-                    'Philemon',
-                    'Hebrews',
-                    'James',
-                    '1 Peter',
-                    '2 Peter',
-                    '1 John',
-                    '2 John',
-                    '3 John',
-                    'Jude',
-                    'Revelation']
-        
-        for book in books:
+        for book in books.books:
             self.translateBook(book)
  

@@ -3,6 +3,7 @@
 
 import os
 import parseUsfm
+import books
 
 class DummyFile(object):
     def close(self):
@@ -36,7 +37,7 @@ class ReaderPrinter(object):
     def renderID(self, token): 
         self.write(u'</p></div></body>')
         self.f.close()
-        self.cb = self.books[token.value]
+        self.cb = books.bookKeys[token.value]
         self.f = open(self.outputDir + u'/b' + self.cb + u'.html', 'w')
         self.write("""
         <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -97,6 +98,9 @@ class ReaderPrinter(object):
     def renderS(self, token):
         self.indentFlag = False
         self.write(u'</p><p align="center">_________________________</p><p>')
+    def renderS2(self, token):
+        self.indentFlag = False
+        self.write(u'</p><p align="center">----</p><p>')
     def renderC(self, token):
         self.cc = token.value.zfill(3)
         self.write(u'<h2 class="c-num">' + token.value + u'</h2><p>')
@@ -114,42 +118,16 @@ class ReaderPrinter(object):
     def renderQ2(self, token):      self.writeIndent(2)
     def renderQ3(self, token):      self.writeIndent(3)
     def renderNB(self, token):      self.writeIndent(0)
+    def renderB(self, token):       self.write(u'<br /><br />')
     def renderQTS(self, token):     pass
     def renderQTE(self, token):     pass
     def renderFS(self, token):      pass
     def renderFE(self, token):      pass
     def renderIS(self, token):      self.write(u'<i>')
     def renderIE(self, token):      self.write(u'</i>')
-
-    books = {
-    u'MAT': u'040',
-    u'MRK': u'041',
-    u'LUK': u'042',
-    u'JHN': u'043',
-    u'ACT': u'044',
-    u'ROM': u'045',
-    u'1CO': u'046',
-    u'2CO': u'047',
-    u'GAL': u'048',
-    u'EPH': u'049',
-    u'PHP': u'050',
-    u'COL': u'051',
-    u'1TH': u'052',
-    u'2TH': u'053',
-    u'1TI': u'054',
-    u'2TI': u'055',
-    u'TIT': u'056',
-    u'PHM': u'057',
-    u'HEB': u'058',
-    u'JAS': u'059',
-    u'1PE': u'060',
-    u'2PE': u'061',
-    u'1JN': u'062',
-    u'2JN': u'063',
-    u'3JN': u'064',
-    u'JUD': u'065',
-    u'REV': u'066'
-    }
+    def renderNDS(self, token):     pass
+    def renderNDE(self, token):     pass
+    def renderPBR(self, token):     self.write(u'<br />')
 
 class TransformToHTML(object):
     outputDir = ''
@@ -173,36 +151,7 @@ class TransformToHTML(object):
         self.prefaceDir = prefaceDir
         self.outputDir = outputDir
 
-        # Setup list of patches and books to use
-        #
-        books = [   'Matthew',
-                    'Mark',
-                    'Luke',
-                    'John',
-                    'Acts',
-                    'Romans',
-                    '1 Corinthians',
-                    '2 Corinthians',
-                    'Galatians',
-                    'Ephesians',
-                    'Philippians',
-                    'Colossians',
-                    '1 Thessalonians',
-                    '2 Thessalonians',
-                    '1 Timothy',
-                    '2 Timothy',
-                    'Titus',
-                    'Philemon',
-                    'Hebrews',
-                    'James',
-                    '1 Peter',
-                    '2 Peter',
-                    '1 John',
-                    '2 John',
-                    '3 John',
-                    'Jude',
-                    'Revelation']
-        for book in books:
+        for book in books.books:
             self.translateBook(book)
 
         

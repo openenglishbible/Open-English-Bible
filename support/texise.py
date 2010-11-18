@@ -1,7 +1,7 @@
 import re
 import os
 import parseUsfm
-
+import books
 
 class TexPrinter(object):
     def __init__(self):
@@ -30,7 +30,8 @@ class TexPrinter(object):
         return s.replace('&', '\\&').replace('%', '\\%')
  
     def markForSmallCaps(self):
-        self.smallcaps = True
+        if self.smallCapSections: 
+             self.smallcaps = True
 
     def renderSmallCaps(self, s):
         if self.smallcaps == True:
@@ -39,9 +40,6 @@ class TexPrinter(object):
         return s
 
     def smallCapText(self, s):
-         if not self.smallCapSections: 
-             # So we don't muck up Psalms
-             return s
          i = 0
          while i < len(s):
              if i < 30:  #we are early, look for comma
@@ -101,13 +99,14 @@ class TexPrinter(object):
     def renderMS2(self, token):     self.doNB = True; self.markForSmallCaps() ; return self.stopNarrower() + u'\n\MSS{' + token.value + '}' + self.newLine()
     def renderP(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + self.newLine() 
     def renderB(self, token):       return self.stopD() + self.stopLI() + self.stopNarrower() + u'\\blank \n'
-    def renderS(self, token):       self.doNB = True; return self.stopD() + self.stopLI() + self.stopNarrower() + u'\n\\blank[big] ' + self.newLine() 
+    def renderS(self, token):       self.doNB = True; return self.stopD() + self.stopLI() + self.stopNarrower() +  u'\n\\blank[big] ' + u'\n\MSS{' + token.value + '}' + self.newLine() 
+    def renderS2(self, token):      self.doNB = True; return self.stopD() + self.stopLI() + self.stopNarrower() + u'\n\\blank[big] ' + u'\n\MSS{' + token.value + '}' + self.newLine() 
     def renderC(self, token):
         if not token.value == u'1':
             self.doChapterOrVerse = u'\C{' + token.value + u'}'
         return u' '
     def renderV(self, token):
-        if not (token.value == u'1' or token.value == u''):
+        if not token.value == u'1':
             self.doChapterOrVerse =  u'\V{' + token.value + u'}'
         return ' '
     def renderWJS(self, token):     return u""
@@ -120,7 +119,7 @@ class TexPrinter(object):
             s = s[0:i+1] + self.doChapterOrVerse + s[i+1:]
             self.doChapterOrVerse = u''
         elif not self.doChapterOrVerse == u'':
-            i = s.find(u' ')
+            i = s.find(u' ')              
             s = s[0:i] + self.doChapterOrVerse + s[i+1:]
             self.doChapterOrVerse = u''
         elif self.smallcaps:
@@ -148,8 +147,11 @@ class TexPrinter(object):
     def renderLI(self, token):      return self.startLI()
     def renderD(self, token):       return self.startD()
     def renderSP(self, token):      return self.startD()
+    def renderPBR(self, token):     return u' \\\\ '
     
 class TransformToContext(object):
+    
+    texPrinter = None
 
     def markShortVerses(self, tokens):
         # This is manual until I work out how to do it automatically
@@ -244,9 +246,9 @@ class TransformToContext(object):
         #tokens = self.lineDropFirstChapter(tokens)
 
         s = u''
-        tp = TexPrinter()
-        tp.smallCapSections = smallCap
-        for t in tokens: s = s + t.renderOn(tp)
+        self.texPrinter.smallCapSections = smallCap
+        for t in tokens: s = s + t.renderOn(self.texPrinter)
+        s = s + self.texPrinter.stopNarrower()
         s = s + u"\marking[RAChapter]{ } \marking[RABook]{ } \marking[RASection]{ }"
 
         return s
@@ -338,37 +340,7 @@ class TransformToContext(object):
         self.patchedDir = patchedDir
         self.prefaceDir = prefaceDir
         self.outputDir = outputDir
-
-        # Setup list of patches and books to use
-        #
-        books = [   'Matthew',
-                    'Mark',
-                    'Luke',
-                    'John',
-                    'Acts',
-                    'Romans',
-                    '1 Corinthians',
-                    '2 Corinthians',
-                    'Galatians',
-                    'Ephesians',
-                    'Philippians',
-                    'Colossians',
-                    '1 Thessalonians',
-                    '2 Thessalonians',
-                    '1 Timothy',
-                    '2 Timothy',
-                    'Titus',
-                    'Philemon',
-                    'Hebrews',
-                    'James',
-                    '1 Peter',
-                    '2 Peter',
-                    '1 John',
-                    '2 John',
-                    '3 John',
-                    'Jude',
-                    'Revelation',
-                    'Psalms']
+        self.texPrinter = TexPrinter()
                  
         fn = self.prefaceDir + '/preface.tex'
         if not os.path.isfile(fn):
@@ -377,7 +349,7 @@ class TransformToContext(object):
         else:
             preface = unicode(open(fn).read(), 'utf-8').strip()
         bookTex = preface
-        for book in books:
+        for book in books.books:
             bookTex = bookTex + self.translateBook(book, smallCap)
             print '      (' + book + ')'
         self.saveAll(bookTex)
