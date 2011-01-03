@@ -7,9 +7,9 @@ import difflib
 
 
 def nextWord(aString, start):
-    s = ''
+    s = u''
     i = start
-    while i < len(aString) and not (aString[i] == ' ' or aString[i] == '\n'):
+    while i < len(aString) and not (aString[i] == u' ' or aString[i] == u'\n'):
         s = s + aString[i]
         i = i + 1
     return (i, s)
@@ -29,7 +29,7 @@ def compare(sbefore, safter):
     return (sbefore[i:-i2], safter[i:-i2])
 
 def isBreak(s):
-    for c in """\n\t -.,!? —‘“”’;:()'"[]\\""":
+    for c in u"""\n\t -.,!? —‘“”’;:()'"[]\\""":
         if c == s: return True
     return False
 
@@ -39,13 +39,13 @@ def parseString( aString ):
     s = ''
     i = 0
     while i < len(aString):
-        if aString[i] == '\\' and (aString[i+1] == 'c' or aString[i+1] == 'v'):
+        if aString[i] == u'\\' and (aString[i+1] == u'c' or aString[i+1] == u'v'):
             t.append(s)
-            s = '\\' + aString[i+1] + ' '
+            s = u'\\' + aString[i+1] + u' '
             i = i + 3
             (i, ts) = nextWord(aString, i)
             t.append(s + ts)
-            s = ''
+            s = u''
         else:
             s = s + aString[i]
             i = i + 1
@@ -76,13 +76,13 @@ def main(argv):
         usage()
     else:
         f = open(before)
-        b = f.read()
+        b = unicode(f.read(), 'utf-8')
         f.close()
 
         b = parseString(b)
 
         f = open(after)
-        a = f.read()
+        a = unicode(f.read(), 'utf-8')
         f.close()
 
         a = parseString(a)
@@ -92,17 +92,17 @@ def main(argv):
         v = 0
         p = ''
         while i < len(b):
-            if b[i][:2] == '\c':
+            if b[i][:2] == u'\c':
                 c = int(b[i][3:])
-            if b[i][:2] == '\\v':
+            if b[i][:2] == u'\\v':
                 v = int(b[i][3:])
             if not a[i] == b[i]:
                 (subb, suba) = compare(b[i], a[i])
-                p = p + str(c) + ':' + str(v) + '  ' + subb + ' -> ' + suba + '\n'
+                p = p + str(c) + u':' + str(v) + u'  ' + subb + u' -> ' + suba + u'\n'
             i = i + 1
 
         f = open(patch, 'w')
-        f.write(p)
+        f.write(p.encode('utf-8'))
         f.close()
 
     print '#### Finished.'
