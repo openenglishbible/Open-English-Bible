@@ -130,7 +130,7 @@ class Patcher(object):
         return (i, i2)
 
     def isSeparator(self, c):
-        s = u"""\n\t -.,!? —‘“”’;:()'"[]\\"""
+        s = u"""\n\t -.,!? —‘“”’;:()'"\\"""
         return s.find(c) != -1
         
         
