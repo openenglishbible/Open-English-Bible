@@ -61,8 +61,6 @@ In Matthew:
     4:19    men            ->        people
     5:12    men            ->        they
     5:15    Men            ->        People
-    5:16    your fellow men    ->    others
-    6:5     men            ->        others
     6:16    men            ->        people
     6:18    men            ->        people
     6:30    men            ->        you
@@ -70,9 +68,25 @@ In Matthew:
     7:20    men            ->        people
     8:26    men            ->        you
     9:8     men            ->        human beings
-    10:17   your fellow men                            -> others
-    10:32   acknowledge me before his fellow men    -> publicly acknowledge me
-    10:33   disowns me before his fellow men        -> publicly disowns me
+    10:17    your fellow men                            -> others
+    10:22    man            ->        person
+    10:32    acknowledge me before his fellow men    -> publicly acknowledge me
+    10:33    disowns me before his fellow men        -> publicly disowns me
+    10:36   his         ->  their
+    10:36    man’s          ->        person’s
+    10:37   he             ->  anyone
+    10:38    The man        ->        Anyone
+    10:38    his cross      ->        their cross 
+    10:39   He who has found his life will lose it, while he who, for my sake, has lost his ->  The person who has found their life will lose it, while the person who, for my sake, has lost their
+    10:40   He who welcomes you is welcoming me; and he ->  Anyone who welcomes you is welcoming me; and anyone
+    10:41    man            ->        person
+    10:41    man            ->        person
+    10:41    man            ->        person
+    10:41   He -> The person
+    10:41   he is -> they are
+    10:41   he -> anyone
+    10:41   he is -> they are
+    10:42   he is a disciple, I tell you that he shall assuredly not lose his ->  they are a disciple, I tell you that they shall assuredly not lose their
     11:7    these men    ->    John’s disciples
     11:12   men            ->        people
     11:18   men            ->        people
@@ -101,12 +115,6 @@ In Matthew:
     7:24     man            ->        person
     7:26     man            ->        person
     9:16     No man         ->        Nobody
-    10:22    man            ->        person
-    10:36    man’s          ->        person’s
-    10:38    man            ->        person
-    10:41    man            ->        person
-    10:41    man            ->        person
-    10:41    man            ->        person
     11:6     man            ->        person
     12:12    man            ->        person
     12:35    man            ->        person
@@ -131,6 +139,7 @@ In Matthew:
     16:26    man            ->        person
     16:27    every man    ->        everyone
     18:4     man            ->        person
+    18:4     himself        ->        themselves
     18:7     man            ->        person
     18:12    man            ->        person
     19:6     man            ->        people
@@ -164,15 +173,6 @@ In Matthew:
     7:10      he asks for a fish, will give him ->  they ask for a fish, will give them
     7:24      his         ->  their
     7:26      his         ->  their
-    10:36   his         ->  their
-    10:37   he             ->  anyone
-    10:39   He who has found his life will lose it, while he who, for my sake, has lost his ->  The person who has found their life will lose it, while the peson who, for my sake, has lost their
-    10:40   He who welcomes you is welcoming me; and he ->  Anyone who welcomes you is welcoming me; and anyone
-    10:41   He -> The person
-    10:41   he is -> they are
-    10:41   he -> anyone
-    10:41   he is -> they are
-    10:42   he is a disciple, I tell you that he shall assuredly not lose his ->  they are a disciple, I tell you that they shall assuredly not lose their
     12:30   He who is not with me is against me, and he ->  Anyone who is not with me is against me, and the person
     13:4       he was         ->  they were
     13:9       him who has ->  those who have
@@ -193,9 +193,10 @@ In Matthew:
     18:15   brother -> brother or sister
     18:15   him -> them
     18:15   his -> their
+    18:15   convince him -> convince them
     18:15   you and he are alone -> you are both alone
-    18:15   he listens -> they listed
-    18:15   brother -> them over
+    18:15   he listens -> they listen
+    18:15   won your brother -> won them over
     18:16   he does ->  they do
     18:17   he refuses -> they refuse
     18:17   he also refuses -> they also refuse
@@ -231,6 +232,7 @@ In Matthew:
     25:17   man ->  servant
     25:18   man ->  servant
     25:20   man ->  servant
+    25:40   brothers -> brothers or sisters
     28:10   to ->  and sisters to
     
 In Luke:
@@ -318,7 +320,8 @@ In Luke:
     14:26   man comes to me and does not hate his father, and mother, and wife, and children, and brothers, and sisters, yes and his -> one comes to me and does not hate their father, and mother, and wife, and children, and brothers, and sisters, yes and their
     14:27   his ->  their
     14:28   he wants to build a tower, does not first sit down and reckon the cost, to see if he ->  you want to build a tower, does not first sit down and reckon the cost, to see if you
-    14:29   he -> you
+    14:29   he has -> you have
+    14:29   is not -> are not
     14:29   him -> you
     14:30   man ->  person
     14:33   he has ->  you have
@@ -354,6 +357,7 @@ In Luke:
     20:38   men ->  people
     21:16   brothers ->  brothers and sisters
     21:26   Men’s ->  People’s
+    22:32   your brothers -> the others
     
 In John:
     1:4    Man ->  humanity
@@ -370,7 +374,8 @@ In John:
     3:18   He who believes in him escapes condemnation, while he who does not believe in him is already condemned, because he has ->  The person who believes in him escapes condemnation, while the person who does not believe in him is already condemned, because they have
     3:19   his condemnation is this, that though the light has come into the world, men ->  their condemnation is this, that though the light has come into the world, people
     3:20   he who lives an evil life hates the light, and will not come to it, for fear that his ->  the person who lives an evil life hates the light, and will not come to it, for fear that their
-    3:21   he who acts up to the truth comes to the light, that his ->  the person who acts up to the truth comes to the light, that their
+    3:21   he -> the person
+    3:21   his -> their
     3:27   man can gain nothing but what is given him ->  person can gain nothing but what is given them
     3:36   He who believes in the Son has eternal life, while he ->  The person who believes in the Son has eternal life, while a person
     5:22   man -> one
@@ -441,6 +446,8 @@ In Acts:
     2:15   men ->  people
     2:17   mankind ->  humanity
     2:22   Men ->  People
+    2:29   Brothers -> Friends
+    2:37    Brothers -> Friends
     3:12  “Men -> “People
     3:17   brothers ->  friends
     3:22   your brothers -> yourselves
@@ -482,6 +489,7 @@ In Acts:
     15:7    brothers ->  friends
     15:13   “Brothers -> “Friends
     15:22   leading men among the brethren ->  leaders among the community
+    15:23   brothers ->  followers
     15:23   brethren ->  followers of the Lord
     15:25   brothers ->  friends
     15:30   brethren ->  followers
@@ -563,7 +571,7 @@ In Romans:
     11:25   brothers ->  My friends
     12:1    brothers ->  friends
     12:7    his ->  their
-    12:8    his exhortation. Let the man who gives in charity do so with a generous heart; let him who is in authority exercise due diligence; let him ->  their exhortation. Let the person who gives in charity do so with a generous heart; let the person who is in authority exercise due diligence; let the person
+    12:8    his counsel. Let the man who gives in charity do so with a generous heart; let him who is in authority exercise due diligence; let him ->  their counsel. Let the person who gives in charity do so with a generous heart; let the person who is in authority exercise due diligence; let the person
     12:10   brotherly love ->  the love of the community of the Lord's followers
     12:17   all men ->  everyone
     13:8    brotherly love; for he who loves his fellow men has ->  love; for they who love their neighbour have
@@ -1095,6 +1103,7 @@ In 2 Peter:
     2:20   men ->  people
     2:22   he ->  it
     3:4    fathers ->  ancestors
+    3:15    brother -> friend
 
 In 1 John:
     2:4   man who says ‘I know Jesus,’ but does not lay his commands to heart, is a liar, and the truth has no place in him ->  person who says ‘I know Jesus,’ but does not lay his commands to heart, is a liar, and the truth has no place in them
@@ -1207,6 +1216,7 @@ In Revelation:
     14:1    thousand men, with -> thousand, with
     14:10   man shall drink the maddening wine of God that has been poured unmixed into the cup of his wrath, and he ->  person shall drink the maddening wine of God that has been poured unmixed into the cup of his wrath, and they
     18:13   men ->  people
+    19:10   brothers -> brothers and sisters
     19:18   freemen and slaves ->  free and enslaved
     21:3   men ->  people
     21:6   him who thirsts ->  those who thirst
