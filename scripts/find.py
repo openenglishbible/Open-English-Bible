@@ -33,7 +33,7 @@ books = [   'Matthew',
             'Jude',
             'Revelation']
 
-def generatePatchForFind(find, replace):
+def generatePatchForFind(find, replace, ignoreCase=False):
     p = u''
     for b in books:
         print '     Looking in ' + b
@@ -41,13 +41,13 @@ def generatePatchForFind(find, replace):
         fc = unicode(f.read(), 'utf-8')
         f.close()
         
-        found = findInBook(find, fc, replace)
+        found = findInBook(find, fc, replace, ignoreCase)
         if len(found) > 0:        
             p = p + u'\nIn ' + b + u':\n'
-            p = p + findInBook(find, fc, replace)
+            p = p + findInBook(find, fc, replace, ignoreCase)
     return p
     
-def findInBook(find, book, replace):
+def findInBook(find, book, replace, ignoreCase=False):
     c = 1
     v = 1
     p = u''
@@ -59,13 +59,19 @@ def findInBook(find, book, replace):
         if book[i:i+3] == u'\\v ':
             i = i + 3
             (i, v) = findElement(book, i)
-        if book[i:i+len(find)] == find and isSeparator(book[i-1]) and isSeparator(book[i+len(find)]):
+        if isMatch(book, i, find, ignoreCase):
             context = (u'    ' + str(c) + u':' + str(v)).ljust(12)
             p = p + u'    ; ' + book[i-20:i+80].replace(u'\n', u' ') + u'\n'
             p = p + context + find + u'  ->  ' + replace + u'\n'
             i = i + len(find)
         i = i + 1
     return p
+    
+def isMatch(book, i, find, ignoreCase):
+    if ignoreCase:
+        return book[i:i+len(find)].lower() == find.lower() and isSeparator(book[i-1]) and isSeparator(book[i+len(find)])
+    else: 
+        return book[i:i+len(find)] == find and isSeparator(book[i-1]) and isSeparator(book[i+len(find)])
             
 def isSeparator(c):
     s = u"""\n\t -.,!? —‘“”’;:()'"[]\\"""
@@ -81,12 +87,14 @@ def findElement(book, index):
 def main(argv):
     print '#### Starting Find.'
     try:
-        opts, args = getopt.getopt(argv, "hf:p:r:", ["help", "find=", "replace=", "patch="])
+        opts, args = getopt.getopt(argv, "ihf:p:r:", ["ignoreCase", "help", "find=", "replace=", "patch="])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
 
     find = replace = patch = ''
+    ignoreCase = False
+    
     for opt, arg in opts:
         if opt in ("-h", "--help"):
             usage()
@@ -96,12 +104,14 @@ def main(argv):
             patch = arg
         elif opt in ("-r", "--replace"):
             replace = arg
+        elif opt in ("-i", "--ignoreCase"):
+            ignoreCase = True
 
     if find == '':
         usage()
     else:
         print '     Finding: "' + find + '"'
-        p = generatePatchForFind(find, replace)
+        p = generatePatchForFind(find, replace, ignoreCase)
 
         if patch == '':
             print p
