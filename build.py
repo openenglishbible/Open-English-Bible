@@ -1,32 +1,9 @@
 import sys
 sys.path.append("support")
 
-from subprocess import Popen, PIPE
 import getopt
 
 import patch
-import texise
-import htmlise
-import readerise
-import markdownise
-
-def runscript(c, prefix=''):
-    pp = Popen(c, shell=True, stdout=PIPE)
-    for ln in pp.stdout:
-        print prefix + ln[:-1]
-
-def setup():
-    c = """
-    cd thirdparty
-    rm -rf context
-    mkdir context
-    cd context
-    curl -o first-setup.sh http://minimals.contextgarden.net/setup/first-setup.sh
-    sh ./first-setup.sh
-    . ./tex/setuptex
-    """
-    runscript(c)
-
 
 def doPatch():
     # Create patched usfm
@@ -35,71 +12,18 @@ def doPatch():
     p.setup('source', 'patches', 'patched')
     p.patch()
 
-def buildAll():
-
-    buildPDF()
-    buildWeb()
-    buildReader()
-    buildMarkdown()
-
-def buildPDF():
-
-    print '#### Building PDF...'
-
-    # Convert to ConTeXt
-    print '     Converting to TeX...'
-    c = texise.TransformToContext()
-    c.setupAndRun('patched', 'preface', 'working/tex')
-
-    # Build PDF
-    print '     Building PDF..'
-    c = """. ./thirdparty/context/tex/setuptex ; cd working/tex-working; rm * ; context ../tex/Bible.tex; cp *.pdf ../../built/"""
-    runscript(c, '     ')
-
-def buildWeb():
-    # Convert to HTML
-    print '#### Building HTML...'
-    c = htmlise.TransformToHTML()
-    c.setupAndRun('patched', 'preface', 'built/html')
-
-def buildReader():
-        # Convert to HTML
-        print '#### Building for Reader...'
-        c = readerise.TransformForReader()
-        c.setupAndRun('patched', 'preface', 'built/reader')
-
-def buildMarkdown():
-        # Convert to HTML
-        print '#### Building for Markdown...'
-        c = markdownise.TransformToMarkdown()
-        c.setupAndRun('patched', 'preface', 'built')
-
 def main(argv):
     print '#### Starting Build.'
     try:
-        opts, args = getopt.getopt(argv, "shawpg:drm", ["setup", "help", "all", "web", "patch", "reader", "markdown", "grammar="])
+        opts, args = getopt.getopt(argv, "hp", ["help", "patch"])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
     for opt, arg in opts:
         if opt in ("-h", "--help"):
             usage()
-        elif opt in ("-s", "--setup"):
-            setup()
-        elif opt in ("-a", "--all"):
-            doPatch()
-            buildAll()
-        elif opt in ("-w", "--web"):
-            doPatch()
-            buildWeb()
         elif opt in ("-p", "--patch"):
             doPatch()
-        elif opt in ("-r", "--reader"):
-            doPatch()
-            buildReader()
-        elif opt in ("-m", "--markdown"):
-            doPatch()
-            buildMarkdown()
         else:
             usage()
     print '#### Finished.'
@@ -112,11 +36,7 @@ def usage():
         Build script.
 
         -h or --help for options
-        -s or --setup to setup up environment and load third party support
-        -a or --all to build all books in all targets
-        -w or --web to build web version only
         -p or --patch to patch only
-        -r or --reader to build reader files only
     """
 
 if __name__ == "__main__":
