@@ -33,7 +33,7 @@ books = [   'Matthew',
             'Jude',
             'Revelation']
 
-def generatePatchForFind(find, replace, ignoreCase=False):
+def generatePatchForFind(find, replace, ignoreCase=False, plural=False):
     p = u''
     for b in books:
         print '     Looking in ' + b
@@ -41,13 +41,13 @@ def generatePatchForFind(find, replace, ignoreCase=False):
         fc = unicode(f.read(), 'utf-8')
         f.close()
         
-        found = findInBook(find, fc, replace, ignoreCase)
+        found = findInBook(find, fc, replace, ignoreCase, plural)
         if len(found) > 0:        
             p = p + u'\nIn ' + b + u':\n'
-            p = p + findInBook(find, fc, replace, ignoreCase)
+            p = p + findInBook(find, fc, replace, ignoreCase, plural)
     return p
     
-def findInBook(find, book, replace, ignoreCase=False):
+def findInBook(find, book, replace, ignoreCase=False, plural=False):
     c = 1
     v = 1
     p = u''
@@ -64,6 +64,11 @@ def findInBook(find, book, replace, ignoreCase=False):
             p = p + u'    ; ' + book[i-20:i+80].replace(u'\n', u' ') + u'\n'
             p = p + context + find + u'  ->  ' + replace + u'\n'
             i = i + len(find)
+        elif plural and isMatch(book, i, find + 's', ignoreCase):
+            context = (u'    ' + str(c) + u':' + str(v)).ljust(12)
+            p = p + u'    ; ' + book[i-20:i+80].replace(u'\n', u' ') + u'\n'
+            p = p + context + find + u's  ->  ' + replace + u's\n'                
+            i = i + len(find) + 1 
         i = i + 1
     return p
     
@@ -87,13 +92,13 @@ def findElement(book, index):
 def main(argv):
     print '#### Starting Find.'
     try:
-        opts, args = getopt.getopt(argv, "ihf:p:r:", ["ignoreCase", "help", "find=", "replace=", "patch="])
+        opts, args = getopt.getopt(argv, "inhf:p:r:", ["ignoreCase", "ignoreNumber", "help", "find=", "replace=", "patch="])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
 
     find = replace = patch = ''
-    ignoreCase = False
+    ignoreCase = plural = False
     
     for opt, arg in opts:
         if opt in ("-h", "--help"):
@@ -106,16 +111,17 @@ def main(argv):
             replace = arg
         elif opt in ("-i", "--ignoreCase"):
             ignoreCase = True
+        elif opt in ("-n", "--ignoreNumber"):
+            plural = True
 
     if find == '':
         usage()
     else:
         print '     Finding: "' + find + '"'
-        p = generatePatchForFind(find, replace, ignoreCase)
+        p = generatePatchForFind(find, replace, ignoreCase, plural)
 
-        if patch == '':
-            print p
-        else:
+        print p
+        if not patch == '':
             f = open(patch, 'w')
             f.write(p.encode('utf-8'))
             f.close()
