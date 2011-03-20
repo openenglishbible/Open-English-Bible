@@ -48,15 +48,14 @@ In John:
     17:21   thou  ->  you
     17:21   thou  ->  you
     17:22   thou  ->  you
-    17:23   thou  ->  you
-    17:23   thou  ->  you
-    17:23   thou  ->  you
-    17:23   thou  ->  you
-    17:24   thou  ->  you
-    17:24   thou  ->  you
-    17:24   thou  ->  you
-    17:25   thou  ->  you
-    17:26   thou  ->  you
+    17:23   thou with  ->  you with
+    17:23   thou hast ->  you have
+    17:23   thou has loved ->  you have loved
+    17:23   thou hast ->  you have
+    17:24   thou has ->  you have
+    17:24   thou has ->  you have
+    17:25   thou has ->  you have
+    17:26   thou has ->  you have
     18:9    thou  ->  you
 
 In Acts:
