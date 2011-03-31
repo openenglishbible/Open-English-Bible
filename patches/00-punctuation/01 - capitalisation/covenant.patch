@@ -11,7 +11,8 @@ In Luke:
     ; ndful of his sacred Covenant. \nb \q \v 73 This was the oath which he swore to our forefather Abraha
     1:72    Covenant  ->  covenant
     ; This cup is the New Covenant made by my blood which is being poured out on your behalf.\wj*   \v 21 
-    22:20   New Covenant  ->  new covenant
+    ; This is a Western Non-interpolation - see variants.patch
+    ; 22:20   New Covenant  ->  new covenant
 
 In Acts:
     ;  heirs, too, of the Covenant which God made with your ancestors, when he said to Abraham —  \q ‘In y
