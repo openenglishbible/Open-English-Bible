@@ -3,7 +3,7 @@ Translating τῶν Ἰουδαίων in the Open English Bible
 
 Created: Fri 31 March 2011
 
-The translation of this term, which appears in the King James Version as 'the Jews', is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John's Gospel and Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
+The translation of this term, which appears  in the King James Version as 'the Jews', is difficult and sensitive. The mind of the modern reader is different to that of the initial readers of John's Gospel and Acts. We read in the context of our culture and our history, just as the early readers of the Gospel of John read in the light of theirs.
 
 After much thought, I have chosen to listen to the advice of such translators as Barclay Newman and David Burke (see the Bibliography below) and have committed to the GitHub repository changes which represent an adoption of the suggestions of Newman (2005) after comparison with the most recent edition of the NIV (2011), the New Living Translation (NLT), Contemporary English Version (CEV) and other translations. 
 
@@ -27,7 +27,7 @@ I think it is clear that not only does the repeated translation of "τῶν Ἰ�
 
 A translation is a bad translation if it leads to readers suspecting that the author of the Gospel of John would have had sympathy for or would have supported the historical treatment of Jews by Christians.
 
-And just as a reminder, although I believe the choices I have made are the correct ones, you are free, as always, to create your own version of the Open English Bible without this or any other set of changes. That freedom is the intent of the OEB's CC0 licence and the reason for the OEB’s existence.
+Finally, as a reminder, although I believe the choices I have made are the correct ones, you are free, as always, to create your own version of the Open English Bible without this or any other set of changes. That freedom is the intent of the OEB's CC0 licence and the reason for the OEB’s existence.
 
 
 Some further reading
