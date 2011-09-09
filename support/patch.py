@@ -5,24 +5,28 @@ import os
 import commands
 import sys
 
-def listDirectory(directory):                                        
+def listDirectory(directory, spelling):                                        
     allfiles = []
  
     for root, dirs, files in os.walk(directory):
         for f in files:
             if f.endswith('.patch'):
-                allfiles.append(os.path.join(root, f))
+                p = os.path.join(root, f)
+                if spelling == 'us':
+                    allfiles.append(p)
+                elif not 'us-spelling' in p:
+                    allfiles.append(p)
                     
     allfiles.sort()
     return allfiles
 
 class Patcher(object):
 
-    def setup(self, sourceDir, patchDir, outputDir):
+    def setup(self, sourceDir, patchDir, outputDir, spelling):
         self.sourceDir = sourceDir
         self.patchDir = patchDir
         self.outputDir = outputDir
-        self.patches = listDirectory(self.patchDir)
+        self.patches = listDirectory(self.patchDir, spelling)
         self.versesPatched = []
         self.books = os.listdir(self.sourceDir)
         self.books = [b[:-5] for b in self.books if b[-5:] == '.usfm']
