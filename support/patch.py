@@ -26,6 +26,8 @@ class Patcher(object):
         self.sourceDir = sourceDir
         self.patchDir = patchDir
         self.outputDir = outputDir
+        if not os.path.exists(self.outputDir):
+            os.makedirs(self.outputDir)
         self.patches = listDirectory(self.patchDir, spelling)
         self.versesPatched = []
         self.books = os.listdir(self.sourceDir)

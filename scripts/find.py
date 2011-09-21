@@ -37,7 +37,7 @@ def generatePatchForFind(find, replace, ignoreCase=False, plural=False):
     p = u''
     for b in books:
         print '     Looking in ' + b
-        f = open('../patched/' + b + '.usfm', 'r')
+        f = open('../patched/us/' + b + '.usfm', 'r')
         fc = unicode(f.read(), 'utf-8')
         f.close()
         
