@@ -18,6 +18,7 @@ def listDirectory(directory, spelling):
                     allfiles.append(p)
                     
     allfiles.sort()
+    print(allfiles)
     return allfiles
 
 class Patcher(object):
