@@ -59,7 +59,8 @@ class Patcher(object):
         while i < en:
             x = s.find(b, i, en)
             if x == -1: return -1
-            if (self.isSeparator(s[x-1])) and (self.isSeparator(s[x+len(b)])): return x
+            # Our patch must either be surrounded by separtors, or must  itself be top or tailed with a separator
+            if (self.isSeparator(s[x-1]) or self.isSeparator(b[0])) and (self.isSeparator(s[x+len(b)] or self.isSeparator(b[-1]))): return x
             i = x + 1
         return -1
         
@@ -103,16 +104,15 @@ class Patcher(object):
             r = self.rangeOfChapter(s,c,0,len(s))
             r = self.rangeOfVerse(s,v,r[0],r[1])
             ii = r[0]
-            i2 = self.findPatch(s, b, r[0], r[1])
+            i2 = self.findPatch(s, b.replace('~', '\n'), r[0], r[1])
             if i2 == -1:
                 self.debugPrint('ERROR finding BEFORE at ' + lines[i])
-                self.debugPrint('"' + b + '" >> "' + a + '"')
                 self.debugPrint(str(r[0]) + ' ... ' + str(r[1]))
                 self.debugPrint(s[r[0]:r[1]])
                 self.debugPrint(str(ii))
                 sys.exit()
             else:
-                s = s[0:i2] + a + s[i2+len(b):len(s)]
+                s = s[0:i2] + a.replace('~', '\n') + s[i2+len(b):len(s)]
                 i = i + 1
         return s
          

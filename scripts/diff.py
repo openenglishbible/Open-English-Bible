@@ -75,16 +75,16 @@ def main(argv):
     if before == '' or after == '' or patch == '':
         usage()
     else:
+        # Breaks into \v and \c markers, and the strings between them
         f = open(before)
         b = unicode(f.read(), 'utf-8')
         f.close()
-
         b = parseString(b)
 
+        # Breaks into \v and \c markers, and the strings between them
         f = open(after)
         a = unicode(f.read(), 'utf-8')
         f.close()
-
         a = parseString(a)
 
         i = 0
@@ -92,13 +92,22 @@ def main(argv):
         v = 0
         p = ''
         while i < len(b):
+            # Update current place
             if b[i][:2] == u'\c':
                 c = int(b[i][3:])
+                if not c == int(a[i][3:]):
+                    print 'Chapter ' + b[i][3:] + ' != ' + a[i][3:]
+                    sys.exit()
             if b[i][:2] == u'\\v':
                 v = int(b[i][3:])
+                if not v == int(a[i][3:]):
+                    print 'Chapter ' + str(c) + ' : ' + b[i][3:] + ' != ' + a[i][3:]
+                    sys.exit()
+            # Otherwise, do compare
             if not a[i] == b[i]:
+                # print '------------------\n' + b[i] + '\n-\n' + a[i]
                 (subb, suba) = compare(b[i], a[i])
-                p = p + str(c) + u':' + str(v) + u'  ' + subb + u' -> ' + suba + u'\n'
+                p = p + str(c) + u':' + str(v) + u'  ' + subb.replace(u'\n', u'~') + u' -> ' + suba.replace(u'\n', u'~') + u'\n'
             i = i + 1
 
         f = open(patch, 'w')

@@ -10,7 +10,7 @@ def bylength(word1, word2):
     """
     return len(word2) - len(word1)
  
-f = open('../../USFM-Tools/built/OEB-NT-Current.txt')
+f = open('../../McFadyen/OEB/OEB - Psalms.usfm')
 fc = unicode(f.read(), 'utf-8')
 f.close()
  
