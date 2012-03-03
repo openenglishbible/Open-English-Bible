@@ -1,20 +1,27 @@
 LEGAL INFORMATION
 =================
 
-The Open English Bible, including all text, websites, formatting and layout and in particular all files in Unified Standard Format Markers (USFM) format is copyright (c) 2010-2011 Russell Allen.
+# The Open English Bible
+
+The Open English Bible, including all text, websites, formatting and layout and in particular all files in Unified Standard Format Markers (USFM) format is copyright (c) 2010-2012 Russell Allen.
 
 It is available under the Creative Commons Zero Licence, a copy of which is available for reference at http://creativecommons.org/publicdomain/zero/1.0/
 
 If you wish to, we would appreciate that if you use the OEB that you link back to OpenEnglishBible.org.
 
-You are free to distribute the OEB with such changes as you feel are appropriate, however we ask that if you give the altered version a new name or otherwise clearly indicate to the reader what you have changed.
+You are free to distribute the OEB with such changes as you feel are appropriate, however we ask that if you do distribute an altered version that you give the altered version a new name or otherwise clearly indicate to the reader what you have changed.
 
-The Open English Bible is based upon the Twentieth Century New Testament, which is a public domain English translation
-published in 1904, a copy of which is available at http://www.archive.org/details/twentiethcentury00newyiala
+# Sources of the Open English Bible
 
-The Open English Bible (and the Twentieth Century New Testament) is a translation of Westcott and Hort's critical
+The Open English Bible is partly based upon the Twentieth Century New Testament, which is a public domain English translation published in 1904, a copy of which is available at http://www.archive.org/details/twentiethcentury00newyiala and also in the included directory sources/tcnt
+
+The Open English Bible is partly based upon "The Psalms in modern speech and rhythmical form" by John Edgar McFadyen (1870-1933), a public domain English translation of the Psalms published in 1916, a copy of which is available at http://www.archive.org/details/thepsalmsinmoder00mcfauoft and also in the included directory sources/mcfadyen
+
+The New Testament books of the Open English Bible (and the Twentieth Century New Testament) are a translation of Westcott and Hort's critical
 text, which is a public domain text available at http://www.archive.org/details/newtestamentinth027928mbp
 
-This GitHub repository contains source code and associated documentation, which is copyright (c) 2010 Russell Allen
+# Supporting software
+
+This GitHub repository contains source code and associated documentation, which is copyright (c) 2010-2012 Russell Allen
 and available under the BSD licence, a copy of which is available at http://creativecommons.org/licenses/BSD/
 
