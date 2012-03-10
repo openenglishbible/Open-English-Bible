@@ -12,19 +12,27 @@ def main(argv):
         
     print '   # Patching...'
     p = patch.Patcher()
-    p.setup('staging/tcnt', 'patches/tcnt', 'patched/cth', 'cth')
+    p.setup('staging/tcnt', 'patches/tcnt', 'final-usfm/cth', 'cth')
     p.patch()
 
     p = patch.Patcher()
-    p.setup('staging/tcnt', 'patches/tcnt', 'patched/us', 'us')
+    p.setup('staging/tcnt', 'patches/tcnt', 'final-usfm/us', 'us')
     p.patch()
 
     p = patch.Patcher()
-    p.setup('staging/mcfadyen', 'patches/mcfadyen', 'patched/cth', 'cth')
+    p.setup('staging/mcfadyen', 'patches/mcfadyen', 'final-usfm/cth', 'cth')
     p.patch()
 
     p = patch.Patcher()
-    p.setup('staging/mcfadyen', 'patches/mcfadyen', 'patched/us', 'us')
+    p.setup('staging/mcfadyen', 'patches/mcfadyen', 'final-usfm/us', 'us')
+    p.patch()
+    
+    p = patch.Patcher()
+    p.setup('staging/kent', 'patches/kent', 'final-usfm/cth', 'cth')
+    p.patch()
+
+    p = patch.Patcher()
+    p.setup('staging/kent', 'patches/kent', 'final-usfm/us', 'us')
     p.patch()
     
     print '#### Finished.'

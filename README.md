@@ -15,4 +15,25 @@ As such, the OEB as a translation does not stand within the Tyndale tradition bu
 
 Our website is at http://openenglishbible.org
 
+This site
+---------
+
+This source tree contains:
+
+final-usfm/
+The final generated usfm. This is probably what you want if you want to use the OEB's usfm files.
+
+sources/
+These are the source English translations we are working from.
+
+staging/
+These are altered usfm files.
+
+patches/
+These are changes to be automatically applied by build.py to the files in staging, and then copied to final-usfm
+
+build.py
+The python 2.x script to do the patching.
+
+
 
