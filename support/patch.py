@@ -18,7 +18,6 @@ def listDirectory(directory, spelling):
                     allfiles.append(p)
                     
     allfiles.sort()
-    print(allfiles)
     return allfiles
 
 class Patcher(object):
@@ -117,7 +116,9 @@ class Patcher(object):
         return s
          
     def debugPrint(self, st):
-        print '      ' + st.encode('utf-8')
+        # Change this for noisier reporting
+        if st[:5] == 'ERROR':
+            print '              ' + st.encode('utf-8')
         
     def rangeOfChapter(self, s, c, start, finish):
         return self.rangeOfEntity('CHAPTER', u'\\c ', s, c, start, finish)
