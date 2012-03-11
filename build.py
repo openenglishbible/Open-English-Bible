@@ -29,7 +29,7 @@ def main(argv):
     p = patch.Patcher()
     p.setup('staging/', 'patches/', 'final-usfm/us', 'us')
     p.patch()
-   
+       
     print '#### Finished.'
 
 if __name__ == "__main__":

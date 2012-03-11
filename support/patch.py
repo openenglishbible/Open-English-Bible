@@ -4,6 +4,9 @@
 import os
 import commands
 import sys
+import re
+
+import books
 
 def listDirectory(directory, spelling):                                        
     allfiles = []
@@ -46,7 +49,11 @@ class Patcher(object):
         f.close()
         
         for p in self.patches:
-            s = self.applyPatchToBook(book, s, p)
+            s = self.applyPatchToBook(s, p)
+            
+        # Clean up line endings so Crosswire's sofware doesn't barf
+        # strip leading & trailing whitespace, terminate with newline
+        s = re.sub(r'\s*\n\s*', r'\n', s)
         
         bookname = self.outputDir + '/' + book + '.usfm'
         f = open(bookname, 'w')
@@ -63,9 +70,11 @@ class Patcher(object):
             i = x + 1
         return -1
         
-    def applyPatchToBook(self, book, s, patch):
+    def applyPatchToBook(self, s, patch):
         # Only warn for collisions between patches
         patchesAlreadyApplied = []
+        
+        book = books.bookName(s)
         
         self.debugPrint('    ' + patch)
 

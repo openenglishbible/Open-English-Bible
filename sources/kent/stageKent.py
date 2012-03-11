@@ -21,9 +21,9 @@ def listDirectory(directory, spelling):
 def stage():
     print '#### Staging Kent...'
     
-    for fn in os.listdir('sources/kent/'):
+    for fn in os.listdir('sources/kent/usfm/'):
         if fn[-5:] == '.usfm':
-            f = open('sources/kent/' + fn)
+            f = open('sources/kent/usfm/' + fn)
             c = f.read().decode('utf-8-sig')
             f.close()
             u = u''
@@ -40,7 +40,7 @@ def stage():
                 else:
                     u = u + char
             f = open('staging/' + fn, 'w')
-            f.write(u.encode('utf-8'))
+            f.write((u.strip() + u'\n').encode('utf-8'))
             f.close
         
 
