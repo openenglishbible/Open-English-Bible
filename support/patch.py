@@ -56,9 +56,17 @@ class Patcher(object):
         s = re.sub(r'\s*\n\s*', r'\n', s)
         
         bookname = self.outputDir + '/' + book + '.usfm'
-        f = open(bookname, 'w')
-        f.write(s.encode('utf-8'))
+
+        # Only save if there is a change
+        f = open(bookname, 'r')
+        existing = unicode(f.read(), 'utf-8')
         f.close()
+        
+        if not existing == s:
+            print '   Changed ' + bookname       
+            f = open(bookname, 'w')
+            f.write(s.encode('utf-8'))
+            f.close()
 
     def findPatch(self, s, b, st, en):
         i = st
