@@ -5,39 +5,39 @@ import sys
 import getopt
 import difflib
 
-books = [   'Matthew',
-            'Mark',
-            'Luke',
-            'John',
-            'Acts',
-            'Romans',
-            '1 Corinthians',
-            '2 Corinthians',
-            'Galatians',
-            'Ephesians',
-            'Philippians',
-            'Colossians',
-            '1 Thessalonians',
-            '2 Thessalonians',
-            '1 Timothy',
-            '2 Timothy',
-            'Titus',
-            'Philemon',
-            'Hebrews',
-            'James',
-            '1 Peter',
-            '2 Peter',
-            '1 John',
-            '2 John',
-            '3 John',
-            'Jude',
-            'Revelation']
+books = [   '40-Matthew',
+            '41-Mark',
+            '42-Luke',
+            '43-John',
+            '44-Acts',
+            '45-Romans',
+            '46-1 Corinthians',
+            '47-2 Corinthians',
+            '48-Galatians',
+            '49-Ephesians',
+            '50-Philippians',
+            '51-Colossians',
+            '52-1 Thessalonians',
+            '53-2 Thessalonians',
+            '54-1 Timothy',
+            '55-2 Timothy',
+            '56-Titus',
+            '57-Philemon',
+            '58-Hebrews',
+            '59-James',
+            '60-1 Peter',
+            '61-2 Peter',
+            '62-1 John',
+            '63-2 John',
+            '64-3 John',
+            '65-Jude',
+            '66-Revelation']
 
 def generatePatchForFind(find, replace, ignoreCase=False, plural=False):
     p = u''
     for b in books:
         print '     Looking in ' + b
-        f = open('../patched/us/' + b + '.usfm', 'r')
+        f = open('../final-usfm/us/' + b + '.usfm', 'r')
         fc = unicode(f.read(), 'utf-8')
         f.close()
         
