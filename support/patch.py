@@ -35,7 +35,7 @@ class Patcher(object):
         self.versesPatched = []
         self.books = os.listdir(self.sourceDir)
         self.books = [b[:-5] for b in self.books if b[-5:] == '.usfm']
-    
+        
     def patch(self):
         self.debugPrint( 'Starting to Patch' )
         for b in self.books:
@@ -58,10 +58,13 @@ class Patcher(object):
         bookname = self.outputDir + '/' + book + '.usfm'
 
         # Only save if there is a change
-        f = open(bookname, 'r')
-        existing = unicode(f.read(), 'utf-8')
-        f.close()
-        
+        try:
+            f = open(bookname, 'r')
+            existing = unicode(f.read(), 'utf-8')
+            f.close()
+        except:
+            existing = u''
+            
         if not existing == s:
             print '   Changed ' + bookname       
             f = open(bookname, 'w')

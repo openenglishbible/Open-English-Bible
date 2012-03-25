@@ -23,11 +23,11 @@ def main(argv):
     print '#### Final Patching...'
 
     p = patch.Patcher()
-    p.setup('staging/', 'patches/', 'final-usfm/cth', 'cth')
+    p.setup('staging', 'patches/', 'final-usfm/cth', 'cth')
     p.patch()
 
     p = patch.Patcher()
-    p.setup('staging/', 'patches/', 'final-usfm/us', 'us')
+    p.setup('staging', 'patches/', 'final-usfm/us', 'us')
     p.patch()
        
     print '#### Finished.'
