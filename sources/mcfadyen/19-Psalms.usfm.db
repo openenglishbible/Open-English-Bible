@@ -4,31 +4,34 @@
 \mt2 The
 \mt Psalms
 
+\rem base test is checked McFadyen
+\rem g is gender
+
 \c 1
 \ms Book One
-\s Psalm 1
+\s Psalm 1 --- The Way of Happiness
 \rem (Stage 1.5)
-\q1 \v 1 Happy the man who goes on his way,
-\q2 unheeding the counsels that wicked men offer,
+\q1 \v 1 Happy [neut:are those|masc:the man who goes on his way,]
+\q2 [neut:who do not follow the counsel of the wicked|masc:unheeding the counsels that wicked men offer],
 \q1 not halting in ways frequented by sinners,
-\q2 nor taking his seat in a gathering of scoffers.
-\q1 \v 2 But the law of the \nd Lord\nd* is his joy,
-\q2 he studies it day and night.
-\q1 \v 3 For he is like a tree
+\q2 nor taking [neut:a|masc:his] seat in a gathering of scoffers.
+\q1 \v 2 But the law of the \nd Lord\nd* is [neut:their|masc:his] joy,
+\q2 [neut:they study|masc:he studies] it day and night.
+\q1 \v 3 [neut:They are like trees|masc:For he is like a tree]
 \q2 planted by runlets of water,
-\q1 yielding its fruit in due season,
-\q2 its leaves never fading.
-\q2 In all that he does, he prospers.
+\q1 yielding fruit in due season,
+\q2 leaves never fading.
+\q2 In all that [neut:they do|masc:he does], [neut:they prosper|masc:he prospers].
 \b
 \q1 \v 4 Not so fare the wicked, not so;
-\q2 but like chaff are they, driven by the wind.
+\q2 like chaff are they, blown by the wind.
 \q1 \v 5 So the wicked will not stand firm in the judgment,
 \q2 nor sinners appear, when the righteous are gathered.
 \q1 \v 6 For the way of the righteous is dear to the \nd Lord\nd*,
 \q2 but the way of the wicked will end in ruin.
 
 \c 2
-\s Psalm 2
+\s Psalm 2 --- The Lord's Chosen King
 \rem (Stage 1.5)
 \q1 \v 1 Why this turmoil of nations,
 \q2 this futile plotting of peoples,
@@ -62,7 +65,7 @@
 \q2 Happy all who take refuge in him.
 
 \c 3
-\s Psalm 3
+\s Psalm 3 --- A Morning Prayer for Protection
 \rem (Stage 1.5)
 \d A psalm of David, when he fled from his son Absalom.
 \q1 \v 1 How many, \nd Lord\nd*, are my foes!
@@ -87,18 +90,18 @@
 \q2 let your blessing descend on your people. \it (Selah)\it*
 
 \c 4 
-\s Psalm 4
+\s Psalm 4 --- An Evening Prayer
 \rem (Stage 1.5)
 \d For the leader, with stringed instruments. A psalm of David. 
 \q1 \v 1 Answer my cry,
 \q2 God, my defender.
 \q1 Often from straits you have brought me
 \q2 to spacious places.
-\q1 So now show me your favour
+\q1 So now show me your [us:favor|cth:favour]
 \q2 and hear my prayer.
 \b
-\q1 \v 2 How long, you proud men,
-\q2 will my honour be stained
+\q1 \v 2 How long, you proud [neut:people|masc:men],
+\q2 will my [us:honor|cth:honour] be stained
 \q1 by the slanders you love,
 \q2 and the lies that you follow? \it (Selah)\it*
 \q1 \v 3 See! The \nd Lord\nd* has shown me
@@ -127,7 +130,7 @@
 \q2 safe.
 
 \c 5 
-\s Psalm 5
+\s Psalm 5 --- A Prayer for Guidance
 \rem (Stage 1.5)
 \d For the leader: A psalm of David, to be accompanied by the flute.
 \q1 \v 1 Hear my words, \nd Lord\nd*:
@@ -144,7 +147,7 @@
 \q1 \v 5 No braggarts can stand in your presence,
 \q2 you hate all workers of wrong.
 \q1 \v 6 You destroy all speakers of lies,
-\q2 men of blood and deceit you abhor.
+\q2 [neut:people|masc:men] of blood and deceit you abhor.
 \q1 \v 7 But I, through your kindness abundant,
 \q2 may enter your house,
 \q1 and towards the shrine of your temple
@@ -167,10 +170,10 @@
 \q1 Protect those who love your name,
 \q2 so they may exult in you.
 \q1 \v 12 For you give your blessing, \nd Lord\nd*, to the godly,
-\q2 and the shield of your favour protects them.
+\q2 and the shield of your [us:favor|cth:favour] protects them.
 
 \c 6 
-\s Psalm 6
+\s Psalm 6 --- A Cry for Help in Time of Trouble
 \rem (Stage 1.5)
 \d For the leader; with instrumental music on the sheminith. A psalm of David.
 \q1 \v 1 Rebuke me not, \nd Lord\nd*, in your anger,
@@ -201,7 +204,7 @@
 \q2 brought to shame and dismay in a moment.
 
 \c 7 
-\s Psalm 7
+\s Psalm 7 --- A Prayer to the God of Justice
 \rem (Stage 1.5)
 \d A Shiggaion of David, which he sang to the \nd Lord\nd* about Cush, the Benjamite.
 \q1 \v 1 \nd Lord\nd* my God, I take refuge in you.
@@ -213,9 +216,9 @@
 \q2 if my hands have been stained with guilt,
 \q2 \v 4 if friends I paid back with evil,
 \q2 if I plundered my foes without cause,
-\q1 \v 5 may the enemy chase till he find me,
-\q2 may he trample my life to the ground,
-\q2 and my honour leave in the dirt! \it (Selah)\it*
+\q1 \v 5 may the enemy chase [neut:and|masc:till he] find me,
+\q2 [neut:|masc:may he] trample my life to the ground,
+\q2 my [us:honor|cth:honour] leave in the dirt! \it (Selah)\it*
 \b
 \q1 \v 6 Arise, \nd Lord\nd*, in anger,
 \q2 against my foes rise in fury.
@@ -244,15 +247,15 @@
 \q1 \v 14 The enemy who conceives evil;
 \q2 pregnant with mischief, 
 \q2 giving birth to lies,
-\q1 \v 15 a pit he has made and dug;
-\q2 but into the hole that he made he will fall.
-\q1 \v 16 On his own head his mischief comes back;
-\q2 on his own skull his violence comes down.
+\q1 \v 15 a pit [neut:they have|masc:he has] made and dug;
+\q2 but into the hole that [neut:they|masc:he] made [neut:they|masc:he] will fall.
+\q1 \v 16 On [neut:their|masc:his] own [neut:heads|masc:head] [neut:their|masc:his] mischief comes back;
+\q2 on [neut:their|masc:his] own [neut:skulls|masc:skull] [neut:their|masc:his] violence comes down.
 \q1 \v 17 I will give thanks to the \nd Lord\nd* for his justice,
 \q2 and sing to the name of the \nd Lord\nd* Most High.
 
 \c 8 
-\s Psalm 8
+\s Psalm 8 --- God's Glory in Nature
 \rem (Stage 1.5)
 \d For the leader: A psalm of David, to be accompanied by a stringed instrument.
 \q1 \v 1 \nd Lord\nd* our God!
@@ -288,7 +291,7 @@
 \q2 How glorious in all the earth is your name!
 
 \c 9
-\s Psalm 9
+\s Psalm 9 --- A Song of Praise the Lord's Justice
 \rem (Stage 1.5)
 \d For the leader; ‘almuth labben. A psalm of David.
 \q1 \v 1 With all my heart I will praise the \nd Lord\nd*,
@@ -320,7 +323,7 @@
 \q1 \v 12 As avenger of blood, he keeps them in mind,
 \q2 he does not forget the cry of the wretched.
 \b
-\q1 \v 13 Show me favour, \nd Lord\nd*,
+\q1 \v 13 Show me [us:favor|cth:favour], \nd Lord\nd*,
 \q2 see how my foes afflict me,
 \q2 lift me up from the gates of death;
 \q1 \v 14 so I may, in your help exulting,
@@ -342,40 +345,44 @@
 \q2 show the nations how frail they are. \it (Selah)\it*
 
 \c 10
-\s Psalm 10
+\s Psalm 10 --- A Prayer for Help
 \rem (Stage 1.5)
 \q1 \v 1 Why do you stand, \nd Lord\nd*, so far away,
 \q2 hiding yourself in times of trouble?
 \q1 \v 2 The wicked, in their pride, are pursuing the helpless:
 \q2 let them be caught in the schemes they have plotted.
 \b
-\q1 \v 3 For the wicked boasts of his wanton greed;
+\q1 \v 3 For the wicked boasts of [neut:their|masc:his] wanton greed;
 \q2 the robber despises the \nd Lord\nd*, and curses him,
-\q1 \v 4 in his wicked pride, thinks:
+\q1 \v 4 in [neut:|masc:his] wicked pride, thinks:
 \q2 God doesn’t care,
 \q2 God doesn’t call to account.
 \b
-\q1 \v 5 Never a season that he does not prosper;
-\q2 your judgments are far above out of his sight:
-\q2 as for his foes, he scoffs at them all.
+\q1 \v 5 Never a season that [neut:they do|masc:he does] not prosper;
+\q2 your judgments are far above out of [neut:their|masc:his] sight:
+\q2 [neut:they scoff at their foes|masc:as for his foes, he scoffs at them all].
 \b
-\q1 \v 6 He says in his heart, 
+\q1 \v 6 [neut:Each|masc:He] says in [neut:their|masc:his] heart, 
 \q2 “I will never be shaken;
 \q1 I will live for all time 
 \q2 untouched by misfortune.”
-\q1 \v 7 His mouth is full of deceit and oppression:
-\q2 under his tongue lurk mischief and wrong.
+\q1 \v 7 [neut:Their mouths are|masc:His mouth is] full of deceit and oppression:
+\q2 under [neut:their tongues lurks|masc:his tongue lurk] mischief and wrong.
 \b
 \q1 \v 8 Lying in secret in some village ambush,
-\q2 and stealthily watching, he murders the innocent.
-\q1 \v 9 Like a lion he lurks in his secret lair
-\q2 lurks with intent to catch the defenceless;
-\q2 he catches and drags him away in his net.
+\q2 and stealthily watching, [neut:they murder|masc:he murders] the innocent.
+\q1 \v 9 Like a lion [neut:that|masc:he] lurks in [neut:a|masc:his] secret lair
+\q2 [neut:they lurk|masc:lurks] intending to catch the defenceless;
+\q2 to seize them, to drag them away in [neut:their|masc:his] net.
 \b
-\q1 \v 10 His victims are crushed, sink down to the ground.
-\q2 Under his claws the hapless fall.
-\q1 \v 11 He says in his heart that God has forgotten,
-\q2 has hidden his face, will see nothing.
+\q1 \v 10 [neut:Their|masc:His] victims are crushed, 
+\q2 sink down to the ground.
+\q1 Under [neut:their|masc:his] claws 
+\q2 the hapless fall.
+\q1 \v 11 [neut:The wicked say in their hearts|masc:He says in his heart] 
+\q2 that God has forgotten,
+\q1 has hidden his face, 
+\q2 will see nothing.
 \b
 \q1 \v 12 Arise, \nd Lord\nd*, lift up your hand,
 \q2 do not forget the cry of the wretched.
@@ -388,7 +395,7 @@
 \q2 helper of orphans.
 \b
 \q1 \v 15 Break the arm of the wicked and evil:
-\q2 search out his sin, till no more be found.
+\q2 search out [neut:their|masc:his] sin, till no more be found.
 \q1 \v 16 The \nd Lord\nd* is king forever and ever:
 \q2 the nations will vanish from his land.
 \b
@@ -398,7 +405,7 @@
 \q2 so no one on earth may strike terror again.
 
 \c 11
-\s Psalm 11
+\s Psalm 11 --- Trust in the Lord
 \rem (Stage 1.5)
 \d For the leader. Of David.
 \q1 \v 1 In the \nd Lord\nd* I take refuge.
@@ -409,7 +416,7 @@
 \q2 their arrow is set on the string,
 \q2 to shoot from the shadows at the upright in heart.
 \q1 \v 3 In this tearing down of foundations
-\q2 what good can the just man do?”
+\q2 what good can [neut:a good person|masc:the just man] do?”
 \b
 \q1 \v 4 The \nd Lord\nd* in his holy temple,
 \q2 the \nd Lord\nd* in heaven, enthroned.
@@ -423,7 +430,7 @@
 \q2 so the upright will see his face.
 
 \c 12
-\s Psalm 12
+\s Psalm 12 --- A Prayer for the Faithful in a False World
 \rem (Stage 1.5)
 \d For the leader; on the sheminith. A psalm of David.
 \q1 \v 1 Help, \nd Lord\nd*, for the good are all gone,
@@ -448,7 +455,7 @@
 \q2 and worthless people exalted.
 
 \c 13
-\s Psalm 13
+\s Psalm 13 --- A Prayer for Help in Trouble
 \rem (Stage 1.5)
 \d For the leader. A psalm of David.
 \q1 \v 1 How long, \nd Lord\nd*, will you forget me forever?
@@ -468,7 +475,7 @@
 \q2 \v 6 I will sing to the \nd Lord\nd* who was good to me.
 
 \c 14
-\s Psalm 14
+\s Psalm 14 --- The Folly of Denying God
 \rem (Stage 1.5)
 \d For the leader. Of David
 \q1 \v 1 Fools say in their heart,
@@ -506,28 +513,28 @@
 \q2 and Israel how joyful!
 
 \c 15
-\s Psalm 15
+\s Psalm 15 --- Standing Firm
 \rem (Stage 1.5)
 \d A psalm of David
 \q1 \v 1 \nd Lord\nd*, who can be guest in your tent?
 \q2 Who may live on your holy mountain?
 \b
-\q1 \v 2 He whose walk is blameless,
+\q1 \v 2 [neut:The person|masc:He] whose walk is blameless,
 \q2 whose conduct is right,
 \q1 whose words are true and sincere;
 \q2 \v 3 on whose tongue there sits no slander,
-\q1 who will not harm his friend,
-\q2 \v 4 nor cruelly insult his neighbour.
-\q1 He regards with contempt those rejected by God;
-\q2 but who obeys the \nd Lord\nd*, he honours.
-\q1 He keeps his oath, whatever the cost,
-\q2 \v 5 his money he lends without interest,
-\q1 he never takes a bribe to hurt the innocent.
+\q1 who will not harm [neut:a|masc:his] friend,
+\q2 \v 4 nor cruelly insult [neut:a|masc:his] [us:neighbor|cth:neighbour],
+\q1 [neut:who|masc:he] regards with contempt those rejected by God;
+\q2 but [us:honors|cth:honours] those who obey the \nd Lord\nd*,
+\q1 [neut:who|masc:he] keeps [neut:an|masc:his] oath, whatever the cost,
+\q2 \v 5 [neut:whose money is lent|masc:his money he lends] without interest,
+\q1 [neut:and|masc:he] never takes a bribe to hurt the innocent.
 \b
-\q2 He who does these things will always stand firm.
+\q1 [neut:The person|masc:He] who does these things will always stand firm.
 
 \c 16
-\s Psalm 16
+\s Psalm 16 --- The Joy of Fellowship with God
 \rem (Stage 1.5)
 \d A michtam of David.
 \q1 \v 1 Keep me, O God, for in you I take refuge.
@@ -561,7 +568,7 @@
 \q2 and the pleasures dispensed by your hand evermore.
 
 \c 17
-\s Psalm 17
+\s Psalm 17 --- A Prayer for Deliverance
 \rem (Stage 1.5)
 \d A prayer of David.
 \q1 \v 1 Listen, O \nd Lord\nd*, to my innocence;
@@ -580,12 +587,12 @@
 \b
 \q1 \v 6 So I call you, O God, with assurance of answer;
 \q2 bend down your ear to me, hear what I say.
-\q1 \v 7 Show your marvellous love, you who save from enemies
+\q1 \v 7 Show your [us:marvelous|cth:marvellous] love, you who save from enemies
 \q2 those who take refuge at your right hand.
 \b
 \q1 \v 8 Keep me as the apple of the eye,
 \q2 hide me in the shelter of your wings.
-\q1 \v 9 From wicked men who do me violence,
+\q1 \v 9 From wicked [neut:people|masc:men] who do me violence,
 \q2 from deadly foes who crowd around me.
 \b
 \q1 \v 10 They have closed their hearts to pity,
@@ -595,10 +602,10 @@
 \q1 \v 12 like a lion, longing to tear,
 \q2 like a young lion, lurking in secret.
 \b
-\q1 \v 13 Arise, \nd Lord\nd*, face him and fell him.
+\q1 \v 13 Arise, \nd Lord\nd*, face [neut:them|masc:him] and fell [neut:them|masc:him].
 \q2 By your sword set me free from the wicked,
-\q1 \v 14 by your hand, O \nd Lord\nd*, from the men ---
-\q2 from the men who are but of this world.
+\q1 \v 14 by your hand, O \nd Lord\nd*, from [neut:those|masc:the men] ---
+\q2 whose portion of life is but of this world.
 \q1 But let your treasured ones have food in plenty
 \q1 may their children be full and their children satisfied. 
 \b
@@ -606,7 +613,7 @@
 \q1 awake I am filled with a vision of you.
 
 \c 18
-\s Psalm 18
+\s Psalm 18 --- A King’s Song of Gratitude
 \rem (Stage 1.5)
 \d For the leader. Of David, the servant of the \nd Lord\nd*, who recited the words of this song to the \nd Lord\nd* after the \nd Lord\nd* had saved him from the power of all his enemies and from the hand of Saul. He said:
 \q1 \v 1 I love you, O \nd Lord\nd*, my strength.
@@ -726,7 +733,7 @@
 \q2 and brought down nations beneath me,
 \q1 \v 48 who saved me from angry foes,
 \q2 and set me above my assailants,
-\q2 safe from the violent man.
+\q2 safe from the violent[neut:|masc: man].
 \b
 \q1 \v 49 For this I will praise you among the nations,
 \q2 making music, O \nd Lord\nd*, to your name:
@@ -735,7 +742,7 @@
 \q2 to David and his seed evermore.
 
 \c 19
-\s Psalm 19
+\s Psalm 19 --- The Glory of God in the Heavens
 \d For the leader. A psalm of David. 
 \q1 \v 1 The heavens declare God’s glory,
 \q2 the sky tells what his hands have done.
@@ -752,7 +759,7 @@
 \q2 \v 6 From one end of the heavens it rises,
 \q1 and round it runs to the other,
 \q2 and nothing hides from its heat.
-\b
+\s In Praise of the Law
 \q1 \v 7 The law of the \nd Lord\nd* is perfect,
 \q2 renewing life.
 \q1 The decrees of the \nd Lord\nd* are trusty,
@@ -781,14 +788,14 @@
 \q1 \v 13 Keep your servant from wilful sins ---
 \q2 from falling under their sway:
 \q1 then blameless and clear will I be
-\q2 from great offense.
+\q2 from great [us:offense|ox:offence].
 \b
 \q1 \v 14 May the words of my mouth and the thoughts of my heart 
 \q2 be pleasing to you, \nd Lord\nd*,
 \q2 my rock and redeemer.
 
 \c 20
-\s Psalm 20
+\s Psalm 20 --- A Prayer for Victory
 \d For the leader. A psalm of David. 
 \q1 \v 1 The \nd Lord\nd* answer you in the day of distress,
 \q2 the name of the God of Jacob protect you,
@@ -796,7 +803,7 @@
 \q2 and out of Zion supporting you.
 \b
 \q1 \v 3 All your meal-offerings may he remember,
-\q2 your burnt-offerings look on with favour. \it (Selah)\it*
+\q2 your burnt-offerings look on with [us:favor|cth:favour]. \it (Selah)\it*
 \q1 \v 4 May he grant you your heart’s desire,
 \q2 and bring all your designs to fruition.
 \q1 \v 5 We will shout then for joy at your victory,
@@ -816,7 +823,7 @@
 \q2 and answer us when we call.
 
 \c 21
-\s Psalm 21
+\s Psalm 21 --- A Prayer after a Victory 
 \d For the leader. A psalm of David. 
 \q1 \v 1 In your might, \nd Lord\nd*, the king rejoices,
 \q2 and because of your help how exultant is he!
@@ -829,7 +836,7 @@
 \q2 life lasting many days, forever and ever.
 \b
 \q1 \v 5 Great is his glory because of your help,
-\q2 honour and majesty you lay upon him.
+\q2 [us:honor|cth:honour] and majesty you lay upon him.
 \q1 \v 6 For you make him most blessed forever,
 \q2 with the joy of your presence you make him glad.
 \b
@@ -854,7 +861,7 @@
 \q1 to your might we will sing and make music.
 
 \c 22
-\s Psalm 22
+\s Psalm 22 --- The Sufferer’s Triumph
 \d For the leader; set to ‘Deer of the Dawn’. A psalm of David.
 \q1 \v 1 My God, my God, why have you left me,
 \q2 gone afar from my cry, from the words of my roaring?
@@ -863,13 +870,13 @@
 \b
 \q1 \v 3 Yet you, O \nd Lord\nd*, are the Holy One,
 \q2 throned on the praises of Israel.
-\q1 \v 4 In you did our fathers trust,
+\q1 \v 4 In you [neut:our ancestors trusted|masc:did our fathers trust],
 \q2 they trusted and you did deliver them.
 \q1 \v 5 They cried to you, and found safety,
 \q2 in you did they trust and were not put to shame.
 \b
-\q1 \v 6 But I am a worm, and no man;
-\q2 insulted by men and despised by the people.
+\q1 \v 6 But I am a worm, [neut:not a person|masc:and no man];
+\q2 insulted by [neut:others,|masc:men and] despised by the people.
 \q1 \v 7 All who see me mock me,
 \q2 with mouths wide open and wagging heads:
 \q1 \v 8 “He committed himself to the \nd Lord\nd*; let him save him.
@@ -903,22 +910,22 @@
 \q2 and over my raiment cast lots.
 \b
 \q1 \v 19 But you, O \nd Lord\nd*, be not far,
-\q2 O Strength of mine, hasten to help me.
+\q2 O my strength, hasten to help me.
 \q1 \v 20 Deliver my life from the sword
 \q2 my life from the power of the dogs.
 \q1 \v 21 Save me from the jaws of the lion,
 \q2 from the horns of the wild oxen help me. 
 \b
-\q1 \v 22 I will tell of your fame to my brethren,
+\q1 \v 22 I will tell of your fame to my kindred,
 \q2 and in the assembly will praise you.
 \q1 \v 23 Praise the \nd Lord\nd*, you who fear him.
 \q2 All Jacob’s seed, give him glory.
 \q2 All Israel’s seed, stand in awe of him.
 \b
 \q1 \v 24 For he has not despised nor abhorred
-\q2 the sorrow of him who was sorrowful.
-\q1 He hid not his face from him,
-\q2 but he listened to his cry for help.
+\q2 the sorrow of [neut:the|masc:him who was] sorrowful.
+\q1 He hid not his face from [neut:me|masc:him],
+\q2 but he listened to [neut:my|masc:his] cry for help.
 \b
 \q1 \v 25 Of you is my praise in the great congregation;
 \q2 my vows I will pay before those who fear him.
@@ -933,13 +940,14 @@
 \q1 \v 29 To him will bow down all who sleep in the earth,
 \q2 and before him bend all who go down to the dust,
 \q2 and those who could not preserve their lives.
-\q1 \v 30 The sons of his servants will tell of the \nd Lord\nd*
+\q1 \v 30 [neut:My descendents|masc:The sons of his servants] will tell of the \nd Lord\nd*
 \q2 to the next generation;
-\q1 \v 31 and men will declare to people yet unborn
-\q2 of the victory he wrought.
+\q1 \v 31 [neut:they will declare his righteousness|masc:and men will declare to people yet unborn]
+\q2 [neut:to people yet to be born:
+\q2 He has done it.|masc:of the victory he wrought.]
 
 \c 23
-\s Psalm 23
+\s Psalm 23 --- The Good Shepherd
 \rem (Stage 1.5)
 \d A psalm of David. 
 \q1 \v 1 The \nd Lord\nd* is my shepherd: I am never in need.
@@ -963,7 +971,7 @@
 \q2 through the length of the days.
 
 \c 24
-\s Psalm 24
+\s Psalm 24 --- The True Worshipper
 \d Of David. A psalm.
 \q1 \v 1 The earth is the \nd Lord\nd*’s and all that it holds,
 \q2 the world and those who live in it.
@@ -973,13 +981,13 @@
 \q1 \v 3 Who may ascend the hill of the \nd Lord\nd*?
 \q2 Who may stand in his holy place?
 \q1 \v 4 The clean of hands, the pure of heart,
-\q2 who sets not his heart upon sinful things,
-\q2 nor swears with intent to deceive,
-\q1 \v 5 this is he who wins from the \nd Lord\nd* a blessing:
-\q2 God is his champion and saviour.
+\q2 who sets not [neut:their|masc:his] heart upon sinful things,
+\q2 nor swears with intent to deceive:
+\q1 \v 5 [neut:they win|masc:this is he who wins] from the \nd Lord\nd* a blessing:
+\q2 God is [neut:their|masc:his] champion and [us:savior|cth:saviour].
 \q1 \v 6 Such must be those who resort to him,
 \q2 and seek the face of the God of Jacob. \it (Selah)\it*
-\b
+\s The Lords’s Triumphal Entry into the Sanctuary
 \q1 \v 7 Lift high your heads, you gates ---
 \q2 Higher, you ancient doors;
 \q2 welcome the glorious king.
@@ -995,7 +1003,7 @@
 \q2 he is the glorious king.” \it (Selah)\it*
 
 \c 25
-\s Psalm 25
+\s Psalm 25 --- A Prayer for Forgiveness and Protection
 \d A psalm of David. 
 \q1 \v 1 To you, O \nd Lord\nd*, I lift up my heart:
 \q2 all the day I wait for you.
@@ -1006,7 +1014,7 @@
 \q1 \v 4 Make me, O \nd Lord\nd*, to know your ways:
 \q2 teach me your paths.
 \q1 \v 5 In your faithfulness guide me and teach me,
-\q2 for you are my God and my Saviour.
+\q2 for you are my God and my [us:savior|cth:saviour].
 \q1 \v 6 Remember your pity, O \nd Lord\nd*, and your kindness,
 \q2 for they have been ever of old.
 \q1 \v 7 Do not remember the sins of my youth;
@@ -1020,15 +1028,15 @@
 \q2 to those who observe his charges and covenant.
 \q1 \v 11 Be true to your name \nd Lord\nd*,
 \q2 forgive my many sins.
-\q1 \v 12 Who then is the man who fears the \nd Lord\nd*?
-\q2 He will teach him the way to choose.
-\q1 \v 13 He himself will live in prosperity,
-\q2 and his seed will inherit the land.
+\q1 \v 12 Who then is the [neut:person|masc:man] who fears the \nd Lord\nd*?
+\q2 He will teach [neut:them|masc:him] the way to choose.
+\q1 \v 13 [neut:They|masc:He himself] will live in prosperity,
+\q2 [neut:their children|masc:and his seed] will inherit the land.
 \q1 \v 14 The \nd Lord\nd* gives guidance to those who fear him,
 \q2 and with his covenant he makes them acquainted.
 \q1 \v 15 My eyes are ever toward the \nd Lord\nd*,
 \q2 for out of the net he brings my foot.
-\q1 \v 16 Turn to me with your favour,
+\q1 \v 16 Turn to me with your [us:favor|cth:favour],
 \q2 for I am lonely and crushed
 \q1 \v 17 In my heart are strain and storm;
 \q2 bring me out of my distresses.
@@ -1042,10 +1050,10 @@
 \q2 for I wait for you, O \nd Lord\nd*.
 \b
 \q1 \v 22 Redeem Israel, O God,
-\q2 out of all his distresses.
+\q2 from all [neut:its|masc:his] distresses.
 
 \c 26
-\s Psalm 26
+\s Psalm 26 --- Prayer of a Devout Worshipper
 \d A psalm of David. 
 \q1 \v 1 Defend me, O \nd Lord\nd*, for my walk has been blameless;
 \q2 in the \nd Lord\nd* have I trusted unswervingly:
@@ -1066,7 +1074,7 @@
 \q2 the place where your glory lives.
 \b
 \q1 \v 9 Do not gather me up with sinners;
-\q2 slay me not with men of blood,
+\q2 slay me not with [neut:people|masc:men] of blood,
 \q1 \v 10 whose hands are stained with villainy,
 \q2 and whose right hand is filled with bribes.
 \q1 \v 11 But my walk is blameless!
@@ -1074,10 +1082,10 @@
 \q1 \v 12 My foot stands on even ground,
 \q2 in the choirs I will bless the \nd Lord\nd*.
 
-\c 27 
-\s Psalm 27
+\c 27
+\s Psalm 27 --- If God is for Me
 \d A psalm of David. 
-\q1 \v 1 The \nd Lord\nd* is my light and my saviour;
+\q1 \v 1 The \nd Lord\nd* is my light and my [us:savior|cth:saviour];
 \q2 whom then should I fear?
 \q1 The \nd Lord\nd* protects my life;
 \q2 whom then should I dread?
@@ -1109,7 +1117,8 @@
 \q1 I will march round the altar and sacrifice,
 \q2 shouting with joy, in his tent,
 \q2 making music and song to the \nd Lord\nd*.
-\b
+
+\s The Serenity of Faith
 \q1 \v 7 Hear, O \nd Lord\nd*, my loud cry,
 \q2 and graciously answer me.
 \q1 \v 8 My heart has said to you,
@@ -1138,7 +1147,7 @@
 \q2 and wait on the \nd Lord\nd*.
 
 \c 28
-\s Psalm 28
+\s Psalm 28 --- An Answered Prayer for Help
 \d Of David.
 \q1 \v 1 Unto you, O \nd Lord\nd*, do I cry;
 \q2 my rock, be not deaf to me:
@@ -1151,7 +1160,7 @@
 \b
 \q1 \v 3 Take me not off with the wicked,
 \q2 nor with the workers of wrong,
-\q1 whose speech to their neighbours is friendly,
+\q1 whose speech to their [us:neighbors|cth:neighbours] is friendly,
 \q2 while evil is in their heart.
 \q1 \v 4 Give them as they have done,
 \q2 as their wicked deeds deserve.
@@ -1177,9 +1186,9 @@
 \q2 and carry them forever.
 
 \c 29 
-\s Psalm 29
+\s Psalm 29 --- The Lord's Glory in the Storm
 \d A psalm of David.
-\q1 \v 1 Ascribe to the \nd Lord\nd*, you sons of the gods, 
+\q1 \v 1 Ascribe to the \nd Lord\nd*, you [neut:heavenly beings|masc:sons of the gods], 
 \q2 ascribe to the \nd Lord\nd* glory and power
 \q1 \v 2 Ascribe to the \nd Lord\nd* the glory he manifests:
 \q2 bow to the \nd Lord\nd* in holy array.
@@ -1209,7 +1218,7 @@
 \q2 he blesses his people with peace.
 
 \c 30 
-\s Psalm 30
+\s Psalm 30 --- A Song of Thanksgiving for Deliverance
 \d A psalm of David. A song for the dedication of the Temple.
 \q1 \v 1 I will extol you, O \nd Lord\nd*,
 \q2 because you have lifted me up,
@@ -1223,13 +1232,13 @@
 \q1 \v 4 Sing praise to the \nd Lord\nd*, faithful people;
 \q2 give thanks to his holy name.
 \q1 \v 5 For his anger lasts only a moment,
-\q2 his favour endures for a lifetime.
+\q2 his [us:favor|cth:favour] endures for a lifetime.
 \q1 Weeping may lodge for the night,
 \q2 but the morning brings shouts of joy.
 \b
 \q1 \v 6 When all went well, I imagined
 \q2 that never should I be shaken.
-\q1 \v 7 For by your favour, O \nd Lord\nd*,
+\q1 \v 7 For by your [us:favor|cth:favour], O \nd Lord\nd*,
 \q2 you had set me on mountains strong:
 \q1 but you hide your face,
 \q2 and I was confounded.
@@ -1240,7 +1249,7 @@
 \q2 if I go down to the pit?
 \q1 Can you be praised by dust?
 \q2 Can it tell of your faithfulness?
-\q1 \v 10 Hear, \nd Lord\nd*, and show me your favour,
+\q1 \v 10 Hear, \nd Lord\nd*, and show me your [us:favor|cth:favour],
 \q2 \nd Lord\nd* be a helper to me.”
 \b
 \q1 \v 11 You have turned my mourning to dancing;
@@ -1250,7 +1259,7 @@
 \q2 and give thanks to you, \nd Lord\nd* my God, forever.
 
 \c 31
-\s Psalm 31
+\s Psalm 31 --- A Prayer for Deliverance from Troubles
 \d For the leader. A psalm of David. 
 \q1 \v 1 In you, O \nd Lord\nd*, I take refuge;
 \q2 let me never be put to shame.
@@ -1260,7 +1269,7 @@
 \q2 Be to me a rock of defence,
 \q1 a fortified house, to save me. 
 \q2 \v 3 For my rock and my fortress are you;
-\q1 lead me and guide me so your name will be honoured.
+\q1 lead me and guide me so your name will be [us:honored|cth:honoured].
 \q2 \v 4 Draw me out of the net they have hid for me,
 \q1 for you yourself are my refuge.
 \q2 \v 5 Into your hand I commend my spirit:
@@ -1280,10 +1289,10 @@
 \q1 My strength is broken with misery,
 \q2 my bones waste away.
 \q1 \v 11 The scorn of all my foes,
-\q2 the butt of my neighbours am I,
+\q2 the butt of my [us:neighbors|cth:neighbours] am I,
 \q2 a terror to my acquaintance.
 \q1 At the sight of me in the street
-\q2 men turn quickly away.
+\q2 [neut:people|masc:men] turn quickly away.
 \q1 \v 12 I am clean forgotten like the dead,
 \q2 am become like a ruined vessel.
 \q1 \v 13 I hear the whispers of many ---
@@ -1308,9 +1317,9 @@
 \q1 \v 19 How great is the goodness
 \q2 you have treasured for those who fear you,
 \q1 and wrought for those who take refuge in you,
-\q2 before the children of men!
+\q2 [neut:in plain sight of all|masc:before the children of men]!
 \q1 \v 20 In your sheltering wings you hide them
-\q2 from plottings of men,
+\q2 from plottings of [neut:people|masc:men],
 \q1 you keep them safe in a bower
 \q2 from the chiding of tongues.
 \b
@@ -1329,11 +1338,11 @@
 \q2 all you who wait on the \nd Lord\nd*.
 
 \c 32
-\s Psalm 32
+\s Psalm 32 --- A Prayer of Confession and Joy
 \d Of David. A maskil.
-\q1 \v 1 Happy he whose transgression is pardoned,
+\q1 \v 1 Happy [neut:those|masc:he] whose transgression is pardoned,
 \q2 whose sin is covered.
-\q1 \v 2 Happy the man, free from falseness of spirit,
+\q1 \v 2 Happy [neut:are those|masc:the man], free from falseness of spirit,
 \q2 to whom the \nd Lord\nd* reckons no debt of guilt.
 \b
 \q1 \v 3 When I held my peace, my bones wore away
@@ -1367,13 +1376,13 @@
 \q2 else they will not come near to you.”
 \b
 \q1 \v 10 The godless have many sorrows,
-\q2 but he who trusts in the \nd Lord\nd*
+\q2 but [neut:those who trust|masc:he who trusts] in the \nd Lord\nd*
 \q2 will be compassed about by his kindness.
 \q1 \v 11 Be glad in the \nd Lord\nd*, and rejoice, you righteous;
 \q2 and ring out your joy, all you upright in heart.
 
 \c 33
-\s Psalm 33
+\s Psalm 33 --- A Hymn of Thanksgiving
 \q1 \v 1 Shout for joy in the \nd Lord\nd*, you righteous:
 \q2 praise for the upright is seemly.
 \q1 \v 2 Give thanks to the \nd Lord\nd* on the lyre,
@@ -1389,7 +1398,7 @@
 \q2 all their host by the breath of his mouth.
 \q1 \v 7 He gathers the sea in a bottle,
 \q2 the ocean he puts into store-houses.
-\q1 \v 8 Let the whole world honour the \nd Lord\nd*,
+\q1 \v 8 Let the whole world [us:honor|cth:honour] the \nd Lord\nd*,
 \q2 let all who live on earth be in awe.
 \q1 \v 9 For at his word it came into being,
 \q2 at his command it stood forth.
@@ -1402,7 +1411,7 @@
 \q2 the people he chose for himself as his own.
 \b
 \q1 \v 13 The \nd Lord\nd* looks down from heaven,
-\q2 he sees all the children of men;
+\q2 he sees all [neut:of humanity|masc:the children of men];
 \q1 \v 14 from where he rules he gazes
 \q2 on all who inhabit the earth.
 \q1 \v 15 He fashions the hearts of them all,
@@ -1410,8 +1419,8 @@
 \b
 \q1 \v 16 It is not by great armies that kings are victorious,
 \q2 it is not by great strength that a warrior saves himself;
-\q1 \v 17 vain is the war-horse to usher in victory,
-\q2 nor brings he to safety for all his great might.
+\q1 \v 17 false hope is the war-horse to usher in victory,
+\q2 for all its great might it can provide no escape.
 \b
 \q1 \v 18 See! The eye of the \nd Lord\nd* is on those who fear him,
 \q2 on those who hope in his kindness;
@@ -1427,7 +1436,7 @@
 \q2 as is our hope in you.
 
 \c 34
-\s Psalm 34
+\s Psalm 34 --- The Lord is Mindful of His Own
 \d Of David, when he feigned madness in the presence of Abimelech, who drove him away, and he left. 
 \q1 \v 1 I will bless the \nd Lord\nd* at all times,
 \q2 in my mouth will his praise be forever.
@@ -1439,22 +1448,22 @@
 \q2 he saved me from all my terrors.
 \q1 \v 5 Look to him and you will be radiant,
 \q2 with faces unashamed.
-\q1 \v 6 Here is a man who was crushed,
-\q2 but he cried and was heard by the \nd Lord\nd*,
-\q2 and brought safe out of all his distresses.
+\q1 \v 6 Here is [neut:one|masc:a man] who was crushed,
+\q2 but [neut:|masc:he] cried and was heard by the \nd Lord\nd*,
+\q2 and brought safe out of [neut:every trouble|masc:all his distresses].
 \q1 \v 7 The \nd Lord\nd*’s angel encamps
-\q1 about those who fear him, and rescues them.
-\q2 \v 8 O taste and see that the \nd Lord\nd* is good,
-\q1 happy the man who takes refuge in him.
-\q2 \v 9 Fear the \nd Lord\nd*, all his people,
-\q1 for they who fear him lack nothing.
+\q2 about those who fear him, and rescues them.
+\q1 \v 8 O taste and see that the \nd Lord\nd* is good,
+\q2 happy [neut:those who take|masc:the man who takes] refuge in him.
+\q1 \v 9 Fear the \nd Lord\nd*, all his people,
+\q2 for they who fear him lack nothing.
 \q1 \v 10 Even young lions may be poor and hungry,
 \q2 but those who seek the \nd Lord\nd*
 \q2 will not lack any good thing.
 \b
 \q1 \v 11 Come, children, listen to me.
 \q2 I will teach you the fear of the \nd Lord\nd*.
-\q1 \v 12 What man is desirous of life,
+\q1 \v 12 [neut:Which of you|masc:What man] is desirous of life,
 \q2 loves many and happy days?
 \q1 \v 13 Then guard your tongue from evil,
 \q2 and your lips from speaking deceit.
@@ -1469,16 +1478,16 @@
 \q1 \v 18 The \nd Lord\nd* is near to the broken-hearted,
 \q2 he helps those whose spirit is crushed.
 \q1 \v 19 Many misfortunes befall the righteous,
-\q2 but the \nd Lord\nd* delivers him out of them all.
-\q1 \v 20 He keeps all his bones,
-\q2 not one of them is broken.
+\q2 but the \nd Lord\nd* delivers [neut:them|masc:him] out of them all.
+\q1 \v 20 He guards all [neut:their|masc:his] bones,
+\q2 none are broken.
 \q1 \v 21 Misfortune will slay the ungodly;
 \q2 those who hate the righteous are doomed.
 \q1 \v 22 The \nd Lord\nd* ransoms the life of his servants,
 \q2 and none will be doomed who takes refuge in him.
 
 \c 35
-\s Psalm 35
+\s Psalm 35 --- A Prayer for Deliverance from Malicious Foes
 \d Of David.
 \q1 \v 1 Contend, \nd Lord\nd*, with those who contend with me,
 \q2 do battle with those who do battle with me.
@@ -1487,7 +1496,7 @@
 \q1 \v 3 Draw spear and battle-axe,
 \q2 confront those who pursue me.
 \q2 Assure me that you will help me.
-\q1 \v 4 Dishonour and shame be on those
+\q1 \v 4 [us:Dishonor|cth:Dishonour] and shame be on those
 \q2 who are seeking my life!
 \q1 Defeat and confusion on those
 \q2 who are planning my hurt!
@@ -1556,7 +1565,7 @@
 \q2 Now we have swallowed him up.”
 \q1 \v 26 Shame and confusion together
 \q2 on those who rejoice at my hurt!
-\q1 Clothed with shame and dishonour
+\q1 Clothed with shame and [us:dishonor|cth:dishonour]
 \q2 be those who are haughty to me!
 \b
 \q1 \v 27 Let such as delight in my cause
@@ -1568,26 +1577,26 @@
 \q2 and all the day long of your praise.
 
 \c 36
-\s Psalm 36
+\s Psalm 36 --- The Triumphant Power of God's Love
 \d For the leader. Of the servant of the \nd Lord\nd*, of David. 
-\q1 \v 1 Sin whispers within the bad man’s heart,
-\q2 who has no dread of God before his eyes.
-\q1 \v 2 It flatters him in his eyes
-\q2 that his sin will not be found out. 
+\q1 \v 1 Sin whispers within [neut:the heart of the wicked|masc:the bad man’s heart],
+\q2 who [neut:have|masc:has] no dread of God before [neut:their|masc:his] eyes.
+\q1 \v 2 It flatters [neut:them in their|masc:him in his] eyes
+\q2 that [neut:their|masc:his] sin will not be found out. 
 \b
-\q1 \v 3 First, his speech becomes wicked and false,
-\q2 he gives up acting wisely and well.
-\q1 \v 4 Then he plots deliberate wrong,
-\q2 takes his stand on the wicked way,
+\q1 \v 3 First, [neut:their|masc:his] speech becomes wicked and false,
+\q2 [neut:they give|masc:he gives] up acting wisely and well.
+\q1 \v 4 Then [neut:they plot|masc:he plots] deliberate wrong,
+\q2 [neut:take their|masc:takes his] stand on the wicked way,
 \q2 without the least shrinking from evil.
 \b
 \q1 \v 5 Your love, O \nd Lord\nd*, touches the heavens,
 \q2 your faithfulness reaches the clouds.
 \q1 \v 6 Your justice is like the great mountains, 
 \q2 your judgments are like the broad sea.
-\q2 Man and beast you save, O \nd Lord\nd*.
+\q2 \nd Lord\nd*, you save [neut:people|masc:men] and animals.
 \q1 \v 7 How precious your love, O God!
-\q2 Men seek shelter in the shadow of your wings.
+\q2 [neut:All may|masc:Men] seek shelter in the shadow of your wings.
 \q1 \v 8 They feast on the fat of your house,
 \q2 they drink of your brook of delights.
 \q1 \v 9 For with you is the fountain of life,
@@ -1602,7 +1611,7 @@
 \q2 thrust down to rise up no more.
 
 \c 37 
-\s Psalm 37
+\s Psalm 37 --- Trust in the Lord and Do Good
 \d Of David.
 \q1 \v 1 Be not kindled to wrath at the wicked,
 \q2 nor envious of those who work wrong;
@@ -1629,21 +1638,21 @@
 \q2 but the land will be theirs, who wait on the \nd Lord\nd*.
 \b
 \q1 \v 10 Yet but a little, and the wicked vanish:
-\q2 look at his place he is there no more.
-\q1 \v 11 But the patient the land will be theirs,
+\q2 look at [neut:their place|masc:his place]: [neut:they are|masc:he is] there no more.
+\q1 \v 11 But the humble will have the land,
 \q2 and the rapture of peace in abundance.
 \b
 \q1 \v 12 The wicked plots against the righteous,
-\q2 he snarls like a wild animal;
+\q2 [neut:|masc:he] snarls like a wild animal;
 \q1 \v 13 the \nd Lord\nd* laughs,
 \q2 for he sees that his day is coming.
 \b
 \q1 \v 14 The wicked have drawn the sword, and bent the bow,
-\q2 to fell the poor, to slay men who walk uprightly;
+\q2 to fell the poor, to slay [neut:those|masc:men] who walk uprightly;
 \q1 \v 15 but their sword will pierce their own heart,
 \q2 and their bows will be broken in pieces.
 \b
-\q1 \v 16 Better is the righteous man’s little
+\q1 \v 16 Better is the righteous [neut:person’s|masc:man’s] little
 \q2 than the wealth of many wicked.
 \q1 \v 17 For the arms of the wicked will be broken,
 \q2 but the \nd Lord\nd* upholds the righteous.
@@ -1663,15 +1672,15 @@
 \q2 while those whom he curses will be cut off.
 \b
 \q1 \v 23 The \nd Lord\nd* supports the steps
-\q2 of the man with whom he is pleased.
-\q1 \v 24 Though he fall, he will not be cast headlong,
-\q2 for the \nd Lord\nd* holds his hand.
+\q2 of [neut:those|masc:the man] with whom he is pleased.
+\q1 \v 24 Though [neut:they|masc:he] fall, [neut:they|masc:he] will not be cast headlong,
+\q2 for the \nd Lord\nd* holds [neut:their hands|masc:his hand].
 \b
 \q1 \v 25 Never, from youth to age,
 \q2 have I seen the righteous forsaken,
-\q2 or his children begging bread.
-\q1 \v 26 He is ever lavishly lending,
-\q2 and his children are fountains of blessing.
+\q2 or [neut:their|masc:his] children begging bread.
+\q1 \v 26 [neut:They are|masc:He is] ever lavishly lending,
+\q2 and [neut:their|masc:his] children are fountains of blessing.
 \b
 \q1 \v 27 Turn away from evil and do good
 \q2 and you will live in the land forever.
@@ -1684,26 +1693,26 @@
 \q2 they will live upon it forever,
 \b
 \q1 \v 30 The mouth of the righteous murmurs wisdom,
-\q2 and words of justice are on his tongue.
-\q1 \v 31 The law of his God is in his heart,
-\q2 his steps are never unsteady.
+\q2 and words of justice are on [neut:their tongues|masc:his tongue].
+\q1 \v 31 The law of [neut:their|masc:his] God is in [neut:their|masc:his] heart,
+\q2 [neut:their|masc:his] steps are never unsteady.
 \b
 \q1 \v 32 The wicked watches the righteous,
-\q2 and seeks to put him to death.
-\q1 \v 33 But the \nd Lord\nd* leaves him not in his hand:
-\q2 at his trial he will not be held guilty.
+\q2 and seeks to put [neut:them|masc:him] to death.
+\q1 \v 33 But the \nd Lord\nd* leaves [neut:them|masc:him] not in [neut:their|masc:his] hand:
+\q2 at [neut:their|masc:his] trial [neut:they|masc:he] will not be held guilty.
 \b
 \q1 \v 34 Wait on the \nd Lord\nd*, and observe his way:
-\q2 he will lift you to honour the land will be yours,
+\q2 he will lift you to [us:honor|cth:honour] the land will be yours,
 \q2 you will feast your eyes on the doom of the wicked.
 \b
 \q1 \v 35 I have seen the wicked exultant,
-\q2 lifting himself like a cedar of Lebanon.
-\q1 \v 36 But the moment I passed, he had vanished!
-\q2 I sought for him, but he could not be found.
+\q2 lifting [neut:themselves|masc:himself] like a cedar of Lebanon.
+\q1 \v 36 But the moment I passed, [neut:they|masc:he had] vanished!
+\q2 I sought for [neut:them|masc:him], but [neut:they|masc:he] could not be found.
 \b
-\q1 \v 37 Preserve your honour and practise uprightness,
-\q2 for such a man fares well in the end.
+\q1 \v 37 Preserve your [us:honor|cth:honour] and practise uprightness,
+\q2 for such a [neut:person|masc:man] fares well in the end.
 \q1 \v 38 But transgressors will perish together.
 \q2 Cut off are the wicked forever.
 \b
@@ -1714,7 +1723,7 @@
 \q2 because they take refuge in him.
 
 \c 38
-\s Psalm 38
+\s Psalm 38 --- A Confession and Prayer for Deliverance
 \d A Psalm of David. A lament.
 \q1 \v 1 Reprove me not, \nd Lord\nd*, in your anger,
 \q2 and chasten me not in your wrath;
@@ -1748,15 +1757,15 @@
 \q2 even it is gone from me.
 \b
 \q1 \v 11 My dear ones and friends keep aloof,
-\q2 and my neighbours stand afar off.
+\q2 and my [us:neighbors|cth:neighbours] stand afar off.
 \q1 \v 12 They who aim at my life lay their snares,
 \q2 they who seek my hurt speak of ruin,
 \q2 nursing treachery all the day long.
 \b
 \q1 \v 13 But I turn a deaf ear and hear not;
 \q2 like the dumb I open not my mouth.
-\q1 \v 14 I am as a man without hearing,
-\q2 with no arguments in his mouth.
+\q1 \v 14 I am [neut:like one|masc:as a man] without hearing,
+\q2 with no arguments in [neut:my|masc:his] mouth.
 \b
 \q1 \v 15 For my hope, O \nd Lord\nd*, is in you.
 \q2 You will answer, O \nd Lord\nd* my God,
@@ -1777,10 +1786,10 @@
 \q1 \v 21 Do not forsake me, O \nd Lord\nd*;
 \q2 my God, be not far from me.
 \q1 \v 22 Hasten to help me,
-\q2 O \nd Lord\nd* my saviour.
+\q2 O \nd Lord\nd* my [us:savior|cth:saviour].
 
 \c 39
-\s Psalm 39
+\s Psalm 39 --- The Pathos of Life
 \d For the leader; for Jeduthun. A psalm of David.
 \q1 \v 1 I vowed to watch my words,
 \q2 and sin not with my tongue,
@@ -1798,10 +1807,10 @@
 \q2 Let me know how transient I am.
 \q1 \v 5 See! My days you have made but a span,
 \q2 and my life is as nothing before you.
-\q1 It is but as a breath that every man stands: \it (Selah)\it*
-\q2 \v 6 it is but in mere semblance man walks to and fro,
-\q1 and all his noise is for nothing.
-\q2 He heaps up, and knows not who will gather.”
+\q1 It is but as a breath that [neut:everyone|masc:every man] stands: \it (Selah)\it*
+\q2 \v 6 it is but in mere semblance [neut:we walk|masc:man walks] to and fro,
+\q1 and all [neut:our|masc:his] noise is for nothing.
+\q2 [neut:We heap|masc:He heaps] up, and [neut:know|masc:knows] not who will gather.”
 \b
 \q1 \v 7 And now, what wait I for, \nd Lord\nd*?
 \q2 My hope is in you.
@@ -1811,20 +1820,20 @@
 \q2 for this is your own doing.
 \q1 \v 10 Remove your stroke from off me:
 \q2 by the might of your hand I am spent.
-\q1 \v 11 When you rebuke a man to punish his sins,
-\q2 you consume, like a moth, what he treasures.
-\q2 Every man is only a breath. \it (Selah)\it*
+\q1 \v 11 When you rebuke [neut:someone|masc:a man] to punish [neut:their|masc:his] sins,
+\q2 you consume, like a moth, what [neut:they|masc:he] treasures.
+\q2 [neut:Everyone|masc:Every man] is only a breath. \it (Selah)\it*
 \b
 \q1 \v 12 Hear my prayer, O \nd Lord\nd*;
 \q2 attend to my cry for help.
 \q2 Hold not your peace at my tears.
 \q1 For I am but a guest of yours,
-\q2 and a pilgrim, like all my fathers.
+\q2 a stranger visiting, like all my [neut:ancestors|masc:fathers].
 \q1 \v 13 Look away from me, let me smile again,
 \q2 before I die and am gone.
 
 \c 40
-\s Psalm 40
+\s Psalm 40 --- Thanksgiving and Petition
 \d For the leader. A psalm of David.
 \q1 \v 1 For the \nd Lord\nd* I waited and waited,
 \q2 till, inclining to me,
@@ -1838,8 +1847,8 @@
 \q1 Many see it, and, filled with awe,
 \q2 put their trust in the \nd Lord\nd*.
 \b
-\q1 \v 4 Happy the man who has put
-\q2 in the \nd Lord\nd* his trust,
+\q1 \v 4 Happy the [neut:person|masc:man] who has put
+\q2 in the \nd Lord\nd* [neut:their|masc:his] trust,
 \q1 not looking to false gods
 \q2 or turning to idols.
 \q1 \v 5 With us you have wrought in rich measure,
@@ -1882,7 +1891,7 @@
 \q1 \v 14 May those who are seeking my life
 \q2 be ashamed and confounded together;
 \q1 may those who delight in my hurt
-\q2 be defeated and brought to dishonour.
+\q2 be defeated and brought to dis[us:dishonor|cth:dishonour].
 \q1 \v 15 May those who hurrah over me
 \q2 be dumbfounded because of their shame.
 \q1 \v 16 But may all who seek after you
@@ -1895,22 +1904,22 @@
 \q2 don’t delay, my God.
 
 \c 41
-\s Psalm 41
+\s Psalm 41 ---  A Prayer for Healing and Vindication
 \d For the leader; for Jeduthun. A psalm of David.
-\q1 \v 1 Happy is he who considers the weak;
-\q2 in the day of misfortune the \nd Lord\nd* will deliver him.
-\q1 \v 2 He will keep him safe, happy, and long in the land,
-\q2 and not give him up to the rage of his foes.
-\q1 \v 3 The \nd Lord\nd* will sustain him on bed of languishing;
-\q2 tending his sickness, as long as he lies.
+\q1 \v 1 Happy [neut:are those|masc:is he] who [neut:consider|masc:considers] the weak;
+\q2 in the day of misfortune the \nd Lord\nd* will deliver [neut:them|masc:him].
+\q1 \v 2 He will keep [neut:them|masc:him] safe, happy, and long in the land,
+\q2 and not give [neut:them|masc:him] up to the rage of [neut:their|masc:his] foes.
+\q1 \v 3 The \nd Lord\nd* will sustain [neut:them|masc:him] on bed of languishing;
+\q2 tending [neut:their|masc:his] sickness, as long as [neut:they lie|masc:he lies].
 \b
-\q1 \v 4 For this cause I say, “\nd Lord\nd*, show me your favour;
+\q1 \v 4 For this cause I say, “\nd Lord\nd*, show me your [us:favor|cth:favour];
 \q2 heal me, because I have sinned against you.”
 \q1 \v 5 My enemies speak of me nothing but evil,
 \q2 “When will he die, and his name pass away?”
-\q1 \v 6 When one comes to see me, his words ring hollow;
-\q2 his heart keeps gathering mischief the while;
-\q2 and when he goes out, he gives it speech.
+\q1 \v 6 When one comes to see me, [neut:their|masc:his] words ring hollow;
+\q2 [neut:their|masc:his] heart keeps gathering mischief the while;
+\q2 and when [neut:they go|masc:he goes] out, [neut:they give|masc:he gives] it speech.
 \q1 \v 7 In secret they whisper together against me,
 \q2 all those who hate me plot evil against me.
 \q1 \v 8 “Some fatal disease has fastened upon him;
@@ -1933,7 +1942,7 @@
 
 \c 42
 \ms Book Two
-\s Psalm 42
+\s Psalm 42 --- Yearning for God
 \rem (Stage 1.5)
 \d For the leader. A maskil of the Korahites.
 \q1 \v 1 Like the hart which longs
@@ -1992,10 +2001,10 @@
 \q2 my help, my God.
 
 \c 43
-\s Psalm 43
+\s Psalm 43 --- Plea for Help
 \q1 \v 1 Right me, defend my cause
 \q2 against a pitiless people.
-\q1 From crafty and crooked men,
+\q1 From [neut:the|masc:] crafty and crooked[neut:|masc: men],
 \q2 O God, deliver me.
 \q1 \v 2 For you are God my protector:
 \q2 why have you cast me off?
@@ -2017,10 +2026,10 @@
 \q2 my help, my God.
 
 \c 44
-\s Psalm 44
+\s Psalm 44 --- A Lament in Defeat
 \d For the leader. Of the Korahites. A maskil.
 \q1 \v 1 O God, we have heard with our ears,
-\q2 our fathers have told us the story
+\q2 all our [neut:ancestors|masc:fathers] have told us 
 \q1 of the work that you wrought in their day,
 \q2 your wonders in days of old,
 \q1 \v 2 uprooting and crushing the nations,
@@ -2028,7 +2037,7 @@
 \q1 For it wasn’t their own sword that won them the land,
 \q2 \v 3 it was not their own arm that brought them the victory.
 \q1 Yours was the hand and the arm,
-\q2 yours was the face that shone on them with favour.
+\q2 yours was the face that shone on them with [us:favor|cth:favour].
 \q1 \v 4 It was you, my king and my God,
 \q2 that ordained the victories of Jacob.
 \b
@@ -2049,7 +2058,7 @@
 \q2 you have scattered us over the world,
 \q1 \v 12 sold your people for a pittance,
 \q2 and getting no gain from their price.
-\q1 \v 13 You have made us the butt of our neighbours,
+\q1 \v 13 You have made us the butt of our [us:neighbors|cth:neighbours],
 \q2 the derision and scorn of all round us.
 \q1 \v 14 O’er the world you have made us a byword,
 \q2 the nations at us shake their heads.
@@ -2083,7 +2092,7 @@
 \q2 for your love’s sake, ransom us.
 
 \c 45
-\s Psalm 45
+\s Psalm 45 --- Song for the Marriage of a King
 \d For the leader; on shoshannim. Of the Korahites. A maskil. A love song.
 \q1 \v 1 My heart is astir with beautiful words:
 \q2 I will sing a song, concerning the king,
@@ -2093,7 +2102,7 @@
 \q2 grace is shed over your lips:
 \q1 therefore God has blessed you forever.
 \q2 \v 3 Warrior, strap your sword on your thigh.
-\q1 What glory and splendour!
+\q1 What glory and [us: splendor|cth:splendour]!
 \b
 \q2 \v 4 Good fortune attend you, as forth you ride
 \q1 in the cause of good faith, and as champion of justice.
@@ -2121,7 +2130,7 @@
 \b
 \q1 \v 13 The king’s daughter is glorious altogether,
 \q2 with dress of pearls inwrought with gold.
-\q1 \v 14 In many-coloured robes she is led to the king,
+\q1 \v 14 In [us:many-coloured|cth:many-coloured] robes she is led to the king,
 \q2 with the virgin companions she brought in her train.
 \q2 \v 15 The king’s palace they enter with joy and rejoicing.
 \b
@@ -2131,7 +2140,7 @@
 \q2 so that nations shall praise you for ever and ever.
 
 \c 46
-\s Psalm 46
+\s Psalm 46 --- Our God is a Mighty Fortress
 \d For the leader. Of the Korahites, on alamoth. A song.
 \q1 \v 1 God is our refuge and strength,
 \q2 a very present help in trouble.
@@ -2162,7 +2171,7 @@
 \q2 our sure defence is the God of Jacob. \it (Selah)\it*
 
 \c 47
-\s Psalm 47
+\s Psalm 47 --- The Lord's Universal Sovereignty
 \d For the leader. Of the Korahites. A psalm.
 \q1 \v 1 Clap your hands, all you peoples:
 \q2 shout to God in ringing cries.
@@ -2190,7 +2199,7 @@
 \q2 greatly exalted is he.
 
 \c 48
-\s Psalm 48
+\s Psalm 48 --- The [us:Marvelous|cth:Marvellous] Deliverance of Zion
 \d A song. A psalm of the Korahites.
 \q1 \v 1 Great is the \nd Lord\nd* and worthy all praise
 \q2 in the city of our God.
@@ -2206,7 +2215,7 @@
 \q1 \v 5 But one glance, and they were astounded;
 \q2 they hastened away in dismay.
 \q1 \v 6 Trembling took hold of them there,
-\q2 like the pains of a woman in labour.
+\q2 like the pains of a woman in [us:labor|cth:labour].
 \q1 \v 7 They were shattered, as east wind shatters
 \q2 the giant ships in pieces.
 \q1 \v 8 What we heard, we now have seen
@@ -2232,11 +2241,11 @@
 \q2 for ever and ever.
 
 \c 49
-\s Psalm 49
+\s Psalm 49 --- The Problem of the Prosperity of the Wicked
 \d For the leader. Of the Korahites. A psalm.
 \q1 \v 1 Hear this, you peoples all;
 \q2 give ear, all you who live in the world
-\q1 \v 2 men of low degree and high,
+\q1 \v 2 [neut:people|masc:men] of low degree and high,
 \q2 the rich and the poor together.
 \q1 \v 3 My mouth shall utter wisdom,
 \q2 the thoughts of a seeing heart.
@@ -2244,25 +2253,25 @@
 \q2 on the lyre I will open my riddle.
 \b
 \q1 \v 5 Why should I be afraid in the days of misfortune,
-\q2 when circled by wicked and cunning men,
+\q2 when circled by wicked and cunning [neut:foes|masc:men],
 \q1 \v 6 who put their trust in their wealth,
 \q2 and boast of their boundless riches?
 \b
-\q1 \v 7 For assuredly no man can ransom himself,
-\q2 or give to God the price of his life,
+\q1 \v 7 For assuredly no [neut:one|masc:man] can ransom [neut:themselves|masc:himself],
+\q2 or give to God the price of [neut:their|masc:his] life,
 \q1 \v 8 for the ransom of a life is costly,
 \q2 no payment is ever enough,
-\q1 \v 9 to keep him alive for ever and ever,
+\q1 \v 9 to keep [neut:them|masc:him] alive for ever and ever,
 \q2 so as never to see the pit at all.
 \b
-\q1 \v 10 But see it he shall. Even wise men die,
+\q1 \v 10 But see it [neut:they|masc:he] will. Even wise [neut:people|masc:men] die,
 \q2 the fool and the brutish perish alike,
 \q2 and abandon their wealth to others.
 \q1 \v 11 The grave is their everlasting home,
 \q2 the place they shall live in for ever and ever,
 \q2 though after their own names they called whole lands. 
-\q1 \v 12 Man in honour abides not,
-\q2 he is like the beasts that perish.
+\q1 \v 12 Despite their wealth,
+\q2 they perish like dumb animals.
 \b
 \q1 \v 13 This is the fate of the confident fool,
 \q2 and the end of those who are pleased with their portion. \it (Selah)\it*
@@ -2274,19 +2283,19 @@
 \q1 \v 15 But God will assuredly ransom my life
 \q2 from the hand of Sheol;
 \q2 for he will receive me. \it (Selah)\it*
-\q1 \v 16 So be not afraid when a man grows rich,
-\q2 when the pomp of his house increases.
-\q1 \v 17 Not a shred of it all can he take when he dies,
-\q2 his pomp cannot go down after him.
-\q1 \v 18 Though he counts himself happy, when he is alive,
-\q2 and wins praise from men for faring so well,
-\q1 \v 19 he must join the race of his fathers,
+\q1 \v 16 So be not afraid when [neut:someone|masc:a man] grows rich,
+\q2 when the wealth of [neut:their|masc:his] house increases.
+\q1 \v 17 Not a shred of it all can [neut:they|masc:he] take when [neut:they die|masc:he dies],
+\q2  wealth cannot follow [neut:them|masc:him] down.
+\q1 \v 18 Though [neut:they count themselves|masc:he counts himself] happy, when [neut:they are|masc:he is] alive,
+\q2 and [neut:win|masc:wins] praise from [neut:many|masc:men] for faring so well,
+\q1 \v 19 [neut:they|masc:he] must join [neut:their ancestors|masc:the race of his fathers],
 \q2 who see the light nevermore.
-\q1 \v 20 Man in honour, who has no insight,
-\q2 is like the beasts that perish.
+\q1 \v 20 The wealthy are without understanding,
+\q2 they perish like dumb animals.
 
 \c 50
-\s Psalm 50
+\s Psalm 50 --- True Worship
 \d A psalm of Asaph.
 \q1 \v 1 The \nd Lord\nd* God has spoken: He summons the earth
 \q2 from sunrise to sunset.
@@ -2320,31 +2329,31 @@
 \q1 \v 14 Offer to God a thank-offering, 
 \q2 pay the Most High your vows.
 \q1 \v 15 Summon me in the day of distress,
-\q2 I will rescue you, so will you honour me.”
+\q2 I will rescue you, so will you [us:honor|cth:honour] me.”
 \b
 \q1 \v 16 But to the wicked God says:
 \q2 “What right have you to talk of my statutes,
 \q2 or take my covenant into your mouth
 \q1 \v 17 While you yourself hate correction,
 \q2 and cast my words behind you?
-\q1 \v 18 When you see a thief, you run with him;
+\q1 \v 18 When you see a thief, you run with [neut:them|masc:him];
 \q2 with adulterers you keep company.
 \q1 \v 19 You let your mouth loose for evil,
 \q2 your tongue contrives deceit.
-\q1 \v 20 You shamefully speak of your brother,
-\q2 and slander the son of your mother.
+\q1 \v 20 You shamefully speak of your [neut:kin|masc:brother],
+\q2 and slander your own mother's son.
 \q1 \v 21 And because I kept silence at this,
 \q2 you did take me for one like yourself.
 \q2 But I will convict you and show you plainly.
 \b
 \q1 \v 22 Now you who forget God, mark this,
 \q2 lest I rend you, past hope of deliverance.
-\q1 \v 23 He who brings a thank-offering honours me;
-\q2 but to him who gives heed to his ways,
+\q1 \v 23 [neut:Those|masc:He] who [neut:bring|masc:brings] a thank-offering [us:honor|cth:honour][neut:|masc:s] me;
+\q2 but to [neut:those:|masc:him] who [neut:follows|masc:follow] my way,
 \q2 I will show the salvation of God.”
 
 \c 51
-\s Psalm 51
+\s Psalm 51 --- God be Merciful to Me, the Sinner
 \d For the leader. A psalm of David, when Nathan the prophet come to him after he had been with Bathsheba.
 \q1 \v 1 In your kindness, O God, be gracious to me,
 \q2 in your own great pity blot out my transgressions.
@@ -2396,7 +2405,7 @@
 \q2 then on your altars shall bullocks be offered.
 
 \c 52
-\s Psalm 52
+\s Psalm 52 --- The Doom of Arrogance
 \d For the leader. A maskil of David, when Doeg the Edomite came and told Saul that David had gone to Abimelech’s house.
 \q1 \v 1 Why glory in mischief, you hero?
 \q2 God’s kindness is all the day.
@@ -2412,7 +2421,7 @@
 \q2 grasp you and pluck you out of your tent,
 \q2 and root you out of the land of the living. \it (Selah)\it*
 \q1 \v 6 Smitten with awe at the sight,
-\q2 the righteous shall laugh at him.
+\q2 the righteous shall laugh at [neut:you|masc:him].
 \q1 \v 7 “Look” (they will say) “at the hero
 \q2 who did not make God his stronghold,
 \q1 but trusted in his great wealth
@@ -2428,7 +2437,7 @@
 \q2 in the presence of those who love you.
 
 \c 53
-\s Psalm 53
+\s Psalm 53 --- The Folly of Denying God
 \rem (Stage 1.5)
 \d For the leader. On mahalath. A maskil of David.
 \q1 \v 1 Fools say in their heart,
@@ -2467,7 +2476,7 @@
 \q2 and Israel how joyful!
 
 \c 54
-\s Psalm 54
+\s Psalm 54 --- A Prayer for Deliverance from Oppression
 \d For the leader. With stringed instruments. A maskil of David, when the Ziphites came and said to Saul, ‘David is in hiding among us’.
 \q1 \v 1 Save me, O God, by your name,
 \q2 by your power secure for me justice.
@@ -2488,7 +2497,7 @@
 \q2 and feasted my eyes on my foes.
 
 \c 55
-\s Psalm 55
+\s Psalm 55 --- Betrayed by a Friend
 \rem (Stage 1.5)
 \d For the leader. With stringed instruments. A maskil of David. 
 \q1 \v 1 Listen, God, to my prayer.
@@ -2496,7 +2505,7 @@
 \q1 \v 2 Hear me, and answer;
 \q2 for bitter is my lament.
 \q1 \v 3 I am wild with the noise of the foe,
-\q2 with the clamour of the ungodly;
+\q2 with the [us:clamor|cth:clamour] of the ungodly;
 \q1 for they hurl disaster upon me,
 \q2 and attack me with fury.
 \q1 \v 4 My heart shudders within me,
@@ -2518,13 +2527,11 @@
 \q2 \v 11 within is ruin.
 \q1 Her market-place is never free
 \q2 of deceit and tyranny.
-\b
-\q1 \it (The Treacherous Friend)\it*
-\b
+\s The Treacherous Friend
 \q1 \v 12 The taunts were not those of a foe
 \q2 that I could have borne;
 \q1 the disdain was not that of an enemy
-\q2 I could have shunned him:
+\q2 I could have shunned [neut:them|masc:him]:
 \q1 \v 13 but it was you, my equal,
 \q2 my dear and familiar friend.
 \q1 \v 14 We used to be so close,
@@ -2558,15 +2565,15 @@
 \q2 be shaken.
 \q1 \v 23 But you, God, will hurl them down
 \q2 to the deepest pit.
-\q1 Bloody and treacherous men
+\q1 Bloody and treacherous [neut:people|masc:men]
 \q2 will not live out half their days;
 \q2 but I will trust you.
 
 \c 56
-\s Psalm 56
+\s Psalm 56 --- A Prayer of Trust in God
 \d For the leader. On jonath elem rehokim. Of David. A michtam, when the Philistines seized him in Gath.
 \q1 \v 1 O God, be gracious to me,
-\q2 for mortal men trample upon me,
+\q2 for [neut:people|masc:mortal men] trample upon me,
 \q2 all the day righting and pressing me.
 \q1 \v 2 All the day enemies trample me;
 \q2 many there be
@@ -2594,7 +2601,7 @@
 \q1 \v 10 In God I maintain my cause,
 \q2 in the \nd Lord\nd* I maintain my cause.
 \q1 \v 11 In God I fearlessly trust,
-\q2 what can man do to me?
+\q2 what can [neut:people|masc:man] do to me?
 \b
 \q1 \v 12 Your vows are upon me, O God,
 \q2 I will render thank-offerings to you;
@@ -2604,7 +2611,7 @@
 \q2 in the light of the living.
 
 \c 57
-\s Psalm 57
+\s Psalm 57 --- A Prayer for Protection from Persecution
 \d For the leader. Al tashheth. A michtam of David, when he fled from Saul into a cave.
 \q1 \v 1 Be gracious, O God, be gracious to me,
 \q2 for in you I take shelter.
@@ -2615,7 +2622,7 @@
 \q1 \v 3 He will send me his succour from heaven,
 \q2 he will thrust away those who would trample me. \it (Selah)\it*
 \q1 \v 4 In the midst of lions I lie,
-\q2 who devour the children of men.
+\q2 who devour [neut:human prey|masc:the children of men].
 \q1 Their teeth are spears and arrows,
 \q2 and their tongue is a sharpened sword.
 \q1 \v 5 Be exalted, God, o’er the heavens,
@@ -2640,10 +2647,10 @@
 \q2 and your glory o’er all the earth.
 
 \c 58
-\s Psalm 58
+\s Psalm 58 --- A Prayer for Vengeance on Unjust Judges
 \d For the leader. Al tashheth. Of David. A michtam.
 \q1 \v 1 Do you speak what is right, you gods?
-\q2 With equity judge you the children of men?
+\q2 With equity judge you [neut:your people|masc:the children of men]?
 \q1 \v 2 In the land you practise iniquity --- all of you;
 \q2 violence do you dispense with your hands.
 \q1 \v 3 The wicked go astray from the womb
@@ -2651,7 +2658,7 @@
 \q1 \v 4 Venom have they like the venom of snakes,
 \q2 they are like the deaf adder that stops her ears,
 \q1 \v 5 and refuses to listen to the voice of the charmer,
-\q2 or binder of spells, be he never so cunning.
+\q2 or binder of spells, no matter how cunning.
 \b
 \q1 \v 6 O God, break to pieces the teeth in their mouth,
 \q2 tear out the great teeth of the young lions, \nd Lord\nd*.
@@ -2662,17 +2669,17 @@
 \q1 \v 9 Faster than a thorn-fire heats your pots,
 \q2 he will come with his tempest and sweep them away. 
 \q1 \v 10 The sight of such vengeance will gladden the righteous;
-\q2 his feet he shall wash in the blood of the wicked.
-\q1 \v 11 “Yes,” men will say, “the just have their reward:
+\q2 [neut:their|masc:his] feet [neut:they|masc:he] will wash in the blood of the wicked.
+\q1 \v 11 [neut:People|masc:Men] will say, “Yes, the just are rewarded:
 \q2 yes, on the earth is a God who is Judge.”
 
 \c 59
-\s Psalm 59
+\s Psalm 59 --- A Prayer for Safety
 \d For the leader. Al tashheth. Of David. A michtam, when Saul sent men to watch his house in order to kill him.
 \q1 \v 1 Save me, O God, from my enemies;
 \q2 secure me from my assailants.
 \q1 \v 2 Save me from those who do wrong,
-\q2 save me from men of blood.
+\q2 save me from [neut:the bloodthirsty|masc:men of blood].
 \q1 \v 3 For see! They lay ambush for me,
 \q2 strong men are banded against me
 \q1 not for sin or transgression of mine,
@@ -2704,7 +2711,7 @@
 \q2 and may they be trapped in their pride,
 \q1 for the curses and lies that they utter.
 \q2 \v 13 In your wrath make a clean end of them,
-\q1 that men, to the ends of the earth,
+\q1 that [neut:people|masc:men], to the ends of the earth,
 \q2 may know that God rules in Jacob. \it (Selah)\it*
 \b
 \q3 \v 14 At evening they come,
@@ -2721,7 +2728,7 @@
 \q2 my faithful God.
 
 \c 60
-\s Psalm 60
+\s Psalm 60 --- A Prayer after Defeat in Battle
 \d For the leader. On shushan eduth. A michtam of David (for teaching), when he fought with Aram-naharaim and Aram-zobah, and Joab returned and defeated twelve thousand Edomites in the Valley of Salt. 
 \q1 \v 1 O God, you have spurned and broken us,
 \q2 routing us in your wrath --- restore us!
@@ -2750,12 +2757,12 @@
 \q1 \v 10 Have you not spurned us, O God?
 \q2 You do not march forth with our armies.
 \q1 \v 11 Grant us help from the foe,
-\q2 for vain is the help of man.
+\q2 for human help is worthless.
 \q1 \v 12 With God we shall yet do bravely:
 \q2 he himself will tread down our foes.
 
 \c 61
-\s Psalm 61
+\s Psalm 61 --- Our God is a Strong Tower
 \d For the leader. On stringed instruments. Of David.
 \q1 \v 1 Hear my cry, O God,
 \q2 be attentive to my prayer.
@@ -2778,7 +2785,7 @@
 \q2 paying my vows day after day.
 
 \c 62
-\s Psalm 62
+\s Psalm 62 --- Quietness and Confidence
 \d For the leader. On jeduthun. A psalm of David.
 \q1 \v 1 I wait alone in silence for God;
 \q2 From him comes my help.
@@ -2795,7 +2802,7 @@
 \q2 for from him comes my hope.
 \q1 \v 6 Yes, he is my rock, my help, my retreat,
 \q2 I shall not be shaken too sorely.
-\q1 \v 7 On God rests my honour and safety,
+\q1 \v 7 On God rests my [us:honor|cth:honour] and safety,
 \q2 in God is my strong rock, my refuge.
 \q1 \v 8 Trust in him, all you people assembled,
 \q2 pour out your heart in his presence;
@@ -2814,11 +2821,11 @@
 \q2 two things there are which I heard
 \q1 that power belongs to God,
 \q2 \v 12 and to you, too, O \nd Lord\nd*, belongs kindness;
-\q1 for you requite each man
-\q2 according to what he has done.
+\q1 for you requite each [neut:person|masc:man]
+\q2 according to what [neut:they have|masc:he has] done.
 
 \c 63
-\s Psalm 63
+\s Psalm 63 --- Athirst for God
 \d A psalm of David, when he was in the wilderness of Judah.
 \q1 \v 1 O God, my God, you, you do I seek:
 \q2 my heart thirsts for you,
@@ -2852,7 +2859,7 @@
 \q2 For the mouth of the false shall be stopped.
 
 \c 64
-\s Psalm 64
+\s Psalm 64 --- A Prayer for Deliverance from Malicious Foes
 \d For the leader. A psalm of David.
 \q1 \v 1 Hear, O my God, the voice of my lament:
 \q2 guard my life from the foe who affrights me.
@@ -2874,15 +2881,15 @@
 \q1 \v 8 For their tongue he will bring them to ruin,
 \q2 all will shudder with horror at the sight of them.
 \b
-\q1 \v 9 Then every man, touched to awe,
-\q2 as he ponders what God has wrought,
+\q1 \v 9 Then every [neut:person|masc:man], touched to awe,
+\q2 as [neut:they ponder|masc:he ponders] what God has wrought,
 \q2 will tell the tale of his deeds.
 \q1 \v 10 In the \nd Lord\nd* shall the righteous rejoice,
 \q2 in him shall they take refuge;
 \q2 and all the true-hearted shall glory.
 
 \c 65
-\s Psalm 65
+\s Psalm 65 --- Hymn for a Thanksgiving Festival
 \d For the leader. A psalm of David. A song.
 \q1 \v 1 It is seemly to praise you, O God, in Zion,
 \q2 and to you shall the vow be performed in Jerusalem.
@@ -2890,7 +2897,7 @@
 \q2 unto you shall all flesh come.
 \q1 \v 3 Our sins are too mighty for us,
 \q2 our transgressions you only can cover them.
-\q1 \v 4 Happy the man whom you choose
+\q1 \v 4 Happy the [neut:person who|masc:man whom] you choose
 \q2 to live beside you in your courts.
 \q1 O may we be filled with the joys
 \q2 of your house, of your holy temple.
@@ -2925,7 +2932,7 @@
 \q2 they shout to each other and sing.
 
 \c 66
-\s Psalm 66
+\s Psalm 66 --- Thanksgiving for National Deliverance
 \d For the leader. A song. A psalm.
 \q1 \v 1 Shout to God, all the earth,
 \q2 \v 2 sing praise to his glorious name,
@@ -2937,9 +2944,9 @@
 \q2 singing praise to your name.” \it (Selah)\it*
 \b
 \q1 \v 5 Come and see what God has done,
-\q2 awe-inspiring is he in his works among men.
+\q2 awe-inspiring is he in his works among [neut:people|masc:men].
 \q1 \v 6 He turns the sea into dry land,
-\q2 and men cross the river on foot.
+\q2 and [neut:people|masc:men] cross the river on foot.
 \q1 Let us therefore rejoice in him,
 \q2 \v 7 the mighty Ruler eternal,
 \q1 whose eyes keep watch on the nations,
@@ -2953,7 +2960,7 @@
 \q2 have tried us, as silver is tried.
 \q1 \v 11 You did bring us into prison,
 \q2 and put chains upon us,
-\q1 \v 12 you did let men ride over our head.
+\q1 \v 12 you did let [neut:people|masc:men] ride over our head.
 \q2 We went through fire and through water,
 \q2 but you led us out to a spacious place.
 \b
@@ -2979,9 +2986,9 @@
 \q2 my prayer, nor withdrew his kindness from me.
 
 \c 67
-\s Psalm 67
+\s Psalm 67 --- A Harvest Thanksgiving
 \d For the leader. On stringed instruments. A psalm. A song.
-\q1 \v 1 Bless us, O God, with your favour,
+\q1 \v 1 Bless us, O God, with your [us:favor|cth:favour],
 \q2 let the light of your face fall upon us; \it (Selah)\it*
 \q1 \v 2 that the world may know your way,
 \q2 and all nations your power to save.
@@ -2996,11 +3003,11 @@
 \b
 \q1 \v 6 The earth has yielded her increase
 \q2 by the blessing of God, our God.
-\q1 \v 7 May this blessing of ours win men to him
-\q2 unto all the ends of the earth.
+\q1 \v 7 May this blessing of ours win [neut:people|masc:men] to him
+\q2 to all the ends of the earth.
 
 \c 68
-\s Psalm 68
+\s Psalm 68 --- Victory
 \d For the leader. Of David. A psalm. A song.
 \q1 \v 1 God arises, his enemies scatter:
 \q2 they who hate him flee before him.
@@ -3045,16 +3052,16 @@
 \q1 \v 17 The chariots of God are twice ten thousand:
 \q2 the \nd Lord\nd* came from Sinai, his holy place.
 \q1 \v 18 You did mount the height with trains of your captives,
-\q2 and gifts that you had received among men.
+\q2 and gifts that you had received [neut:from the people|masc:among men].
 \q2 The rebels shall live with the \nd Lord\nd* God.
 \b
 \q1 \v 19 Blest be the \nd Lord\nd* who sustains us daily,
-\q2 the God who is also our Saviour. \it (Selah)\it*
-\q2 \v 20 Our God is a God who is Saviour.
+\q2 the God who is also our [us:savior|cth:saviour]. \it (Selah)\it*
+\q2 \v 20 Our God is a God who is [us:savior|cth:saviour].
 \q1 The ways of escape from death
 \q2 are known to the \nd Lord\nd* God.
 \q1 \v 21 Yes, God will shatter the head of his foes
-\q2 the rough scalp of him who struts on in his sins.
+\q2 the rough scalp of [neut:those who strut on in their|masc:him who struts on in his] sins.
 \q1 \v 22 The \nd Lord\nd* said: “I will bring you home from Bashan,
 \q2 home from the depths of the sea,
 \q1 \v 23 that your feet you may bathe in blood,
@@ -3094,7 +3101,7 @@
 \q3 Blessed be God.
 
 \c 69
-\s Psalm 69
+\s Psalm 69 --- A Prayer for Deliverance and Vengeance
 \d For the leader. On shoshannim. Of David.
 \q1 \v 1 Save me, O God; for the waters
 \q2 are threatening my life.
@@ -3119,8 +3126,8 @@
 \q2 who seek you, O God of Israel.
 \q1 \v 7 It’s in your cause that I have borne taunts,
 \q2 and my face has been covered with shame;
-\q1 \v 8 I became to my brothers a foreigner,
-\q2 to sons of my mother a stranger.
+\q1 \v 8 I became to my [neut:kindred|masc:brothers] a foreigner,
+\q2 to my mother's sons a stranger.
 \b
 \q1 \v 9 It was zeal for your house that consumed me,
 \q2 and the insults they hurled at you fell upon me.
@@ -3132,7 +3139,7 @@
 \q2 in the music of drunken songs.
 \b
 \q1 \v 13 But I pray to you, \nd Lord\nd*,
-\q2 for a time of favour.
+\q2 for a time of [us:favor|cth:favour].
 \q1 In your great love answer me;
 \q2 with your loyal help, save me
 \q1 \v 14 from sinking down in the mire.
@@ -3164,7 +3171,7 @@
 \q2 let your burning wrath overtake them.
 \q1 \v 25 May their camp be a desolation,
 \q2 in their tents be there none to live.
-\q1 \v 26 For him whom you struck, they persecute,
+\q1 \v 26 For [neut:those|masc:him] whom you struck, they persecute,
 \q2 and those whom you wounded, they pain yet more.
 \q1 \v 27 Charge them with sin upon sin,
 \q2 may they not be acquitted by you.
@@ -3191,7 +3198,7 @@
 \q2 and those who love him shall live therein.
 
 \c 70
-\s Psalm 70
+\s Psalm 70 --- A Cry for Help in Persecution
 \rem (Stage 1.5)
 \d For the leader. Of David. For commemoration. 
 \q1 \v 1 Quickly, God, deliver me,
@@ -3199,7 +3206,7 @@
 \q1 \v 2 May those who are seeking my life,
 \q2 be ashamed and confounded.
 \q1 \v 3 May those who delight in my hurt
-\q2 be defeated and brought to dishonour.
+\q2 be defeated and brought to [us:dishonor|cth:dishonour].
 \q1 \v 4 But may all who seek after you
 \q2 rejoice and be glad in you.
 \q1 May all who love your salvation
@@ -3210,7 +3217,7 @@
 \q2 \nd Lord\nd*, don’t delay.
 
 \c 71
-\s Psalm 71
+\s Psalm 71 --- Forsake me not, when I am Old
 \q1 \v 1 In you, O \nd Lord\nd*, I take refuge,
 \q2 let me never be put to shame.
 \q1 \v 2 In your faithfulness save me and rescue me,
@@ -3240,7 +3247,7 @@
 \b
 \q1 \v 12 O God, be not far from me,
 \q2 haste, O my God, to my help.
-\q1 \v 13 Put my foes to shame and dishonour,
+\q1 \v 13 Put my foes to shame and [us:dishonor|cth:dishonour],
 \q2 with insult and shame be they covered.
 \q1 \v 14 But I will never stop hoping,
 \q2 and more and yet more will I praise you.
@@ -3281,7 +3288,7 @@
 \q2 who were seeking my hurt.
 
 \c 72
-\s Psalm 72
+\s Psalm 72 --- A Prayer for a Just and Glorious Reign
 \d Of Solomon.
 \q1 \v 1 Give the king, O God, your own spirit of justice
 \q2 your spirit of right to the son of the king,
@@ -3348,7 +3355,7 @@
 
 \c 73
 \ms Book Three
-\s Psalm 73
+\s Psalm 73 --- Fellowship with God Here and Hereafter
 \d A psalm of Asaph.
 \q1 \v 1 Yes, God is good to the upright,
 \q2 the \nd Lord\nd* to the pure in heart.
@@ -3418,7 +3425,7 @@
 \q2 that I may recount all the things you have done.
 
 \c 74
-\s Psalm 74
+\s Psalm 74 --- Lament on the Devastation of the Temple
 \d A maskil of Asaph.
 \q1 \v 1 Why, O God, have you spurned us forever?
 \q2 Why smokes your wrath against the sheep of your pasture?
@@ -3476,7 +3483,7 @@
 \q2 the din of your foes that ascends evermore.
 
 \c 75
-\s Psalm 75
+\s Psalm 75 --- God the Judge
 \d For the leader; al tashheth. A psalm of Asaph, a song.
 \q1 \v 1 We praise you, God, we praise you:
 \q2 we would call on your name and declare your wonders.
@@ -3507,7 +3514,7 @@
 \q2 but the horns of the just shall be lifted.
 
 \c 76
-\s Psalm 76
+\s Psalm 76 --- A Song of Victory
 \d For the leader. With instrumental music. A psalm of Asaph, a song.
 \q1 \v 1 God has made himself known in Judah,
 \q2 his name is great in Israel.
@@ -3516,12 +3523,12 @@
 \b
 \q1 \v 3 There he broke the lightning arrows,
 \q2 shield, sword, and weapons of war. \it (Selah)\it*
-\q1 \v 4 Terrible is your splendour
+\q1 \v 4 Terrible is your [us: splendor|cth:splendour]
 \q2 on the everlasting mountains.
 \b
 \q1 \v 5 Despoiled were the stout of heart;
 \q2 in the sleep into which they had fallen,
-\q1 none of the men of valour
+\q1 none of the [neut:warriors|masc:men of valour]
 \q2 could lift a hand.
 \b
 \q1 \v 6 At your rebuke, God of Jacob,
@@ -3534,8 +3541,8 @@
 \q1 \v 9 when God arose to judgment
 \q2 to save the oppressed of the earth. \it (Selah)\it*
 \b
-\q1 \v 10 All nations of men shall praise you,
-\q2 to you shall the remnant hold festival. 
+\q1 \v 10 The fiercest will praise you,
+\q2 to you will the remnant hold festival. 
 \q1 \v 11 Vow and pay to \nd Lord\nd* your God,
 \q2 and let all who are round him bring presents.
 \b
@@ -3543,7 +3550,7 @@
 \q2 and with terror fills kings of the earth.
 
 \c 77
-\s Psalm 77
+\s Psalm 77 --- A Prayer for Preservation as in the Days of Old
 \d For the leader. On Jeduthun. Of Asaph, a psalm.
 \q1 \v 1 Loudly will I lift my cry to God,
 \q2 loudly to God, so he hears to me.
@@ -3595,7 +3602,7 @@
 \q2 by the hand of Moses and Aaron.
 
 \c 78
-\s Psalm 78
+\s Psalm 78 --- The Warnings of History
 \d A maskil of Asaph.
 \q1 \v 1 My people, give ear to my teaching:
 \q2 bend your ears to the words of my mouth,
@@ -3603,7 +3610,7 @@
 \q2 on the riddling story of the past.
 \b
 \q1 \v 3 What we have heard and known,
-\q2 and what our fathers have told us,
+\q2 and what our [neut:ancestors|masc:fathers] have told us,
 \q1 \v 4 we will not hide from their children.
 \q2 We will tell to the next generation
 \q1 the praises and might of the \nd Lord\nd*,
@@ -3611,7 +3618,7 @@
 \b
 \q1 \v 5 He set up a testimony in Jacob,
 \q2 a law he appointed in Israel,
-\q1 which he commanded our fathers
+\q1 which he commanded our [neut:ancestors|masc:fathers]
 \q2 to make known to their children,
 \q1 \v 6 that the next generation should know it,
 \q2 that the children yet to be born
@@ -3619,19 +3626,19 @@
 \q2 \v 7 that in God they might put their confidence,
 \q1 and not forget God’s works;
 \q2 but that they might keep his commandments,
-\q1 \v 8 and not be like their fathers,
+\q1 \v 8 and not be like their [neut:ancestors|masc:fathers],
 \q2 a generation defiant and stubborn,
 \q1 a generation with heart unsteady,
 \q2 and spirit unfaithful towards God.
 \b
-\q1 \v 9 Sons of Ephraim, armed bowmen,
+\q1 \v 9 Ephraimites, armed bowmen,
 \q2 turned back in the day of battle.
 \q1 \v 10 They did not keep God’s covenant,
 \q2 they refused to walk in his law.
 \q1 \v 11 They forgot what he had done,
 \q2 and the wonders he had shown them.
 \b
-\q1 \v 12 He did wonders before their fathers
+\q1 \v 12 He did wonders before their [neut:ancestors|masc:fathers]
 \q2 in the country of Zoan in Egypt.
 \q1 \v 13 Through the sea which he split he brought them,
 \q2 making waters stand up like a heap;
@@ -3645,7 +3652,7 @@
 \b
 \q1 \v 17 Yet they still went on sinning against him,
 \q2 they defied the Most High in the desert.
-\q1 \v 18 They wilfully challenged God,
+\q1 \v 18 They [us:willfully|cth:wilfully] challenged God,
 \q2 demanding the food that they longed for.
 \q1 \v 19 “Is God able,“ such was their challenge,
 \q2 “to spread in the desert a table?
@@ -3664,7 +3671,7 @@
 \q2 and, opening the doors of heaven,
 \q1 \v 24 he rained manna upon them for food,
 \q2 and grain of heaven he gave them.
-\q1 \v 25 Men ate the bread of angels;
+\q1 \v 25 [neut:Everyone|masc:Men] ate the bread of angels;
 \q2 he sent them food to the full.
 \b
 \q1 \v 26 He launched the east wind in the heavens,
@@ -3745,7 +3752,7 @@
 \b
 \q1 \v 56 Yet they tempted and angered the Most High God,
 \q2 they did not observe his decrees.
-\q1 \v 57 They drew back and played false like their fathers;
+\q1 \v 57 They drew back, false like their [neut:ancestors|masc:fathers];
 \q2 they failed like a treacherous bow.
 \q1 \v 58 Their shrines stirred him to anger,
 \q2 their idols moved him to jealousy.
@@ -3753,7 +3760,7 @@
 \q1 \v 59 When God heard of this, he was furious,
 \q2 and he spurned Israel utterly.
 \q1 \v 60 He abandoned his home in Shiloh,
-\q2 the tent he had pitched among men.
+\q2 the tent he had pitched among [neut:people|masc:men].
 \q1 \v 61 He gave his strength up to captivity,
 \q2 his glory to the hands of the foe.
 \b
@@ -3784,7 +3791,7 @@
 \q2 and with skilful hands did he guide them.
 
 \c 79
-\s Psalm 79
+\s Psalm 79 --- A National Prayer for Deliverance
 \d A psalm of Asaph.
 \q1 \v 1 Heathen, O God, have come into your land,
 \q2 defiling your holy temple,
@@ -3795,7 +3802,7 @@
 \q1 \v 3 Round about Jerusalem
 \q2 they have poured out their blood like water;
 \q2 and there was no one to bury them.
-\q1 \v 4 On every side our neighbours
+\q1 \v 4 On every side our [us:neighbors|cth:neighbours]
 \q2 revile us and mock us and jeer at us.
 \b
 \q1 \v 5 How long will you be angry, O \nd Lord\nd*?
@@ -3804,11 +3811,11 @@
 \q2 on the kingdoms that do not call on your name.
 \q1 \v 7 For Jacob they devoured,
 \q2 they have desolated his home.
-\q1 \v 8 Do not remember against us the sins of the fathers;
+\q1 \v 8 Do not remember against us our [neut:ancestors'|masc:fathers'] sins;
 \q2 O meet us soon with your pity,
 \q2 for utterly weak are we.
 \b
-\q1 \v 9 Help us, O God our saviour,
+\q1 \v 9 Help us, O God our [us:savior|cth:saviour],
 \q2 for the renown of your name:
 \q1 for your reputation deliver us
 \q2 and cover over our sins.
@@ -3818,7 +3825,7 @@
 \q2 be shown on the heathen before our eyes.
 \q1 \v 11 May the groans of the prisoner come before you;
 \q2 free the children of death by your mighty arm.
-\q1 \v 12 Pay our neighbours back sevenfold
+\q1 \v 12 Pay our [us:neighbors|cth:neighbours] back sevenfold
 \q2 for the scorn they have heaped upon you, O \nd Lord\nd*.
 \b
 \q1 \v 13 Then we, your people, the flock of your pasture,
@@ -3826,7 +3833,7 @@
 \q2 and tell your praise to all generations.
 
 \c 80
-\s Psalm 80
+\s Psalm 80 --- A Prayer for the Preservation of Israel
 \d For the leader. On shoshannim, eduth. Of Asaph, a psalm.
 \q1 \v 1 Listen, Shepherd of Israel,
 \q2 who leads Joseph like a flock of sheep;
@@ -3843,7 +3850,7 @@
 \q2 despite the prayer of your people?
 \q1 \v 5 You have fed them with bread of tears,
 \q2 you have made them drink tears by the measure.
-\q1 \v 6 The scorn of our neighbours you make us,
+\q1 \v 6 The scorn of our [us:neighbors|cth:neighbours] you make us,
 \q2 the laughing-stock of our foes.
 \q1 \v 7 God of hosts, restore us:
 \q2 show us the light of your face,
@@ -3877,7 +3884,7 @@
 \q2 so we may be saved.
 
 \c 81
-\s Psalm 81
+\s Psalm 81 --- For the Feast of Tabernacles
 \d For the leader. On the gittith. Of Asaph.
 \q1 \v 1 Sing aloud to God our strength,
 \q2 shout for joy to the God of Jacob.
@@ -3889,10 +3896,10 @@
 \q2 a ruling of the God of Jacob,
 \q1 \v 5 a witness he set up in Joseph,
 \q2 when he marched against Egypt’s land,
-\q2 where he heard a tongue that he knew not.
+\q2 where he heard an unknown language.
 \b
-\q1 \v 6 “I removed from his shoulder the burden,
-\q2 and freed his hands from the basket.
+\q1 \v 6 “I removed from [neut:your|masc:his] shoulder the burden,
+\q2 and freed [neut:your|masc:his] hands from the basket.
 \q1 \v 7 At your call of distress I delivered you,
 \q2 from the thundercloud I answered you.
 \q2 At Meribah’s waters I tested you. \it (Selah)\it*
@@ -3919,13 +3926,13 @@
 \q2 and with honey from the rock to your heart’s desire.”
 
 \c 82
-\s Psalm 82
+\s Psalm 82 --- God the Upholder of Justice
 \d A psalm of Asaph.
 \q1 \v 1 God has taken his stand
 \q2 in the divine assembly:
 \q2 in the midst of the gods he holds judgment.
 \q1 \v 2 “How long will you crookedly judge,
-\q2 and favour the wicked? \it (Selah)\it*
+\q2 and [us:favor|cth:favour] the wicked? \it (Selah)\it*
 \q1 \v 3 Do right by the weak and the orphan,
 \q2 acquit the innocent poor.
 \q1 \v 4 Rescue the weak and the needy,
@@ -3935,15 +3942,15 @@
 \q2 in darkness they walk to and fro,
 \q2 while the earth’s foundations totter.
 \q1 \v 6 It was I who appointed you gods,
-\q2 sons of the Most High all of you.
-\q1 \v 7 Yet like mortals you shall surely die,
-\q2 you shall fall like any prince.” 
+\q2 [neut:children|masc:sons] of the Most High all of you.
+\q1 \v 7 Yet like mortals you will surely die,
+\q2 you will fall like any prince.” 
 \b
 \q1 \v 8 Arise, O God, judge the earth,
 \q2 for all nations are yours by inheritance.
 
 \c 83
-\s Psalm 83
+\s Psalm 83 --- A Prayer for the Destruction of the Enemies of Judah
 \d A song, a psalm of Asaph. 
 \q1 \v 1 Do not keep silent, O God:
 \q2 hold not your peace, be not still, God.
@@ -3986,7 +3993,7 @@
 \q2 are most high over all the earth.
 
 \c 84
-\s Psalm 84
+\s Psalm 84 --- The Song of the Pilgrims
 \d For the leader. On the gittith. Of the Korahites, a psalm.
 \q1 \v 1 How dearly loved is the place where you live,
 \q2 \nd Lord\nd* of hosts!
@@ -4004,8 +4011,8 @@
 \q1 \v 4 Happy those who live in your house,
 \q2 praising you evermore. \it (Selah)\it*
 \b
-\q1 \v 5 Happy the men whose strength is in you,
-\q2 the men with pilgrim hearts.
+\q1 \v 5 Happy [neut:those|masc:the men] whose strength is in you,
+\q2 [neut:people|masc:the men] with pilgrim hearts.
 \q1 \v 6 As they pass through the valley of tears, 
 \q2 they make it a place of fountains,
 \q2 clothed with the blessings of early rain.
@@ -4024,19 +4031,19 @@
 \q2 the \nd Lord\nd* gives grace and glory.
 \q1 He withholds no good thing from the life that is blameless.
 \q1 \v 12 \nd Lord\nd* of hosts,
-\q2 happy the man whose trust is in you.
+\q2 happy [neut:those|masc:the man] whose trust is in you.
 
 \c 85
-\s Psalm 85
+\s Psalm 85 --- A Prayer for National Restoration
 \d For the leader. Of the Korahites, a psalm. 
-\q1 \v 1 Once, \nd Lord\nd*, you did favour your land,
+\q1 \v 1 Once, \nd Lord\nd*, you did [us:favor|cth:favour] your land,
 \q2 granting change of fortune to Jacob,
 \q1 \v 2 forgiving the guilt of your people,
 \q2 pardoning all their sin, \it (Selah)\it*
 \q1 \v 3 withdrawing all your fury,
 \q2 turning from your hot anger.
 \b
-\q1 \v 4 Restore us, O God our saviour,
+\q1 \v 4 Restore us, O God our [us:savior|cth:saviour],
 \q2 put away your displeasure against us.
 \q1 \v 5 Will you cherish your anger against us forever,
 \q2 prolonging your wrath to all generations?
@@ -4062,7 +4069,7 @@
 \q2 and peace on the path he treads.
 
 \c 86
-\s Psalm 86
+\s Psalm 86 --- A Prayer for Divine Guidance and [us:Favor|cth:Favour]
 \d A prayer of David. 
 \q1 \v 1 Incline your ear, \nd Lord\nd*, and answer me,
 \q2 for I am afflicted and needy.
@@ -4092,7 +4099,7 @@
 \q2 so my heart shall rejoice in your name.
 \q1 \v 12 I will give you thanks, O \nd Lord\nd*,
 \q2 with all my heart, my God,
-\q2 I will honour your name forever.
+\q2 I will [us:honor|cth:honour] your name forever.
 \q1 \v 13 For great is your love towards me,
 \q2 from the depths of Sheol you have saved me.
 \b
@@ -4103,13 +4110,13 @@
 \q2 patient and rich in kindness and faithfulness;
 \q2 turn to me with your grace, O \nd Lord\nd*.
 \q1 \v 16 Grant your strength to your servant,
-\q2 and save the son of your handmaid.
-\q1 \v 17 Show me a sign of your favour,
+\q2 and save the [neut:child|masc:son] of your handmaid.
+\q1 \v 17 Show me a sign of your [us:favor|cth:favour],
 \q2 which those who hate me may see with confusion,
 \q2 since you, \nd Lord\nd*, are my helper and comforter.
 
 \c 87
-\s Psalm 87
+\s Psalm 87 --- Zion, City of God
 \rem (Stage 1.5)
 \d Of the Korahites, a psalm. A song.
 \q1 \v 1 On the holy mountain stands
@@ -4126,13 +4133,13 @@
 \q2 each and all were born in her.”
 \q1 The \nd Lord\nd* will preserve her.
 \b
-\q1 \v 6 The \nd Lord\nd* shall count, when enrolling the peoples,
-\q2 “This man was born there, and that man was born there.” \it (Selah)\it*
+\q1 \v 6 The \nd Lord\nd* will count, when enrolling the peoples,
+\q2 “This [neut:one|masc:man] was born there, and that [neut:one|masc:man] was born there.” \it (Selah)\it*
 \q1 \v 7 Singers and dancers alike will say
 \q2 “All my springs are in you.”
 
 \c 88
-\s Psalm 88
+\s Psalm 88 --- The Prayer of Despair
 \q1 \v 1 O \nd Lord\nd* my God,
 \q2 I cry for help in the day-time,
 \q2 in the night my cry is before you;
@@ -4142,7 +4149,7 @@
 \q1 \v 3 For I am sated with sorrow,
 \q2 my life draws near to Sheol.
 \q1 \v 4 I am counted with those who go down to the pit;
-\q2 a man without strength am I.
+\q2 [neut:|masc:a man] without strength am I.
 \b
 \q1 \v 5 My home is among the dead,
 \q2 like the slain that lie in the grave,
@@ -4183,7 +4190,7 @@
 \q2 the dark is my only friend.
 
 \c 89
-\s Psalm 89
+\s Psalm 89 --- The Promise to David
 \d A song. A psalm of the Korahites.
 \q1 \v 1 I will sing evermore of the love of the \nd Lord\nd*,
 \q2 proclaiming to all generations his faithfulness.
@@ -4196,7 +4203,7 @@
 \q2 and to build up his throne to all ages.” \it (Selah)\it*
 \b
 \q1 \v 5 Then the holy assembly in heaven
-\q2 praised your marvellous faithfulness, \nd Lord\nd*.
+\q2 praised your [us:marvelous|cth:marvellous] faithfulness, \nd Lord\nd*.
 \q1 \v 6 For who in the skies may compare with the \nd Lord\nd*?
 \q2 Who is like the \nd Lord\nd* among the gods?
 \b
@@ -4226,12 +4233,12 @@
 \q2 and your righteousness they extol.
 \b
 \q1 \v 17 For you are our strength and our pride.
-\q2 Your favour will lift us to honour. 
+\q2 Your [us:favor|cth:favour] will lift us to [us:honor|cth:honour]. 
 \q1 \v 18 For the holy \nd Lord\nd* of Israel
 \q2 keeps our defender and king.
 \b
 \q1 \v 19 In a vision of old you did speak
-\q2 in this way to the man whom you loved, 
+\q2 in this way to the [neut:one|masc:man] whom you loved, 
 \q1 “A crown I have set on the hero
 \q2 I chose to be over the people
 \b
@@ -4241,12 +4248,12 @@
 \q2 my arm will give him strength.
 \b
 \q1 \v 22 No enemy will dare to assail him,
-\q2 nor a son of wrong to oppress him;
+\q2 nor the wicked to oppress him;
 \q1 \v 23 but his foes I will shatter before him,
 \q2 I will strike down those who hate him.
 \b
 \q1 \v 24 My loyal love shall attend him,
-\q2 and I will lift him to honour. 
+\q2 and I will lift him to [us:honor|cth:honour]. 
 \q1 \v 25 I will set his hand on the sea,
 \q2 and his right hand on the rivers.
 \b
@@ -4260,7 +4267,7 @@
 \q1 \v 29 His line will I make everlasting,
 \q2 and his throne as the days of the heavens.
 \b
-\q1 \v 30 If his sons forsake my law,
+\q1 \v 30 If his [neut:children|masc:sons] forsake my law,
 \q2 and walk not as I have ordained;
 \q1 \v 31 if they profane my statutes,
 \q2 and do not keep my commandments;
@@ -4288,7 +4295,7 @@
 \q1 \v 40 You have broken down all his walls,
 \q2 and laid his bulwarks in ruins.
 \q1 \v 41 All who pass on their way despoil him,
-\q2 the scorn of his neighbours is he now.
+\q2 the scorn of his [us:neighbors|cth:neighbours] is he now.
 \b
 \q1 \v 42 You have given his foes the victory, 
 \q2 and made all his enemies glad.
@@ -4303,10 +4310,10 @@
 \q1 \v 46 How long, \nd Lord\nd* will you hide you forever?
 \q2 How long are the fires of your wrath to burn?
 \q1 \v 47 Remember, \nd Lord\nd*, the shortness of life
-\q2 how fleeting you made all sons of men.
+\q2 how fleeting you made all [neut:people|masc:sons of men].
 \b
-\q1 \v 48 What man shall live without seeing death?
-\q2 Who can rescue his life from the clutch of Sheol? \it (Selah)\it*
+\q1 \v 48 [neut:Who can|masc:What man shall] live without seeing death?
+\q2 Who can rescue [neut:their|masc:his] life from the clutch of Sheol? \it (Selah)\it*
 \q1 \v 49 Where, \nd Lord\nd*, is your kindness of old,
 \q2 which you in your faithfulness swore to David?
 \b
@@ -4322,7 +4329,7 @@
 
 \c 90
 \ms Book Four
-\s Psalm 90
+\s Psalm 90 --- Hymn of Eternity
 \d A prayer of Moses, the man of God.
 \q1 \v 1 \nd Lord\nd*, you have been a home to us
 \q2 one generation after another.
@@ -4331,8 +4338,8 @@
 \q1 from everlasting to everlasting
 \q2 you are God.
 \b
-\q1 \v 3 You bring man back to the dust,
-\q2 you summon men to return.
+\q1 \v 3 You bring [neut:us|masc:man] back to the dust,
+\q2 you summon [neut:mortals|masc:men] to return.
 \q1 \v 4 For you see a thousand years
 \q2 as the passing of yesterday,
 \q2 as a watch in the night.
@@ -4373,8 +4380,8 @@
 \q2 uphold what our hands are striving to do.
 
 \c 91
-\s Psalm 91
-\q1 \v 1 He whose home is the shelter of God Most High,
+\s Psalm 91 --- In the Shelter of the Most High
+\q1 \v 1 [neut:You|masc:He] whose home is the shelter of God Most High,
 \q2 whose abode is the shadow of God Almighty,
 \q1 \v 2 can say to the \nd Lord\nd*, “My refuge, my fortress,
 \q2 my God, in whom I trust,”
@@ -4410,15 +4417,15 @@ His truth will be a shield and buckler.
 \q1 \v 13 You will tread upon lions and adders,
 \q2 and trample young lions and dragons.
 \b
-\q1 \v 14 “Because of his love for me, I will deliver him,
+\q1 \v 14 “Because of [neut:their|masc:his] love for me, I will deliver [neut:them|masc:him],
 \q2 I will protect those who trust my name.
-\q1 \v 15 I will answer his cry and be with him in trouble,
-\q2 bringing him forth into safety and honour.
-\q1 \v 16 I will give him a life of many days,
-\q2 I will show him my salvation.” 
+\q1 \v 15 I will answer [neut:their|masc:his] cry and be with [neut:them|masc:him] in trouble,
+\q2 bringing [neut:them|masc:him] forth into safety and [us:honor|cth:honour].
+\q1 \v 16 I will give [neut:them|masc:him] a life of many days,
+\q2 I will show [neut:them|masc:him] my salvation.” 
 
 \c 92
-\s Psalm 92
+\s Psalm 92 --- The Ways of God
 \d A psalm. A song; for the sabbath day.
 \q1 \v 1 It is good to give thanks to the \nd Lord\nd*,
 \q2 to sing praise to your name, O Most High,
@@ -4431,9 +4438,9 @@ His truth will be a shield and buckler.
 \b
 \q1 \v 5 How great are your works, O \nd Lord\nd*;
 \q2 how deep are your thoughts!
-\q1 \v 6 A brutish man cannot know,
+\q1 \v 6 The insensitive cannot know,
 \q2 nor can a fool understand,
-\q1 \v 7 that, though wicked men flourish like grass,
+\q1 \v 7 that, though [neut:the wicked|masc:wicked men] flourish like grass,
 \q2 and evil-doers all blossom,
 \q2 they will perish forever.
 \b
@@ -4441,13 +4448,13 @@ His truth will be a shield and buckler.
 \q1 \v 9 For see! Your enemies, \nd Lord\nd*
 \q2 For see! Your enemies perish,
 \q2 all evil-doers are scattered.
-\q1 \v 10 But you lift me to honour, 
+\q1 \v 10 But you lift me to [us:honor|cth:honour], 
 \q2 and anoint me afresh with oil.
 \q1 \v 11 My eyes will feast on my foes,
 \q2 and my ears will hear of the doom of the wicked.
 \b
 \q1 \v 12 The righteous will sprout like the palm,
-\q2 he will grow like a cedar of Lebanon.
+\q2 [neut:|masc:he] will grow like a cedar of Lebanon.
 \q1 \v 13 In the house of the \nd Lord\nd* are they planted,
 \q2 in the courts of our God they will sprout.
 \q1 \v 14 They will still bear fruit in old age,
@@ -4456,7 +4463,7 @@ His truth will be a shield and buckler.
 \q2 my rock, in whom is no wrong.
 
 \c 93
-\s Psalm 93
+\s Psalm 93 --- The Lord, King of all the World
 \q1 \v 1 The \nd Lord\nd* has taken his seat on the throne,
 \q2 clothed with majesty, armed with might.
 \q1 Now the world stands firm, to be shaken no more,
@@ -4475,7 +4482,7 @@ His truth will be a shield and buckler.
 \q2 O \nd Lord\nd*, for ever and ever.
 
 \c 94
-\s Psalm 94
+\s Psalm 94 --- A Prayer for Vengeance on the Cruel
 \q1 \v 1 \nd Lord\nd*, God of vengeance,
 \q2 God of vengeance, shine forth.
 \q1 \v 2 Rise up, judge of the earth,
@@ -4494,24 +4501,24 @@ His truth will be a shield and buckler.
 \b
 \q1 \v 8 Take heed, you dullest of people;
 \q2 when will you be wise, you fools?
-\q1 \v 9 Is he deaf, who planted the ear?
+\q1 \v 9 Is he deaf, who [oeb:shaped|heb:planted] the ear?
 \q2 Is he blind, who fashioned the eye?
 \q1 \v 10 Can he who trains nations not punish them
-\q2 he who teaches knowledge to men?
-\q1 \v 11 The \nd Lord\nd* knows the thoughts of men,
+\q2 he who teaches knowledge to [neut:people|masc:men]?
+\q1 \v 11 The \nd Lord\nd* knows the thoughts of [neut:people|masc:men],
 \q2 that only a breath are they.
 \b
-\q1 \v 12 Happy the man whom you chasten,
+\q1 \v 12 Happy [neut:are those|masc:the man] whom you chasten,
 \q2 and teach out of your law,
-\q1 \v 13 keeping him calm in the day of misfortune,
+\q1 \v 13 keeping [neut:them|masc:him] calm in the day of misfortune,
 \q2 till a pit be dug for the wicked.
 \b
 \q1 \v 14 For the \nd Lord\nd* will not leave his people,
 \q2 he will not forsake his inheritance.
 \q1 \v 15 For the righteous shall come to their rights,
-\q2 and all true-hearted men shall follow them.
+\q2 and all true-hearted [neut:people|masc:men] shall follow them.
 \b
-\q1 \v 16 Who will rise up for me against men who do evil?
+\q1 \v 16 Who will rise up for me against [neut:those|masc:men] who do evil?
 \q2 Who will stand up for me against workers of wrong?
 \q1 \v 17 Were it not for the help of the \nd Lord\nd*,
 \q2 I would soon have gone to the silent grave.
@@ -4531,7 +4538,7 @@ His truth will be a shield and buckler.
 \q2 the \nd Lord\nd* our God will destroy them.
 
 \c 95
-\s Psalm 95
+\s Psalm 95 --- For a Festival. A Hymn of Praise and a Solemn Warning
 \rem (Stage 1.5)
 \q1 \v 1 Come! Let us ring out our joy to the \nd Lord\nd*,
 \q2 let us merrily shout to our rock of salvation.
@@ -4553,7 +4560,7 @@ His truth will be a shield and buckler.
 \q1 If only you would heed his voice today:
 \q1 \v 8 “Do not harden your hearts as at Meribah,
 \q2 or at Massah, that day in the desert,
-\q1 \v 9 when your fathers tempted and tried me,
+\q1 \v 9 when your [neut:ancestors|masc:fathers] tempted and tried me,
 \q2 though they had seen my deeds.
 \b
 \q1 \v 10 For forty years I was filled with loathing
@@ -4564,7 +4571,7 @@ His truth will be a shield and buckler.
 \q2 that never would they enter my place of rest.” 
 
 \c 96
-\s Psalm 96
+\s Psalm 96 --- The Lord's Rule
 \q1 \v 1 Sing to the \nd Lord\nd* a new song,
 \q2 sing to the \nd Lord\nd*, all the earth.
 \q1 \v 2 Sing to the \nd Lord\nd*, bless his name,
@@ -4576,7 +4583,7 @@ His truth will be a shield and buckler.
 \q2 held in awe, above all gods:
 \q1 \v 5 for all the gods of the nations are idols,
 \q2 but the \nd Lord\nd* created the heavens.
-\q1 \v 6 Before him are splendour and majesty,
+\q1 \v 6 Before him are [us: splendor|cth:splendour] and majesty,
 \q2 beauty and strength in his holy place.
 \b
 \q1 \v 7 Ascribe to the \nd Lord\nd*, you tribes of the nations,
@@ -4600,7 +4607,7 @@ His truth will be a shield and buckler.
 \q2 and the nations with faithfulness.
 
 \c 97
-\s Psalm 97
+\s Psalm 97 --- The Lord's Judgment
 \q1 \v 1 The \nd Lord\nd* is king, let the earth rejoice:
 \q2 let her many isles be glad.
 \q1 \v 2 Clouds and darkness are round about him,
@@ -4632,7 +4639,7 @@ His truth will be a shield and buckler.
 \q2 give thanks to his holy name.
 
 \c 98
-\s Psalm 98
+\s Psalm 98 --- A Song of Praise to the Lord
 \d A psalm.
 \q1 \v 1 Sing a new song to the \nd Lord\nd*,
 \q2 for he has done wonders;
@@ -4662,7 +4669,7 @@ His truth will be a shield and buckler.
 \q2 and the nations with equity.
 
 \c 99
-\s Psalm 99
+\s Psalm 99 --- The Lord's Just and Holy Rule
 \q1 \v 1 The \nd Lord\nd* is king; let the nations tremble:
 \q2 he is throned upon cherubs; let earth quake.
 \q1 \v 2 The \nd Lord\nd* is great in Zion,
@@ -4690,7 +4697,7 @@ His truth will be a shield and buckler.
 \q3 For holy is the \nd Lord\nd* our God.
 
 \c 100
-\s Psalm 100
+\s Psalm 100 --- A Call to Worship
 \d A psalm of praise.
 \q1 \v 1 Shout, all the earth, to the \nd Lord\nd*.
 \q2 Serve the \nd Lord\nd* with gladness,
@@ -4706,7 +4713,7 @@ His truth will be a shield and buckler.
 \q2 and to all ages endures his faithfulness.
 
 \c 101
-\s Psalm 101
+\s Psalm 101 --- A Model King
 \d Of David, a psalm.
 \q1 \v 1 If kindness and justice I sing,
 \q2 making melody to you, \nd Lord\nd*.
@@ -4723,20 +4730,20 @@ His truth will be a shield and buckler.
 \q1 \v 4 Far from me be perverseness of heart,
 \q2 or kinship with evil.
 \b
-\q1 \v 5 Whoso slanders his neighbour in secret,
-\q2 I bring him to silence:
-\q1 the man of high looks and proud heart
+\q1 \v 5 Who slanders [neut:their|masc:his] [us:neighbor|cth:neighbour] in secret,
+\q2 I bring [neut:them|masc:him] to silence:
+\q1 [neut:haughty looks and proud hearts|masc:the man of high looks and proud heart]
 \q2 I will not abide.
 \b
-\q1 \v 6 I will favour the true in the land,
+\q1 \v 6 I will [us:favor|cth:favour] the true in the land,
 \q2 they shall live in my court.
-\q1 He who walks in a way that is blameless
-\q2 shall be my attendant.
+\q1 [neut:Those who walk|masc:He who walks] in a way that is blameless
+\q2 will be my attendant.
 \b
-\q1 \v 7 No man shall live in my house
+\q1 \v 7 No [neut:one|masc:man] will live in my house
 \q2 who practises guile.
-\q1 No man that speaks a lie
-\q2 shall abide in my presence.
+\q1 No [neut:one|masc:man] that speaks a lie
+\q2 will abide in my presence.
 \b
 \q1 \v 8 Morn by morn I will wholly wipe out
 \q2 all the bad in the land,
@@ -4744,7 +4751,7 @@ His truth will be a shield and buckler.
 \q2 all workers of evil.
 
 \c 102
-\s Psalm 102
+\s Psalm 102 --- A Prayer for Pity and for the Restoration of Zion 
 \q1 \v 1 Hear my prayer, O \nd Lord\nd*;
 \q2 let my cry for help come to you.
 \q1 \v 2 Hide not your face from me
@@ -4793,7 +4800,7 @@ His truth will be a shield and buckler.
 \q2 from the heavens the \nd Lord\nd* will gaze on the earth,
 \q1 \v 20 to hear the groans of the prisoner,
 \q2 to free those who are doomed to die;
-\q1 \v 21 that men may recount the \nd Lord\nd*’s fame in Zion,
+\q1 \v 21 that [neut:people|masc:men] may recount the \nd Lord\nd*’s fame in Zion,
 \q2 and the praise of him in Jerusalem,
 \q1 \v 22 when the nations are gathered together,
 \q2 and the kingdoms, to worship the \nd Lord\nd*.
@@ -4810,11 +4817,11 @@ His truth will be a shield and buckler.
 \q2 They shall all wax old like a garment,
 \q2 and change as a robe you will change them.
 \q1 \v 27 But you are the same, your years are endless.
-\q2 \v 28 The sons of your servants abide,
+\q2 \v 28 The [neut:children|masc:sons] of your servants abide,
 \q2 evermore shall their seed be before you.”
 
 \c 103
-\s Psalm 103
+\s Psalm 103 --- Bless the Lord, O my Soul
 \d Of David.
 \q1 \v 1 O my soul, bless the \nd Lord\nd*;
 \q2 and all that is in me, his holy name.
@@ -4847,8 +4854,8 @@ His truth will be a shield and buckler.
 \q1 \v 14 for well he knows our frame,
 \q2 he remembers that we are dust.
 \b
-\q1 \v 15 As for man, his days are as grass;
-\q2 like a flower of the meadow he blossoms
+\q1 \v 15 [neut:A person's|masc:As for man, his] days are as grass;
+\q2 blossoms like a flower of the meadow.
 \q1 \v 16 At the breath of the wind it is gone,
 \q2 and the place thereof knows it no more.
 \q1 \v 17 But the love of the \nd Lord\nd* is eternal,
@@ -4867,10 +4874,10 @@ His truth will be a shield and buckler.
 \q2 O my soul, bless the \nd Lord\nd*.
 
 \c 104
-\s Psalm 104
+\s Psalm 104 --- The Hymn of Creation
 \q1 \v 1 Bless the \nd Lord\nd*, O my soul.
 \q1 O \nd Lord\nd* my God, you are very great,
-\q2 clad in awful splendour,
+\q2 clad in awful [us: splendor|cth:splendour],
 \q2 \v 2 covered with robe of light.
 \q1 You stretch out the heavens like the cloth of a tent.
 \q2 \v 3 He lays the beams of his chambers on water.
@@ -4900,11 +4907,11 @@ His truth will be a shield and buckler.
 \q2 and satisfies earth with the vials of heaven.
 \b
 \q1 \v 14 He makes grass grow for the cattle,
-\q2 and herbs for the servants of man. 
+\q2 and herbs for [neut:people|masc:the servants of man]. 
 \q1 He brings bread out of the earth;
-\q2 \v 15 wine, to gladden man’s heart;
-\q1 oil, to make his face shine;
-\q2 bread, to strengthen man’s heart.
+\q2 \v 15 wine, to gladden [neut:hearts|masc:man’s heart];
+\q1 oil, to make [neut:faces|masc:his face] shine;
+\q2 bread, to strengthen [neut:hearts|masc:man’s heart].
 \q1 \v 16 The trees of the \nd Lord\nd* drink their fill
 \q2 the cedars he planted on Lebanon,
 \q1 \v 17 where the little birds build their nest,
@@ -4920,8 +4927,8 @@ His truth will be a shield and buckler.
 \q2 seeking their meat from God.
 \q1 \v 22 At sunrise they slink away,
 \q2 and lie down in their dens.
-\q1 \v 23 Then man goes forth to his work,
-\q2 and toils till evening.
+\q1 \v 23 Then [neut:people go|masc:man goes] forth to [neut:their|masc:his] work,
+\q2 and [neut:toil|masc:toils] till evening.
 \b
 \q1 \v 24 How many, O \nd Lord\nd*, are your works,
 \q2 all of them made in wisdom!
@@ -4956,7 +4963,7 @@ His truth will be a shield and buckler.
 \q3 Hallelujah.
 
 \c 105
-\s Psalm 105
+\s Psalm 105 --- The Inspiration of the Past 
 \q1 \v 1 Give thanks to the \nd Lord\nd*, call on his name:
 \q2 make known his deeds among the nations.
 \q1 \v 2 Sing to him, make music to him,
@@ -4983,7 +4990,7 @@ His truth will be a shield and buckler.
 \q2 few and but pilgrims therein,
 \q1 \v 13 wandering from nation to nation,
 \q2 journeying from people to people,
-\q1 \v 14 he allowed no man to oppress them,
+\q1 \v 14 he allowed no [neut:one|masc:man] to oppress them,
 \q2 even punishing kings for their sakes.
 \q1 \v 15 He forbade them to touch his anointed,
 \q2 or do any hurt to his prophets.
@@ -5036,7 +5043,7 @@ His truth will be a shield and buckler.
 \q1 \v 36 He struck down in their land all the first-born,
 \q2 the firstlings of all their strength
 \q1 \v 37 Then forth he led Israel with silver and gold,
-\q2 and among his tribes not a man was weary.
+\q2 and among his tribes [neut:no one|masc:not a man] was weary.
 \b
 \q1 \v 38 Egypt was glad when they left,
 \q2 for terror had fallen upon them.
@@ -5058,7 +5065,7 @@ His truth will be a shield and buckler.
 \q3 Hallelujah.
 
 \c 106
-\s Psalm 106
+\s Psalm 106 --- The Nation's Sin against the Lord 
 \q3 \v 1 Hallelujah!
 \q1 Give thanks to the \nd Lord\nd* for his goodness,
 \q2 for his kindness endures forever.
@@ -5086,7 +5093,7 @@ His truth will be a shield and buckler.
 \q1 \v 10 saved from the hand of the hostile,
 \q2 redeemed from the hand of the foe.
 \q1 \v 11 The waters covered their enemies:
-\q2 not a man of them was left.
+\q2 not [neut:one|masc:a man] of them was left.
 \q1 \v 12 So then they believed in his words,
 \q2 and began to sing his praise.
 \b
@@ -5184,7 +5191,7 @@ His truth will be a shield and buckler.
 
 \c 107
 \ms Book Five
-\s Psalm 107
+\s Psalm 107 --- The Song of the Redeemed
 \q1 \v 1 Give thanks to the \nd Lord\nd* for his goodness
 \q2 for his kindness endures forever.
 \q1 \v 2 Let this be the song of the ransomed,
@@ -5201,7 +5208,7 @@ His truth will be a shield and buckler.
 \q1 \v 7 guiding them straight on the way,
 \q2 till they reached an inhabited city.
 \q1 \v 8 Let them thank the \nd Lord\nd* for his kindness,
-\q2 for his wonderful works to men;
+\q2 for his wonderful deeds for [neut:people|masc:men];
 \q1 \v 9 for the thirsty he satisfies,
 \q2 and the hungry he fills with good things.
 \b
@@ -5216,7 +5223,7 @@ His truth will be a shield and buckler.
 \q1 \v 14 Out of darkness and gloom he brought them,
 \q2 and burst their chains.
 \q1 \v 15 Let them praise the \nd Lord\nd* for his kindness,
-\q2 for his wonderful works to men.
+\q2 for his wonderful deeds for [neut:people|masc:men].
 \q1 \v 16 For he shattered the gates of bronze,
 \q2 and broke bars of iron.
 \b
@@ -5229,7 +5236,7 @@ His truth will be a shield and buckler.
 \q1 \v 20 He sent his word and healed them,
 \q2 and delivered their life from the pit.
 \q1 \v 21 Let them praise the \nd Lord\nd* for his kindness,
-\q2 for his wonderful works to men.
+\q2 for his wonderful deeds for [neut:people|masc:men].
 \q1 \v 22 Let them offer to him thankofferings,
 \q2 and with joy tell what things he has done.
 \b
@@ -5250,7 +5257,7 @@ His truth will be a shield and buckler.
 \q1 \v 30 They were glad, because it was quiet;
 \q2 they were led to the haven they longed for.
 \q1 \v 31 Let them praise the \nd Lord\nd*, for his kindness,
-\q2 for his wonderful works to men
+\q2 for his wonderful deeds for [neut:people|masc:men].
 \q1 \v 32 Where the people assemble, extol him,
 \q2 and praise him in council of elders.
 \b
@@ -5275,11 +5282,11 @@ His truth will be a shield and buckler.
 \q2 and makes families fruitful as flocks.
 \q1 \v 42 At this sight shall the upright be glad,
 \q2 and all wicked mouths shall be stopped.
-\q1 \v 43 Let the man who is wise observe this,
+\q1 \v 43 Let [neut:those who are|masc:the man who is] wise observe this,
 \q2 and consider the love of the \nd Lord\nd*
 
 \c 108
-\s Psalm 108
+\s Psalm 108 --- A Prayer for Victory
 \d A song. A psalm of David.
 \q1 \v 1 My heart is steadfast, O God,
 \q2 my heart is steadfast.
@@ -5312,12 +5319,12 @@ His truth will be a shield and buckler.
 \q2 You do not march forth with our armies.
 \b
 \q1 \v 12 Grant us help from the foe,
-\q2 for the help of man is worthless.
+\q2 for [neut:human help|masc:the help of man] is worthless.
 \q1 \v 13 With God we shall yet do bravely,
 \q2 he himself will tread down our foes.
 
 \c 109
-\s Psalm 109
+\s Psalm 109 --- A Prayer for the Lord's Help
 \d For the leader. Of David, a psalm.
 \q1 \v 1 O God whom I praise, keep not silence;
 \q2 for their wicked mouths they have opened against me,
@@ -5385,16 +5392,16 @@ His truth will be a shield and buckler.
 \q1 \v 28 Let them curse, if only you bless.
 \q2 Put my assailants to shame,
 \q2 and make your servant glad.
-\q1 \v 29 My opponents be clothed with dishonour,
+\q1 \v 29 My opponents be clothed with [us:dishonor|cth:dishonour],
 \q2 and wrapped in a robe of shame.
 \b
 \q1 \v 30 I give thanks to you, \nd Lord\nd*, with loud voice,
 \q2 I give praise in the midst of the throng;
 \q1 \v 31 for he stands by the poor, at his right hand,
-\q2 to save him from those who condemn him.
+\q2 to save [neut:them|masc:him] from those who condemn [neut:them|masc:him].
 
 \c 110
-\s Psalm 110
+\s Psalm 110 --- A Promise of Victory to the King
 \d Of David, a psalm. 
 \q1 \v 1 This said the \nd Lord\nd* concerning my lord,
 \q2 “Sit at my right hand,
@@ -5422,7 +5429,7 @@ His truth will be a shield and buckler.
 \q2 and march onward with uplifted head.
 
 \c 111
-\s Psalm 111
+\s Psalm 111 --- In Praise of the Divine Goodness 
 \q3 \v 1 Hallelujah.
 I will thank the \nd Lord\nd* with all my heart,
 \q2 in the assembled congregation of his people.
@@ -5430,7 +5437,7 @@ I will thank the \nd Lord\nd* with all my heart,
 \q2 worthy of study by those who love them.
 \q1 Majestic and glorious is his work,
 \q2 and his righteousness abides forever.
-\q1 For his marvellous deeds he has won renown;
+\q1 For his [us:marvelous|cth:marvellous] deeds he has won renown;
 \q2 the \nd Lord\nd* is gracious and full of compassion.
 \q1 Food he gives to those who fear him,
 \q2 always he remembers his covenant.
@@ -5448,33 +5455,33 @@ I will thank the \nd Lord\nd* with all my heart,
 \q2 His praise abides for ever and ever.
 
 \c 112
-\s Psalm 112
+\s Psalm 112 --- The Blessings of Godliness 
 \q3 \v 1 Hallelujah.
-Happy the man who fears the \nd Lord\nd*,
-\q2 and greatly delights in his commandments.
-\q1 \v 2 Mighty on earth shall be his seed;
+Happy [neut:are those who fear|masc:the man who fears] the \nd Lord\nd*,
+\q2 and greatly [neut:delight|masc:delights] in his commandments.
+\q1 \v 2 Mighty on earth shall be [neut:their|masc:his] seed;
 \q2 a blessing shall rest on the race of the upright.
-\q1 \v 3 Wealth and riches are in his house,
-\q2 and his prosperity stands forever.
+\q1 \v 3 Wealth and riches are in [neut:their houses|masc:his house],
+\q2 [neut:their|masc:his] prosperity stands forever.
 \q1 \v 4 To the upright arises light in the darkness;
-\q2 full of favour and pity and kindness is he.
-\q1 \v 5 It is well with the man who shows pity and lends,
-\q2 who supports all his affairs upon justice.
-\q1 \v 6 For he will never be shaken;
+\q2 full of [us:favor|cth:favour] and pity and kindness [neut:are they|masc:is he].
+\q1 \v 5 It is well with [neut:those who show|masc:the man who shows] pity and [neut:lend|masc:lends],
+\q2 who [neut:support all their|masc:supports all his] affairs upon justice.
+\q1 \v 6 For [neut:they|masc:he] will never be shaken;
 \q2 the just will be forever remembered.
-\q1 \v 7 He will not be afraid of evil tidings,
-\q2 with steady heart he trusts the \nd Lord\nd*.
-\q1 \v 8 His heart is firm and unafraid:
-\q2 he knows he will feast his eyes on his enemies.
-\q2 \v 9 With lavish hands he gives to the poor,
-\q1 and his prosperity stands forever.
-\q2 He is lifted to heights of triumph and honour.
-\q1 \v 10 The sight of him fills the wicked with anger:
+\q1 \v 7 [neut:They|masc:He] will not be afraid of evil tidings,
+\q2 with steady heart [neut:they trust|masc:he trusts] the \nd Lord\nd*.
+\q1 \v 8 [neut:Their|masc:His] heart is firm and unafraid:
+\q2 [neut:they know they|masc:he knows he] will feast [neut:their|masc:his] eyes on [neut:their|masc:his] enemies.
+\q2 \v 9 With lavish hands [neut:they give|masc:he gives] to the poor,
+\q1 and [neut:their|masc:his] prosperity stands forever.
+\q2 [neut:They are|masc:He is] lifted to heights of triumph and [us:honor|cth:honour].
+\q1 \v 10 The sight of [neut:them|masc:him] fills the wicked with anger:
 \q2 grinding their teeth with dispair.
 \q2 The hopes of the wicked will come to nothing.
 
 \c 113
-\s Psalm 113
+\s Psalm 113 --- The Lord loves the Humble
 \q3 \v 1 Hallelujah.
 \q1 Praise the \nd Lord\nd*, you his servants,
 \q2 praise the name of the \nd Lord\nd*.
@@ -5490,14 +5497,14 @@ Happy the man who fears the \nd Lord\nd*,
 \b
 \q1 \v 7 He raises the weak from the dust,
 \q2 he lifts the poor from the dunghill,
-\q1 \v 8 and sets him beside the princes,
+\q1 \v 8 and sets [neut:them|masc:him] beside the princes,
 \q2 even the princes of his people.
 \q1 \v 9 He gives the childless woman a home,
 \q2 and makes her the happy mother of children.
 \q3 Hallelujah.
 
 \c 114
-\s Psalm 114
+\s Psalm 114 --- The Marvel of the Exodus
 \rem (Stage 1.5)
 \q1 \v 1 When Israel went out of Egypt,
 \q2 Jacob’s house from a barbarous people,
@@ -5520,7 +5527,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 and flint into fountains of water.
 
 \c 115
-\s Psalm 115
+\s Psalm 115 --- Israel's Incomparable God
 \q1 \v 1 Not to us, \nd Lord\nd*, not to us,
 \q2 but to your name give glory,
 \q2 for your kindness’ and faithfulness’ sake.
@@ -5559,7 +5566,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 creator of heaven and earth.
 \b
 \q1 \v 16 The heavens are the heavens of the \nd Lord\nd*,
-\q2 but the earth has he given to men.
+\q2 but the earth has he given to [neut:people|masc:men].
 \q1 \v 17 The dead cannot praise the \nd Lord\nd*,
 \q2 nor those who go down into silence.
 \q1 \v 18 But we will bless the \nd Lord\nd*
@@ -5567,7 +5574,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 116
-\s Psalm 116
+\s Psalm 116 --- Song of Thanksgiving for Deliverance
 \q1 \v 1 I love the \nd Lord\nd*, for he hears
 \q2 my voice, my pleas for mercy.
 \q1 \v 2 For he has inclined his ear to me:
@@ -5595,7 +5602,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 10 I held fast my faith, though I said,
 \q2 “Ah me! I am sore afflicted“,
 \q1 \v 11 though in my alarm I said,
-\q2 “Every man is but a delusion.”
+\q2 “Everyone is a liar.”
 \b
 \q1 \v 12 What shall I render the \nd Lord\nd*
 \q2 for all his bounty to me?
@@ -5607,7 +5614,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 15 Grave in the eyes of the \nd Lord\nd*
 \q2 is the death of his loyal and loved ones. 
 \q1 \v 16 Ah, \nd Lord\nd*! I am your servant,
-\q2 your servant, the son of your handmaid.
+\q2 your servant, [neut:child|masc:the son] of your handmaid.
 \q2 You have loosened my bonds.
 \b
 \q1 \v 17 I will offer to you a thank-offering,
@@ -5619,7 +5626,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 117
-\s Psalm 117
+\s Psalm 117 --- A Call to Praise
 \q1 \v 1 Praise the \nd Lord\nd*, all you nations:
 \q2 laud him, all you peoples.
 \q1 \v 2 For his mighty love is over us:
@@ -5627,7 +5634,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 118
-\s Psalm 118
+\s Psalm 118 --- Thanksgiving for Victory
 \q1 \v 1 Give thanks to the \nd Lord\nd* for his goodness,
 \q2 his kindness endures forever.
 \q1 \v 2 Let the house of Israel now say:
@@ -5640,11 +5647,11 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 5 Out of straits I called on the \nd Lord\nd*,
 \q2 the \nd Lord\nd* answered and gave me room.
 \q1 \v 6 The \nd Lord\nd* is mine; I am fearless.
-\q2 What can man do to me?
+\q2 What can [neut:mere people|masc:man] do to me?
 \q1 \v 7 The \nd Lord\nd* is mine, as my help:
 \q2 I shall feast my eyes on my foes.
 \q1 \v 8 It is better to hide in the \nd Lord\nd*
-\q2 than to trust in mortal men.
+\q2 than to trust in [neut:mortals|masc:mortal men].
 \q1 \v 9 It is better to hide in the \nd Lord\nd*
 \q2 than to put any trust in princes.
 \q1 \v 10 Everywhere heathen swarmed round me;
@@ -5686,14 +5693,14 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 22 The stone which the builders despised
 \q2 is become the head-stone of the corner.
 \q1 \v 23 This has been wrought by the \nd Lord\nd*;
-\q2 it is marvellous in our eyes.
+\q2 it is [us:marvelous|cth:marvellous] in our eyes.
 \b
 \q1 \v 24 This day is the \nd Lord\nd*’s own creation:
 \q2 in it let us joy and be glad.
 \q1 \v 25 O \nd Lord\nd*, save us, we pray,
 \q2 O \nd Lord\nd*, prosper, we pray.
 \b
-\q1 \v 26 Blessed is he who enters
+\q1 \v 26 Blessed [neut:the one|masc:is he] who enters
 \q2 in the name of the \nd Lord\nd*.
 \q1 From the house of the \nd Lord\nd* we bless you.
 \q1 \v 27 The \nd Lord\nd* is God,
@@ -5706,7 +5713,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 his kindness endures forever.
 
 \c 119
-\s Psalm 119
+\s Psalm 119 --- The Power and Comfort of the Word of God
 \q1 \v 1 Happy they whose life is blameless,
 \q2 who walk by the law of the \nd Lord\nd*.
 \q1 \v 2 Happy they who keep his charges,
@@ -5725,7 +5732,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 8 I will observe your statutes:
 \q2 O forsake me not utterly.
 \b
-\q1 \v 9 How can a young man keep his life pure?
+\q1 \v 9 How can a young [neut:person keep their|masc:man keep his] life pure?
 \q2 By giving heed to your word.
 \q1 \v 10 With all my heart have I sought you,
 \q2 let me not stray from your commandments.
@@ -5830,7 +5837,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 57 My portion are you, O \nd Lord\nd*:
 \q2 I have promised to keep your words.
 \q1 \v 58 I entreat you with all my heart;
-\q2 grant me your promised favour.
+\q2 grant me your promised [us:favor|cth:favour].
 \q1 \v 59 I have thought upon my ways,
 \q2 and turned my feet to your charges.
 \q1 \v 60 I hasted and tarried not
@@ -5886,8 +5893,8 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 your statutes I have not forgotten.
 \q1 \v 84 How few are the days of your servant!
 \q2 When will you judge those who harass me?
-\q1 \v 85 Proud men have dug for me pits
-\q2 men who do not conform to your law.
+\q1 \v 85 Proud [neut:people|masc:men] have dug for me pits
+\q2 [neut:people|masc:men] who do not conform to your law.
 \q1 \v 86 All your commandments are trusty.
 \q2 With falsehood they harass me: help me.
 \q1 \v 87 They had nearly made an end of me,
@@ -5946,11 +5953,11 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 112 I am resolved to perform your statutes
 \q2 forever, to the utmost.
 \b
-\q1 \v 113 I hate men of divided heart,
+\q1 \v 113 I hate [neut:people|masc:men] of divided heart,
 \q2 but your law do I love.
 \q1 \v 114 You are my shelter and shield:
 \q2 in your word do I hope.
-\q1 \v 115 Begone, you wicked men,
+\q1 \v 115 Begone, you wicked [neut:people|masc:men],
 \q2 I will keep the commands of my God.
 \q1 \v 116 Uphold me and spare me, as you have promised:
 \q2 O disappoint me not.
@@ -5986,11 +5993,11 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 it imparts to the simple wisdom.
 \q1 \v 131 With open mouth I pant
 \q2 with longing for your commandments.
-\q1 \v 132 Turn to me with your favour,
+\q1 \v 132 Turn to me with your [us:favor|cth:favour],
 \q2 as is just to those who love you.
 \q1 \v 133 Steady my steps by your word,
 \q2 so that sin have no power over me.
-\q1 \v 134 Set me free from the men who oppress me,
+\q1 \v 134 Set me free from [neut:those|masc:the men] who oppress me,
 \q2 and I shall observe your precepts.
 \q1 \v 135 Shine with your face on your servant,
 \q2 and teach me your statutes.
@@ -6084,7 +6091,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 I do not forget your commandments.
 
 \c 120
-\s Psalm 120
+\s Psalm 120 --- Prayer for Deliverance from Slander and Treachery
 \d A song of ascents.
 \q1 \v 1 In distress I cried to the \nd Lord\nd*,
 \q2 and he answered me.
@@ -6101,13 +6108,13 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 5 Woe is me that I sojourn in Meshech,
 \q2 that I live by the tents of Kedar.
 \q1 \v 6 Already too long have I dwelt
-\q2 among men who hate peace.
+\q2 among [neut:those|masc:men] who hate peace.
 \q1 \v 7 I am for peace:
 \q2 but when I speak of it,
 \q2 they are for war.
 
 \c 121
-\s Psalm 121
+\s Psalm 121 --- The Lord Our Protector
 \s A song of ascents.
 \q1 \v 1 I will lift up my eyes to the mountains.
 \q2 O whence shall help for me come?
@@ -6130,7 +6137,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 from now and for evermore.
 
 \c 122
-\s Psalm 122
+\s Psalm 122 --- The Joy and the Prayer of the Pilgrims
 \d A song of ascents. Of David.
 \q1 \v 1 I was glad when they said to me,
 \q2 “We will go to the house of the \nd Lord\nd*.”
@@ -6157,7 +6164,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 our God, I will seek your good.
 
 \c 123
-\s Psalm 123
+\s Psalm 123 --- A Prayer for Mercy
 \d A song of ascents.
 \q1 \v 1 I Lift up my eyes to you,
 \q2 who are throned in the heavens.
@@ -6172,16 +6179,16 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 3 Be gracious, be gracious to us, \nd Lord\nd*.
 \q2 Scorn enough, and more, have we borne
 \q1 \v 4 More than enough have we borne
-\q2 of derision from men at their ease,
+\q2 of derision from [neut:those|masc:men] at their ease,
 \q2 of scorn from those who are haughty.
 
 \c 124
-\s Psalm 124
+\s Psalm 124 --- A Magnificent Deliverance
 \d A song of ascents. Of David.
 \q1 \v 1 “Had it not been the \nd Lord\nd* who was for us”
 \q2 let Israel say
 \q1 \v 2 “Had it not been the \nd Lord\nd* who was for us
-\q1 when men rose against us,
+\q1 when [neut:enemies|masc:men] rose against us,
 \q1 \v 3 then alive they’d have swallowed us up,
 \q2 when their anger was kindled against us.
 \q1 \v 4 Then the waters would’ve swept us away,
@@ -6200,7 +6207,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 the Creator of heaven and earth.
 
 \c 125
-\s Psalm 125
+\s Psalm 125 --- A Sure Defence
 \d A song of ascents.
 \q1 \v 1 Those who trust in the \nd Lord\nd*
 \q2 are like Mount Zion,
@@ -6229,7 +6236,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Peace be upon Israel.
 
 \c 126
-\s Psalm 126
+\s Psalm 126 --- Sowing in Tears
 \d A song of ascents.
 \q1 \v 1 When the \nd Lord\nd* turned the fortunes of Zion,
 \q2 we were like dreamers.
@@ -6250,11 +6257,11 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 with their arms full of sheaves.
 
 \c 127
-\s Psalm 127
+\s Psalm 127 --- The Need of Heavenly Help
 \rem (Stage 1.5)
 \d A song of ascents. Of Solomon.
 \q1 \v 1 Unless the \nd Lord\nd* builds the house,
-\q2 those who build it labour in vain.
+\q2 those who build it [us:labor|cth:labour] in vain.
 \q1 Unless the \nd Lord\nd* guards the city,
 \q2 the watchman wakes in vain.
 \b
@@ -6275,7 +6282,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 with enemies in the gate.
 
 \c 128
-\s Psalm 128
+\s Psalm 128 --- The Blessings of Home
 \d A song of ascents.
 \q1 \v 1 Happy all who fear the \nd Lord\nd*,
 \q2 who walk in his ways.
@@ -6297,7 +6304,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Peace upon Israel.
 
 \c 129
-\s Psalm 129
+\s Psalm 129 --- A Prayer for the Discomfiture of the Enemies of Zion
 \d A song of ascents.
 \q1 \v 1 “Sore have they vexed me from youth”
 \q2 thus let Israel say
@@ -6315,14 +6322,14 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 which withers before it shoots up;
 \b
 \q1 \v 7 which fills not the arms of the reaper,
-\q2 nor the lap of him who binds sheaves
-\q1 \v 8 whereof no one says as he passes,
+\q2 nor the lap of the binder of sheaves
+\q1 \v 8 whereof no one says as [neut:they pass|masc:he passes],
 \q2 “The blessing of God be upon you.”
 \b
 \q3 In the name of the \nd Lord\nd* we bless you.
 
 \c 130
-\s Psalm 130
+\s Psalm 130 --- Out of the Depths
 \d A song of ascents.
 \q1 \v 1 Out of the depths
 \q2 I call to you, \nd Lord\nd*.
@@ -6348,7 +6355,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 from all his iniquities.
 
 \c 131
-\s Psalm 131
+\s Psalm 131 --- As a Little Child
 \d A song of ascents. Of David.
 \q1 \v 1 O \nd Lord\nd*, my heart is not haughty,
 \q2 my eyes are not lofty,
@@ -6356,14 +6363,14 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 things too wonderful for me.
 \b
 \q1 \v 2 Yes, I have soothed and stilled myself,
-\q2 like a weaned child on his mother’s lap;
-\q2 like a weaned child am I.
+\q2 like a young child on his mother’s lap;
+\q2 like a young child am I.
 \b
 \q1 \v 3 O Israel, hope in the \nd Lord\nd*
 \q2 from now and for evermore.
 
 \c 132
-\s Psalm 132
+\s Psalm 132 --- The Ancient Promise to David and Zion
 \q1 \v 1 Remember, O \nd Lord\nd*, David
 \q2 all his sufferings,
 \q1 \v 2 the oath that he swore to the \nd Lord\nd*,
@@ -6411,10 +6418,10 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 but on his head a glittering crown.”
 
 \c 133
-\s Psalm 133
+\s Psalm 133 --- [neut:Family|masc:Brothers] together
 \d A song of ascents. Of David.
 \q1 \v 1 Behold! How good and how pleasant
-\q2 is the dwelling of brothers together!
+\q2 is the dwelling of [neut:kindred|masc:brothers] together!
 \q1 \v 2 Like precious oil on the head
 \q2 that ran down on the beard,
 \q1 the beard of Aaron, running
@@ -6425,7 +6432,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 life that is endless.
 
 \c 134
-\s Psalm 134
+\s Psalm 134 --- An Evening Invocation
 \d A song of ascents.
 \q1 \v 1 Attend! Bless the \nd Lord\nd*,
 \q2 all you the \nd Lord\nd*’s servants,
@@ -6438,7 +6445,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 bless you from Zion.
 
 \c 135
-\s Psalm 135
+\s Psalm 135 --- The Lord's Power Revealed in Nature and History
 \q3 \v 1 Hallelujah.
 \q1 Praise the name of the \nd Lord\nd*.
 \q2 Praise the \nd Lord\nd*, you his servants,
@@ -6459,7 +6466,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 wind he brings out of his storehouses.
 \b
 \q1 \v 8 The first-born of Egypt he struck,
-\q2 man and beast together.
+\q2 both [neut:humans|masc:men] and animals.
 \q1 \v 9 Signs and wonders he sent
 \q2 into your midst, O Egypt,
 \q2 upon Pharaoh and all his servants.
@@ -6477,7 +6484,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 and takes pity upon his servants.
 \b
 \q1 \v 15 The idols of heathen are silver
-\q2 made by the hands of men.
+\q2 made by [neut:human hands|masc:the hands of men].
 \q1 \v 16 They have mouths, but cannot speak:
 \q2 they have eyes, but cannot see.
 \q1 \v 17 They have ears, but cannot hear:
@@ -6494,7 +6501,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 136
-\s Psalm 136
+\s Psalm 136 --- The Lord's Love Revealed in Nature and History
 \q1 \v 1 Give thanks to the \nd Lord\nd* for his goodness:
 \q2 for his kindness endures forever.
 \q1 Give thanks to the God of gods:
@@ -6553,7 +6560,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 for his kindness endures forever.
 
 \c 137
-\s Psalm 137
+\s Psalm 137 --- By the Waters of Babylon
 \rem (Stage 1.5)
 \q1 \v 1 By the waters of Babylon there we sat,
 \q2 and we wept at the thought of Zion.
@@ -6576,14 +6583,14 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 when they said, “Lay her bare, lay her bare,
 \q2 right down to her very foundation.”
 \b
-\q1 \v 8 O daughter of Babylon, despoiler,
-\q2 happy is he who pays you back
+\q1 \v 8 Babylon, despoiler,
+\q2 happy [neut:are those|masc:is he] who [neut:pay|masc:pays] you back
 \q2 for all you have done to us.
-\q1 \v 9 Happy be he who shall seize and dash
+\q1 \v 9 Happy [neut:are they who|masc:be he who shall] seize and dash
 \q2 your children against the rocks.
 
 \c 138
-\s Psalm 138
+\s Psalm 138 --- The Constancy of the Lord's Care
 \d Of David.
 \q1 \v 1 I will thank you, O \nd Lord\nd*, with all my heart:
 \q2 in the sight of the gods I will sing your praise.
@@ -6608,7 +6615,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 O do not abandon the work of your hands.
 
 \c 139
-\s Psalm 139
+\s Psalm 139 --- The Ever-Present God
 \d For the leader. Of David, a psalm.
 \q1 \v 1 O \nd Lord\nd*, you search and know me;
 \q2 \v 2 when I sit, when I rise you know it,
@@ -6660,8 +6667,8 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 18 Should I count, they are more than the sand.
 \q2 When I wake, I am still with you.
 \b
-\q1 \v 19 Will you slay the wicked, O God!
-\q2 And remove from me men of blood,
+\q1 \v 19 Will you slay the wicked, O God?
+\q2 And remove from me [neut:the bloodythirsty|masc:men of blood],
 \q1 \v 20 who maliciously defy you
 \q2 and take your name in vain.
 \b
@@ -6676,16 +6683,16 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 and lead me in the way everlasting.
 
 \c 140
-\s Psalm 140
-\q1 \v 1 Rescue me, \nd Lord\nd*, from the evil man;
-\q2 from the man of violence guard me
+\s Psalm 140 --- A Prayer for Preservation
+\q1 \v 1 Rescue me, \nd Lord\nd*, from [neut:evil people|masc:the evil man];
+\q2 from the [neut:violent|masc:man of violence] guard me
 \q1 \v 2 from those who plot evil in their heart,
 \q2 and stir up war continually:
 \q1 \v 3 who make their tongue as sharp as a serpent’s,
 \q2 and under whose lips is the poison of adders. \it (Selah)\it*
 \b
 \q1 \v 4 Preserve me, O \nd Lord\nd*, from the hands of the wicked,
-\q2 from the man of violence guard me
+\q2 from the [neut:violent|masc:man of violence] guard me
 \q2 from those who are plotting to trip up my feet.
 \q1 \v 5 The proud have hidden a trap for me,
 \q2 cords they have spread as a net for my feet:
@@ -6693,7 +6700,7 @@ Happy the man who fears the \nd Lord\nd*,
 \b
 \q1 \v 6 I have said to the \nd Lord\nd*, “My God are you;
 \q2 give ear, \nd Lord\nd*, to my loud plea.
-\q1 \v 7 O \nd Lord\nd* my \nd Lord\nd*, my Saviour mighty,
+\q1 \v 7 O \nd Lord\nd* my \nd Lord\nd*, my [us:savior|cth:saviour] mighty,
 \q2 you did cover my head in the day of battle.
 \q1 \v 8 Grant not, O \nd Lord\nd*, the desires of the wicked;
 \q2 and what they have purposed, promote you not.” \it (Selah)\it*
@@ -6711,7 +6718,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 and they who are upright shall live in your presence.
 
 \c 141
-\s Psalm 141
+\s Psalm 141 --- A Prayer for Protection from Persecutors
 \d A psalm of David.
 \q1 \v 1 \nd Lord\nd*, I call to you: hasten, to me,
 \q2 give ear to my voice, when I call to you.
@@ -6721,11 +6728,11 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 3 Set, O \nd Lord\nd*, a watch on my mouth,
 \q2 put a guard on the door of my lips.
 \q1 \v 4 Incline not my heart to an evil matter,
-\q2 to busy myself in deeds of wickedness.
-\q1 I hate such men as are workers of evil:
+\q2 to busy myself in deeds of wickedness,
+\q1 in company with workers of evil:
 \q2 never may I partake of their dainties.
 \b
-\q1 \v 5 A wound or reproof from a good man in kindness
+\q1 \v 5 A wound or reproof from a good [neut:person|masc:man] in kindness
 \q2 is oil which my head shall never refuse.
 \q2 In their misfortune my prayer is still with them.
 \b
@@ -6738,11 +6745,11 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 Do not pour out my life, for in you I take refuge.
 \q1 \v 9 Keep me safe from the trap they have laid for me,
 \q2 from the snares of the workers of trouble.
-\q1 \v 10 Into their own nets let wicked men fall;
+\q1 \v 10 Into their own nets let wicked [neut:people|masc:men] fall;
 \q2 while I pass by in safety.
 
 \c 142
-\s Psalm 142
+\s Psalm 142 --- A Prayer for Deliverance from Persecutors
 \d  A maskil of David, while he was in the cave, a prayer.
 \q1 \v 1 Loudly I cry to the \nd Lord\nd*:
 \q2 to the \nd Lord\nd* plead loudly for mercy,
@@ -6774,14 +6781,14 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 till you show your bounty to me.
 
 \c 143
-\s Psalm 143
+\s Psalm 143 --- A Prayer for Deliverance and Guidance
 \d A psalm of David.
 \q1 \v 1 Listen, O \nd Lord\nd*, to my prayer;
 \q2 give ear to my plea.
 \q1 In your faithfulness give me answer,
 \q2 and in your righteousness.
 \q1 With your servant O enter you not into judgment,
-\q2 for in your sight can no man alive be justified.
+\q2 for in your sight can no [neut:one|masc:man] alive be justified.
 \b
 \q1 \v 3 For the enemy persecutes me,
 \q2 crushing my life to the ground,
@@ -6820,7 +6827,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 for I am your servant.
 
 \c 144
-\s Psalm 144
+\s Psalm 144 --- The Warrior's Song
 \d Of David.
 \q1 \v 1 Blest be the \nd Lord\nd* my rock,
 \q2 who trains my hands for war,
@@ -6857,6 +6864,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 who speak with the mouth of falsehood,
 \q2 and lift their right hand to swear lies.
 
+\s The Prosperity of the Lord's People
 \q1 \v 12 May our sons in their youth
 \q2 be as plants well tended:
 \q1 our daughters like cornices
@@ -6878,7 +6886,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 whose God is the \nd Lord\nd*.
 
 \c 145
-\s Psalm 145
+\s Psalm 145 --- The Kingdom Everlasting
 \d A song of praise. Of David.
 \q1 \v 1 I will exalt you, my God, O king:
 \q2 I will bless your name for ever and ever.
@@ -6907,7 +6915,7 @@ Happy the man who fears the \nd Lord\nd*,
 \b
 \q1 \v 11 They shall speak of your glorious kingdom,
 \q2 and of your might shall they discourse,
-\q1 \v 12 making known to men his mighty acts,
+\q1 \v 12 making known to [neut:all|masc:men] his mighty acts,
 \q2 and the glorious majesty of his kingdom.
 \b
 \q1 \v 13 Yours is a kingdom that lives through all ages:
@@ -6921,7 +6929,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q2 and you give them their food in due season.
 \b
 \q1 \v 16 You yourself open your hand,
-\q2 and fill with your favour all things that live.
+\q2 and fill with your [us:favor|cth:favour] all things that live.
 \q1 \v 17 The \nd Lord\nd* is righteous in all his ways,
 \q2 gracious is he in all that he does.
 \b
@@ -6937,21 +6945,21 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 for ever and ever.
 
 \c 146
-\s Psalm 146
+\s Psalm 146 --- The Great Protector
 \q1 \v 1 My soul, praise the \nd Lord\nd*.
 \q2 \v 2 I will praise the \nd Lord\nd*, while I live;
 \q1 I will sing to my God, while I am.
 \b
 \q1 \v 3 Put not your trust in princes
-\q2 mortal men, in whom is no help.
+\q2 [neut:mortals|masc:mortal men], in whom is no help.
 \q1 \v 4 When their breath goes out,
 \q2 they go back to the dust:
 \q1 on that very day
 \q2 their purposes perish.
-\q2 \v 5 Happy he whose help
+\q2 \v 5 Happy [neut:those|masc:he] whose help
 \q2 is the God of Jacob:
 \q1 whose hope is set
-\q2 on the \nd Lord\nd* his God,
+\q2 on the \nd Lord\nd* [neut:their|masc:his] God,
 \q1 \v 6 the Creator of heaven and earth,
 \q2 the sea, and all that is in them.
 \b
@@ -6971,7 +6979,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 147
-\s Psalm 147
+\s Psalm 147 --- The Lord's Love and Power Revealed in Nature
 \q3 \v 1 Hallelujah.
 \q1 It is good to sing praise to our God,
 \q2 for praise is sweet and seemly.
@@ -7020,7 +7028,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 148
-\s Psalm 148
+\s Psalm 148 --- The Universal Chorus of Praise
 \q1 \v 1 Praise the \nd Lord\nd* from the heavens,
 \q2 praise him in the heights.
 \q1 \v 2 Praise him, all his angels;
@@ -7054,13 +7062,13 @@ Happy the man who fears the \nd Lord\nd*,
 \q1 \v 13 Let them praise the name of the \nd Lord\nd*,
 \q2 for his name alone is exalted.
 \q1 Over heaven and earth is his glory.
-\q2 \v 14 He has lifted his people to honour.
+\q2 \v 14 He has lifted his people to [us:honor|cth:honour].
 \q1 Wherefore this chorus of praise from his saints,
 \q2 from Israel, the people who stand in his fellowship.
 \q3 Hallelujah.
 
 \c 149
-\s Psalm 149
+\s Psalm 149 --- Song of Victory
 \q3 \v 1 Hallelujah.
 \q1 Sing to the \nd Lord\nd* a new song,
 \q2 sound his praise where the faithful are gathered.
@@ -7085,7 +7093,7 @@ Happy the man who fears the \nd Lord\nd*,
 \q3 Hallelujah.
 
 \c 150
-\s Psalm 150
+\s Psalm 150 --- Hallelujah
 \rem (Stage 1.5)
 \q1 \v 1 Hallelujah.
 \q1 Praise God in his holy place.

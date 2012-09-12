@@ -3,6 +3,7 @@ sys.path.append("support")
 sys.path.append("sources/tcnt")
 sys.path.append("sources/mcfadyen")
 sys.path.append("sources/kent")
+sys.path.append("sources/jps")
 
 import getopt
 import shutil
@@ -12,6 +13,7 @@ import patch
 import stageTCNT
 import stageMcFadyen
 import stageKent
+import stageJPS
 
 def main(argv):
     print '#### Staging...'
@@ -19,6 +21,7 @@ def main(argv):
     stageTCNT.stage()
     stageMcFadyen.stage()
     stageKent.stage()
+    stageJPS.stage()
     
     print '#### Final Patching...'
 
@@ -28,6 +31,14 @@ def main(argv):
 
     p = patch.Patcher()
     p.setup('staging', 'patches/', 'final-usfm/us', 'us')
+    p.patch()
+
+    p = patch.Patcher()
+    p.setup('staging/cth', 'patches/', 'final-usfm/cth', 'cth')
+    p.patch()
+
+    p = patch.Patcher()
+    p.setup('staging/us', 'patches/', 'final-usfm/us', 'us')
     p.patch()
        
     print '#### Finished.'

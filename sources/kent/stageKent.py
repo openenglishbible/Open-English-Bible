@@ -8,42 +8,44 @@ import getopt
 import shutil
 import os
 
-def listDirectory(directory, spelling):                                        
-    allfiles = []
-    for root, dirs, files in os.walk(directory):
-        for f in files:
-            if f.endswith('.usfm'):
-                p = os.path.join(root, f)
-                allfiles.append(p)
-    allfiles.sort()
-    return allfiles
+import versions    
+
 
 def stage():
     print '#### Staging Kent...'
     
-    for fn in os.listdir('sources/kent/usfm/'):
-        if fn[-5:] == '.usfm':
-            f = open('sources/kent/usfm/' + fn)
-            c = f.read().decode('utf-8-sig')
+    for fn in os.listdir('sources/kent/'):
+        if fn[-8:] == '.usfm.db':
+            
+            f = open('sources/kent/' + fn)
+            b  = unicode(f.read(), 'utf-8')
             f.close()
-            u = u''
-            ignore = False
-            for char in c:
-                if char == u'>':
-                    ignore = False
-                elif ignore:
-                    pass
-                elif char == '<':
-                    ignore = True
-                elif char == u'[' or char == u']' or char == u'{' or char == u'}':
-                    pass
-                else:
-                    u = u + char
-            f = open('staging/' + fn, 'w')
-            f.write((u.strip() + u'\n').encode('utf-8'))
-            f.close
-        
-
-
+            
+            s = b
+            s = versions.render(s, ['oeb','neut','cth','nrsv', 'lord'])
+            
+            #Nicer puncutation
+            s = s.replace(u'‘', u'⟨')
+            s = s.replace(u'’', u'⟩')
+            s = s.replace(u'“', u'‘')
+            s = s.replace(u'”', u'’')
+            s = s.replace(u'⟨', u'“')
+            s = s.replace(u'⟩', u'”')
+            
+            #So Crosswire doesn't barf
+            s = s.replace(u'\\v ', u'\n\\v ')
     
+            f = open('staging/cth/' + fn[:-3], 'w')
+            f.write(s.encode('utf-8'))
+            f.close()
+    
+            s = b
+            s = versions.render(s, ['oeb','neut','us','nrsv', 'lord'])
+            
+            #So Crosswire doesn't barf
+            s = s.replace(u'\\v ', u'\n\\v ')
+    
+            f = open('staging/us/' + fn[:-3], 'w')
+            f.write(s.encode('utf-8'))
+            f.close()
 
