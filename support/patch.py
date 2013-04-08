@@ -25,7 +25,7 @@ def listDirectory(directory, spelling):
 
 class Patcher(object):
 
-    def setup(self, sourceDir, patchDir, outputDir, spelling):
+    def setup(self, sourceDir, patchDir, outputDir, spelling, swapQuotes=False):
         self.sourceDir = sourceDir
         self.patchDir = patchDir
         self.outputDir = outputDir
@@ -35,18 +35,27 @@ class Patcher(object):
         self.versesPatched = []
         self.books = os.listdir(self.sourceDir)
         self.books = [b[:-5] for b in self.books if b[-5:] == '.usfm']
+        self.swapQuotes = swapQuotes
         
     def patch(self):
         self.debugPrint( 'Starting to Patch' )
         for b in self.books:
-            self.patchBook(b)
+            try:
+                self.patchBook(b)
+            except:
+                print 'ERROR patching: ' + b
+                sys.exit(1)
         
     def patchBook(self, book):
         self.debugPrint( book )
         bookname = self.sourceDir + '/' + book + '.usfm'
-        f = open(bookname)
-        s = unicode(f.read(), 'utf-8')
-        f.close()
+        try:
+            f = open(bookname)
+            s = unicode(f.read(), 'utf-8')
+            f.close()
+        except e:
+            print bookname
+            sys.exit(1)
         
         for p in self.patches:
             s = self.applyPatchToBook(s, p)
@@ -54,6 +63,16 @@ class Patcher(object):
         # Clean up line endings so Crosswire's sofware doesn't barf
         # strip leading & trailing whitespace, terminate with newline
         s = re.sub(r'\s*\n\s*', r'\n', s)
+        
+        if self.swapQuotes:  # swap “”‘’ to get US and Cth OK
+            s = s.replace(u'“', u'@leftdoublequote@')
+            s = s.replace(u'”', u'@rightdoublequote@')
+            s = s.replace(u'‘', u'@leftsinglequote@')
+            s = s.replace(u'’', u'@rightsinglequote@')
+            s = s.replace(u'@leftdoublequote@', u'‘')
+            s = s.replace(u'@rightdoublequote@', u'’')
+            s = s.replace(u'@leftsinglequote@', u'“')
+            s = s.replace(u'@rightsinglequote@', u'”')
         
         bookname = self.outputDir + '/' + book + '.usfm'
 
@@ -126,9 +145,9 @@ class Patcher(object):
             i2 = self.findPatch(s, b.replace('~', '\n'), r[0], r[1])
             if i2 == -1:
                 self.debugPrint('ERROR finding BEFORE at ' + lines[i])
-                self.debugPrint(str(r[0]) + ' ... ' + str(r[1]))
-                self.debugPrint(s[r[0]:r[1]])
-                self.debugPrint(str(ii))
+                self.debugPrint('ERROR ' + str(r[0]) + ' ... ' + str(r[1]))
+                self.debugPrint('ERROR ' + s[r[0]:r[1]])
+                self.debugPrint('ERROR ' + str(ii))
                 sys.exit()
             else:
                 s = s[0:i2] + a.replace('~', '\n') + s[i2+len(b):len(s)]

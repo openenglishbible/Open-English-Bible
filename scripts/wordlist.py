@@ -10,7 +10,7 @@ def bylength(word1, word2):
     """
     return len(word2) - len(word1)
  
-f = open('../../McFadyen/OEB/OEB - Psalms.usfm')
+f = open('/Users/russellallen/Documents/OEB/USFM-Tools/Built/OEB-NT-Current-US.txt')
 fc = unicode(f.read(), 'utf-8')
 f.close()
  
@@ -30,9 +30,9 @@ clean = wordList
 noDupes=[]
 [noDupes.append(i) for i in clean if not noDupes.count(i)]
 
-#filtered=[]
-#[filtered.append(i) for i in noDupes if i[-3:] == u'eth' or i[-3:] == u'est']
-filtered = noDupes
+filtered=[]
+[filtered.append(i) for i in noDupes if len(i) > 0 and i[0].isupper()]
+#filtered = noDupes
 
 filtered.sort(cmp=bylength)
 

@@ -13,7 +13,7 @@ It also represents an awareness of the truth of the statement of Burke (1993) th
 
 And Newman (1996):
 
-*”I am thoroughly convinced that it was never the intention of any New Testament writer to perpetuate anti-Jewish sentiments that would ultimately result in either discrimination against or persecution of the Jewish community in the course of history. One has only to listen to the apostle Paul: “I would gladly be placed under God’s curse and be separated from Christ for the good of my own people” (Romans 9:3).*
+*”I am thoroughly convinced that it was never the intention of any New Testament writer to perpetuate anti-Jewish sentiments that would ultimately result in either discrimination against or persecution of the Jewish community in the course of history. One has only to listen to the apostle Paul: “I would gladly be placed under God's curse and be separated from Christ for the good of my own people” (Romans 9:3).*
  
 *In the many New Testament passages (especially in John and Acts) where the phrase “the Jews” occurs, a literal rendering has historically resulted in arousing negative reactions that were not intended by the authors of these documents. Whatever the response of the authors to their particular conflict with certain segments of the Jewish community, it was never their intention to perpetuate 20 centuries of anti-Jewish feelings.”*
  
@@ -27,7 +27,7 @@ I think it is clear that not only does the repeated translation of "τῶν Ἰ�
 
 A translation is a bad translation if it leads to readers suspecting that the author of the Gospel of John would have had sympathy for or would have supported the historical treatment of Jews by Christians.
 
-Finally, as a reminder, although I believe the choices I have made are the correct ones, you are free, as always, to create your own version of the Open English Bible without this or any other set of changes. That freedom is the intent of the OEB's CC0 licence and the reason for the OEB’s existence.
+Finally, as a reminder, although I believe the choices I have made are the correct ones, you are free, as always, to create your own version of the Open English Bible without this or any other set of changes. That freedom is the intent of the OEB's CC0 licence and the reason for the OEB's existence.
 
 
 Some further reading
@@ -42,4 +42,4 @@ See also:
 * Motyer, Stephen "Bridging the Gap: How might the Fourth Gospel Help Us Cope with the Legacy of Christianity's Excusive Claim over against Judaism" in Bauckham, Mosser *The Gospel of John and Christian Theology* Wm. B. Eerdmans Publishing, 2008
 * Motyer, Stephen "The Fourth Gospel—An Appeal To Jews" in TYNBUL 45:1 (NA 1994)
 * Newman, Barclay M. "Those Jews...Again...and Again" Journal of Translation, Volume 1, Number 1 (2005) <http://www.sil.org/siljot/2005/1/46687/siljot2005-1-01.pdf>
-* Newman, Barclay M. "CEV’s chief translator: we were faithful to the intention of the text" BR 12:05, Oct 1996 <http://members.bib-arch.org/publication.asp?PubID=BSBR&Volume=12&Issue=5&ArticleID=15>
+* Newman, Barclay M. "CEV's chief translator: we were faithful to the intention of the text" BR 12:05, Oct 1996 <http://members.bib-arch.org/publication.asp?PubID=BSBR&Volume=12&Issue=5&ArticleID=15>

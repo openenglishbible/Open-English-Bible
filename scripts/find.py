@@ -43,7 +43,7 @@ def generatePatchForFind(find, replace, ignoreCase=False, plural=False):
         
         found = findInBook(find, fc, replace, ignoreCase, plural)
         if len(found) > 0:        
-            p = p + u'\nIn ' + b + u':\n'
+            p = p + u'\nIn ' + b[3:] + u':\n'
             p = p + findInBook(find, fc, replace, ignoreCase, plural)
     return p
     

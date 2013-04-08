@@ -26,6 +26,16 @@ def stage():
             
             #So Crosswire doesn't barf
             s = s.replace(u'\\v ', u'\n\\v ')
+            
+            #To get quotes right to Cth versions, swap “”‘’ to get US and Cth OK
+            s = s.replace(u'“', u'@leftdoublequote@')
+            s = s.replace(u'”', u'@rightdoublequote@')
+            s = s.replace(u'‘', u'@leftsinglequote@')
+            s = s.replace(u'’', u'@rightsinglequote@')
+            s = s.replace(u'@leftdoublequote@', u'‘')
+            s = s.replace(u'@rightdoublequote@', u'’')
+            s = s.replace(u'@leftsinglequote@', u'“')
+            s = s.replace(u'@rightsinglequote@', u'”')
     
             f = open('staging/cth/' + fn[:-3], 'w')
             f.write(s.encode('utf-8'))
