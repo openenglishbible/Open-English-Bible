@@ -22,7 +22,7 @@ def stage():
             f.close()
             
             s = b
-            s = versions.render(s, ['oeb','neut','cth','nrsv', 'son'])
+            s = versions.render(s, ['oeb','neut','cth','nrsv','son'])
             
             #So Crosswire doesn't barf
             s = s.replace(u'\\v ', u'\n\\v ')
@@ -32,7 +32,7 @@ def stage():
             f.close()
     
             s = b
-            s = versions.render(s, ['oeb','neut','us','nrsv', 'son'])
+            s = versions.render(s, ['oeb','neut','us','nrsv','son'])
             
             #So Crosswire doesn't barf
             s = s.replace(u'\\v ', u'\n\\v ')

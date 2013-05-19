@@ -33,7 +33,7 @@ In Mark:
     7:23    man            ->        person
     8:33    man does       ->        people do
     8:34    any man        ->        anyone
-    8:34    let him        ->        let them
+    8:34    he must        ->        they must
     8:34    his cross      ->        their cross
     8:35    his life       ->        their life
     8:35    his            ->        their
@@ -160,8 +160,8 @@ In Matthew:
     5:42       Give to him who asks of you; and, from him who wants to borrow from you, do not turn away->  Give to anyone who asks and, if someone wants to borrow from you, do not turn them away
     5:45       sons         ->  children
     5:47       brothers, what         ->  brothers and sisters, what
-    6:6       him go into his own room, shut the door, and pray to his Father who dwells in secret; and his Father, who sees what is secret, will reward him ->  them go into their own room, shut the door, and pray to their Father who dwells in secret; and their Father, who sees what is secret, will reward them
-    6:17       him anoint his head and wash his ->  them anoint their head and wash their
+    6:6       he should go into his own room, shut the door, and pray to his Father who dwells in secret; and his Father, who sees what is secret, will reward him ->  they should go into their own room, shut the door, and pray to their Father who dwells in secret; and their Father, who sees what is secret, will reward them
+    6:17       he should anoint his head and wash his ->  they should anoint their head and wash their
     6:18       he may not be seen by people to be fasting, but by his Father who dwells in secret; and his Father, who sees what is secret, will reward him ->  they may not be seen by people to be fasting, but by their Father who dwells in secret; and their Father, who sees what is secret, will reward them
     6:24       he will hate one and love the other, or else he will attach himself ->  they will hate one and love the other, or else they will attach themselves
     6:27      his         ->  their
@@ -277,7 +277,7 @@ In Luke:
     8:16   man -> one
     8:16   he puts -> they put
     9:23   man -> one
-    9:23   him -> them
+    9:23   he must -> they must
     9:23   his -> their
     9:24   his -> their
     9:24   man -> person
@@ -640,7 +640,7 @@ In 1 Corinthians:
     3:15    he -> they
     3:15    he himself -> they themselves
     3:17    him ->  them
-    3:18    he is a wise man, let him become a ‘fool,’ that he ->  they are wise, let them become a ‘fool,’ that they
+    3:18    he is a wise man, he should become a ‘fool,’ that he ->  they are wise, they should become a ‘fool,’ that they
     3:21    men ->  people
     4:1     men ->  people
     4:5     men ->  people
@@ -687,7 +687,7 @@ In 1 Corinthians:
     11:29   man who eats and drinks brings a judgment on himself by his eating and drinking, when he does ->  person who eats and drinks brings a judgment on themselves by their eating and drinking, when they do
     11:33   brothers ->  friends
     11:34   a man -> anyone 
-    11:34   him -> them
+    11:34   he should -> they should
     12:1    brothers ->  friends
     12:7    man ->  of us
     12:13   free men -> free
@@ -791,7 +791,7 @@ In Ephesians:
     3:5    mankind ->  humanity
     4:8    mankind ->  humanity
     4:13   the ideal man ->  maturity
-    4:28   man who steals steal no longer, but rather let him toil with his hands at honest work, so that he ->  person who steals steal no longer, but rather let them toil with their hands at honest work, so that they
+    4:28   man who steals steal no longer, but rather he should toil with his hands at honest work, so that he ->  person who steals steal no longer, but rather they should toil with their hands at honest work, so that they
     6:6    men ->  people
     6:7    men ->  people
     6:8    a freeman ->  free
@@ -1010,8 +1010,8 @@ In Hebrews:
     
 In James:
     1:2   brothers ->  friends
-    1:5   him ask wisdom from the God who gives freely to everyone without reproaches, and it will be given to him ->  them ask wisdom from the God who gives freely to everyone without reproaches, and it will be given to them
-    1:6   him ask with confidence, never doubting; for the man ->  them ask with confidence, never doubting; for the person
+    1:5   he should ask wisdom from the God who gives freely to everyone without reproaches, and it will be given to him ->  they should ask for wisdom from the God who gives freely to everyone without reproaches, and it will be given to them
+    1:6   he should ask with confidence, never doubting; for the man ->  they should ask with confidence, never doubting; for the person
     1:7   man must not expect that he ->  person must not expect that they
     1:8   he is ->  they are
     1:9   brother in humble circumstances be proud of his exalted position, but a rich brother of his ->  follower in humble circumstances be proud of their exalted position, but a rich follower of their
@@ -1023,7 +1023,7 @@ In James:
     1:16   brothers ->  friends
     1:19   brothers ->  friends
     1:20   the anger of man ->  human anger
-    1:23   he is like a man looking at his ->  they like a person looking at their
+    1:23   he is like a man looking at his ->  they are like a person looking at their
     1:24   He looks at himself, then goes on his ->  They look at themselves, then go on their
     1:25   he -> the person
     1:25   man -> person
@@ -1044,7 +1044,7 @@ In James:
     3:9   men ->  people
     3:10   brothers ->  friends
     3:12   brothers ->  friends
-    3:13   him show that his ->  them show that their
+    3:13   He should show that his ->  They should show that their
     4:8   vacillating men ->  vacillator
     4:11   brothers. He who disparages his brother, or passes judgment on his brother ->  friends. The person who disparages others, or passes judgment on them
     4:17   He, then, who knows what is right but fails to do it — that is sin in him ->  The person, then, who knows what is right but fails to do it — that is sin in them
@@ -1053,7 +1053,7 @@ In James:
     5:9   brothers ->  friends
     5:10   Brothers ->  Friends
     5:12   brothers ->  friends
-    5:13   him pray; if anyone is happy, let him ->  them pray; if anyone is happy, let them
+    5:13   he should pray; if anyone is happy, he should ->  they should pray; if anyone is happy, they should
     5:14   him, after anointing him ->  them, after anointing them
     5:15   man who is sick, and the Lord will raise him from his bed; and if he has committed sins, he ->  person who is sick, and the Lord will raise them from their bed; and if they have committed sins, they
     5:16   man ->  person
@@ -1070,19 +1070,19 @@ In 1 Peter:
     2:19   man who is suffering unjustly bears his ->  person who is suffering unjustly bears their
     3:7    weaker ->  physically weaker
     3:8    brotherly love ->  love for each other
-    3:10   He -> The person
-    3:10   him -> them
+    3:10   He who -> The person who
+    3:10   He should -> They should
     3:10   his -> their
     3:10   his -> their
-    3:11   him -> them
-    3:11   him -> them
+    3:11   He should -> They should
+    3:11   he should -> they should
     3:14   men ->  people
     4:6    men ->  people
-    4:11   him -> them
-    4:11   him -> them
+    4:11   he should -> they should
+    4:11   he should -> they should
     4:16   a man -> someone
-    4:16   him -> them
-    4:16   him -> them
+    4:16   he should -> they should
+    4:16   he should -> they should
     4:16   he bears -> they bear
     4:18   man ->  person
     5:1    men ->  ones
