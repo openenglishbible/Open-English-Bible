@@ -22,7 +22,9 @@ def stage():
             f.close()
             
             s = b
-            s = versions.render(s, ['oeb','neut','cth','nrsv', 'lord'])
+            
+            # son and num temporary for Numbers
+            s = versions.render(s, ['oeb','neut','cth','nrsv', 'lord','son','num'])
             
             #To get quotes right to Cth versions, swap “”‘’ to get US and Cth OK
             s = s.replace(u'“', u'@leftdoublequote@')
@@ -42,7 +44,7 @@ def stage():
             f.close()
     
             s = b
-            s = versions.render(s, ['oeb','neut','us','nrsv', 'lord'])
+            s = versions.render(s, ['oeb','neut','us','nrsv', 'lord','son','num'])
             
             #So Crosswire doesn't barf
             s = s.replace(u'\\v ', u'\n\\v ')
