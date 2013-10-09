@@ -42,8 +42,9 @@ class Patcher(object):
         for b in self.books:
             try:
                 self.patchBook(b)
-            except:
+            except Exception as e:
                 print 'ERROR patching: ' + b
+                print e
                 sys.exit(1)
         
     def patchBook(self, book):
@@ -53,12 +54,16 @@ class Patcher(object):
             f = open(bookname)
             s = unicode(f.read(), 'utf-8')
             f.close()
-        except e:
+        except Exception as e:
             print bookname
             sys.exit(1)
         
         for p in self.patches:
-            s = self.applyPatchToBook(s, p)
+            try:
+                s = self.applyPatchToBook(s, p)
+            except Exception as e:
+                print p
+                print e
             
         # Clean up line endings so Crosswire's sofware doesn't barf
         # strip leading & trailing whitespace, terminate with newline
@@ -144,6 +149,7 @@ class Patcher(object):
             ii = r[0]
             i2 = self.findPatch(s, b.replace('~', '\n'), r[0], r[1])
             if i2 == -1:
+                self.debugPrint('ERROR IN PATCH: ' + patch)
                 self.debugPrint('ERROR finding BEFORE at ' + lines[i])
                 self.debugPrint('ERROR ' + str(r[0]) + ' ... ' + str(r[1]))
                 self.debugPrint('ERROR ' + s[r[0]:r[1]])
