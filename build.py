@@ -14,6 +14,7 @@ import stageTCNT
 import stageMcFadyen
 import stageKent
 import stageJPS
+import regressionTesting
 
 def main(argv):
     print '#### Staging...'
@@ -41,6 +42,12 @@ def main(argv):
     p.setup('staging/us', 'patches/', 'final-usfm/us', 'us')
     p.patch()
        
+    print '#### Regression Testing...'
+    
+    t = regressionTesting.Tester()
+    t.test('final-usfm/us')
+    t.test('final-usfm/cth')
+
     print '#### Finished.'
 
 if __name__ == "__main__":
