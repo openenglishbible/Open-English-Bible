@@ -3,6 +3,30 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB.
 
+Summary of changes to the June 2014 Release
+-------------------------------------------
+
+Books in release:
+Ruth
+Esther
+Psalms
+New Testament
+
+Improvements to:
+Ruth
+Esther
+3 John - thanks to Tim Chambers
+
+Specific changes:
+
+
+Errors and Ommissions:
+
+
+Development work:
+Continued work on Old Testament books
+
+
 Summary of changes to the November 2013 Release
 -----------------------------------------------
 
