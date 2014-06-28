@@ -18,7 +18,8 @@ Esther
 3 John - thanks to Tim Chambers
 
 Specific changes:
-
+3 John 1:14 has been split into two verses to make versification in line with NRSV
+Rev 12:17 has been split into two verses to make versification in line with NRSV
 
 Errors and Ommissions:
 
