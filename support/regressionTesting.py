@@ -31,5 +31,4 @@ class Tester(object):
         self.checkForCode('sea', w)
         
     def checkForCode(self, c, w):
-        print w
         if c in w:  print '     - Malformed code? \'' + c + '\' in ' + b[:50]
