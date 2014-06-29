@@ -15,6 +15,7 @@ New Testament
 Improvements to:
 Ruth
 Esther
+Psalms
 3 John - thanks to Tim Chambers
 
 Specific changes:
