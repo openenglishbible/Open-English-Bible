@@ -16,6 +16,7 @@ Improvements to:
 Ruth
 Esther
 Psalms
+2 John - thanks to Tim Chambers
 3 John - thanks to Tim Chambers
 
 Specific changes:
