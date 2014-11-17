@@ -17,7 +17,8 @@ class Tester(object):
               #print '     Loaded ' + fname
               f.close()
           except:
-              print '     - Couldn\'t open ' + fname
+              if not fname == '.DS_Store':
+                  print '     - Couldn\'t open ' + fname
         #print '     Finished loading'
         return books
     
