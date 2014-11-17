@@ -3,8 +3,8 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB.
 
-Summary of changes to the June 2014 Release
--------------------------------------------
+Summary of changes to the November 2014 Release
+-----------------------------------------------
 
 Books in release:
 Ruth
@@ -16,6 +16,7 @@ Improvements to:
 Ruth
 Esther
 Psalms
+1 John - thanks to Tim Chambers
 2 John - thanks to Tim Chambers
 3 John - thanks to Tim Chambers
 
