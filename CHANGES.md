@@ -7,50 +7,59 @@ Summary of changes to the November 2014 Release
 -----------------------------------------------
 
 Books in release:
-Ruth
-Esther
-Psalms
-New Testament
+
+* Ruth
+* Esther
+* Psalms
+* New Testament
 
 Improvements to:
-Ruth
-Esther
-Psalms
-1 John - thanks to Tim Chambers
-2 John - thanks to Tim Chambers
-3 John - thanks to Tim Chambers
+
+* Ruth
+* Esther
+* Psalms
+* 1 John - thanks to Tim Chambers
+* 2 John - thanks to Tim Chambers
+* 3 John - thanks to Tim Chambers
 
 Specific changes:
-3 John 1:14 has been split into two verses to make versification in line with NRSV
-Rev 12:17 has been split into two verses to make versification in line with NRSV
+
+* 3 John 1:14 has been split into two verses to make versification in line with NRSV
+* Rev 12:17 has been split into two verses to make versification in line with NRSV
 
 Errors and Ommissions:
 
 
 Development work:
-Continued work on Old Testament books
+
+* Continued work on Old Testament books
 
 
 Summary of changes to the November 2013 Release
 -----------------------------------------------
 
 Books to be released:
-New Testament
-Psalms
+
+* New Testament
+* Psalms
 
 Improvements to:
-James - thanks to Brian J Henry
-Titus - thanks to Tim Chambers
+
+* James - thanks to Brian J Henry
+* Titus - thanks to Tim Chambers
 
 Specific changes:
-Standardised on 'elder' in the New Testament
-So called 'Non-Western interpolations' are now noted in footnotes.
+
+* Standardised on 'elder' in the New Testament
+* So called 'Non-Western interpolations' are now noted in footnotes.
 
 Errors and Ommissions:
-Various typographical errors eliminated
+
+* Various typographical errors eliminated
 
 Development work:
-Genesis - Editing continued
-Minor prophets - Continued to add to initial drafts
-Proverbs - Added McFadyen version, going through initial revision
+
+* Genesis - Editing continued
+* Minor prophets - Continued to add to initial drafts
+* Proverbs - Added McFadyen version, going through initial revision
 
