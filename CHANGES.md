@@ -29,6 +29,7 @@ Specific changes:
 
 Errors and Ommissions:
 
+* Various typographical errors eliminated
 
 Development work:
 
