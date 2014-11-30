@@ -4,11 +4,11 @@
 \mt2 The
 \mt Psalms
 \rem base test is checked McFadyen
-\rem g is gender
+\rem masc/neut is gender
 \c 1
 \ms Book One
 \s Psalm 1 — The Way of Happiness
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 Happy are those
 \q2 who do not follow the counsel of the wicked,
@@ -35,7 +35,7 @@
 \q2 but the way of the wicked will end in ruin.
 \c 2
 \s Psalm 2 — The Lord's Chosen King
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 Why this turmoil of nations,
 \q2 this futile plotting of peoples,
@@ -80,7 +80,7 @@
 \q2 Happy all who take refuge in him.
 \c 3
 \s Psalm 3 — A Morning Prayer for Protection
-\rem (Stage 1.5)
+\rem Revision 2
 \d A psalm of David, when he fled from his son Absalom.
 \q1
 \v 1 How many, \nd Lord\nd*, are my foes!
@@ -112,7 +112,7 @@
 \q2 let your blessing descend on your people. \it (Selah)\it*
 \c 4
 \s Psalm 4 — An Evening Prayer
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader, with stringed instruments. A psalm of David.
 \q1
 \v 1 Answer my cry,
@@ -159,7 +159,7 @@
 \q2 safe.
 \c 5
 \s Psalm 5 — A Prayer for Guidance
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader: A psalm of David, to be accompanied by the flute.
 \q1
 \v 1 Hear my words, \nd Lord\nd*:
@@ -213,7 +213,7 @@
 \q2 and the shield of your favor protects them.
 \c 6
 \s Psalm 6 — A Cry for Help in Time of Trouble
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader; with instrumental music on the sheminith. A psalm of David.
 \q1
 \v 1 Rebuke me not, \nd Lord\nd*, in your anger,
@@ -253,7 +253,7 @@
 \q2 brought to shame and dismay in a moment.
 \c 7
 \s Psalm 7 — A Prayer to the God of Justice
-\rem (Stage 1.5)
+\rem Revision 2
 \d A Shiggaion of David, which he sang to the \nd Lord\nd* about Cush, the Benjamite.
 \q1
 \v 1 \nd Lord\nd* my God, I take refuge in you.
@@ -320,7 +320,7 @@
 \q2 and sing to the name of the \nd Lord\nd* Most High.
 \c 8
 \s Psalm 8 — God's Glory in Nature
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader: A psalm of David, to be accompanied by a stringed instrument.
 \q1
 \v 1 \nd Lord\nd* our God!
@@ -364,7 +364,7 @@
 \q2 How glorious in all the earth is your name!
 \c 9
 \s Psalm 9 — A Song of Praise the Lord's Justice
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader; ‘almuth labben. A psalm of David.
 \q1
 \v 1 With all my heart I will praise the \nd Lord\nd*,
@@ -437,7 +437,7 @@
 \q2 show the nations how frail they are. \it (Selah)\it*
 \c 10
 \s Psalm 10 — A Prayer for Help
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 Why do you stand, \nd Lord\nd*, so far away,
 \q2 hiding yourself in times of trouble?
@@ -514,7 +514,7 @@
 \q2 so no one on earth may strike terror again.
 \c 11
 \s Psalm 11 — Trust in the Lord
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. Of David.
 \q1
 \v 1 In the \nd Lord\nd* I take refuge.
@@ -545,7 +545,7 @@
 \q2 so the upright will see his face.
 \c 12
 \s Psalm 12 — A Prayer for the Faithful in a False World
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader; on the sheminith. A psalm of David.
 \q1
 \v 1 Help, \nd Lord\nd*, for the good are all gone,
@@ -577,7 +577,7 @@
 \q2 and worthless people exalted.
 \c 13
 \s Psalm 13 — A Prayer for Help in Trouble
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. A psalm of David.
 \q1
 \v 1 How long, \nd Lord\nd*, will you forget me forever?
@@ -602,7 +602,7 @@
 \v 6 I will sing to the \nd Lord\nd* who was good to me.
 \c 14
 \s Psalm 14 — The Folly of Denying God
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. Of David
 \q1
 \v 1 Fools say in their heart,
@@ -646,7 +646,7 @@
 \q2 and Israel how joyful!
 \c 15
 \s Psalm 15 — Standing Firm
-\rem (Stage 1.5)
+\rem Revision 2
 \d A psalm of David
 \q1
 \v 1 \nd Lord\nd*, who can be guest in your tent?
@@ -671,7 +671,7 @@
 \q1 The person who does these things will always stand firm.
 \c 16
 \s Psalm 16 — The Joy of Fellowship with God
-\rem (Stage 1.5)
+\rem Revision 2
 \d A michtam of David.
 \q1
 \v 1 Keep me, O God, for in you I take refuge.
@@ -715,7 +715,7 @@
 \q2 and the pleasures dispensed by your hand evermore.
 \c 17
 \s Psalm 17 — A Prayer for Deliverance
-\rem (Stage 1.5)
+\rem Revision 2
 \d A prayer of David.
 \q1
 \v 1 Listen, O \nd Lord\nd*, to my innocence;
@@ -774,7 +774,7 @@
 \q1 awake I am filled with a vision of you.
 \c 18
 \s Psalm 18 — A King's Song of Gratitude
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. Of David, the servant of the \nd Lord\nd*, who recited the words of this song to the \nd Lord\nd* after the \nd Lord\nd* had saved him from the power of all his enemies and from the hand of Saul. He said:
 \q1
 \v 1 I love you, O \nd Lord\nd*, my strength.
@@ -952,7 +952,7 @@
 \q2 to David and his seed evermore.
 \c 19
 \s Psalm 19 — The Glory of God in the Heavens
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. A psalm of David.
 \q1
 \v 1 The heavens declare God's glory,
@@ -1019,7 +1019,7 @@
 \q2 my rock and redeemer.
 \c 20
 \s Psalm 20 — A Prayer for Victory
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. A psalm of David.
 \q1
 \v 1 The \nd Lord\nd* answer you in the day of distress,
@@ -1056,7 +1056,7 @@
 \q2 and answer us when we call.
 \c 21
 \s Psalm 21 — A Prayer after a Victory
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. A psalm of David.
 \q1
 \v 1 The king rejoices, \nd Lord\nd*, in your might,
@@ -1221,7 +1221,7 @@
 \q2 He has done it.
 \c 23
 \s Psalm 23 — The Good Shepherd
-\rem (Stage 1.5)
+\rem Revision 2
 \d A psalm of David.
 \q1
 \v 1 The \nd Lord\nd* is my shepherd: I am never in need.
@@ -2516,7 +2516,7 @@
 \c 42
 \ms Book Two
 \s Psalm 42 — Yearning for God
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. A maskil of the Korahites.
 \q1
 \v 1 Like the hart which longs
@@ -3164,7 +3164,7 @@
 \q2 in the presence of those who love you.
 \c 53
 \s Psalm 53 — The Folly of Denying God
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. On mahalath. A maskil of David.
 \q1
 \v 1 Fools say in their heart,
@@ -3235,7 +3235,7 @@
 \q2 and feasted my eyes on my foes.
 \c 55
 \s Psalm 55 — Betrayed by a Friend
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. With stringed instruments. A maskil of David.
 \q1
 \v 1 Listen, God, to my prayer.
@@ -4160,7 +4160,7 @@
 \q2 and those who love him shall live therein.
 \c 70
 \s Psalm 70 — A Cry for Help in Persecution
-\rem (Stage 1.5)
+\rem Revision 2
 \d For the leader. Of David. For commemoration.
 \q1
 \v 1 Quickly, God, deliver me,
@@ -5391,7 +5391,7 @@
 \q2 since you, \nd Lord\nd*, are my helper and comforter.
 \c 87
 \s Psalm 87 — Zion, City of God
-\rem (Stage 1.5)
+\rem Revision 2
 \d Of the Korahites, a psalm. A song.
 \q1
 \v 1 On the holy mountain stands
@@ -5745,19 +5745,20 @@
 \q2 uphold what our hands are striving to do.
 \c 91
 \s Psalm 91 — In the Shelter of the Most High
+\rem Revision 2
 \q1
 \v 1 You whose home is the shelter of God Most High,
 \q2 whose abode is the shadow of God Almighty,
 \q1
 \v 2 can say to the \nd Lord\nd*, “My refuge, my fortress,
-\q2 my God, in whom I trust,”
+\q2 my God, in whom I trust.”
 \b
 \q1
 \v 3 For he saves you from fowler's snare,
-\q2 from the yawning pit of destruction.
+\q2 from deadly plague,
 \q1
-\v 4 He shelters you with his pinions,
-\q2 and under his wings you may hide.
+\v 4 he shelters you with his pinions,
+\q2 and under his wings you can hide.
 \b
 \q1 His truth will be a shield and buckler.
 \b
@@ -5770,29 +5771,29 @@
 \b
 \q1
 \v 7 A thousand may fall at your side,
-\q2 and ten thousand at your right hand:
-\q1 but it shall not draw near to you.
+\q2 ten thousand at your right hand:
+\q1 but it will not draw near to you.
 \b
 \q1
 \v 8 You will only look on with your eyes,
 \q2 and see how the wicked are punished.
 \q1
-\v 9 As for you, the \nd Lord\nd* is your refuge,
+\v 9 You have made the \nd Lord\nd* your refuge,
 \q2 you have made the Most High your defence.
 \b
 \q1
 \v 10 You will never be met by misfortune,
-\q2 no plague shall come near your tent:
+\q2 no plague will come near your tent,
 \q1
 \v 11 for he orders his angels to guard you,
 \q2 wherever you go.
 \b
 \q1
 \v 12 They will carry you with their hands,
-\q2 lest you strike your foot on a stone.
+\q2 so you don't hurt your foot on a stone.
 \q1
-\v 13 You will trample down lions and adders,
-\q2 and tread on young lions and cobras.
+\v 13 You will trample down lions and snakes,
+\q2 tread on young lions and cobras.
 \b
 \q1
 \v 14 “Because of their love for me, I will deliver them,
@@ -5958,7 +5959,7 @@
 \q2 the \nd Lord\nd* our God will destroy them.
 \c 95
 \s Psalm 95 — For a Festival. A Hymn of Praise and a Solemn Warning
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 Come! Let us ring out our joy to the \nd Lord\nd*,
 \q2 let us merrily shout to our rock of salvation.
@@ -7277,7 +7278,7 @@ Happy are those who fear the \nd Lord\nd*,
 \q3 Hallelujah.
 \c 114
 \s Psalm 114 — The Marvel of the Exodus
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 When Israel went out of Egypt,
 \q2 Jacob's house from a barbarous people,
@@ -8316,7 +8317,7 @@ Happy are those who fear the \nd Lord\nd*,
 \q2 with their arms full of sheaves.
 \c 127
 \s Psalm 127 — The Need of Heavenly Help
-\rem (Stage 1.5)
+\rem Revision 2
 \d A song of ascents. Of Solomon.
 \q1
 \v 1 Unless the \nd Lord\nd* builds the house,
@@ -8535,7 +8536,7 @@ Happy are those who fear the \nd Lord\nd*,
 \q2 life that is endless.
 \c 134
 \s Psalm 134 — An Evening Invocation
-\rem (Stage 1.5)
+\rem Revision 2
 \d A song of ascents.
 \q1
 \v 1 Come, praise the \nd Lord\nd*,
@@ -8711,7 +8712,7 @@ Happy are those who fear the \nd Lord\nd*,
 \q2 for his kindness endures forever.
 \c 137
 \s Psalm 137 — By the Waters of Babylon
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 By the waters of Babylon there we sat,
 \q2 and we wept at the thought of Zion.
@@ -9402,7 +9403,7 @@ Happy are those who fear the \nd Lord\nd*,
 \q3 Hallelujah.
 \c 150
 \s Psalm 150 — Hallelujah
-\rem (Stage 1.5)
+\rem Revision 2
 \q1
 \v 1 Hallelujah.
 \q1 Praise God in his holy place.
