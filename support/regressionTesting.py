@@ -26,6 +26,7 @@ class Tester(object):
         books = self.loadBooks(dir)
         for b in books:
             self.testMalformedCodes(b)
+            self.testDuplicates(b)
 
     def testMalformedCodes(self, b):
         w = b.split(u' \n\t.,:?;\'\"')
@@ -33,3 +34,8 @@ class Tester(object):
         
     def checkForCode(self, c, w):
         if c in w:  print '     - Malformed code? \'' + c + '\' in ' + b[:50]
+    
+    def testDuplicates(self, b):
+        for i, c in enumerate(b):
+            if c in '.,\'"‘’“”' and b[i+1] == c:
+                print 'Duplicate "' + c + '" in ' + b
