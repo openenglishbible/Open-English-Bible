@@ -7,6 +7,7 @@ The Open English Bible is the end result of conversation, collaboration and part
 - Tim Chambers
 - J A Carter
 - Brian J Henry
+- Coby Ingram
 
 We would also like to express our gratitude to those translators whose work we build upon. For the Old Testament, we are greatful for the scholarship of John Edgar McFadyen and Charles Foster Kent. For the New Testament we would like to acknowledge the team of translators whose innovative work on the Twentieth Century New Testament was, in so many ways, the forerunner of modern collaborative projects such as this one. They published anonymously, but we know at least some of their names - in particular two main drivers of the project, Mary Ann Higgs and Ernest de Merindol Malan, but also the over thirty-five contributors including:
 

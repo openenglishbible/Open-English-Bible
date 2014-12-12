@@ -2,9 +2,21 @@
 \ide UTF-8
 \h Daniel
 \mt The Book of Daniel
-\rem Base text combination of Kent's Childens/Short and Student's
-\rem Complete, not proofread, NRSV versification only
-\rem US only
+\rem   Original Base Text:
+\rem       Kent's Shorter Bible
+\rem       Kent's Children's Bible
+\rem       Kent's Student's Old Testament
+\rem       Sui Generis
+\rem
+\rem   Tags:
+\rem       (none)
+\rem
+\rem   Status:
+\rem       DEVELOPMENT ONLY
+\rem       Complete
+\rem       Checked x 1
+\rem       US only
+\rem       NRSV versification only
 \c 1
 \rem Childrens
 \s Nebuchadnezzar’s court

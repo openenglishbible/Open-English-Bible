@@ -5,20 +5,25 @@
 \mt2 First Book of Moses
 \mt2 Called
 \mt Genesis
+\rem   Original Base Text:
+\rem       Kent's Shorter Bible
+\rem       Kent's Children's Bible
+\rem       Kent's Student's Old Testament
+\rem       Sui Generis
+\rem
+\rem   Tags:
+\rem       us cth (spelling)
+\rem
+\rem   Status:
+\rem       DEVELOPMENT ONLY
+\rem       Checked x 1
+\rem       US and Cth English ok
 \rem notes:
 \rem angel -> messenger
-\rem covenant -> solemn agreement (Maybe. Open to arguments, but we shouldn't do what some versions do and create a distinction between a treaty between people and a convenant with God)
+\rem covenant -> solemn agreement (Maybe. Open to arguments, but we shouldn't do what some versions do and create a linguistic distinction between a treaty between people and a convenant with God)
 \rem lad -> boy
 \rem ass -> donkey
 \rem kid -> (young) goat
-\rem USUAL:
-\rem lord: LORD
-\rem OPTIONAL: (and not comprehensive)
-\rem fn:
-\rem c1 Peonic comments added
-\rem c2 Peonic comments added
-\rem c3 Peonic comments added
-\rem c4 Peonic comments added by RussellAllen 17Aug13
 \c 1
 \ms Creation
 \rem Shorter (heavily amended)
@@ -186,7 +191,7 @@
 \v 20 So the human, Adam gave names to all cattle and all the wild birds and beasts. But there was no companion suitable for him.
 \p
 \v 21 Then the \nd Lord\nd* God caused the human to fall into a deep sleep, and while he slept, he took one of his ribs and closed up its place with flesh.
-\v 22 With the rib which he had taken from the human, the \nd Lord\nd* built up  a woman and brought her to the human.
+\v 22 With the rib which he had taken from the human, the \nd Lord\nd* built up a woman and brought her to the human.
 \v 23 Then the human said, ‘This now is bone of my bone and flesh of my flesh. She will be called Woman, for from man she was taken.’
 \v 24 For this reason a man leaves his father and his mother and clings to his wife, and the two become one flesh.
 \p
@@ -247,7 +252,7 @@
 \q for dust you are,
 \q and to dust you will return!’
 \p
-\v 20 The man, Adam, named his wife Eve; because she was the mother of all living people.
+\v 20 The man, Adam, named his wife Eve\f + Heb Havvah, that is, Life.\f*; because she was the mother of all living people.
 \v 21 The \nd Lord\nd* God made clothes from animal skins for Adam and his wife and dressed them.
 \p
 \v 22 Then the \nd Lord\nd* God said: ‘The man has become like one of us, knowing good and evil. He must not reach out his hand, and take also from the tree of life, and eat, and live forever.’
@@ -386,7 +391,7 @@
 \p
 \v 1 Then the \nd Lord\nd* said to Noah, ‘Enter with all your household into the ark; for I see that in this age you are living before me an upright life.
 \v 2 Take seven of all the beasts that are fit for food and sacrifice, the male and the female; but of the beasts that are not fit for food and sacrifice take only two, the male and the female;
-\v 3 and of the wild birds that are fit for food and sacrifice take seven, to keep the species alive on the  earth.
+\v 3 and of the wild birds that are fit for food and sacrifice take seven, to keep the species alive on the earth.
 \v 4 After seven days I will send rain on the earth forty days and forty nights; and I will destroy from the surface of the ground every living thing that I have made.’
 \p
 \v 5 Then Noah did all that the \nd Lord\nd* commanded him.
@@ -541,7 +546,7 @@
 \v 7 Come, let us go down there and confuse their language, so that they do not understand each other's speech.’
 \p
 \v 8 So the \nd Lord\nd* scattered them from there over all the earth; and they ceased building the city.
-\v 9 That is why they named it Babel , for there the \nd Lord\nd* confused the language of all the inhabitants of earth and scattered them over the whole world.
+\v 9 That is why they named it Babel\fn + Confusion\fn*, for there the \nd Lord\nd* confused the language of all the inhabitants of earth and scattered them over the whole world.
 \ms Genealogy
 \p
 \v 10 These are the descendants of Shem. Shem was a hundred years old, and fathered Arpachshad two years after the flood.
@@ -720,7 +725,7 @@
 \q and he will live at odds with all his relatives.
 \p
 \v 13 Then she called the name of the \nd Lord\nd*, who had spoken to her, El-roi (You are a God who sees me); for she said, ‘Have I seen God and am I still alive after I have looked upon him?’
-\v 14 Therefore the well is called Beer-lahai-roi, ( it is between Kadesh and Bered)
+\v 14 Therefore the well is called Beer-lahai-roi\f + Well of the living One who sees me\f*, ( it is between Kadesh and Bered)
 \v 15 Hagar bore Abram a son, and Abram named his son, whom Hagar bore, Ishmael.
 \v 16 Abram was eighty-six years old, when Hagar bore Ishmael.
 \c 17
@@ -836,7 +841,7 @@ But Sarah was listening behind the door of the tent.
 \v 19 See, your servant has found favour with you, and you have shown great mercy to me in saving my life. I cannot escape to the heights, lest some evil overtake me, and I die.
 \v 20 See now, this village is near enough to run to, and it is small. Oh, let me escape there, and my life will be saved.’
 \v 21 He answered, ‘I have also granted you this favour, in that I will not destroy the village of which you have spoken.
-\v 22 Make haste, escape to it, for I can do nothing until you arrive there.’ Therefore the village was called Zoar.
+\v 22 Make haste, escape to it, for I can do nothing until you arrive there.’ Therefore the village was called Zoar\f + Little\f*.
 \p
 \v 23 The sun had risen when Lot came to Zoar.
 \v 24 Then the \nd Lord\nd* caused brimstone and fire from heaven to rain upon Sodom and Gomorrah,
@@ -887,7 +892,7 @@ But Sarah was listening behind the door of the tent.
 \p
 \v 1 The \nd Lord\nd* remembered what he had told Sarah, and he did as he had promised.
 \v 2 So Sarah had Abraham's son in his old age at the fixed time of which God had told him.
-\v 3 Abraham named him Isaac
+\v 3 Abraham named him Isaac\f + Laughter\f*
 \v 4 and when he was eight days old he circumcised him as God had told him to.
 \v 5 Abraham was a hundred years old when his son Isaac was born.
 \v 6 Sarah said, ‘God has made laughter for me; everyone who hears will laugh with me.’
@@ -1122,8 +1127,8 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \q2 the elder will serve the younger.’
 \p
 \v 24 When the time came for her to give birth, she became the mother of twin boys.
-\v 25 The first was from birth red, all over like a hairy mantle; so they named him Esau.
-\v 26 Afterwards his brother came holding Esau's heel with his hand; so he was named Jacob. Isaac was sixty years old when they were born.
+\v 25 The first was from birth red, all over like a hairy mantle; so they named him Esau\f + Hairy\f*.
+\v 26 Afterwards his brother came holding Esau's heel with his hand; so he was named Jacob\f + Supplanter\f*. Isaac was sixty years old when they were born.
 \p
 \v 27 As they grew up, Esau became a skilful hunter, a man who lived out in the fields; but Jacob was a quiet man who stayed about the tents.
 \v 28 Isaac loved Esau, for he had a taste for venison; but Rebekah loved Jacob.
@@ -1163,12 +1168,12 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 17 So Isaac departed, and encamped in the valley of Gerar, and settled there.
 \v 18 Isaac reopened the wells which had been dug in the days of his father Abraham and stopped by the Philistines after his death. He called them by the names his father had given them.
 \v 19 When Isaac's slaves dug in the valley, they found there a well of spring water.
-\v 20 The herdsmen of Gerar quarreled with Isaac's herdsmen, saying, ‘The water is ours.’ So he called the name of the well Esek, because they contended with him.
-\v 21 And when they dug another well, they quarreled over that also. So he called the name of it Sitnah.
-\v 22 He moved on from these and dug another well; and over that one there was no dispute. So he called  it Rehoboth, and said, ‘For now the \nd Lord\nd* has made room for us and we shall be fruitful in the land.’
+\v 20 The herdsmen of Gerar quarreled with Isaac's herdsmen, saying, ‘The water is ours.’ So he called the name of the well Esek\f + Contention\f*, because they contended with him.
+\v 21 And when they dug another well, they quarreled over that also. So he called the name of it Sitnah\f + Enmity\f*.
+\v 22 He moved on from these and dug another well; and over that one there was no dispute. So he called  it Rehoboth\f + Room\f*, and said, ‘For now the \nd Lord\nd* has made room for us and we shall be fruitful in the land.’
 \p
 \v 23 Isaac went up from there to Beer-sheba.
-\v 24  The \nd Lord\nd* appeared to him the same night and said, ‘I am the God of Abraham your father, do not be afraid, because I am with you, and will bless you and make your descendants numerous for the sake of my servant Abraham.’
+\v 24 The \nd Lord\nd* appeared to him the same night and said, ‘I am the God of Abraham your father, do not be afraid, because I am with you, and will bless you and make your descendants numerous for the sake of my servant Abraham.’
 \v 25 Isaac built an altar there, and called upon the name of the \nd Lord\nd*, and pitched his tent there. There also Isaac's slaves dug a well.
 \p
 \v 26 Then Abimelech came to him from Gerar with Ahuzzath his friend, and Phicol the captain of his army.
@@ -1178,7 +1183,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 30 And he made them a feast and they ate and drank.
 \v 31 Then in the morning they arose early and took oaths with each other; and Isaac sent them away, and they departed from him in peace.
 \v 32 That same day,  Isaac's slaves came and told him about a well which they had dug, and said to him, ‘We have found water.’
-\v 33 He called it Shebna, therefore the name of the city is Beer-sheba to this day.
+\v 33 He called it Shebna\f + Oath\f*, therefore the name of the city is Beer-sheba to this day.
 \ms Esau and Jacob
 \rem Childrens
 \p
@@ -1238,7 +1243,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 34 When Esau heard the words of his father, he uttered a loud and bitter cry and said to his father, ‘Father, bless me also!’
 \p
 \v 35 But Isaac said, ‘Your brother came with deceit and has taken away your blessing.’
-\v 36 Esau said, ‘He was correctly named Jacob.  He has supplanted me these two times: he took my birthright, and now he has taken my blessing!’ Then he said, ‘Have you kept a blessing for me?’
+\v 36 Esau said, ‘He was correctly named Jacob\f +which means Supplanter\f*.  He has supplanted me these two times: he took my birthright, and now he has taken my blessing!’ Then he said, ‘Have you kept a blessing for me?’
 \v 37 Isaac answered Esau, ‘I have made him your master and I have given to him all his relatives as slaves and grain and wine as his food. What then can I do for you, my son?’
 \v 38 Esau said to his father, ‘Is that the only blessing you have, my father? Father, bless me too!’ and Esau began to weep aloud.
 \v 39 Then Isaac his father answered him:
@@ -1288,7 +1293,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 17 And he was filled with awe and said, ‘This place is the house of God, and this is the gate of heaven.’
 \p
 \v 18 So Jacob rose early in the morning and took the stone that he had put under his head and set it up as a pillar and poured oil upon the top of it.
-\v 19 He named that place Bethel. (The earlier name of the town was Luz.)
+\v 19 He named that place Bethel\f + which means House of God\f*. (The earlier name of the town was Luz.)
 \v 20 Jacob also made this promise, ‘If God will be with me and protect me on this journey which I am making and give me bread to eat and clothing to put on,
 \v 21 and if I return safe and sound to my father's house, then the \nd Lord\nd* shall be my God,
 \v 22 and this stone which I have set up as a pillar will be a house of God. And of all that you give me I will surely give a tenth to you.’
@@ -1335,10 +1340,10 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \rem Shorter
 \p
 \v 31 When the \nd Lord\nd* saw that Leah was spurned, he gave her the gift of motherhood; Rachel, however, was barren.
-\v 32 So Leah gave birth to a son whom she named Reuben; for she said, ‘The \nd Lord\nd* has seen my affliction; now my husband will love me.’
-\v 33 She gave birth to another son; and said, ‘Because the \nd Lord\nd* has heard that I am spurned, he has given me this one also’; and she called his name Simeon.
-\v 34 She gave birth to another son and said, ‘Now this time my husband will become attached to me because I have borne him three sons’; therefore his name was called Levi.
-\v 35 She gave birth to another son and said, ‘This time I will praise the \nd Lord\nd*’; therefore she called his name Judah then she stopped having children.
+\v 32 So Leah gave birth to a son whom she named Reuben\f + Behold a son\f*; for she said, ‘The \nd Lord\nd* has seen my affliction; now my husband will love me.’
+\v 33 She gave birth to another son; and said, ‘Because the \nd Lord\nd* has heard that I am spurned, he has given me this one also’; and she called his name Simeon\f + Hearing\f*.
+\v 34 She gave birth to another son and said, ‘Now this time my husband will become attached to me because I have borne him three sons’; therefore his name was called Levi\f + Attached\f*.
+\v 35 She gave birth to another son and said, ‘This time I will praise the \nd Lord\nd*’; therefore she called his name Judah\f + Praise\f* then she stopped having children.
 \c 30
 \p
 \v 1 When Rachel saw that she bore Jacob no children, she was jealous of her sister and said to Jacob, ‘Give me children or else I will die.’
@@ -1346,10 +1351,10 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 3 She said, ‘Here is my slave-girl Bilhah, go to her, so that she may bear sons who can be laid on my knees and I also may obtain children though her.’
 \v 4 So she gave him Bilhah her slave-girl for a wife, and Jacob slept with her.
 \v 5 When Bilhah conceived and bore Jacob a son,
-\v 6 Rachel said, ‘God has judged me and has also heard my voice and has given me a son.’ So she called his name Dan.
+\v 6 Rachel said, ‘God has judged me and has also heard my voice and has given me a son.’ So she called his name Dan\f + He judged\f*.
 \p
 \v 7 Bilhah, Rachel's slave-girl conceived again, and bore Jacob a second son.
-\v 8 Rachel said, ‘With superhuman wrestlings have I wrestled with my sister, and have prevailed’; so she called his name Naphtali.
+\v 8 Rachel said, ‘With superhuman wrestlings have I wrestled with my sister, and have prevailed’; so she called his name Naphtali\f + Obtained by wrestling\f*.
 \p
 \v 9 When Leah saw that she had stopped having children, she took Zilpah her slave-girl, and gave her to Jacob as a wife.
 \v 10 Zilpah, Leah's slave-girl bore Jacob a son.
@@ -1362,18 +1367,18 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 16 So when Jacob came from the field in the evening, Leah went out to meet him, and said, ‘You sleep with me tonight, for I have hired you with my son's mandrakes.’ So he slept with her that night.
 \p
 \v 17 God heard Leah's prayer, and she conceived and bore Jacob a fifth son.
-\v 18  Leah said, ‘God has given me my reward, because I gave my slave-girl to my husband’; so she called his name Issachar.
+\v 18  Leah said, ‘God has given me my reward, because I gave my slave-girl to my husband’; so she called his name Issachar\f + There is a hire\f*.
 \v 19 Leah conceived again, and bore a sixth son to Jacob.
-\v 20 She said, ‘God has endowed me with a good dowry; now  my husband will honour me, because I have borne him six sons’; and she called him Zebulun.
+\v 20 She said, ‘God has endowed me with a good dowry; now  my husband will honour me, because I have borne him six sons’; and she called him Zebulun\f + Dwelling\f*.
 \v 21 And afterwards she had a daughter and named her Dinah.
 \rem Shorter
 \p
 \v 22 Then God remembered Rachel and heard her prayer and gave her a child.
 \v 23 She conceived and gave birth to a son and said, ‘God has taken away my disgrace.’
-\v 24 She called his name Joseph, saying, ‘The \nd Lord\nd* will add to me another son.’
+\v 24 She called his name Joseph\f + He will add\f*, saying, ‘the \nd Lord\nd* will add to me another son.’
 \rem Students
 \p
-\v 25 W hen Rachel had given birth to Joseph, Jacob said to Laban, ‘Send me away, so that I may go to my own place, and to my country.
+\v 25 When Rachel had given birth to Joseph, Jacob said to Laban, ‘Send me away, so that I may go to my own place, and to my country.
 \v 26 Give me my wives and my children for whom I have served you, so that I may go; for you know the service which I have rendered you.’
 \v 27 But Laban said to him, ‘If now I have found favour in your eyes -- I have divined that the \nd Lord\nd* has blessed me for your sake.
 \v 28  State exactly to me your wages and I will pay them.’
@@ -1454,9 +1459,9 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 45 So Jacob took a stone, and set it up as a pillar,
 \v 46 and said to the members of his family, ‘Gather stones.’ When they had taken stones and made a heap, they ate there by the heap.
-\v 47  Laban called it Jegar-sahaduthap; but Jacob called it Galeed.
+\v 47  Laban called it Jegar-sahaduthap\f + Heap of witness\f*; but Jacob called it Galeed\f + Heap of witness\f*.
 \v 48  ‘This heap’, Laban said, ‘is witness between me and you today.’ This is why it was called Galeed,
-\v 49 and  Mizpah, for Laban said, ‘May the \nd Lord\nd* watch between me and you when we are absent one from another,
+\v 49 and  Mizpah\f + Place of watching\f*, for Laban said, ‘May the \nd Lord\nd* watch between me and you when we are absent one from another,
 \v 50 so that you may not maltreat my daughters nor take other wives besides my daughters. No one is with us; but beware: God is witness between me and you.’
 \p
 \v 51 Moreover, Laban said to Jacob, ‘See this heap, and  the pillar which I have set up between me and you.
@@ -1469,7 +1474,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \c 32
 \p
 \v 1 Jacob went on his way and the messengers of God met him.
-\v 2 When he saw them, Jacob said, ‘This is God's camp;’ so he named the place ‘Mahanaim.’
+\v 2 When he saw them, Jacob said, ‘This is God's camp;’ so he named the place ‘Mahanaim\f + Company\f*.’
 \ms Jacob prepares to meet Esau
 \rem Childrens and Shorter
 \p
@@ -1481,7 +1486,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 7 Then Jacob was greatly alarmed and worried. So he divided the people that were with him and the flocks and the herds and the camels into two parts
 \v 8 and said, ‘If Esau comes to the one and attacks and destroys it, then the other which is left can escape.’
 \p
-\v 9 Jacob also prayed, ‘God of my father Abraham and God of my father Isaac,  \nd Lord\nd* who said to me, “Return to your country, and to your relatives, and I will do well by you,”
+\v 9 Jacob also prayed, ‘God of my father Abraham and God of my father Isaac, \nd Lord\nd* who said to me, “Return to your country, and to your relatives, and I will do well by you,”
 \v 10 I am not worthy of the least of all the mercies and all the faithfulness which you have shown to me, your servant.  I passed over the Jordan river with only my staff, and now I have these two groups,
 \v 11 deliver me, I pray, from the hand of my brother, from the hand of Esau, for I fear that he will come and attack me and kill the mothers and the children.
 \v 12 Remember your promise to make me prosper and my descendants as many as the sand of the seashore, uncountable.’
@@ -1505,9 +1510,9 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 25 When he saw that he did not win against Jacob, he struck the socket of his hip, and the socket of Jacob's hip was dislocated, as he wrestled with him.
 \v 26 Then he said, ‘Let me go, for the dawn is breaking.’ But Jacob replied, ‘I will not let you go unless you bless me.’
 \v 27 So he said to him, ‘What is your name?’ He answered, ‘Jacob.’
-\v 28 Then he said, ‘Your name shall be no longer Jacob, but Israel; for you have struggled with God and with mortals and have won.’
+\v 28 Then he said, ‘Your name shall be no longer Jacob, but Israel\f + which means Struggler with God\f*; for you have struggled with God and with mortals and have won.’
 \v 29 Jacob asked him, ‘Tell me, I pray, your name.’ He said,‘Why do you ask my name?’ So he blessed him there.
-\v 30  Jacob called the place Penuel, for he said, ‘I have seen God face to face, and my life has been saved.’
+\v 30  Jacob called the place Penuel\f + which means Face of God\f*, for he said, ‘I have seen God face to face, and my life has been saved.’
 \p
 \v 31  The sun rose as soon as he had passed beyond Penuel, and he limped because of his hip.
 \v 32 This is why to this day the Israelites do not eat the thigh muscle, which is at the socket of the hip, because he touched the socket of Jacob's hip on the thigh muscle.
@@ -1535,7 +1540,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 15 Then Esau said, ‘Let me at least leave with you some of the people who are with me.’ But Jacob replied, ‘What need is there? Let me only enjoy the favour of my lord.’
 \v 16 So Esau turned back that day on his way to Seir.
 \p
-\v 17 But Jacob journeyed to Succoth, and built there a house for himself, and made huts for his cattle; therefore the name of the place is called Succoth.
+\v 17 But Jacob journeyed to Succoth, and built there a house for himself, and made huts for his cattle; therefore the name of the place is called Succoth\f + Huts\f*.
 \ms Dinah and Shechem
 \rem Students
 \v 18 Now Jacob came in peace to the city of Shechem in the land of Canaan, when he came from Paddan-Aram, and encamped before the city.
@@ -1591,8 +1596,8 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 4 So they gave to Jacob all the foreign gods which were in their possession, and the rings which were in their ears, and Jacob hid them under the oak which was by Shechem.
 \v 5 They set out on their journey, and a terror of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob.
 \v 6 Then Jacob came to Luz, which is in the land of Canaan (that is, Bethel). He and all the people that were with him came to Bethel.
-\v 7 He built there an altar, and named the place El-Bethel; because there God revealed himself to him, when he fled from the presence of his brother.
-\v 8 Then Deborah, Rebekah's nurse, died, and was buried below Bethel under the oak. Therefore its name was called Allon-bacuth.
+\v 7 He built there an altar, and named the place El-Bethel\f + The God of the house of God\f*; because there God revealed himself to him, when he fled from the presence of his brother.
+\v 8 Then Deborah, Rebekah's nurse, died, and was buried below Bethel under the oak. Therefore its name was called Allon-bacuth\f + Oak of Weeping\f*.
 \p
 \v 9 God appeared again to Jacob when he came from Paddanaram, and blessed him.
 \v 10 God said to him, ‘Now your name is Jacob: but your name will no longer be  Jacob, but Israel.’ So he called his name Israel.
@@ -1604,11 +1609,11 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 16 Then they set out from Bethel, and when they were still some distance from Ephrath, Rachel went into a hard and painful labour.
 \v 17 At the hardest, the midwife said to her, ‘Do not be afraid; for now you will have another son.’
-\v 18 And, as her life was departing (for she was dying),  she called his name Ben-oni; but his father called him Benjamin.
+\v 18 And, as her life was departing (for she was dying),  she called his name Ben-oni\f + Son of my Sorrow\f*; but his father called him Benjamin\f + Son of the right hand\f*.
 \v 19 So Rachel died, and was buried on the way to Ephrath (that is, Bethlehem),
 \v 20 and Jacob set up a pillar on her grave: that is the Pillar of Rachel's Grave, which stands until this day.
 \p
-\v 21 Then Israel journeyed, and pitched his tent beyond Migdal-Eder.
+\v 21 Then Israel journeyed, and pitched his tent beyond Migdal-Eder\f + Tower of the Flock\f*.
 \v 22 While Israel was living in that land,  Reuben went and lay with his father's concubine Bilhah  and Israel heard of it.
 \p Now the sons of Jacob were twelve:
 \v 23 The sons of Leah: Reuben, Jacob's firstborn, and Simeon, and Levi, and Judah, and Issachar, and Zebulun;
@@ -1758,8 +1763,8 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 27 When her time came to give birth, it was found that twins were in her womb.
 \v 28 While she was in labour, one put out a hand and the midwife took and bound on his hand a bright red thread, saying, ‘This one came out first.’
-\v 29 But  he drew back his hand, and his brother came out, and she said, ‘What a breach you have made for yourself!’ Therefore he was named Perez.
-\v 30 Afterward his brother came out, who had the bright red thread on his hand; therefore he was named Zerah.
+\v 29 But  he drew back his hand, and his brother came out, and she said, ‘What a breach you have made for yourself!’ Therefore he was named Perez\f + Breach\f*.
+\v 30 Afterward his brother came out, who had the bright red thread on his hand; therefore he was named Zerah\f + Red\f*.
 \c 39
 \ms Joseph in Egypt
 \rem Shorter
@@ -1890,8 +1895,8 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 49 Joseph stored up grain as the sand of the sea, in great quantities, until he ceased to keep account, because it could not be measured.
 \p
 \v 50 Two sons were born to Joseph and Asenath before the year of famine came.
-\v 51 Joseph named the eldest Manasseh; for he said, ‘God has made me forget all my toil and all my father's household.’
-\v 52 He named the second son Ephraim; for he said, ‘God has made me fruitful in the land of my affliction.’
+\v 51 Joseph named the eldest Manasseh\f + Making Forget\f*; for he said, ‘God has made me forget all my toil and all my father's household.’
+\v 52 He named the second son Ephraim\f + Fruitful\f*; for he said, ‘God has made me fruitful in the land of my affliction.’
 \p
 \v 53 When the seven years of plenty which had been in the land of Egypt were over,
 \v 54 the seven years of famine began, as Joseph had said; and there was famine in all lands, but throughout the land of Egypt there was food,
@@ -2335,7 +2340,7 @@ to his blessing he blessed them.
 \v 9 There went up with him both chariots and horsemen, so that it was a very great company.
 \p
 \v 10 When they came to the threshing floor of Atad, which is beyond Jordan, they held there a great and impressive lamentation; and Joseph appointed a period of mourning for his father which lasted seven days.
-\v 11 When the Canaanites, the inhabitants of the land, saw the mourning at the threshing floor of Atad, they said, ‘This is an impressive mourning among the Egyptians.’ That is why that place across the Jordan is called, Ebel-Mizraim.
+\v 11 When the Canaanites, the inhabitants of the land, saw the mourning at the threshing floor of Atad, they said, ‘This is an impressive mourning among the Egyptians.’ That is why that place across the Jordan is called, Ebel-Mizraim\f + Mourning of the Egyptians\f*.
 \p
 \v 12 Then Jacob's sons did for him what he had commanded them:
 \v 13 they carried him to the land of Canaan and buried him in the cave in the field of Machpelah near Mamre which Abraham bought with the field from Ephron the Hittite to hold as a place of burial.
@@ -2348,7 +2353,7 @@ to his blessing he blessed them.
 \v 18 his brothers also went and fell down before him and said, ‘See, we are your slaves.’
 \v 19 But Joseph said to them, ‘Do not be afraid; for am I in the place of God?
 \v 20 You plotted mischief against me, but God intended it for good, in order to accomplish what is now being done, the saving of the lives of many people.
-\v 21 Now therefore do not be afraid; I will provide for you and your little ones.’ He said this kindly, comforting them..
+\v 21 Now therefore do not be afraid; I will provide for you and your little ones.’ He said this kindly, comforting them.
 \p
 \v 22 Joseph remained in Egypt with his father's family. He lived a hundred and ten years,
 \v 23 and he saw Ephraim's great-grandchildren; the children also of Machir the son of Manasseh were borne upon Joseph's knees.

@@ -3,8 +3,17 @@
 \h Psalms
 \mt2 The
 \mt Psalms
-\rem base test is checked McFadyen
-\rem masc/neut is gender
+\rem   Original Base Text:
+\rem       McFadyens, Isaiah in Modern Speach
+\rem
+\rem   Tags:
+\rem       us cth (spelling)
+\rem       masc neut (gender)
+\rem
+\rem   Status:
+\rem       IN RELEASE
+\rem       Checked as marked
+\rem       Versification (nrsv jps) not marked
 \c 1
 \ms Book One
 \s Psalm 1 — The Way of Happiness

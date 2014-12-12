@@ -3,10 +3,18 @@
 \h Esther
 \mt2 The Book of
 \mt Esther
-\rem Based on Short English Bible
-\rem US and Cth spelling
-\rem Versification same for NRSV and JPS
-\rem Checked x 2
+\rem   Original Base Text:
+\rem       Kent's Shorter Bible
+\rem
+\rem   Tags:
+\rem       us cth (spelling)
+\rem
+\rem   Status:
+\rem       IN RELEASE
+\rem       Checked x 2
+\rem       Gender OK
+\rem       US and Cth English ok
+\rem       NSRV and JPS Versification is same
 \ms The Follies of a Despot
 \c 1
 \v 1 \p These events happened in the time of Ahasuerus, who ruled over a hundred and twenty-seven provinces from India to Ethiopia

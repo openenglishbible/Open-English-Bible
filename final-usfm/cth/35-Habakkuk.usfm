@@ -2,10 +2,19 @@
 \ide UTF-8
 \h Habakkuk
 \mt Habakkuk
-\rem Gender OK
-\rem US and Cth spelling
-\rem Checked.
-\rem NRSV and JPS versification
+\rem   Original Base Text:
+\rem       Kent's Student's Old Testament
+\rem
+\rem   Tags:
+\rem       nsrv jps (versification)
+\rem
+\rem   Status:
+\rem       DEVELOPMENT ONLY
+\rem       Complete
+\rem       Checked x 1
+\rem       US and Cth spelling OK
+\rem       NSRV and JPS versification
+\rem       Gender OK
 \c 1
 \ms Habakkuk”s message
 \p

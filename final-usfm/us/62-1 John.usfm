@@ -1,6 +1,22 @@
 \id 1JN
 \ide UTF-8
 \h 1 John
+\rem   Original Base Text:
+\rem       Twentieth Century New Testament
+\rem
+\rem   Tags:
+\rem       us cth (spelling)
+\rem       masc neut (gender)
+\rem       pit gehenna (gehenna)
+\rem       ioudaioi jew (ioudaioi)
+\rem
+\rem   Status:
+\rem       IN RELEASE
+\rem       Complete
+\rem       Checked x 2
+\rem       US Cth spelling OK
+\rem       NSRV versification only
+\rem       Gender OK
 \mt John's First Letter
 \c 1
 \s Preface
@@ -34,15 +50,18 @@
 \v 11 The person who hates is in the dark. They stumble along in the darkness; they do not know where they are going because the darkness blinds them.
 \s Those who know God should not love the world
 \p
-\q \v 12 Little children, I am writing to you
+\q
+\v 12 Little children, I am writing to you
 \q2 because your sins have been forgiven for Christ's sake.
-\q \v 13 Parents, I am writing to you
+\q
+\v 13 Parents, I am writing to you
 \q2 because you have come to know him who has been from the beginning.
 \q Young people, I am writing to you
 \q2 because you have conquered the evil one.
 \q Children, I write to you
 \q2 because you have come to know the Father.
-\q \v 14 Parents, I write to you
+\q
+\v 14 Parents, I write to you
 \q2 because you have learned to know him who has been from the beginning.
 \q Young people, I write to you
 \q2 because you are strong,

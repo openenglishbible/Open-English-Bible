@@ -1,7 +1,17 @@
 \id AMO Open English Bible
 \ide UTF-8
-\rem Source text: Kent's Student's Old Testament Vol 3
-\rem Status: Working through first stage check
+\rem   Original Base Text:
+\rem       Kent's Student's Old Testament vol 3
+\rem
+\rem   Tags:
+\rem       (none)
+\rem
+\rem   Status:
+\rem       DEVELOPMENT ONLY
+\rem       Complete
+\rem       Partially Checked
+\rem       US only
+\rem       NRSV versification only
 \h Amos
 \mt2 The Sermons of
 \mt1 Amos
@@ -661,7 +671,7 @@
 \v 9 For behold I am about to give command.
 \q And I will shake the house of Israel among all the nations.
 \q Just as one shakes grain in a sieve;
-\q But not a kernel sliall fall to the ground.
+\q But not a kernel shall fall to the ground.
 \q
 \v 10 By the sword shall die all the sinners of my people,
 \q Who say, Disaster shall not touch or befall us.

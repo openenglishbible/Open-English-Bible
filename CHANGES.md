@@ -3,6 +3,13 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB.
 
+Summary of changes to the January 2015 Release
+----------------------------------------------
+
+Specific Changes:
+
+* The backend has been adjusted to be simpler and faster and the NT backend has been harmonised with the OT
+
 Summary of changes to the November 2014 Release
 -----------------------------------------------
 

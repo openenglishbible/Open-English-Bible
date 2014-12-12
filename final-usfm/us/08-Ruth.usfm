@@ -3,11 +3,18 @@
 \h Ruth
 \mt2 The book of
 \mt Ruth
-\rem Based on Kent's Shorter Bible
-\rem Checked x 2
-\rem Gender OK
-\rem US and Cth English
-\rem NSRV and JPS Versification
+\rem   Original Base Text:
+\rem       Kent's Shorter Bible
+\rem
+\rem   Tags:
+\rem       us cth (spelling)
+\rem
+\rem   Status:
+\rem       IN RELEASE
+\rem       Checked x 2
+\rem       Gender OK
+\rem       US and Cth English ok
+\rem       NSRV and JPS Versification is same
 \c 1
 \ms Naomi and Ruth
 \p

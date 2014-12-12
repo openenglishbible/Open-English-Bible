@@ -1,8 +1,20 @@
 \id MIC Open English Bible
 \ide UTF-8
-\rem Original text: Kent's Student's Old Testament, vol 3
 \h Micah
 \mt Micah
+\rem   Original Base Text:
+\rem       Kent's Student's Old Testament
+\rem
+\rem   Tags:
+\rem       (none)
+\rem
+\rem   Status:
+\rem       DEVELOPMENT ONLY
+\rem       Complete
+\rem       Checked x 1
+\rem       US spelling only
+\rem       NSRV versification only
+\rem       Gender OK
 \c 1
 \v 1
 \s The Superscription to Micah's Sermons
