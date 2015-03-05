@@ -1,0 +1,26 @@
+[Spelling]
+
+cth:        Words are spelt using the spelling common in Commonwealth countries such as Britain and Australia
+us:         Words are spelled using the spelling common in the United States of America
+
+[Rendering gender]
+
+neut:       The pronoun 'they' is used when referring to a person of unknown or irrelevant gender
+masc:       The pronoun 'he' is used when referring to a person of unknown or irrelevant gender
+
+[Versification]
+
+nrsv:       The versification matches that used in the NSRV
+jps:        The versification matches that used in the JPS
+
+[Gehenna]
+
+gehenna:    The word 'Gehenna' is transliterated
+pit:        The word 'Gehenna' is rendered as 'the Pit'
+
+[Ioudaioi]
+
+ioudaioi:   References in the NT to 'ioudahoi', escpecially in John, are rendered as references to the intended group in scope, for example 'Jewish leaders'
+jew:        References in the NT to 'ioudahoi', especially in John, are always rendered 'the Jews'
+
+

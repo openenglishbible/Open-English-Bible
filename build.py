@@ -8,9 +8,23 @@ import getopt
 import shutil
 import os
 import re
+import ConfigParser
+import itertools
 
 import versions    
 import regressionTesting
+
+def tagCombinations(dir):
+    config = ConfigParser.RawConfigParser()
+    tags = []
+    try:
+        config.read(dir + '/tags.db')
+    except:
+        print 'Could not read tags file'
+        sys.exit(0)
+    for s in config.sections():
+        tags.append(config.options(s))
+    return list(itertools.product(*tags))
 
 def saveIfDifferent(dir, fn, contents):
     try:
@@ -59,7 +73,7 @@ def stage(src, to, tags):
     
 def main(argv):
     try:
-        opts, args = getopt.getopt(argv, "hs:b:t:", ["help", "source=", "build=", "tags="])
+        opts, args = getopt.getopt(argv, "has:b:t:", ["help", "all", "source=", "build=", "tags="])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
@@ -74,12 +88,23 @@ def main(argv):
             build = arg
         elif opt in ("-t", "--tags"):
             tags = arg.split('-')
-    
-    print '#### Staging...'
-    stage(source, build,  tags)
+        elif opt in ("-a", "--all"):
+            doAll = True
+            
+    if doAll == True:       
+        for tc in tagCombinations(source):
+            print '#### Staging...'
+            d = build + '-'.join(tc) 
+            if not os.path.exists(d):
+                os.makedirs(d)
+            stage(source, d,  tc)
+            regressionTesting.Tester().test(d)
+    else:    
+        print '#### Staging...'
+        stage(source, build,  tags)
            
-    print '#### Regression Testing...'
-    regressionTesting.Tester().test(build)
+        print '#### Regression Testing...'
+        regressionTesting.Tester().test(build)
     
 def usage():
     print """
@@ -92,6 +117,7 @@ def usage():
         -s or --source for directory of source .usfm.db files
         -b or --build for directory of built .usfm files
         -t or --tags for hyphen separated list of tags
+        -a or --all to build all tag combinations
     """
 
 if __name__ == "__main__":
