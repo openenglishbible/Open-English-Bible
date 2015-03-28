@@ -1,0 +1,19 @@
+\id FRT
+
+\periph Title Page
+
+\mt1 Open English Bible
+\mt2 NT, Psalms
+\mt3 and selected Old Testament books
+
+\periph Publication Data
+
+\pb
+\m Version 2015.04
+\m Built by github.com/openenglishbible/USFM-Tools
+\m from source USFM files at github.com/openenglishbible/Open-English-Bible
+
+\m This version uses [cth:Commonwealth spelling (for example, ‘colour’)|us:US spelling (for example, ‘color’)].
+
+\periph Table of Contents
+
