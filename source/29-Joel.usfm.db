@@ -10,31 +10,31 @@
 \rem       (none)
 \rem  
 \rem   Status:
-\rem       DEVELOPMENT ONLY
+\rem       IN RELEASE
 \rem       Complete
-\rem       Initial Check Only
-\rem       US only
-\rem       NRSV versification only
+\rem       Checked x 2
+\rem       US and Cth
+\rem       NRSV and JPS versification
 
 \c 1
-\q \v 1 The message of the \nd Lord\nd* that came to Joel, son of Pethuel. 
+\q \v 1 The \nd Lord\nd*'s message that came to Joel, son of Pethuel. 
 
 \ms Locust plague and drought
 
 \q \v 2 Hear this, elders,
 	\q2 pay attention, all inhabitants of the land,
-\q Has this been in your days,
+\q Has anything like this happened in your days,
 	\q2 or in the days of your ancestors?
 \q \v 3 Recount it to your children;
 	\q2 let your children tell it to their children,
 	\q2 and their children to the generation that follows.
 \b
-\q \v 4 That which the shearer has left,
-	\q2 the swarmer has eaten,
-\q that which the swarmer has left, 
-	\q2 the devourer has eaten,
-\q and that which the devourer has left,
-	\q2 the destroyer has eaten.
+\q \v 4 That which the cutting locust has left,
+	\q2 the swarming locust has eaten,
+\q that which the swarming locust has left, 
+	\q2 the hopping locust has eaten,
+\q and that which the hopping locust has left,
+	\q2 the destroying locust has eaten.
 \b
 \q \v 5 Awake, drunkards, and weep,
 	\q2 and wail, all  drinkers of wine;
@@ -43,7 +43,7 @@
 	\q2 powerful, and numberless;
 \q its teeth are the teeth of a lion,
 	\q2 and its jaw-teeth are like those of a lioness.
-\q \v 7 It has laid my vine waste,
+\q \v 7 It has laid waste my vines,
 	\q2 and barked my fig-tree;
 \q it has peeled and cast it away,
 	\q2 bleached are the branches.
@@ -56,7 +56,7 @@
 	\q2 who minister at the \nd Lord\nd*’s altar.
 \q \v 10 The fields are blasted, 
 	\q2	the land is in mourning,
-\q for blasted is the corn, 
+\q for ruined is the [cth:corn|us:grain], 
 	\q2 the new wine fails 
 	\q2 and the oil is dried up.
 \q \v 11 Be dismayed, farmers; 
@@ -65,9 +65,9 @@
 	\q2 for the harvest is lost from the fields.
 \q \v 12 The vine fails to bear fruit, 
 	\q2 and the fig-tree is drooping;
-\q the pomegranate, the palm also, and the apple; 
+\q the pomegranate, palm, and apple,
 	\q2 all the trees of the field are dried up.
-\q Yes, joy fails from the people.
+\q The people's joy withers.
 \b
 \q \v 13 Put on sackcloth, and beat your breasts, priests; 
 	\q2 wail, ministers of the altar;
@@ -89,17 +89,18 @@
 \q gladness and joy 
 	\q2 from the house of our God?
 \q \v 17 The grains shrivel under their hoes,
-	\q2 the store-houses are desolate, 
-	\q2 the barns broken down,
-\q for the corn is withered - 
-	\q2 what will we put in them?
-\q \v 18 How the herds of cattle are filled with perplexity, 
+	\q2 the storehouses are desolate, 
+\q2 the barns broken down,
+    \q2 for the [cth:corn|us:grain] is withered. 
+\q \v 18 How the herds of cattle bellow in distress, 
 	\q2 for they have no pasture!
 \q The flocks of sheep are forlorn.
 \b
 \q \v 19 To you, the \nd Lord\nd*, I cry.
-	\q2 For fire has devoured the pastures of the wilderness,
-	\q2 and flame has scorched all the trees of the field.
+\q For fire has devoured
+    \q2 the pastures of the wilderness,
+\q2 and flame has scorched 
+    \q2 all the trees of the field.
 \q \v 20 The wild animals also look up to you longingly,
 	\q2 for the water-courses are dried up,
 	\q2 and fire has devoured the pastures of the wilderness.
@@ -124,7 +125,7 @@
 \q  nothing escapes them.
 \b
 \q \v 4 Their appearance is as the appearance of horses,
-	\q2 and like horsemen they run.
+	\q2 and like horsemen they charge.
 \q \v 5 Like the sound of chariots on the tops of the mountains they leap,
 	\q2 like the crackle of flames devouring stubble.
 \q like a mighty people preparing for battle.
@@ -145,7 +146,7 @@
 \q Like a thief they enter the windows.
 \b
 \q \v 10 Earth trembles before them,
-	\q2 heaven quakes,
+	\q2 the sky quakes,
 \q the sun and moon become dark,
 	\q2 and the stars withdraw their shining;
 \q \v 11 and the \nd Lord\nd* utters his voice before his army,
@@ -185,25 +186,26 @@
 
 \ms Future blessings 
 
-\p \v 18 Then the \nd Lord\nd* became jealous for his land, and took pity upon his people, \v 19 and the \nd Lord\nd* answered and said to his people:
+\p \v 18 Then the \nd Lord\nd* became deeply concerned for his land, and took pity upon his people, \v 19 and the \nd Lord\nd* answered and said to his people:
 
-\q  I will send you corn, and wine, and oil.
-	\q2 And you will be satisfied with it;
+\q  I will send you [cth:corn|us:grain], wine, and oil.
+	\q2 You will be satisfied.
 \q I will not make you again 
-	\q2 an object of reproach among the nations,
+	\q2 an object of scorn among the nations,
 \q \v 20 I will remove far from you the northern foe,
 	\q2 and I will drive it into a land barren and desolate,
 \q its front into the eastern sea,
 	\q2 and its rear to the western sea.
 \q And from it a stench will arise.
 \b
-\q Fear not, land, exult.
-	\q2 \v 21  Rejoice for the \nd Lord\nd* has done great things.
+\q He has done great things!
+\q \v 21 Fear not, land, exult.
+	\q2 Rejoice for the \nd Lord\nd* has done great things!
 \q \v 22 Fear not, animals of the field.
 	\q2 For the pastures of the wilderness are putting forth new grass,
 \q for the trees bear their fruit,
-	\q2 fig-tree and vine yield their strength.
-\q \v 23 Be glad, then,  sons of Zion,
+	\q2 fig-tree and vine yield full harvest.
+\q \v 23 Be glad, then, [masc:sons|neut:children] of Zion,
 	\q2 and rejoice in the \nd Lord\nd* your God,
 \q For he has given you the early rain in just measure,
 	\q2 and poured down upon you the winter rain,
@@ -211,34 +213,35 @@
 \q \v 24 The threshing floors will be full of grain,
 	\q2 and the vats will overflow with new wine and oil.
 \b
-\q \v 25 I will make restoration to you for the years
-	 \q2 which the swarmer has eaten.
-\q The devourer, the destroyer, and the shearer,
+\q \v 25 I will repay you for the years
+	 \q2 which the swarming locust has eaten.
+\q The hopping, the destroying, and the cutting locusts,
 	\q2 my great army which I sent among you,
-\q \v 26 and you will eat your food and be satisfied,
+	\q2 and my people will never again be put to shame.
+\q \v 26 You will eat your food and be satisfied,
 	\q2 and praise the name of the \nd Lord\nd* your God,
 \q who has dealt so wonderfully by you,
 \q \v 27 and you will know that I am in the midst of Israel,
-	\q2 that I am the \nd Lord\nd* your God and none else.
-	\q2 And my people will never more be ashamed.
+	\q2 that I am the \nd Lord\nd* your God and none else,
+	\q2 and my people will never again be put to shame.
 \b
-\q \v 28 And it will come to pass afterwards
-	\q2 that I will pour out my spirit upon all flesh.
-\q And your sons and your daughters will prophesy,
+\q [nrsv:\v 28|jps:\c 3 \v 1] Afterwards,
+	\q2 I will pour out my spirit on everyone.
+\q Your sons and your daughters will prophesy,
 	\q2 your old men will dream dreams.
 \q Your young men will see visions,
-	\q2 \v 29 and even upon your male and female slaves
+	\q2 [nrsv:\v 29|jps:\v 2] and even on your male and female slaves
 \q in those days, I will pour out my spirit.
 \b
-\q \v 30 And I will show signs in heaven and earth:
+\q [nrsv:\v 30|jps:\v 3] And I will show signs in the sky and on earth:
 	\q2 Blood and fire and pillars of smoke.
-\q \v 31 The sun will be turned into darkness, 
+\q [nrsv:\v 31|jps:\v 4] The sun will be turned into darkness, 
 	\q2 and the moon into blood
 \q before the coming of the great and terrible day of the \nd Lord\nd*.
 
-\p \v 32 But whoever will call upon the name of the \nd Lord\nd* will be saved. For in Mount Zion and in Jerusalem there will be those who escape, even as the \nd Lord\nd* has said, and among the fugitives those whom the \nd Lord\nd* calls.
+\p [nrsv:\v 32|jps:\v 5] But whoever will call upon the name of the \nd Lord\nd* will be saved. For in Mount Zion and in Jerusalem there will be those who escape, even as the \nd Lord\nd* has said, and among the fugitives those whom the \nd Lord\nd* calls.
 
-\p \c 3 \v 1 For , in those days and in that time, when I bring back again the captivity of Judah and Jerusalem, \v 2 I will also gather all the nations and bring them down into the Valley of Jehoshaphat, and there I will enter into judgment with them for my people and my heritage Israel, whom they have scattered among the nations, and divided my land.
+\p [nrsv:\c 3|jps:\v 4] \v 1 For, in those days and in that time, when I bring back again the captivity of Judah and Jerusalem, \v 2 I will also gather all the nations and bring them down into the Valley of Jehoshaphat, and there I will enter into judgment with them for my people and my heritage Israel, whom they have scattered among the nations, and divided my land.
 
 \q \v 3 They have cast lots for my people.
 \q They have traded  boys  
@@ -265,8 +268,8 @@
 	\q2 all the surrounding nations.
 \q \v 13 Put in the sickle, 
 	\q2 for the harvest is ripe;
-\q come, get you down, 
-	\q2 for the press is full.
+\q go in, tread, 
+	\q2 for the wine press is full.
 \q The vats overflow, 
 	\q2 for great is their wickedness.
 \q \v 14 Noisy multitudes, noisy multitudes 
@@ -278,27 +281,27 @@
 \b
 \q \v 16 Whenever the \nd Lord\nd* roars from Zion
 	\q2 and utters his voice from Jerusalem,
-\q heaven and earth quake;
+\q earth and sky quake;
 \q but the \nd Lord\nd* is a refuge to his people,
 	\q2 and a fortress to the people of Israel.
 \q \v 17 And you will know that I am the \nd Lord\nd* your God,
-	\q2 I who dwells in Zion,
+	\q2 I who dwells in Zion, my holy mountain,
 \q and Jerusalem will be holy,
 	\q2 and strangers will not pass through her any more.
 \b
-\q \v 18 And it will come to pass in that day,
-	\q2 that the mountains will drop sweet wine,
+\q \v 18 In that day,
+	\q2 the mountains will drop sweet wine,
 \q the hills will flow with milk,
 	\q2 all the channels of Judah will flow with water,
-\q fountain will spring from the house of Judah,
+\q a fountain will spring from the house of Judah,
 	\q2 and will water the Valley of Shittim.
 \q \v 19 Egypt will become a desolation, 
 	\q2 and Edom a wilderness, 
 \q because of the violence done to the people of Judah,
 	\q2 because they shed innocent blood in their land,
-\q Judah will remain inhabited forever,
+\q \v 20 Judah will remain inhabited forever,
 	\q2 and Jerusalem from generation to generation.
-\q \v 20 I will avenge their blood which I have not yet avenged.
+\q \v 21 I will avenge their blood which I have not yet avenged.
 \b
 \q The \nd Lord\nd* lives in Zion!
 
