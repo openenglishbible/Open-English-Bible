@@ -101,7 +101,7 @@ Voice). "A boiling pot," I answered, "facing the
 
 \ms2 Israel's Ancient Fidelity and Happiness
 
-\c2
+\c 2
  
 \p \v 1 There came to me this message from Jehovah:
 \q \v 2 Go and proclaim in the hearing of Jerusalem:
@@ -771,7 +771,7 @@ your forefathers for an inheritance.
 \ms2 The Approach of the Invader
 
 
-\c6
+\c 6
 
 
 \q \v 1 Flee ye for safety, ye Benjamites,
@@ -3138,7 +3138,7 @@ Jehovah will roar from on high,
 \ms2 Jeremiah on Trial for his life
 
 
-\26
+\c 26
 
 
 \p \v 1 In the beginning of the reign of Jehoiakim, the son of 
@@ -5909,7 +5909,7 @@ the prophet.
 \q \v 8 Flee ye from Babylon's midst,
 \q2 Get ye out from the land of Chaldea,
 \q2 Like he-goats before the flock.
-\q \V 9 For behold! I will rouse against Babylon
+\q \v 9 For behold! I will rouse against Babylon
 \q2 A swarm of northern nations,
 \q That shall set their array against her,
 \q2 Until they have overcome her.
@@ -6038,7 +6038,7 @@ the prophet.
 \q The children of Israel are crushed,
 \q2 And the children of Judah together;
 \q Their captors hold them fast
-\a2 And refuse to let them go.
+\q2 And refuse to let them go.
 
 
 \q \v 34 But mighty is their Redeemer;
@@ -6407,7 +6407,8 @@ this scroll, tie a stone to it and throw it into the middle
 \v 64 of the Euphrates, with the words: 'Thus shall Babylon
 sink, to rise no more, because of all the misery that I
 shall bring upon her.'"
-\q2 Here end the words of Jeremiah.
+
+\p Here end the words of Jeremiah.
 
 
 
@@ -6510,7 +6511,7 @@ six hundred.
 
 
 
-\ms2 A Glean of Light in the Darkness of Exile
+\ms2 A Gleam of Light in the Darkness of Exile
 
 
 \p \v 31 In the thirty seventh year of the exile of Jehoiachin,
