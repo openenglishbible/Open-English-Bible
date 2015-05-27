@@ -10,230 +10,98 @@
 \rem       us cth (apelling)
 \rem  
 \rem   Status:
-\rem       DEVELOPMENT ONLY
+\rem       IN RELEASE
 \rem       Complete
-\rem       Initial Check Only
+\rem       Check x 2
 \rem       US Cth spelling OK
 \rem       NSRV versification only
 \rem       Gender OK
 
 \c 1 
-\ms Jehovah's Love for Jacob
+\v 1 \ms The Lord's Love for Israel \p An oracle. The message of the \nd Lord\nd* to Israel through Malachi.
+ 
+\v 2 \p “I have loved you,” says the \nd Lord\nd*. “But you ask, ‘How have you shown love to us?’ Was not Esau Jacob's brother?” explains the \nd Lord\nd* of hosts, “yet I loved Jacob, 
+\v 3 but hated Esau, and made his mountains a desolation, and transformed his ancestral land into a wilderness. 
+\v 4 When Edom says, ‘We are beaten down, but we will return and rebuild the ruined places’” the \nd Lord\nd* of hosts says, “They may build, but I will throw down. They will be called, ‘The border land of wickedness,’ the people against whom the \nd Lord\nd* is angry forever. 
+\v 5 Your own eyes will see this, and you will say, ‘the \nd Lord\nd*'s greatness  reaches beyond the border of Israel.’”
 
-\p An oracle. The message of the \nd Lord\nd* to Israel through Malachi.
+\v 6 
+\ms Against the Priests
+\p  “A son [us:honors|cth:honours] his father and servant their master. If I am a father, where is my [us:honor|cth:honour]? And if I am a master, where is the one who fears me? So says the \nd Lord\nd* to you, priests who despise my name. You ask, ‘How have we despised your name?’ 
+\v 7 You offer on my altar bread that is polluted. You ask, ‘How have we polluted it?’ Because you say, ‘The table of the \nd Lord\nd* is contemptible.’ 
+\v 8 When you offer the blind animal for sacrifice, ‘It doesn't matter!’ And when you offer the lame and the sick ‘It doesn't matter!’ Give an animal like that to your governor; will he be pleased with it? Will he receive you [us:favorably|cth:favourably]?” says the \nd Lord\nd* of hosts. 
+\v 9 Now, plead for the [us:favor|cth:favour] of God with such an offering, so that he may be gracious to us. “Would I receive any of you [us:favorably|cth:favourably]?” says the \nd Lord\nd* of hosts.
 
-\q \v 2 “I have loved you,” says the \nd Lord\nd*.
-\q “But you ask, ‘How have you shown love to us?’
-\q Was not Esau Jacob's brother?”
-\q explains the \nd Lord\nd* of hosts,
-\q “yet I loved Jacob, \v 3 but hated Esau,
-\q and made his mountains a desolation,
-\q and transformed his ancestral land into a wilderness.
-\q \v 4 When Edom says, ‘We are beaten down,
-\q but we will return and rebuild the ruined places’”
-\q the \nd Lord\nd* of hosts says,
-\q “They may build, but I will throw down.
-\q People will call them, ‘The border land of wickedness,’
-\q the people against whom the \nd Lord\nd* is angry forever.
-\q \v 5 And your own eyes will see,
-\q and you will say, the \nd Lord\nd*'s greatness 
-\q reaches beyond the border of Israel.”
+\v 10 \p “If only one of you would shut the temple doors, so that you could not kindle useless fires on my altar! I have no pleasure in you,” says the \nd Lord\nd* of hosts, “Nor will I accept an offering from your hand. 
+\v 11 For from the rising of the sun to its setting my name is great among the nations, and in every place they offer to my name a pure offering. For my name is great among the nations,” says the \nd Lord\nd* of hosts.
 
-\ms Infidelity and Ingratitude of the Priests
+\v 12 \p “But you profane me when you say, ‘The table of the \nd Lord\nd* is polluted, and its food is contemptible.’ 
+\v 13 You say also, ‘How tired we are of all this!’ and you sniff contemptuously at it. You have brought the blind, the lame and the sick as offerings. Should I accept this from your hand?” says the \nd Lord\nd* of hosts. 
+\v 14 “Cursed be the cheat, who has in his flock a valuable male, but vows and sacrifices to the Lord a blemished animal! For I am a great king,” says the \nd Lord\nd* of hosts, “and my name is feared among the nations.”
 
-\q \v 6  “A son [us:honors|cth:honours] his father and a servant fears his master.
-\q If I am a father, where is my [us:honor|cth:honour]?
-\q And if I am a master, where is the one who fears me?
-\q So says the \nd Lord\nd* to you, priests who despise my name.
-\q You ask, ‘How have we despised your name?’
-\q \v 7 You offer on my altar bread that is polluted.
-\q You ask, ‘How have we polluted it?’
-\q Because you say, ‘The table of the \nd Lord\nd* is contemptible.’
-\q \v 8 When you offer the blind animal for sacrifice, ‘It doesn't matter!’
-\q And when you offer the lame and the sick ‘It doesn't matter!’
-\q Give an animal like that to your governor; will he be pleased with it?
-\q Will he receive you [us:favorably|cth:favourably]?” says the \nd Lord\nd* of hosts.
-\q \v 9 Now, plead for the [us:favor|cth:favour] of God with such an offering, so that he may be gracious to us.
-\q “Would I receive any of you [us:favorably|cth:favourably]?” says the \nd Lord\nd* of hosts.
-\b
-\q \v 10 “If only one of you would shut the temple doors,
-\q so that you could not kindle useless fires on my altar!
-\q I have no pleasure in you,” says the \nd Lord\nd* of hosts,
-\q “Nor will I accept an offering from your hand.
-\q \v 11 For from the rising of the sun to its setting my name is great among the nations,
-\q and in every place they offer to my name a pure offering.
-\q For my name is great among the nations,” says the \nd Lord\nd* of hosts.
-\b
-\q \v 12 “But you profane me when you say,
-\q ‘The table of the \nd Lord\nd* is polluted, and its food is contemptible.’
-\q \v 13 You say also, ‘How tired we are of all this!’ and you sniff contemptuously at it.
-\q You have brought the blind, the lame and the sick as offerings.
-\q Should I accept this from your hand?” says the \nd Lord\nd* of hosts.
-\q \v 14 “But cursed be the cheat, who has in his flock a valuable male,
-\q but vows and sacrifices to the Lord a blemished animal!
-\q For I am a great king,” says the \nd Lord\nd* of hosts, “and my name is feared among the nations.”
-\b
-\c 2 
-\q \v 1 “Now, you priests, this command is for you.
-\q \v 2 If you will not hear, and if you do not take it to heart,
-\q to give glory to my name,” says the \nd Lord\nd* of hosts,
-\q “Then I will lay a curse on you. I will turn your blessings into curses.
-\q Indeed I have already done so, because you pay no attention. 
-\q \v 3 I will cut off your arms!
-\q I will spread offal upon your faces, even the offal of your pilgrim feasts,
-\q you will be discarded.
-\q \v 4 You will then know that I have sent this command to you,
-\q so that my covenant with Levi may be preserved,” says the \nd Lord\nd* of hosts.
-\b
-\q \v 5 “My covenant with him was to give life and peace. 
-\q I gave them to him so that he might revere me.
-\q He revered me, and stood in awe of my name. 
-\q \v 6 The true instruction was in his mouth, 
-\q and injustice was not found in his lips; 
-\q He walked with me in peace and uprightness, 
-\q and turned many away from iniquity. 
-\q \v 7 For the priest's lips should keep knowledge, 
-\q and people should seek the law from his mouth,
-\q because he is the messenger of the \nd Lord\nd* of hosts.
-\b
-\q \v 8 “But you have turned aside from that way.
-\q You have caused many to stumble in the law.
-\q You have corrupted the covenant of Levi,”
-\q says the \nd Lord\nd* of hosts.
-\q \v 9 “So I have I made you contemptible
-\q and degraded before all the people,
-\q because you have not kept my ways,
-\q and have had no respect for me in imparting the law.”
+\c 2
+\v 1 \p “Now, you priests, this command is for you. 
+\v 2 If you will not hear, and if you do not take it to heart, to give glory to my name,” says the \nd Lord\nd* of hosts, “Then I will lay a curse on you. I will turn your blessings into curses. Indeed I have already done so, because you pay no attention.  
+\v 3 I will punish your descendents! I will spread offal upon your faces, even the offal of your pilgrim feasts, you will be discarded. 
+\v 4 You will then know that I have sent this command to you, so that my covenant with Levi may be preserved,” says the \nd Lord\nd* of hosts.
 
-\ms Condemnation of Divorce
+ 
+\v 5 \p “My covenant with him was to give life and peace.  I gave them to him so that he might revere me. He revered me, and stood in awe of my name.  
+\v 6 The true instruction was in his mouth,  and injustice was not found in his lips;  He walked with me in peace and uprightness,  and turned many away from iniquity.  
+\v 7 For the priest's lips should keep knowledge,  and people should seek the law from his mouth, because he is the messenger of the \nd Lord\nd* of hosts.
 
-\q \v 10 Don‘t we have all one father?
-\q Didn‘t one God created us?
-\q Why do we deal faithlessly with one another, 
-\q profaning the covenant of our ancestors?
-\q \v 11 Judah is treacherous, 
-\q and abominations are committed in Israel and in Jerusalem
-\q because Judah has profaned the holy things loved by the \nd Lord\nd*, 
-\q and has married the daughter of a foreign god. 
-\q \v 12 May the \nd Lord\nd* banish from the community of Jacob
-\q anyone who does this, 
-\q anyone awaking, testifying, 
-\q and making an offering to the \nd Lord\nd* of hosts. 
-\q \v 13 And you also do this:
-\q You cover the altar of the \nd Lord\nd* with tears,
-\q because he doesn‘t accept the offering any more, 
-\q doesn‘t accept it from your hand.
-\q \v 14 Yet you ask, “Why?”
-\q Because the \nd Lord\nd* is testifying against you 
-\q on behalf of the wife you married when you were young.
-\q You have been unfaithful to her,
-\q even though she is your companion, 
-\q and your legal wife.
-\b
-\q \v 15 Did not the One make everyone,
-\q so that all both flesh and spirit is his? 
-\q And what does that One seek but godly children?
-\q Therefore keep watch over your spirit,
-\q and let none of you deal faithlessly with the wife of your youth.
-\q \v 16 “A man who divorces or puts away his wife,”
-\q says \nd Lord\nd*, the God of Israel,
-\q “overwhelms her with cruelty.”
-\q The \nd Lord\nd* of hosts says:
-\q “Keep watch over your spirit, do not be unfaithful.”
+\v 8 \p “But you have turned aside from that way. You have caused many to stumble in the law. You have corrupted the covenant of Levi,” says the \nd Lord\nd* of hosts. 
+\v 9 “So I have I made you contemptible and degraded before all the people, because you have not kept my ways, and have had no respect for me in imparting the law.”
 
-\ms The Lord's Coming Judgment
 
-\q \v 17 You have wearied the \nd Lord\nd* with your words. 
-\q You ask, “How have we wearied him?”
-\q By saying, “Everyone who does evil
-\q is good in the sight of the \nd Lord\nd*,
-\q and he delights in them.”
-\q Or, “Where is the God of justice?”
-\b
-\c 3 
-\q \v 1 “I am about to send my messenger
-\q and he will clear a path before me:
-\q And the \nd Lord\nd*, who you are seeking,
-\q will suddenly come to his temple.
-\q \v 2 But who can endure the day of his coming?
-\q And who will stand firm when he appears?
-\q He is like a refiner's fire,
-\q and like a launderer's soap,
-\q \v 3 and he will sit as a refiner and purifier.
-\q He will purify the sons of Levi,
-\q and refine them like gold and silver,
-\q until they are fit to bring offerings to the \nd Lord\nd*.
-\q \v 4 Then will the offerings of Judah and Jerusalem be pleasant to the \nd Lord\nd*,
-\q as in the days of old, and as in former years.
-\b
-\q \v 5 “I will come to you in judgment.
-\q I will be quick to testify
-\q against the sorcerers, adulterers, perjurers,
-\q those who cheat workers, or widows, or orphans,
-\q deny justice to immigrants, and do not fear me,”
-\q says the \nd Lord\nd* of hosts.
-\q \v 6 “For I, the \nd Lord\nd*, do not change;
-\q and you have not ceased to be children of Jacob.”
+\v 10 
+\ms Unfaithfulness
+\p Don‘t we have all one father? Didn‘t one God created us? Why do we deal faithlessly with one another,  profaning the covenant of our ancestors? 
+\v 11 Judah is treacherous,  and abominations are committed in Israel and in Jerusalem because Judah has profaned the holy things loved by the \nd Lord\nd*,  and has married the daughter of a foreign god.  
+\v 12 May the \nd Lord\nd* banish from the community of Jacob anyone who does this,  anyone awaking, testifying,  and making an offering to the \nd Lord\nd* of hosts.  
+\v 13 And you also do this: You cover the altar of the \nd Lord\nd* with tears, because he doesn‘t accept the offering any more,  doesn‘t accept it from your hand. 
+\v 14 Yet you ask, “Why?” Because the \nd Lord\nd* is testifying against you  on behalf of the wife you married when you were young. You have been unfaithful to her, even though she is your companion,  and your legal wife.
 
-\ms Penalty for Withholding the Tithe
+\v 15 \p Did not the one God make everyone, so that all both flesh and spirit is his?  And what does that one God seek but godly children? Therefore keep watch over your spirit, and let none of you deal faithlessly with the wife of your youth. 
+\v 16 “A man who divorces or puts away his wife,” says \nd Lord\nd*, the God of Israel, “overwhelms her with cruelty.” The \nd Lord\nd* of hosts says: “Keep watch over your spirit, do not be unfaithful.”
 
-\q \v 7 “From the days of your ancestors, you have turned aside from my statutes, and you have not kept them.
-\q Turn to me and I will turn to you,” says the \nd Lord\nd*.
-\q “You say, ‘How should we turn?’
-\q \v 8 Can a human rob God? Yet you robbed me.
-\q You ask, ‘How have we robbed you?’ In tithes and gifts!
-\q \v 9 You are all cursed, because you rob me.
-\b
-\q \v 10 “Bring the whole tithe into the store-house,
-\q so that there is food in my house. Test me in this way.
-\q See if I will not open to you the windows of the sky,
-\q and pour you out a blessing, until there is more than enough.
-\q \v 11 I will rebuke for your sakes the devouring locust and he will not destroy your crops,
-\q nor will the vine fail to ripen its fruit in the field,
-\q \v 12 and all nations will call you happy,
-\q for you will be a delightful land,” says the \nd Lord\nd* of hosts.
+\v 17
+\ms The Lord's Coming Judgment 
+\p You have wearied the \nd Lord\nd* with your words.  You ask, “How have we wearied him?” By saying, “Everyone who does evil is good in the sight of the \nd Lord\nd*, and he delights in them.” Or, “Where is the God of justice?”
 
+\c 3  
+\v 1 \p “I am about to send my messenger and he will clear a path before me: And the \nd Lord\nd*, who you are seeking, will suddenly come to his temple. The messanger of the covenant who you long for is already coming, says the \nd Lord\nd* of hosts.
+\v 2 But who can endure the day of his coming? And who will stand firm when he appears? He is like a refiner's fire, and like a launderer's soap, 
+\v 3 and he will sit as a refiner and purifier. He will purify the descendants of Levi, and refine them like gold and silver, until they are fit to bring offerings to the \nd Lord\nd*. 
+\v 4 Then will the offerings of Judah and Jerusalem be pleasant to the \nd Lord\nd*, as in the days of old, and as in former years.
+ 
+\v 5 \p “I will come to you in judgment. I will be quick to testify against the sorcerers, adulterers, perjurers, those who cheat workers, or widows, or orphans, deny justice to immigrants, and do not fear me,” says the \nd Lord\nd* of hosts. 
+\v 6 “For I, the \nd Lord\nd*, do not change; and you have not ceased to be descendants of Jacob.”
+
+\v 7 \ms Paying the Tithe \p “From the days of your ancestors, you have turned aside from my statutes, and you have not kept them. Turn to me and I will turn to you,” says the \nd Lord\nd*. “You say, ‘How should we turn?’ 
+\v 8 Can a human rob God? Yet you robbed me. You ask, ‘How have we robbed you?’ In tithes and gifts! 
+\v 9 You - your entire nation - are all cursed, because you rob me.
+
+\v 10 \p “Bring the whole tithe into the storehouse, so that there is food in my house. Test me in this way. See if I will not open to you the windows of the sky, and pour you out a blessing, until there is more than enough. 
+\v 11 I will rebuke for your sakes the devouring locust and he will not destroy your crops, nor will the vine fail to ripen its fruit in the field, says the \nd Lord\nd* of hosts,  
+\v 12 and all nations will call you happy, for you will be a delightful land,” says the \nd Lord\nd* of hosts.
+
+\v 13 
 \ms Future Reward of the Godless and Faithful
+\p “You have said terrible things about me,” says the \nd Lord\nd*. “You ask, ‘What have we said about you?’ 
+\v 14 You have said, ‘It is useless to serve God, and what do we gain from the \nd Lord\nd* of hosts by keeping his commands, and walking mournfully in funeral garb before him? 
+\v 15 So now we call the proud happy, evildoers thrive: they dare God and escape unharmed.’”
 
-\q \v 13 “You have said terrible things about me,” says the \nd Lord\nd*.
-\q “You ask, ‘What have we said about you?’
-\q \v 14 You have said, ‘It is useless to serve God,
-\q and what do we gain from the \nd Lord\nd* of hosts by keeping his commands,
-\q and walking mournfully in funeral garb before him?
-\q \v 15 So now we call the proud happy,
-\q evildoers thrive:
-\q they dare God and escape unharmed.’”
-\b
-\q \v 16 Such things those who feared the \nd Lord\nd* spoke to one another,
-\q and the \nd Lord\nd* took notice,
-\q and a record was written before him
-\q of those who feared the \nd Lord\nd*
-\q and those who keep in mind his name.
-\q \v 17 “They will be mine,” says the \nd Lord\nd* of hosts,
-\q “In the day that I prepare my special treasure.
-\q I will spare them
-\q as a man spares his son who serves him.
-\q \v 18 Once again my people will see the difference between the righteous and the wicked,
-\q between the person who serves God and the person who does not.
-\b
-\c 4 
-\q \v 1 “The day is coming that will burn like a furnace,
-\q and all the proud and all evildoers will be stubble,
-\q and the day that is coming will burn them up,” says the \nd Lord\nd* of hosts,
-\q “leaving neither root nor branch.
-\q \v 2 But to you who fear my name there will arise
-\q the sun of righteousness with healing in its wings,
-\q and you will run free like calves let out from their stall.
-\q \v 3 In the day when I act
-\q you will tread down the wicked,
-\q they will be as ashes under the soles of your feet,”
-\q says the \nd Lord\nd* of hosts. 
-\b
-\q \v 4 “Remember the law of Moses my servant, statutes and judgments
-\q which I gave him at Horeb for all Israel.
-\q \v 5 I am about to send to you Elijah the prophet,
-\q before the great and terrible day of the \nd Lord\nd* comes.
-\q \v 6 He will turn fathers' hearts to their sons 
-\q and sons' hearts to their fathers,
-\q so that I will not come and strike the earth with judgement.”
+\v 16 \p Such things those who revered the \nd Lord\nd* spoke to one another, and the \nd Lord\nd* took notice, and a record was written before him of those who revered the \nd Lord\nd* and those who keep in mind his name. 
+\v 17 “They will be mine,” says the \nd Lord\nd* of hosts, “my special possession on that day that I am preparing. I will spare them as a man spares his son who serves him. 
+\v 18 Once again my people will see the difference between the righteous and the wicked, between the person who serves God and the person who does not.
+
+\c 4  
+\v 1 \p “The day is coming that will burn like a furnace, and all the proud and all evildoers will be stubble, and the day that is coming will burn them up,” says the \nd Lord\nd* of hosts, “leaving neither root nor branch. 
+\v 2 But to you who revere my name there will arise the sun of righteousness with healing in its wings, and you will run free like calves let out from their stall. 
+\v 3 In the day when I act you will tread down the wicked, they will be as ashes under the soles of your feet,” says the \nd Lord\nd* of hosts. 
+
+\v 4 \p “Remember the law of Moses my servant, statutes and judgments which I gave him at Horeb for all Israel. 
+\v 5 I am about to send to you Elijah the prophet, before the great and terrible day of the \nd Lord\nd* comes. 
+\v 6 He will turn fathers' hearts to their sons  and sons' hearts to their fathers, so that I will not come and strike the earth with judgement.”
 
