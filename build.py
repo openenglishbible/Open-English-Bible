@@ -69,7 +69,7 @@ def stage(src, to, tags, booklist):
             s = s.replace(u'\\v ', u'\n\\v ')
             s = re.sub(r'\s*\n\s*', r'\n', s)
     
-            if booklist == [] or fn[:-8] in booklist:
+            if booklist == [] or fn[:-3] in booklist:
                 saveIfDifferent(to, fn[:-3], s)
     
 def main(argv):
@@ -97,6 +97,7 @@ def main(argv):
             booklist = ''
             with open(arg, 'r') as fin:
                 booklist = fin.read().split()
+            print 'BOOKLIST:  ' + str(booklist)
             
     if doAll == True:       
         for tc in tagCombinations(source):
