@@ -42,7 +42,7 @@ def saveIfDifferent(dir, fn, contents):
     else:
         print '     ' + fn
 
-def stage(src, to, tags):
+def stage(src, to, tags, booklist):
     print '     ' + str(tags)
     for fn in os.listdir(src + '/'):
         if fn[-8:] == '.usfm.db':
@@ -69,28 +69,34 @@ def stage(src, to, tags):
             s = s.replace(u'\\v ', u'\n\\v ')
             s = re.sub(r'\s*\n\s*', r'\n', s)
     
-            saveIfDifferent(to, fn[:-3], s)
+            if booklist == [] or fn[:-8] in booklist:
+                saveIfDifferent(to, fn[:-3], s)
     
 def main(argv):
     try:
-        opts, args = getopt.getopt(argv, "has:b:t:", ["help", "all", "source=", "build=", "tags="])
+        opts, args = getopt.getopt(argv, "has:d:b:t:", ["help", "all", "source=", "destination=", "booklist=", "tags="])
     except getopt.GetoptError:
         usage()
         sys.exit(2)
 
     source = build = tags = ''
     doAll = False
+    booklist = []
     for opt, arg in opts:
         if opt in ("-h", "--help"):
             usage()
         elif opt in ("-s", "--source"):
             source = arg
-        elif opt in ("-b", "--build"):
+        elif opt in ("-d", "--destination"):
             build = arg
         elif opt in ("-t", "--tags"):
             tags = arg.split('-')
         elif opt in ("-a", "--all"):
             doAll = True
+        elif opt in ("-b", "--booklist"):
+            booklist = ''
+            with open(arg, 'r') as fin:
+                booklist = fin.read().split()
             
     if doAll == True:       
         for tc in tagCombinations(source):
@@ -102,7 +108,7 @@ def main(argv):
             regressionTesting.Tester().test(d)
     else:    
         print '#### Staging...'
-        stage(source, build,  tags)
+        stage(source, build,  tags, booklist)
            
         print '#### Regression Testing...'
         regressionTesting.Tester().test(build)
@@ -116,9 +122,10 @@ def usage():
 
         -h or --help for these options
         -s or --source for directory of source .usfm.db files
-        -b or --build for directory of built .usfm files
+        -d or --destination for directory of built .usfm files
         -t or --tags for hyphen separated list of tags
         -a or --all to build all tag combinations
+        -b or --booklist to limit books built to list in file
     """
 
 if __name__ == "__main__":
