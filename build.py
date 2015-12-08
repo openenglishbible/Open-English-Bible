@@ -96,7 +96,7 @@ def main(argv):
         elif opt in ("-b", "--booklist"):
             booklist = ''
             with open(arg, 'r') as fin:
-                booklist = fin.read().split()
+                booklist = fin.read().split('\n')
             print 'BOOKLIST:  ' + str(booklist)
             
     if doAll == True:       
