@@ -1,22 +1,20 @@
 \id GAL
 \ide UTF-8
 \h Galatians
-\rem   Original Base Text:
-\rem       Twentieth Century New Testament
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem       masc neut (gender)
-\rem       pit gehenna (gehenna)
-\rem       ioudaioi jew (ioudaioi)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 1
-\rem       US Cth spelling OK
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Twentieth Century New Testament
+\rem TAGS
+\rem us cth (spelling)
+\rem masc neut (gender)
+\rem pit gehenna (gehenna)
+\rem ioudaioi jew (ioudaioi)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 1
+\rem US Cth spelling OK
+\rem NSRV versification only
+\rem Gender OK
 \mt2 Paul's Letter to the
 \mt Galatians
 \c 1
@@ -38,7 +36,7 @@
 \v 10 Is this, I ask, trying to conciliate people, or God? Am I seeking to please people? If I were still trying to please people, I should not be a servant of Christ.
 \ms The Independence of the Apostle's Gospel
 \p
-\v 11 I  remind you, friends, that the good news which I told is no mere human invention.
+\v 11 I remind you, friends, that the good news which I told is no mere human invention.
 \v 12 I, at least, did not receive it from any human being, nor was I taught it, but it came to me through a revelation made by Jesus Christ.
 \p
 \v 13 You heard, no doubt, of my conduct when I was devoted to Judaism — how I persecuted the church of God to an extent beyond belief, and made havoc of it,
@@ -51,7 +49,7 @@
 \v 20 (As to what I am now writing to you, I call God to witness that I am speaking the truth).
 \v 21 Afterward I went to the districts of Syria and Cilicia.
 \v 22 But I was still unknown even by sight to the Christian churches in Judea;
-\v 23 all that they had heard was — ‘The man who once persecuted us is now telling the good news of the  faith of which he once made havoc.’
+\v 23 all that they had heard was — ‘The man who once persecuted us is now telling the good news of the faith of which he once made havoc.’
 \v 24 And they praised God for my sake.
 \c 2
 \p
@@ -64,7 +62,7 @@
 \v 7 On the contrary, they saw that I had been entrusted with the good news for the Gentiles, just as Peter had been for the Jews.
 \v 8 For he who gave Peter power for his mission to the Jews gave me, also, power to go to the Gentiles.
 \v 9 Recognizing the charge entrusted to me, James, Peter, and John, who were regarded as pillars of the church, openly acknowledged Barnabas and me as fellow workers, agreeing that we should go to the Gentiles, and they to the Jews.
-\v 10 Only we were to remember the poor — the  thing I was myself anxious to do.
+\v 10 Only we were to remember the poor — the thing I was myself anxious to do.
 \v 11 But, when Peter came to Antioch, I opposed him to his face; for he stood self-condemned.
 \v 12 Before certain persons came from James, he had been in the habit of eating with the Gentile converts; but, when they came, he began to withdraw and hold aloof, because he was afraid of offending those who still held to circumcision.
 \v 13 The rest of the Jewish converts were guilty of the same hypocrisy, so that even Barnabas was led away by it.
@@ -74,14 +72,14 @@
 \v 15 We, though we are Jews by birth and not outcasts of Gentile origin, know that no one is pronounced righteous as the result of obedience to Law, but only through faith in Christ Jesus.
 \v 16 So we placed our faith in Christ Jesus, in order that we might be pronounced righteous, as the result of faith in Christ, and not of obedience to Law; for such obedience ‘will not result in even one soul's being pronounced righteous.’
 \v 17 If, while seeking to be pronounced righteous through union with Christ, we were ourselves seen to be outcasts, would that make Christ an agent of sin? Heaven forbid!
-\v 18 For, if I rebuild the  things that I pulled down, I prove myself to have done wrong.
+\v 18 For, if I rebuild the things that I pulled down, I prove myself to have done wrong.
 \v 19 I, indeed, through Law became dead to Law, in order to live for God.
 \v 20 I have been crucified with Christ. So it is no longer I that live, but it is Christ who lives in me; and, as for my present earthly life, I am living it by faith in the Son of God, who loved me and gave himself for me.
 \v 21 I do not reject the love of God. If righteousness comes through Law, then there was no need for Christ to die!
 \c 3
 \s ~
 \p
-\v 1 Foolish Galatians! Who has been fascinating you — you before whose  eyes Jesus Christ was depicted on the cross?
+\v 1 Foolish Galatians! Who has been fascinating you — you before whose eyes Jesus Christ was depicted on the cross?
 \v 2 Here is the one thing that I want to find out from you — Did you receive the Spirit as the result of obedience to Law, or of your having listened with faith?
 \v 3 Can you be so foolish? After beginning with what is spiritual, do you now end with what is external?
 \v 4 Did you go through so much to no purpose? — if indeed it really was to no purpose!
@@ -163,8 +161,8 @@
 \v 25 (The word Hagar meaning in Arabia Mount Sinai) and it ranks with the Jerusalem of today, for she and her children are in slavery.
 \v 26 But the Jerusalem above is free, and she it is who is our mother.
 \v 27 For scripture says —
-\q1 ‘Rejoice, you barren one, who does never bear,
-\q1 Break into shouts, you who are never in labor,
+\q ‘Rejoice, you barren one, who does never bear,
+\q Break into shouts, you who are never in labor,
 \q2 For many are the children of her who is desolate —
 \q3 aye, more than of her who has a husband.’
 \nb
@@ -178,7 +176,7 @@
 \ms The Gospel in the Daily Life
 \p
 \v 1 It is for freedom that Christ set us free; stand firm therefore, and do not again be held under the yoke of slavery.
-\s
+\s ~
 \v 2 Understand that I, Paul, myself tell you that if you allow yourselves to be circumcised, Christ will avail you nothing.
 \v 3 I again declare to everyone who receives circumcision, that he binds himself to obey the whole Law.
 \v 4 You have severed yourselves from Christ — you who are seeking to be pronounced righteous through Law; you have fallen away from love.
@@ -225,7 +223,7 @@
 \ms Conclusion in the Apostle's own handwriting
 \p
 \v 11 See in what large letters I am writing with my own hand.
-\v 12 Those who wish to appear to advantage in regard to outward observances are the  people who are trying to compel you to be circumcised; and they do it only to avoid being persecuted for the cross of Jesus, the Christ.
+\v 12 Those who wish to appear to advantage in regard to outward observances are the people who are trying to compel you to be circumcised; and they do it only to avoid being persecuted for the cross of Jesus, the Christ.
 \v 13 Even these men who are circumcised do not themselves keep the Law; yet they want you to be circumcised, so that they may boast of your observance of the rite.
 \v 14 But, for my part, may I never boast of anything except the cross of Jesus Christ, our Master, through whom the world has been crucified to me, and I to the world.
 \v 15 For neither is circumcision nor the omission of it anything; but a new nature is everything.

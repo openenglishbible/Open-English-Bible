@@ -1,22 +1,20 @@
 \id TIT
 \ide UTF-8
 \h Titus
-\rem   Original Base Text:
-\rem       Twentieth Century New Testament
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem       masc neut (gender)
-\rem       pit gehenna (gehenna)
-\rem       ioudaioi jew (ioudaioi)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 1
-\rem       US Cth spelling OK
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Twentieth Century New Testament
+\rem TAGS
+\rem us cth (spelling)
+\rem masc neut (gender)
+\rem pit gehenna (gehenna)
+\rem ioudaioi jew (ioudaioi)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 1
+\rem US Cth spelling OK
+\rem NSRV versification only
+\rem Gender OK
 \mt2 Paul's Letter to
 \mt Titus
 \c 1
@@ -80,5 +78,5 @@
 \s ~
 \p
 \v 15 All who are with me here send you their greeting. Give my greeting to our friends in the faith.
-\s
+\s ~
 \p God bless you all.

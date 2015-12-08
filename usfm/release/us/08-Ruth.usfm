@@ -3,18 +3,16 @@
 \h Ruth
 \mt2 The book of
 \mt Ruth
-\rem   Original Base Text:
-\rem       Kent's Shorter Bible
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Checked x 2
-\rem       Gender OK
-\rem       US and Cth English ok
-\rem       NSRV and JPS Versification is same
+\rem ORIGINAL BASE TEXT
+\rem Kent's Shorter Bible
+\rem TAGS
+\rem us cth (spelling)
+\rem STATUS
+\rem IN RELEASE
+\rem Checked x 2
+\rem Gender OK
+\rem US and Cth English ok
+\rem NSRV and JPS Versification is same
 \c 1
 \ms Naomi and Ruth
 \p
@@ -100,7 +98,8 @@
 \v 16 When Ruth came to her mother-in-law, Naomi said, “Is it you, my daughter?” Then Ruth told Naomi all that the man had done for her.
 \v 17 She said, “He gave me these six measures of barley; for he said, ‘Do not go to your mother-in-law empty-handed.’”
 \v 18 Naomi said, “Wait quietly, my daughter. Until you know how the affair will turn out, for the man will not rest unless he settles it all today.”
-\p \c 4
+\p
+\c 4
 \v 1 Then Boaz went up to the gate and sat down. Just then the near kinsman of whom Boaz had spoken came along. Boaz said, “Hello, So-and-so (calling him by name), come here and sit down.” So he stopped and sat down.
 \v 2 Boaz also took ten of the town elders and said, “Sit down here.” So they sat down.
 \p
@@ -126,7 +125,7 @@
 \v 16 So Naomi took the child in her arms and cared for him as if he was her own.
 \v 17 The women of the neighborhood gave him a name, saying, “A son is born to Naomi!” They named him Obed; he became the father of Jesse, who was the father of David.
 \ms Genealogy
-\q1
+\q
 \v 18 This is the genealogy of Perez:
 \q2 Perez was the father of Hezron,
 \q2

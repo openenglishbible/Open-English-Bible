@@ -1,17 +1,15 @@
 \id AMO Open English Bible
 \ide UTF-8
-\rem   Original Base Text:
-\rem       Kent's Student's Old Testament vol 3
-\rem
-\rem   Tags:
-\rem       (none)
-\rem
-\rem   Status:
-\rem       DEVELOPMENT ONLY
-\rem       Complete
-\rem       Partially Checked
-\rem       US only
-\rem       NRSV versification only
+\rem ORIGINAL BASE TEXT
+\rem Kent's Student's Old Testament vol 3
+\rem TAGS
+\rem (none)
+\rem STATUS
+\rem DEVELOPMENT ONLY
+\rem Complete
+\rem Partially Checked
+\rem US only
+\rem NRSV versification only
 \h Amos
 \mt2 The Sermons of
 \mt1 Amos
@@ -100,7 +98,8 @@
 \q he and his nobles together,
 \q says the \nd Lord\nd*.
 \b
-\q \c 2
+\q
+\c 2
 \v 1 The \nd Lord\nd* says:
 \q For Moab's three crimes ---
 \q no, four! --- I will not rescind my judgment.
@@ -235,9 +234,11 @@
 \q with the corner of a couch,
 \q and the damask of a divan!
 \b
-\v 13 \q Hear and testify against the house of Jacob,
+\v 13
+\q Hear and testify against the house of Jacob,
 \q says the Lord \nd God\nd*, the God of hosts.
-\v 14 \q On the day when I punish Israel for their crimes,
+\v 14
+\q On the day when I punish Israel for their crimes,
 \q I will also visit in judgment the altars of Bethel,
 \q and the horns of the altar will be hacked off,
 \q and they will fall to the ground.
@@ -247,7 +248,8 @@
 \q Many great houses will be swept away,
 \q says the \nd Lord\nd*.
 \b
-\q \c 4
+\q
+\c 4
 \v 1 Listen to this message, women of Sameria,
 \q you well-fed cows of Bashan,
 \q who oppress the poor and crush the needy,
@@ -436,7 +438,8 @@
 \v 27 And I will carry you away into exile beyond Damascus,
 \q Saith the \nd Lord\nd* the God of hosts.
 \b
-\q \c 6
+\q
+\c 6
 \v 1 Alas for those who are careless in Zion,
 \q And overconfident on the mountain of Samaria!
 \q Men of mark of the first of the nations,

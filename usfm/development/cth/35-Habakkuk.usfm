@@ -2,19 +2,17 @@
 \ide UTF-8
 \h Habakkuk
 \mt Habakkuk
-\rem   Original Base Text:
-\rem       Kent's Student's Old Testament
-\rem
-\rem   Tags:
-\rem       nsrv jps (versification)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Check x 2
-\rem       US and Cth spelling OK
-\rem       NSRV and JPS versification
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Kent's Student's Old Testament
+\rem TAGS
+\rem nsrv jps (versification)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Check x 2
+\rem US and Cth spelling OK
+\rem NSRV and JPS versification
+\rem Gender OK
 \c 1
 \ms Habakkuk”s message
 \p
@@ -44,7 +42,7 @@
 \q2 you will not believe it when it is told.
 \b
 \q
-\v 6 For  I am about to raise up the Chaldeans,
+\v 6 For I am about to raise up the Chaldeans,
 \q2 a nation grim and quick of action
 \q who sweep over the whole breadth of the earth
 \q2 to seize dwellings not their own.
@@ -97,7 +95,8 @@
 \v 17 Will they empty their nets continually,
 \q2 slaughter nations unpityingly?
 \b
-\q \c 2
+\q
+\c 2
 \v 1 I will take my stand on my watch-tower,
 \q2 and station myself on a turret.
 \q I will watch to see what the \nd Lord\nd* will say to me,
@@ -121,7 +120,7 @@
 \v 5 Wealth is treacherous.
 \q2 the arrogant never have enough,
 \q They makes their desire as wide as Sheol,
-\q2  are like death, unsatisfied,
+\q2 are like death, unsatisfied,
 \q For they gather to themselves all the nations,
 \q2 bring together to themselves all peoples.
 \q
@@ -255,7 +254,7 @@
 \v 13 You go forth to save your people.
 \q2 You go to help your anointed.
 \q You crush the head of the wicked nation,
-\q2 laying him bare from thigh to neck.  \it Selah\it*
+\q2 laying him bare from thigh to neck. \it Selah\it*
 \q
 \v 14 You pierced his head with his spears,
 \q2 as his champions storm out to scatter us,

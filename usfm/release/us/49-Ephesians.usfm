@@ -1,22 +1,20 @@
 \id EPH
 \ide UTF-8
 \h Ephesians
-\rem   Original Base Text:
-\rem       Twentieth Century New Testament
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem       masc neut (gender)
-\rem       pit gehenna (gehenna)
-\rem       ioudaioi jew (ioudaioi)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 1
-\rem       US Cth spelling OK
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Twentieth Century New Testament
+\rem TAGS
+\rem us cth (spelling)
+\rem masc neut (gender)
+\rem pit gehenna (gehenna)
+\rem ioudaioi jew (ioudaioi)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 1
+\rem US Cth spelling OK
+\rem NSRV versification only
+\rem Gender OK
 \mt2 Paul's Letter to the
 \mt Ephesians
 \c 1
@@ -52,7 +50,7 @@
 \c 2
 \v 1 You yourselves were once dead because of your offenses and sins.
 \v 2 For at one time you lived in sin, following the ways of the world, in subjection to the Ruler of the powers of the air — the Spirit who is still at work among the disobedient.
-\v 3 And it was among them that we all once lived our lives, indulging the cravings of our earthly nature, and carrying out the desires prompted by that earthly nature and by our own thoughts. Our  nature exposed us to the divine wrath, like the rest of humanity.
+\v 3 And it was among them that we all once lived our lives, indulging the cravings of our earthly nature, and carrying out the desires prompted by that earthly nature and by our own thoughts. Our nature exposed us to the divine wrath, like the rest of humanity.
 \v 4 Yet God, in his abundant compassion, and because of the great love with which he loved us,
 \v 5 even though we were ‘dead’ because of our offenses, gave life to us in giving life to the Christ. (By God's loving kindness you have been saved.)
 \v 6 And, through our union with Christ Jesus, God raised us with him, and caused us to sit with him on high,
@@ -102,7 +100,7 @@
 \c 4
 \ms The Gospel and Daily Life
 \p
-\v 1 I beg you, then — I who am a prisoner in the Master's cause —  to live lives worthy of the call that you have received;
+\v 1 I beg you, then — I who am a prisoner in the Master's cause — to live lives worthy of the call that you have received;
 \v 2 always humble and gentle, patient, bearing lovingly with one another,
 \v 3 and striving to maintain in the bond of peace the unity given by the Spirit.
 \v 4 There is but one body and one Spirit, just as there was but one hope set before you when you received your call.
@@ -125,10 +123,10 @@
 \v 17 This, then, as one in union with the Lord, I implore: Do not continue to live such purposeless lives as the Gentiles live,
 \v 18 with their powers of discernment darkened, cut off from the life of God, owing to the ignorance that prevails among them and to the hardness of their hearts.
 \v 19 Lost to all sense of shame, they have abandoned themselves to licentiousness, in order to practice every kind of impurity without restraint.
-\v 20 But far different is the lesson you learned from the Christ —  if, that is, you really listened to him,
+\v 20 But far different is the lesson you learned from the Christ — if, that is, you really listened to him,
 \v 21 and through union with him were taught the truth, as it is to be found in Jesus.
 \v 22 For you learned with regard to your former way of living that you must cast off your old nature, which, yielding to deluding passions, grows corrupt;
-\v 23 that the  spirit of your minds must be constantly renewed;
+\v 23 that the spirit of your minds must be constantly renewed;
 \v 24 and that you must clothe yourselves in that new nature which was created to resemble God, with the righteousness and holiness springing from the truth.
 \p
 \v 25 Since, therefore, you have cast off what is false, ‘you must every one of you speak the truth to your neighbors.’ For we are united to one another like the parts of a body.
@@ -156,8 +154,8 @@
 \v 12 It is degrading even to speak of the things continually done by them in secret.
 \v 13 All such actions, when exposed, have their true character made manifest by the light.
 \v 14 For everything that has its true character made manifest is clear as light. And that is why it is said —
-\q1 ‘Sleeper, awake!
-\q1 Arise from the dead,
+\q ‘Sleeper, awake!
+\q Arise from the dead,
 \q2 And the Christ will give you light!’
 \nb
 \v 15 Take great care, then, how you live — not unwisely but wisely,

@@ -2,21 +2,19 @@
 \ide UTF-8
 \h Daniel
 \mt The Book of Daniel
-\rem   Original Base Text:
-\rem       Kent's Shorter Bible
-\rem       Kent's Children's Bible
-\rem       Kent's Student's Old Testament
-\rem       Sui Generis
-\rem
-\rem   Tags:
-\rem       (none)
-\rem
-\rem   Status:
-\rem       DEVELOPMENT ONLY
-\rem       Complete
-\rem       Initial Check Only
-\rem       US only
-\rem       NRSV versification only
+\rem ORIGINAL BASE TEXT
+\rem Kent's Shorter Bible
+\rem Kent's Children's Bible
+\rem Kent's Student's Old Testament
+\rem Sui Generis
+\rem TAGS
+\rem (none)
+\rem STATUS
+\rem DEVELOPMENT ONLY
+\rem Complete
+\rem Initial Check Only
+\rem US only
+\rem NRSV versification only
 \c 1
 \rem Childrens
 \s Nebuchadnezzar’s court
@@ -42,7 +40,7 @@
 \v 12 “Test us for ten days; and let us have vegetables to eat and water to drink.
 \v 13 Then compare the way we look with that of the young men who eat of the king’s rich food. Then do to us as seems best.”
 \v 14 So he did as they asked and tested them for ten days.
-\v 15 At the end of ten days they looked better and they were healthier than all the young men who ate  the king’s rich food.
+\v 15 At the end of ten days they looked better and they were healthier than all the young men who ate the king’s rich food.
 \v 16 So the guardian took away their rich food and the wine and gave them vegetables.
 \p
 \v 17 To these four young men God gave knowledge, learning, and wisdom; and Daniel understood all kinds of visions and dreams.
@@ -77,28 +75,28 @@
 \p
 \v 17 Then Daniel went to his house and told the facts to his friends, Hananiah, Mishael, and Azariah, so that they might beg the God of heaven to be kind to them and to tell Daniel this secret, so that they might not die with the rest of the wise men of Babylon.
 \v 19 Then the secret was told to Daniel in a vision at night, and he praised the God of heaven and said:
-\q1
+\q
 \v 20 “Blessed be the name of God
 \q2 from everlasting to everlasting!
 \q2 For wisdom and power are his.
 \b
-\q1
+\q
 \v 21 He controls the seasons and times,
 \q2 he removes and installs kings,
-\q1 He gives wisdom to the wise,
+\q He gives wisdom to the wise,
 \q2 and knowledge to those who have insight.
-\q1
+\q
 \v 22 He shows the deep, secret things;
 \q2 he knows what is in the darkness,
 \q2 and the light of truth dwells in him.
 \b
-\q1
+\q
 \v 23 God of my fathers:
 \q2 I give you thanks and praise,
-\q1 For you gave me wisdom and strength,
+\q For you gave me wisdom and strength,
 \q2 and havemade known the things we asked;
 \b
-\q1 You have made known to us the king’s secret!”
+\q You have made known to us the king’s secret!”
 \p
 \v 24 Then Daniel went to Arioch, whom the king had commanded to kill the wise men of Babylon, and said to him, “Do not kill the wise men of Babylon. Take me to the king, and I will tell him what his dream means.”
 \p
@@ -140,9 +138,9 @@
 \p
 \v 1 Nebuchadnezzar, the king, made a statue of gold ninety feet high and nine feet wide. He set it up in the plain of Dura, in the province of Babylon.
 \v 2 Then he sent for the officers, the governors, the judges, the treasurers, and all the rulers of the provinces to attend the dedication of the statue he had set up.
-\v 3 So the officers, the governors, the judges, the treasurers, and all the rulers of the provinces  all came together for the dedication and stood before the statue that Nebuchadnezzar had set up.
+\v 3 So the officers, the governors, the judges, the treasurers, and all the rulers of the provinces all came together for the dedication and stood before the statue that Nebuchadnezzar had set up.
 \p
-\v 4 Then the herald cried aloud, “To you it is commanded,  peoples, nations:
+\v 4 Then the herald cried aloud, “To you it is commanded, peoples, nations:
 \v 4 The moment you hear the sound of the horn, pipe, lyre, trigon, harp, drum, and entire musical ensemble, you must fall down and worship the golden statue which King Nebuchadnezzar has set up.
 \v 6 Whoever does not fall down and worship will be thrown into a burning, fiery furnace.”
 \v 7 So when all the people heard the sound of the horn, pipe, lyre, trigon, harp, drum, and entire musical ensemble, all the peoples, nations, and the speakers of all languages fell down and worshipped the golden statue that King Nebuchadnezzar had set up.
@@ -197,19 +195,19 @@
 \v 17 The sentence is by the decree of the watchers, and the affair by the word of the holy ones, that the living may know that the Most High rules over human kingdoms of gives them to whoever he will, and can set up as ruler the humblest of people.
 \v 18 This dream I, King Nebuchadnezzar, have seen; and you, O Belteshazzar, must declare the interpretation, since all the wise men of my kingdom are not able to make known to me the interpretation; but you are able, for the spirit of the holy gods is in you.”
 \p
-\v 19 Then Daniel, whose name was Belteshazzar, was dumfounded for a moment, and his thoughts troubled him. The king  said, “Belteshazzar, let not the dream or the interpretation trouble you.” Belteshazzar answered , “My lord, I wish the dream applied to those who hate you, and its interpretation to your adversaries!
+\v 19 Then Daniel, whose name was Belteshazzar, was dumfounded for a moment, and his thoughts troubled him. The king said, “Belteshazzar, let not the dream or the interpretation trouble you.” Belteshazzar answered , “My lord, I wish the dream applied to those who hate you, and its interpretation to your adversaries!
 \v 20 The tree which you saw, which grew and was strong, whose height reached to heaven, and the sight of it to all the earth,
 \v 21 whose leaves were fair, and whose fruit abundant, and in which was food for all; under which the animals sheltered, and upon whose branches the birds of the heavens had their nests,
 \v 22 is you, O king --- you who are great and strong; and your greatness has grown, and reaches to heaven, and your dominion to the end of the earth.
 \v 23 You saw a watcher, a holy one, coming down from heaven, and saying. Hew down the tree and destroy it.
 \v 24 This is the interpretation, O king, and it is the decree of the Most High, which has come upon my lord the king:
-\v 25 You will be driven from people, and your dwelling will be with the animals of the field, and you will be made to eat grass as oxen, and will be wet with the dew of heaven, and seven times will pass over you; until you know that the Most High rules in human kingdoms  and gives them to whomever he will.
+\v 25 You will be driven from people, and your dwelling will be with the animals of the field, and you will be made to eat grass as oxen, and will be wet with the dew of heaven, and seven times will pass over you; until you know that the Most High rules in human kingdoms and gives them to whomever he will.
 \v 26 And as they commanded to leave the stump of the roots of the tree, so your kingdom will be secure to you as soon as you recognize that the heavens do rule.
 \v 27 Therefore, O king, let my counsel be acceptable to you, and break off your sins by righteous works, and your iniquities by showing mercy to the poor; then perhaps there may be a continuation of your prosperity.”
 \p
 \v 28 All this happened to King Nebuchadnezzar:
 \v 29 At the end of twelve months he was walking in the royal palace of Babylon.
-\v 30 The king  said, “Is not this great Babylon which I have built for a residence, by the might of my power and for the glory of my majesty?”
+\v 30 The king said, “Is not this great Babylon which I have built for a residence, by the might of my power and for the glory of my majesty?”
 \v 31 While the word was in the king’s mouth, a voice came down from heaven: “King Nebuchadnezzar, to you it is spoken: The kingdom has passed away from you,
 \v 32 and you will be driven from people, and your home will be with the animals of the field; you will be made to eat grass as oxen; and seven times will pass over you, until you know that the Most High rules in human kingdoms and gives them to whom he will.”
 \v 33 The same hour the word was fulfilled upon Nebuchadnezzar; and he was driven from people, and ate grass like oxen, and his body was wet with the dew of heaven, until his hair had grown like eagles’ feathers and his nails like birds’ claws.
@@ -281,7 +279,7 @@
 \p
 \v 10 When Daniel learnt that the law was signed, he went into his house. His windows were open in his room toward Jerusalem, and he knelt upon his knees three times a day and prayed, and gave thanks to his God as he had done before.
 \v 11 Then these men rushed in and found Daniel praying and calling upon his God.
-\v 12 So they went before the king and spoke to him about the royal command: “Have you not signed a command, that everyone who  asks a petition of any person or god within thirty days, except of you, O king, will be thrown into the den of lions?” The king answered, “The rule is fixed according to the law of the Medes and Persians, which cannot be changed.”
+\v 12 So they went before the king and spoke to him about the royal command: “Have you not signed a command, that everyone who asks a petition of any person or god within thirty days, except of you, O king, will be thrown into the den of lions?” The king answered, “The rule is fixed according to the law of the Medes and Persians, which cannot be changed.”
 \v 13 Then they went on to say to the king, “Daniel, who is one of the captives from Judah, pays no attention to you, O king, nor to the command that you have signed, but prays three times a day.”
 \p
 \v 14 When the king heard these words, he was greatly displeased, and set his heart on saving Daniel, and he worked until the sun set to save him.
@@ -313,10 +311,10 @@
 \v 2 “I saw in my vision by night the four winds of heaven broke forth upon the great sea.
 \v 3 Four great beasts came up from the sea, each different from the other.
 \v 4 The first was like a lion and had eagle’s wings. I looked until its wings were stripped off, and it was lifted up from the earth, and made to stand upon two feet as a person; and a human heart was given to it.
-\v 5 And I saw a second beast, like a bear; and it was raised up on one side, and three ribs were in its mouth, between its teeth; and they said  to it: ‘Arise, devour much flesh.’
+\v 5 And I saw a second beast, like a bear; and it was raised up on one side, and three ribs were in its mouth, between its teeth; and they said to it: ‘Arise, devour much flesh.’
 \v 6 After this I saw another like a leopard, which had upon its sides four wings of a bird; and the beast had also four heads, and dominion was given to it.
 \v 6 After this I saw in the night-visions a fourth beast, terrible and fearful, and exceedingly strong; and it had great iron teeth; it devoured and broke in pieces and stamped the rest with its feet; and it differed from all the beasts that were before it; and it had ten horns.
-\v 8 While I considered the horns,  another little horn came up among them, before which three of the first horns were plucked up by the roots;  in this horn were eyes, like human eyes, and a mouth speaking arrogrant things.
+\v 8 While I considered the horns, another little horn came up among them, before which three of the first horns were plucked up by the roots; in this horn were eyes, like human eyes, and a mouth speaking arrogrant things.
 \p
 \v 9 “I waited until thrones were set up, and an aged one took his seat; his clothing was white as snow, and his hair like spotless wool, his throne was fiery flames, its wheels burning fire.
 \v 10 A fiery stream issued and came forth before him: thousands of thousands ministered to him, and ten thousand times ten thousand stood before him; the judgment was set and the books were opened.
@@ -328,9 +326,9 @@
 \v 14 There was given him dominion and glory, and sovereignty, that all the peoples, nations, and languages should serve him; his dominion is an everlasting dominion which will not pass away, and his sovereignty one which will not be destroyed.”
 \p
 \v 15 As for me, Daniel, my spirit was grieved by reason of this, and the visions of my head troubled me.
-\v 16 I came near to one of those who stood by, and asked him the truth concerning all this. So he told me  the interpretation of the things:
+\v 16 I came near to one of those who stood by, and asked him the truth concerning all this. So he told me the interpretation of the things:
 \v 17 “These four great beasts are four kings who will arise out of the earth.
-\v 18 But the holy ones of the Most High will receive the sovereignty, and possess the sovereignty for ever,  for ever and ever.
+\v 18 But the holy ones of the Most High will receive the sovereignty, and possess the sovereignty for ever, for ever and ever.
 \p
 \v 19 Then I desired to know the truth concerning the fourth beast, which was different from all of them, exceedingly terrible, whose teeth were of iron, and its nails of bronze; which devoured, broke in pieces, and stamped the rest with its feet:
 \v 20 and concerning the ten horns that were on its head, and the other horn which came up, and before which three horns fell --- it that had eyes, and a mouth that spoke arrogant things, and it appeared to be greater than the rest.
@@ -341,7 +339,7 @@
 \v 24 As for the ten horns, out of this kingdom  ten kings will arise; and another will arise after them; and he will be different from the former, and he will put down three kings.
 \v 25 He will speak words against the Most High, and will continually harass the holy ones of the Most High; and he will think to change the fixed times and the law; and they will be given into his hand until a time and times and half a time.
 \v 26 But the judgment will be set, and they will take away his kingdom, to consume and to destroy finally.
-\v 27 The sovereignty, and the dominion, and the greatness of the kingdoms under the whole heaven, will surely be given to the holy people  of the Most High; his sovereignty is an everlasting sovereignty, and all dominions will serve and obey him.”
+\v 27 The sovereignty, and the dominion, and the greatness of the kingdoms under the whole heaven, will surely be given to the holy people of the Most High; his sovereignty is an everlasting sovereignty, and all dominions will serve and obey him.”
 \v 28 Here is the end of the matter. As for me, Daniel, my thoughts troubled me much, and I turned pale, but I kept the matter in my mind.
 \c 8
 \rem Students
@@ -353,7 +351,7 @@
 \v 3 Then I looked up and saw standing before the river a ram which had two horns, and the two horns were high, but one was higher than the other, and the higher came up last.
 \v 4 I saw the ram pushing westward and northward and southward, and no beast could stand before him, and none could escape, but he did as he pleased and exulted himself.
 \p
-\v 5 As I was observing,  a he-goat came from the west over the face of the whole earth, without touching the ground; and the goat had a conspicuous horn between his eyes.
+\v 5 As I was observing, a he-goat came from the west over the face of the whole earth, without touching the ground; and the goat had a conspicuous horn between his eyes.
 \v 6 He came to the ram that had two horns, which I saw standing before the river, and ran upon him in the fury of his power.
 \v 7 I saw him come close to the ram, and he was angered against him, and stuck the ram, and broke his two horns; and the ram had no strength to stand before him, but he threw him down to the ground and trampled upon him, and none could rescue the ram from him.
 \v 8 The he-goat exulted himself exceedingly; and when he had become strong, the great horn was broken. In its place there came up four other horns toward the four winds of heaven.
@@ -366,7 +364,7 @@
 \v 13 Then I heard a holy one speaking; and another holy one said to the one who spoke, “For how long will the vision be that the daily sacrifice will be taken away and the appalling sacrilege set up and the sanctuary and the host trampled under foot?”
 \v 14 He answered, “For two thousand and three hundred evenings and mornings. Then will the sanctuary be justified.”
 \p
-\v 15 When I, Daniel, had seen the vision,  I sought to understand it; and suddenly there stood before me one who had the appearance of a man.
+\v 15 When I, Daniel, had seen the vision, I sought to understand it; and suddenly there stood before me one who had the appearance of a man.
 \v 16 I heard a human voice between the banks of the Ulai, which called and said, “Gabriel, cause this man to understand the vision.”
 \v 17 So he came near where I stood; and when he came I was afraid and fell upon my face, but he said to me, “Understand, mortal, for the vision belongs to the time of the end.”
 \v 18 Now as he was speaking with me, I fell into a deep trance with my face toward the ground; but he touched me, and set me upright in my place.
@@ -396,7 +394,7 @@
 \v 9 To the Lord our God belongs compassion and forgiveness, for we have rebelled against him,
 \v 10 neither have we obeyed the voice of the \nd Lord\nd* our God, to walk in his teachings which he set before us by his servants the prophets.
 \v 11 All Israel have transgressed your law and have turned so as not to obey your voice. Therefore the curse has been poured out upon us, and the oath which is written in the law of Moses, the servant of God; for we have sinned against him.
-\v 12 He has confirmed his words, which he spoke against us and against our rulers who ruled us, by bringing upon us a great misfortune; for under the whole heaven nothing has ever  been done as has been done to Jerusalem.
+\v 12 He has confirmed his words, which he spoke against us and against our rulers who ruled us, by bringing upon us a great misfortune; for under the whole heaven nothing has ever been done as has been done to Jerusalem.
 \v 13 As it is written in the law of Moses, all this evil has come upon us; yet we have not entreated the favour of the \nd Lord\nd* our God, that we should turn from our iniquities, and discern your faithfulness.
 \v 14 Therefore the \nd Lord\nd* has watched over the evil and brought it upon us, for the \nd Lord\nd* our God is righteous in all his works which he does, and we have not obeyed his voice.
 \p
@@ -407,7 +405,7 @@
 \v 19 O Lord, hear! O Lord, forgive! O Lord, listen and perform; defer not, for your own sake, O my God, because your city and your people are called by your name.”
 \p
 \v 20 While I was speaking, and praying, and confessing, my sin and the sin of my people Israel, and presenting my supplication before the \nd Lord\nd* my God for the holy mountain of my God,
-\v 21  while I was speaking in prayer, the man Gabriel, whom I had seen earlier in the vision, being made to fly swiftly, approached me about the time of the evening offering.
+\v 21 while I was speaking in prayer, the man Gabriel, whom I had seen earlier in the vision, being made to fly swiftly, approached me about the time of the evening offering.
 \v 22 He came, and talked with me, and said, “ Daniel, I have now come forth to give you wisdom and insight.
 \v 23 At the beginning of your supplications the command went forth, and I have come to tell you; for you are greatly beloved; therefore heed the word, and understand the vision.
 \p
@@ -431,19 +429,20 @@
 \v 9 Yet when I heard the sound of his words, I fell into a deep trance with my face toward the ground.
 \p
 \v 10 “Suddenly, a hand touched me, which set me trembling upon my knees and upon the palms of my hands.
-\v 11 He said to me, ‘Daniel,  greatly beloved, give heed to the words that I speak to you, and stand upright, for to you have I now been sent.’ When he had spoken this word to me, I stood trembling.
-\v 12 Then he said to me, ‘Do not be afraid, Daniel, for from the first day that you  set your heart to gain insight, and to humble yourself before your God, your words were heard; and I have come because of your words.
-\v 13 The prince of the kingdom of Persia withstood me twenty-one days; but  Michael, one of the chief princes, came to help me; and I left him there with the prince of the kings of Persia.
+\v 11 He said to me, ‘Daniel, greatly beloved, give heed to the words that I speak to you, and stand upright, for to you have I now been sent.’ When he had spoken this word to me, I stood trembling.
+\v 12 Then he said to me, ‘Do not be afraid, Daniel, for from the first day that you set your heart to gain insight, and to humble yourself before your God, your words were heard; and I have come because of your words.
+\v 13 The prince of the kingdom of Persia withstood me twenty-one days; but Michael, one of the chief princes, came to help me; and I left him there with the prince of the kings of Persia.
 \v 14 Now I have come to make you understand what will befall your people in the latter days; for the vision is yet for many days.
 \v 15 When he had said these words to me, I turned my face toward the ground, and was dumb.
 \v 16 Then one who looked human touched my lips; then I opened my mouth, and spoke, and said to him who stood before me, ‘My Lord, because of the vision my pangs have come upon me, and I retain no strength,
 \v 17 for how can this the servant of my Lord talk with my Lord? For as for me, henceforth there remains no strength in me, nor is there breath left in me.
 \p
 \v 18 “Then another in appearance like a person touched me, and strengthened me.
-\v 19 He said, ‘Greatly beloved, fear not; peace be to you; be strong,  be bold.’ When he spoke to me I was strengthened, and said, ‘Let my Lord speak; for you have strengthened me.’
+\v 19 He said, ‘Greatly beloved, fear not; peace be to you; be strong, be bold.’ When he spoke to me I was strengthened, and said, ‘Let my Lord speak; for you have strengthened me.’
 \v 20 Then he said, ‘Do you know why I have come to you? Now I will return to fight with the prince of Persia, and when I go forth, then the prince of Greece will come;
-\v 21 and none who help me against these, except  Michael, your prince, stand as my helper and defence.
-\p \c 11
+\v 21 and none who help me against these, except Michael, your prince, stand as my helper and defence.
+\p
+\c 11
 \v 1 “‘But now I will tell you what is written in the book of truth.
 \v 2 Three more kings will stand up for Persia; and the fourth will be far richer than them all; and when he has grown strong through his riches, he will stir up all against the realm of Greece.
 \v 3 Then a warrior king will stand up, who will rule with great dominion and do according to his will.
@@ -499,7 +498,8 @@
 \v 43 He will have power over the treasures of gold and of silver, and over all the precious things of Egypt; and the Libyans and Ethiopians will follow in his train.
 \v 44 But rumors out of the east and north will trouble him; and he will go forth with great fury to destroy and to utterly exterminate many.
 \v 45 He will plant his palace between the Mediterranean and the glorious holy mountain; so he will come to his end, and none will help him.
-\p \c 12
+\p
+\c 12
 \v 1 “‘At that time Michael will stand up, the great prince who stands for the children of my people; and there will be a time of affliction such as there never was since there was a nation, even to that time; and at that time your people will be delivered, every one who will be found written in the loyal book.
 \v 2 Many of those who sleep in the dust of the earth will awake, some to everlasting life, and some to shame and everlasting contempt.
 \v 3 They who are wise will shine as the brightness of the firmament; and they who turn many to righteousness as the stars forever and ever.

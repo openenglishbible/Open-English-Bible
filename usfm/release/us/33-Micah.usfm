@@ -2,19 +2,17 @@
 \ide UTF-8
 \h Micah
 \mt Micah
-\rem   Original Base Text:
-\rem       Kent's Student's Old Testament
-\rem
-\rem   Tags:
-\rem       (none)
-\rem
-\rem   Status:
-\rem       DEVELOPMENT ONLY
-\rem       Complete
-\rem       Initial Check Only
-\rem       US spelling only
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Kent's Student's Old Testament
+\rem TAGS
+\rem (none)
+\rem STATUS
+\rem DEVELOPMENT ONLY
+\rem Complete
+\rem Initial Check Only
+\rem US spelling only
+\rem NSRV versification only
+\rem Gender OK
 \c 1
 \v 1
 \s The Superscription to Micah's Sermons
@@ -294,7 +292,8 @@
 \q and devote to the \nd Lord\nd* their spoil,
 \q and their wealth to the ruler of all the earth.
 \b
-\q \c 5
+\q
+\c 5
 \v 1 “Now cut yourself in bitter grief,
 \q daughter besieged by soldiers.
 \q They have set a wall around you.

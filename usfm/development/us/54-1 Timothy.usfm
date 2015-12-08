@@ -1,22 +1,20 @@
 \id 1TI
 \ide UTF-8
 \h 1 Timothy
-\rem   Original Base Text:
-\rem       Twentieth Century New Testament
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem       masc neut (gender)
-\rem       pit gehenna (gehenna)
-\rem       ioudaioi jew (ioudaioi)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 1
-\rem       US Cth spelling OK
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Twentieth Century New Testament
+\rem TAGS
+\rem us cth (spelling)
+\rem masc neut (gender)
+\rem pit gehenna (gehenna)
+\rem ioudaioi jew (ioudaioi)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 1
+\rem US Cth spelling OK
+\rem NSRV versification only
+\rem Gender OK
 \mt2 Paul's First Letter to
 \mt Timothy
 \c 1
@@ -69,8 +67,8 @@ This must be our testimony, as opportunities present themselves;
 \v 14 And it was not Adam who was deceived; it was the woman who was entirely deceived and fell into sin.
 \v 15 But she will be saved by the birth of a child, if they never abandon faith, love, or holiness, and behave with modesty.
 \c 3
-\v 1
-\p How true is this saying:
+\p
+\v 1 How true is this saying:
 ‘To aspire to be to be a supervisor in the church is to be ambitious for a noble task.’
 \v 2 The supervisor should be  of blameless character; a faithful partner; living a temperate, discreet, and well-ordered life; hospitable, and a skillful teacher,
 \v 3 not addicted to drink or brawling, but of a forbearing and peaceable disposition, and not a lover of money;
@@ -89,10 +87,10 @@ This must be our testimony, as opportunities present themselves;
 \v 14 I am writing this to you, though I hope that I will come to see you before long;
 \v 15 but in case I should be delayed, I want you to know what your conduct ought to be in the Household of God, which is the church of the living God — the pillar and stay of the truth.
 \v 16 Yes, and confessedly wonderful are the deep truths of our religion; for —
-\q1 ‘He was revealed in our nature,
+\q ‘He was revealed in our nature,
 \q2 Pronounced righteous in spirit,
 \q3 Seen by angels,
-\q1 Proclaimed among the Gentiles,
+\q Proclaimed among the Gentiles,
 \q2 Believed on in the world,
 \q3 Taken up into glory.’
 \nb
@@ -177,5 +175,5 @@ Those are the things to insist on in your teaching.
 \p
 \v 20 Timothy, guard what has been entrusted to you. Avoid the profane prattle and contradictions of what some miscall ‘theology,’
 \v 21 for there are those who, while asserting their proficiency in it, have yet, as regards the faith, gone altogether astray.
-\s
+\s ~
 \p God bless you all.

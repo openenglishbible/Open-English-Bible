@@ -5,19 +5,17 @@
 \mt2 First Book of Moses
 \mt2 Called
 \mt Genesis
-\rem   Original Base Text:
-\rem       Kent's Shorter Bible
-\rem       Kent's Children's Bible
-\rem       Kent's Student's Old Testament
-\rem       Sui Generis
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem
-\rem   Status:
-\rem       DEVELOPMENT ONLY
-\rem       Initial Check Only
-\rem       US and Cth English ok
+\rem ORIGINAL BASE TEXT
+\rem Kent's Shorter Bible
+\rem Kent's Children's Bible
+\rem Kent's Student's Old Testament
+\rem Sui Generis
+\rem TAGS
+\rem us cth (spelling)
+\rem STATUS
+\rem DEVELOPMENT ONLY
+\rem Initial Check Only
+\rem US and Cth English ok
 \rem notes:
 \rem angel -> messenger
 \rem covenant -> solemn agreement (Maybe. Open to arguments, but we shouldn't do what some versions do and create a linguistic distinction between a treaty between people and a convenant with God)
@@ -27,7 +25,7 @@
 \c 1
 \ms Creation
 \rem Shorter (heavily amended)
-\q1
+\q
 \v 1 In the beginning when God created the heavens and the earth,
 \q2
 \v 2 the earth was still unformed and chaotic,
@@ -40,9 +38,9 @@
 \q2 He separated the light from the darkness,
 \q2
 \v 5 calling the light 'day' and the darkness 'night'.
-\q1 There was an evening and a morning, making the first day.
+\q There was an evening and a morning, making the first day.
 \b
-\q1
+\q
 \v 6 Then God said, “Let there be a dome between the waters,
 \q2 and let it separate the waters from the waters.”
 \q2
@@ -51,9 +49,9 @@
 \q3 It was so.
 \q2
 \v 8 God called the dome the 'sky'.
-\q1 There was an evening and a morning, making the second day.
+\q There was an evening and a morning, making the second day.
 \b
-\q1
+\q
 \v 9 Then God said, “Let the waters under the sky be gathered together,
 \q2 and let the dry ground appear.”
 \q3 It was so.
@@ -62,7 +60,7 @@
 \q2 and he called the gathered waters 'seas'.
 \q3 God saw that it was good.
 \b
-\q1
+\q
 \v 11 God said, “Let the earth put forth vegetation:
 \q2 Plants on the earth which yield their own kind of seed,
 \q2 and trees that bear fruits in which are their own seed.”
@@ -72,10 +70,10 @@
 \q2 seed-bearing plants,
 \q2 and trees with seed-bearing fruit.
 \q3 God saw that it was good.
-\q1
+\q
 \v 13 There was an evening and a morning, making the third day.
 \b
-\q1
+\q
 \v 14 Then God said, “Let there be lights in the dome of the sky
 \q2 to separate the night from the day.
 \q2 Let them be signs to mark the seasons, the days, and the years.
@@ -86,17 +84,17 @@
 \v 16 So God made the two great lights:
 \q2 The greater to rule the day and the lesser to rule the night.
 \b
-\q1 God made the stars also.
+\q God made the stars also.
 \v 17 He placed all these lights in the dome of the sky
 \q2 to shed light upon the earth,
 \q2
 \v 18 to rule over the day and over the night,
 \q2 and to separate light from darkness.
 \q3 God saw that it was good.
-\q1
+\q
 \v 19 There was an evening and a morning, making the fourth day.
 \b
-\q1
+\q
 \v 20 Then God said, “Let the waters teem with living creatures,
 \q2 and let birds fly over the earth in the open dome of the sky.”
 \q2
@@ -108,10 +106,10 @@
 \v 22 He blessed them, saying, “Be fruitful,
 \q2 increase, fill the oceans,
 \q2 and let the birds increase on the land.”
-\q1
+\q
 \v 23 There was an evening and a morning, making the fifth day.
 \b
-\q1
+\q
 \v 24 Then God said, “Let the earth produce all kinds of living creatures:
 \q2 cattle and reptiles and wild beasts.”
 \q3 It was so.
@@ -120,7 +118,7 @@
 \q2 and the cattle, and everything that crawls upon the ground.
 \q3 God saw that it was good.
 \b
-\q1
+\q
 \v 26 Then God said, “Let us make humans who are images of us, who are like us.
 \q2 Let them rule over the fish of the sea,
 \q2 the birds of the sky, the cattle, the wild beasts,
@@ -130,14 +128,14 @@
 \q3 he created them in the image of God.
 \q2 He created them male and female.
 \b
-\q1
+\q
 \v 28 Then God blessed them, and said to them:
 \q2 “Be fruitful, grow in number,
 \q2 fill the earth and govern it;
 \q2 rule over the fish of the sea, the birds of the sky,
 \q2 and over every living thing that crawls on the ground,”
 \b
-\q1
+\q
 \v 29 God said, “I give you every seed-bearing plant
 \q2 throughout all the earth,
 \q2 and every tree that has seed-bearing fruit.
@@ -151,7 +149,7 @@
 \q2
 \v 31 When God saw all that he had made,
 \q2 he perceived that it was very good.
-\q1 There was an evening and a morning, making the sixth day.
+\q There was an evening and a morning, making the sixth day.
 \b
 \c 2
 \q
@@ -200,19 +198,19 @@
 \p
 \v 1 Now the snake was craftier than any other wild beast that the \nd Lord\nd* God had made. It said to the woman, “Has God really said, ‘You must not eat from any tree of the garden’?”
 \v 2 The woman answered, “We are allowed to eat the fruit of all the trees of the garden;
-\v 3 it is only about the fruit of the tree  in the middle of the garden that God has said, ‘You must not eat from it, nor should you touch it, for if you do, you will die.’”
+\v 3 it is only about the fruit of the tree in the middle of the garden that God has said, ‘You must not eat from it, nor should you touch it, for if you do, you will die.’”
 \v 4 Then the snake said to the woman, “You will not die!
-\v 5  God knows that on the day you eat some of it your eyes will be opened, and you will be like gods, knowing what is good and what is evil.”
+\v 5 God knows that on the day you eat some of it your eyes will be opened, and you will be like gods, knowing what is good and what is evil.”
 \p
 \v 6 When the woman saw that the tree was good for food, attractive to look at and desirable for acquiring wisdom, she took some of its fruit and ate. Then she gave some to her husband who was with her, and he ate.
 \p
 \v 7 Then the eyes of both of them were opened, and they realized that they were naked, so they sewed fig-leaves together to cover themselves.
-\v 8 But when they heard the sound of  the \nd Lord\nd* God walking in the garden in the evening breeze, the man and his wife hid from him among the garden trees.
+\v 8 But when they heard the sound of the \nd Lord\nd* God walking in the garden in the evening breeze, the man and his wife hid from him among the garden trees.
 \p
 \v 9 When the \nd Lord\nd* God called to the man, “Where are you?”
 \v 10 he replied, “I heard you in the garden and I was afraid, because I was naked, so I hid myself.”
 \v 11 The \nd Lord\nd* God said, “Who told you that you were naked? Did you eat from the tree from which I ordered you not to eat?”
-\v 12 The man answered, “The woman  you  placed beside me, she gave me fruit from the tree and I ate.”
+\v 12 The man answered, “The woman you placed beside me, she gave me fruit from the tree and I ate.”
 \v 13 The \nd Lord\nd* God said to the woman, “What is this that you have done?” The woman replied, “The snake deceived me, and I ate.”
 \p
 \v 14 Then the \nd Lord\nd* God said to the snake:
@@ -231,7 +229,8 @@
 \v 16 To the woman he said,
 \q “I will greatly increase your anguished toil in pregnancy;
 \q with pain will you bear children.
-\q \q You will yearn for your husband,
+\q
+\q You will yearn for your husband,
 \q but he will rule over you.”
 \p
 \v 17 To Adam he said,
@@ -364,7 +363,7 @@
 \ms The flood
 \rem Shorter
 \p
-\v 5 When the \nd Lord\nd* saw that people's wickedness  was increasing in the world, and that the trend of their thoughts was at all times toward evil,
+\v 5 When the \nd Lord\nd* saw that people's wickedness was increasing in the world, and that the trend of their thoughts was at all times toward evil,
 \v 6 he was greatly grieved and regretted that he had made people on the earth.
 \v 7 Therefore the \nd Lord\nd* said, “I will destroy all living beings from off the ground -- people, animals, creeping things, and birds -- because I regret that I have made them.”
 \v 8 But Noah had won the \nd Lord\nd*'s favor.
@@ -445,7 +444,7 @@
 \v 18 So Noah left the ark with his sons and his wife and his son's wives,
 \v 19 and every living creature, every creeping thing, every bird came out one kind after another.
 \v 20 Noah built an altar to the \nd Lord\nd* and took one of every beast and bird that was fit for sacrifice and offered burnt-offerings on the altar.
-\v 21 When the \nd Lord\nd* smelled the pleasing odour, he said to himself, “I will never again curse the ground because of people  because the inclination of their heart is evil from their youth, nor will I again destroy every living thing, as I have done.
+\v 21 When the \nd Lord\nd* smelled the pleasing odour, he said to himself, “I will never again curse the ground because of people because the inclination of their heart is evil from their youth, nor will I again destroy every living thing, as I have done.
 \v 22 While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night, shall not cease.”
 \c 9
 \rem Shorter
@@ -456,13 +455,13 @@
 \v 4 Only you shall not eat flesh while the life is in it, that is, the blood.
 \p
 \v 5 “Moreover, your own life-blood will I require for a person's life; from every beast will I require it, and from everyone who takes another's life.
-\v 6 Whoever sheds a person's  blood, by people shall their blood be shed; for God made people in his own image.
+\v 6 Whoever sheds a person's blood, by people shall their blood be shed; for God made people in his own image.
 \v 7 But you are to bear children and repopulate the whole earth and subdue it.”
 \p
 \v 8 God also said to Noah and to his sons with him,
 \v 9 “Now I make this solemn agreement with you and with your descendants
 \v 10 and with every living creature that is with you, with the birds, the cattle, and every wild animal that is with you of all that have gone out of the ark, even with every beast of the earth.
-\v 11 This is my solemn agreement: No living thing will ever again be cut off by the waters of the flood, and there will never again  be a flood to destroy the earth.”
+\v 11 This is my solemn agreement: No living thing will ever again be cut off by the waters of the flood, and there will never again be a flood to destroy the earth.”
 \p
 \v 12 God said, “This is the symbol of the solemn agreement that I make for all time between me and you and every living creature that is with you:
 \v 13 I have placed my bow in the cloud and it shall be the symbol of the solemn agreement between me and the inhabitants of the earth.
@@ -477,7 +476,7 @@
 \rem Students
 \p
 \v 20 Now Noah, the farmer, was the first to plant a vineyard.
-\v 21 When he drank  the wine he became drunk, and lay uncovered in his tent.
+\v 21 When he drank the wine he became drunk, and lay uncovered in his tent.
 \v 22 Then Ham, the father of Canaan, saw the nakedness of his father and told his two brothers about it.
 \v 23 But Shem and Japheth took a garment and laid it upon both their shoulders and went backward to cover the nakedness of their father, their faces being turned away so that they did not see their father's nakedness.
 \v 24 When Noah awoke from his wine and learned what his youngest son had done to him,
@@ -491,7 +490,7 @@
 \q
 \v 27 God enlarge Japheth
 \q2 and let him live in the tents of Shem.
-\q Let Canaan  be a slave to him as well.
+\q Let Canaan be a slave to him as well.
 \ms Genealogy
 \rem Multiple
 \p
@@ -586,7 +585,7 @@
 \rem Childrens
 \p
 \v 1 The \nd Lord\nd* said to Abram, “Go from your country, your relatives and your father's house to the land that I will show you.
-\v 2  I will make of you a great nation; and I will surely bless you and make your name famous, so that you will be a blessing.
+\v 2 I will make of you a great nation; and I will surely bless you and make your name famous, so that you will be a blessing.
 \v 3 I will bless those who bless you, and I will curse those who curse you, and all the families of the earth shall ask for themselves a blessing like your own.”
 \p
 \v 4 So Abram set out, as the \nd Lord\nd* had commanded him; and Lot went with him. Abram was seventy-five years old when he left Haran.
@@ -601,7 +600,7 @@
 \v 10 There was a famine in the land, so Abram went down to Egypt to live there; because the famine was severe in the land.
 \v 11 As he was about to enter Egypt, he said to Sarai his wife, “You are a beautiful woman;
 \v 12 so that when the Egyptians see you, they will say, ‘She is his wife’; and they will kill me, but let you live.
-\v 13 Say you are my sister, so that everything may go well for me because of you and  my life will be spared.”
+\v 13 Say you are my sister, so that everything may go well for me because of you and my life will be spared.”
 \v 14 W hen Abram arrived in Egypt, the Egyptians saw that Serai was very beautiful.
 \v 15 The officials of Pharaoh, when they saw her, praised her to Pharaoh, and she was taken into Pharaoh's household.
 \v 16 He treated Abram well for her sake. He had sheep, and oxen and donkeys, and male and female slaves, and she-donkeys, and camels.
@@ -661,9 +660,9 @@
 \v 17 Then the king of Sodom went out to meet him, after his return from the defeat of Chedorlaomer and the kings who were with him, at the valley of Shaveh (that is, the King's Vale).
 \v 18 Melchizedek king of Salem also brought out bread and wine; and he was priest of God Most High.
 \v 19 He blessed him saying:
-\q1 Blessed be Abram before God Most High,
+\q Blessed be Abram before God Most High,
 \q2 possessor of heaven and earth.
-\q1
+\q
 \v 20 Blessed be God Most High,
 \q2 who has delivered your foes into your power.
 \nb Then Abram gave him a tenth of everything.
@@ -678,7 +677,7 @@
 \v 1 After these things God spoke to Abram in a vision saying, “Do not be afraid, Abram, I am your shield. Your reward will be exceedingly great.”
 \v 2 But Abram said, “Lord \nd God\nd*, what can you give me? I am childless, and the person who will be possessor of my house is Eliezer of Damascus,
 \v 3 to me you have given no offspring, and, so a slave born in my house is my heir.”
-\v 4 The word of the \nd Lord\nd* came to him,  “This man will not be your heir, but a child of your own will be your heir.”
+\v 4 The word of the \nd Lord\nd* came to him, “This man will not be your heir, but a child of your own will be your heir.”
 \p
 \v 5 Then God brought him outside and said, “Look now toward heaven and count the stars, if you are able to count them! So will your descendants be.”
 \v 6 Abram believed in the \nd Lord\nd*; and the \nd Lord\nd* reckoned it to him as righteousness,
@@ -696,7 +695,7 @@
 \v 15 But you will go to your fathers in peace; you will be buried in a good old age.
 \v 16 In the fourth generation they return here again; for the iniquity of the Amorite is not yet full.”
 \p
-\v 17 When the sun had set and it was dark, there appeared a smoking furnace, and a flaming torch that passed between the  pieces of the animals.
+\v 17 When the sun had set and it was dark, there appeared a smoking furnace, and a flaming torch that passed between the pieces of the animals.
 \p
 \v 18 At that time the \nd Lord\nd* made a solemn agreement with Abram, saying, “To your descendants I give this land, from the river of Egypt unto the great river, the river Euphrates.”
 \v 19 (This includes the lands of the Kenite, the Kenizzite, the Kadmonite,
@@ -706,7 +705,7 @@
 \ms Hagar and Ishmael
 \p
 \v 1 Now Sarai, Abram's wife, had borne him no children, but she had an Egyptian slave-girl whose name was Hagar.
-\v 2 Sarai said to Abram, “the \nd Lord\nd* has denied me children;  Take my slave-girl; maybe I will obtain children by her.” Then Abram listened to her
+\v 2 Sarai said to Abram, “the \nd Lord\nd* has denied me children; Take my slave-girl; maybe I will obtain children by her.” Then Abram listened to her
 \v 3 so she took Hagar the Egyptian, her slave-girl, after Abram had lived for ten years in the land of Canaan, and gave her to Abram her husband to be his wife
 \v 4 and Abram lay with Hagar, and she conceived. When she saw that she had conceived, she looked with contempt on her mistress.
 \p
@@ -745,12 +744,12 @@
 \v 10 This is my solemn agreement, which you must keep, between me and you and your descendants after you: every male among you must be circumcised.
 \v 11 Whenever you are circumcised, the flesh of your foreskin shall be a sign of a solemn agreement between me and you.
 \v 12 Every male when he is eight days old, must be circumcised throughout your generations, whether he is born in the house, or bought with money from any foreigner who is not of your offspring.
-\v 13 The slave who is born in your house and the one who is bought with your money must be circumcised. The sign of my solemn agreement will be in your flesh  -- an everlasting agreement.
+\v 13 The slave who is born in your house and the one who is bought with your money must be circumcised. The sign of my solemn agreement will be in your flesh -- an everlasting agreement.
 \v 14 As for the uncircumcised male, who is not circumcised in the flesh of his foreskin, that one will be cut off from his people; he has broken my solemn agreement.”
 \ms Sarai becomes Sarah
 \p
 \v 15 Then God said to Abraham, “As for Sarai your wife, do not call her name Sarai, but Sarah.
-\v 16 I will bless her, and will give you a son from her:  I will bless her, and she will become the mother of nations; kings of peoples will descend from her.”
+\v 16 I will bless her, and will give you a son from her: I will bless her, and she will become the mother of nations; kings of peoples will descend from her.”
 \p
 \v 17 Then Abraham fell on his face and laughed, and said to himself. “Will a child be born to one who is an hundred years old? Will Sarah who is ninety years old bear children?”
 \v 18 Abraham said to God, “If only Ishmael might live with your blessing!”
@@ -858,7 +857,7 @@ But Sarah was listening behind the door of the tent.
 \v 31 The older daughter said to the younger, “Our father is old, and there is no one on the earth to come in to us after the manner of all the world.
 \v 32 Come let us make our father drink wine and we will lie with him, so that we can preserve our family through our father.”
 \v 33 So they made their father drink wine that night; and the older daughter went in and lay with her father. He, however, did not know when she lay down, nor when she arose.
-\v 34 Then in the morning the older daughter said to the younger, “Last night I lay  with my father. Let us make him drink wine again tonight; and you go in and lie with him, so that we can preserve our family through our father.”
+\v 34 Then in the morning the older daughter said to the younger, “Last night I lay with my father. Let us make him drink wine again tonight; and you go in and lie with him, so that we can preserve our family through our father.”
 \v 35 So they made their father drink wine that night as well. The younger arose and lay with him. He, however, did not know when she lay down nor when she arose.
 \v 36 In this way both the daughters of Lot became pregnant by their father.
 \v 37 Then Lot went up from Zoar with his two daughters and lived in a cave on the heights, for he was afraid to stay in Zoar. His oldest daughter bore a son, and named him Moab. He is the father of the present Moabites.
@@ -866,20 +865,20 @@ But Sarah was listening behind the door of the tent.
 \c 20
 \ms Abraham in Gerar
 \p
-\v 1  Abraham journeyed  from there toward the land of the Negreb, settling between Kadesh and Shur, and staying for a while in Gerar,
-\v 2 where he said that his wife Sarah  was his sister. So King Abimelech  of Gerar had Sarah brought to him.
+\v 1 Abraham journeyed from there toward the land of the Negreb, settling between Kadesh and Shur, and staying for a while in Gerar,
+\v 2 where he said that his wife Sarah was his sister. So King Abimelech of Gerar had Sarah brought to him.
 \v 3 But God came to Abimelech in a dream in the night and said to him, “You will die, because of the woman you have taken, for she is married.
 \v 4 But Abimelech had not come near her; so he said, Lord, will you slay an innocent people?
 \v 5 Did Abraham not himself say to me, ‘She is my sister?’ And even she herself said, ‘He is my brother.’ I acted innocently and in good faith.”
-\v 6 Then God said to him in the dream, “I  know that you acted innocently and in good faith, and I also prevented you from sinning against me, since I did not allow you to touch her.
-\v 7 Now you must restore the man's wife -- for he is a prophet and he can intercede for you, and you will live. But if you do not restore her  at once, you will die, together with all your people.”
+\v 6 Then God said to him in the dream, “I know that you acted innocently and in good faith, and I also prevented you from sinning against me, since I did not allow you to touch her.
+\v 7 Now you must restore the man's wife -- for he is a prophet and he can intercede for you, and you will live. But if you do not restore her at once, you will die, together with all your people.”
 \v 8 Abimelech rose early in the morning, and summoned all his court, and when he had told all these things in their hearing, they were greatly afraid.
 \p
 \v 9 Then Abimelech called Abraham and asked him, “What have you done to us? What harm have I done to you to make you bring this great sin on me and my kingdom? You have done to me something that ought not to be done.”
 \v 10 Abimelech said to Abraham, “What was your purpose in doing this thing?”
-\v 11  Abraham answered, “Because I thought, ‘Surely the fear of God is not in this place and they will slay me for my wife's sake.’
-\v 12 Moreover, she really is  my sister, the daughter of my father, though not the daughter of my mother; and she became my wife.
-\v 13 So  when God caused me to wander from my father's house,  I said to her, ‘This is how you can show your loyalty to me: at every place to which we come, say that you are my brother.’”
+\v 11 Abraham answered, “Because I thought, ‘Surely the fear of God is not in this place and they will slay me for my wife's sake.’
+\v 12 Moreover, she really is my sister, the daughter of my father, though not the daughter of my mother; and she became my wife.
+\v 13 So when God caused me to wander from my father's house, I said to her, ‘This is how you can show your loyalty to me: at every place to which we come, say that you are my brother.’”
 \p
 \v 14 Abimelech then took sheep and oxen, and male and female slaves and gave them to Abraham, and restored Sarah his wife to him.
 \v 15 Also Abimelech said, “My land lies before you; live wherever you please.”
@@ -903,7 +902,7 @@ But Sarah was listening behind the door of the tent.
 \v 10 S he said to Abraham, “Drive out this slave-girl and her son, for the son of this slave-girl shall not be heir with my son Isaac”
 \v 11 This request was very displeasing to Abraham because the boy was his son.
 \v 12 But the \nd Lord\nd* said to Abraham, “Do not be displeased because of the boy and because of your slave-girl. Listen to all that Sarah says to you, for only through the line of Isaac will your name be perpetuated.
-\v 13 But I will also make of the son of the slave-girl  a great nation, because he is your son.”
+\v 13 But I will also make of the son of the slave-girl a great nation, because he is your son.”
 \p
 \v 14 Then Abraham got up early in the morning and took bread and a skin of water and gave it to Hagar, and he put the boy upon her shoulder and sent her away. So she departed and wandered in the wilderness of Beersheba.
 \v 15 When the water in the skin was gone, she left the child under one of the desert shrubs
@@ -924,20 +923,20 @@ But Sarah was listening behind the door of the tent.
 \p
 \v 25 Now as often as Abraham complained to Abimelech because of the well of water which Abimelech's servants had seized,
 \v 26 Abimelech said, “I do not know who has done this thing, neither have you told me nor have I heard of it until today.”
-\v 27 So Abraham took sheep and oxen and gave them to Abimelech, and  made an agreement with each other.
+\v 27 So Abraham took sheep and oxen and gave them to Abimelech, and made an agreement with each other.
 \v 28 But when Abraham set seven ewe lambs of the flock by themselves,
 \v 29 Abimelech said to Abraham, “What is the meaning of these seven ewe lambs which you have set by themselves?”
 \v 30 Abraham answered, “Accept these seven ewe lambs from my hand so that you may be my witness that I dug this well.”
 \v 31 The place was called Beer-sheba, because it was there they swore their oath.
 \v 32 So they made a solemn agreement at Beer-sheba, and Abimelech arose with Phicol the captain of his army, and they returned to the land of the Philistines.
 \v 33 Abraham, however, planted a tamarisk tree in Beer-sheba, and called there on the name of the \nd Lord\nd*, the Everlasting God.
-\v 34 Abraham stayed in the land of the Philistines  many days.
+\v 34 Abraham stayed in the land of the Philistines many days.
 \c 22
 \ms The test of Abraham
 \rem Childrens
 \p
 \v 1 Later the \nd Lord\nd* tested Abraham, saying to him, “Abraham”; and he answered, “Here I am.”
-\v 2 The \nd Lord\nd* said, “Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt-offering on one of the mountains  which I will show you.”
+\v 2 The \nd Lord\nd* said, “Take your son, your only son Isaac, whom you love, and go to the land of Moriah, and offer him there as a burnt-offering on one of the mountains which I will show you.”
 \p
 \v 3 So Abraham rose early in the morning and saddled his donkey and took two of his servants with him, and his son Isaac. When he had split the wood for the burnt-offering, he set out for the place of which God had told him.
 \v 4 On the third day, when Abraham looked up and saw the place in the distance,
@@ -963,8 +962,8 @@ But Sarah was listening behind the door of the tent.
 \p
 \v 19 So Abraham returned to his servants, and they arose and went together to Beer-sheba.
 \ms Genealogy
-\p  Abraham was living in Beer-sheba.
-\v 20 After these things,  Abraham was told, “Milcah has also borne children to your brother Nahor,
+\p Abraham was living in Beer-sheba.
+\v 20 After these things, Abraham was told, “Milcah has also borne children to your brother Nahor,
 \v 21 Uz his first born, Buz his brother, Kemuel the father of Aram,
 \v 22 Chesed, Hazo and Pildash, Jidlaph and Bethuel.”
 \v 23 (And Bethuel fathered Rebekah). These eight Mileah bore to Nahor, Abraham's brother.
@@ -978,9 +977,9 @@ But Sarah was listening behind the door of the tent.
 \v 3 When Abraham rose up from the presence of his dead, he said to the Hittites,
 \v 4 “I am a stranger and a foreigner living among you; give me possession of a burying-place with you, so that I may bury my dead out of my sight.”
 \v 5 The Hittites answered Abraham,
-\v 6 “Hear us, my lord; you are a mighty prince  among us; bury your dead in the best of our burial places. None of us will withhold from you his burial place, so that you may bury your dead.”
+\v 6 “Hear us, my lord; you are a mighty prince among us; bury your dead in the best of our burial places. None of us will withhold from you his burial place, so that you may bury your dead.”
 \p
-\v 7  Abraham rose up and bowed before the people of the land, the Hittites,
+\v 7 Abraham rose up and bowed before the people of the land, the Hittites,
 \v 8 and said to them, “If it is your intention that I should bury my dead out of my sight, hear me, and speak for me to Ephron the son of Zohar,
 \v 9 to give me the cave of Machpelah, which he has, which is at the end of his field. Let him give to me for the full price in your presence, so that I can own it as a burying-place.”
 \v 10 Now Ephron was sitting with the other Hittites, and, in the presence of all the Hittites, all who went in and out at the gate of his city he answered Abraham,
@@ -990,7 +989,7 @@ But Sarah was listening behind the door of the tent.
 \v 13 and spoke to Ephron in the hearing of the people of the land, saying, “Please, hear me -- I will give the price of the field; accept it from me so that I may bury my dead there.”
 \p
 \v 14 Ephron answered Abraham by saying to him,
-\v 15 “My lord, listen to me; a piece of land worth four hundred shekels of silver, what is that between me and you? Bury  your dead.”
+\v 15 “My lord, listen to me; a piece of land worth four hundred shekels of silver, what is that between me and you? Bury your dead.”
 \v 16 Then Abraham accepted Ephron's terms and Abraham weighed to Ephron the silver, which he had named in the hearing of the Hittites, four hundred shekels of silver, on the standard weights used by merchants.
 \p
 \v 17 So the field of Ephron which was in Machpelah which was to the east of Mamre, the field, and the cave which was in it, with all the trees that were in the field, that were in all the border of it round about,
@@ -1087,12 +1086,12 @@ But Sarah was listening behind the door of the tent.
 \ms Geneaology, Abraham's death
 \rem Students
 \p
-\v 1  Abraham had taken another wife, whose name was Keturah.
+\v 1 Abraham had taken another wife, whose name was Keturah.
 \v 2 She gave him sons: Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
 \v 3 Jokshan fathered Sheba, and Dedan. T he sons of Dedan were Asshurim, Letushim, and Leummim;
 \v 4 and the sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were descendants of Keturah.
 \p
-\v 5  Abraham had left all that he had to Isaac.
+\v 5 Abraham had left all that he had to Isaac.
 \v 6 But to the sons of his concubines, Abraham had given gifts while he was still alive, and had sent them away from Isaac his son, eastward, to the east country.
 \p
 \v 7 Abraham had lived for one hundred and seventy-five years,
@@ -1101,7 +1100,7 @@ But Sarah was listening behind the door of the tent.
 \v 9 Then Isaac and Ishmael his sons buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is east of Mamre,
 \v 10 the field which Abraham purchased from the Hittites. There Abraham was buried with Sarah his wife.
 \p
-\v 11 After the death of Abraham,  God blessed Isaac his son, who settled at Beer-lahai-roi.
+\v 11 After the death of Abraham, God blessed Isaac his son, who settled at Beer-lahai-roi.
 \p
 \v 12 This is a list of descedents of Ishmael, Abraham's son whom Hagar the Egyptian, Sarah's maid-servant gave to Abraham.
 \v 13 These then are the names of the sons of Ishmael, named according to their order of birth: the first-born of Ishmael, Nebaioth; then Kedar, Adbeel, Mibsam,
@@ -1109,7 +1108,7 @@ But Sarah was listening behind the door of the tent.
 \v 15 Hadad, Tema, Jetur, Naphish, and Kedemah.
 \v 16 These are the sons of Ishmael, and these are their names, by their villages, and by their encampments, twelve princes according to their peoples.
 \p
-\v 17  Ishmael lived for one hundred and thirty-seven years; and he breathed his last, and was gathered to his people.
+\v 17 Ishmael lived for one hundred and thirty-seven years; and he breathed his last, and was gathered to his people.
 \v 18 They settled from Havilah to Shur that is
 east of Egypt, as far as Assyria; he settled down alongside all his people.
 \p
@@ -1118,7 +1117,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \ms Esau and Jacob
 \rem Childrens
 \p
-\v 21  Isaac prayed to the \nd Lord\nd* for his wife, because she had no children; and the \nd Lord\nd* heard his prayer, and Rebekah became pregnant with twins.
+\v 21 Isaac prayed to the \nd Lord\nd* for his wife, because she had no children; and the \nd Lord\nd* heard his prayer, and Rebekah became pregnant with twins.
 \v 22 The children struggled against each other in her womb, and she said, “Why is this happening to me? What does it mean?” She went to ask the \nd Lord\nd*,
 \v 23 who said to her,
 \q “Two nations are in your womb,
@@ -1147,14 +1146,14 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \p
 \v 2 The \nd Lord\nd* appeared to him and said, “Go not down into Egypt; settle in the land of which I will tell you,
 \v 3 stay in this land, and I will be with you and will bless you; for to you, and to your descendants, I will give all these lands, and will establish the oath which I swore to Abraham your father:
-\v 4  I will make your descendants as many as the stars of heaven, and give to your descendants all these lands; and all the nations of the earth will invoke for themselves a blessing like that of your descendants,
+\v 4 I will make your descendants as many as the stars of heaven, and give to your descendants all these lands; and all the nations of the earth will invoke for themselves a blessing like that of your descendants,
 \v 5 because Abraham obeyed my voice and kept my charge, my commandments, my statutes, and my laws.”
 \v 6 So Isaac settled in Gerar.
 \p
-\v 7  The men of the place asked him about his wife; and he said, “She is my sister”; for he was afraid to say “my wife”; lest the men of the place kill him for Rebekah; because she was beautiful to look at.
-\v 8 But after he had been there a long time, Abimelech king of the Philistines  looked out of the window, and saw Isaac just as he was caressing Rebekah his wife.
+\v 7 The men of the place asked him about his wife; and he said, “She is my sister”; for he was afraid to say “my wife”; lest the men of the place kill him for Rebekah; because she was beautiful to look at.
+\v 8 But after he had been there a long time, Abimelech king of the Philistines looked out of the window, and saw Isaac just as he was caressing Rebekah his wife.
 \p
-\v 9 Then Abimelech called to Isaac, and said, “Surely  she is your wife;  why did you say ‘She is my sister?’” Isaac answered him, “I said it, so that I might not die because of her.”
+\v 9 Then Abimelech called to Isaac, and said, “Surely she is your wife; why did you say ‘She is my sister?’” Isaac answered him, “I said it, so that I might not die because of her.”
 \v 10 Abimelech said, “What is this you have done to us? One of the people might have lain with your wife and so you would have brought guilt upon us.”
 \v 11 Abimelech warned all the people, saying, “The person who touches this man or his wife will be put to death.”
 \p
@@ -1164,35 +1163,35 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 14 Now all the wells which Isaac's father's servants had dug in the days of Abraham his father, the Philistines had stopped, and filled with earth.
 \v 15 But Isaac dug again the wells of water, which they had dug in the days of Abraham his father -- for the Philistines had stopped them after the death of Abraham and he gave them the same names as his father had given them.
 \p
-\v 16  Abimelech said to Isaac, “Go from us; for you are much mightier than we are.”
+\v 16 Abimelech said to Isaac, “Go from us; for you are much mightier than we are.”
 \v 17 So Isaac departed, and encamped in the valley of Gerar, and settled there.
 \v 18 Isaac reopened the wells which had been dug in the days of his father Abraham and stopped by the Philistines after his death. He called them by the names his father had given them.
 \v 19 When Isaac's slaves dug in the valley, they found there a well of spring water.
 \v 20 The herdsmen of Gerar quarreled with Isaac's herdsmen, saying, “The water is ours.” So he called the name of the well Esek\f + Contention\f*, because they contended with him.
 \v 21 And when they dug another well, they quarreled over that also. So he called the name of it Sitnah\f + Enmity\f*.
-\v 22 He moved on from these and dug another well; and over that one there was no dispute. So he called  it Rehoboth\f + Room\f*, and said, “For now the \nd Lord\nd* has made room for us and we shall be fruitful in the land.”
+\v 22 He moved on from these and dug another well; and over that one there was no dispute. So he called it Rehoboth\f + Room\f*, and said, “For now the \nd Lord\nd* has made room for us and we shall be fruitful in the land.”
 \p
 \v 23 Isaac went up from there to Beer-sheba.
 \v 24 The \nd Lord\nd* appeared to him the same night and said, “I am the God of Abraham your father, do not be afraid, because I am with you, and will bless you and make your descendants numerous for the sake of my servant Abraham.”
 \v 25 Isaac built an altar there, and called upon the name of the \nd Lord\nd*, and pitched his tent there. There also Isaac's slaves dug a well.
 \p
 \v 26 Then Abimelech came to him from Gerar with Ahuzzath his friend, and Phicol the captain of his army.
-\v 27  Isaac said to them, “Why have you come to me, since you hated me and have driven me away from you?”
-\v 28 They said, “We saw plainly that the \nd Lord\nd* was with you, so we said, ‘Let there now be a sworn treaty between us --  let us make a solemn agreement with you --
+\v 27 Isaac said to them, “Why have you come to me, since you hated me and have driven me away from you?”
+\v 28 They said, “We saw plainly that the \nd Lord\nd* was with you, so we said, ‘Let there now be a sworn treaty between us -- let us make a solemn agreement with you --
 \v 29 so that you will do us no harm, as we have not touched you, and as we have done to you nothing but good, and have sent you away in peace.’ You are now blessed of the \nd Lord\nd*.”
 \v 30 And he made them a feast and they ate and drank.
 \v 31 Then in the morning they arose early and took oaths with each other; and Isaac sent them away, and they departed from him in peace.
-\v 32 That same day,  Isaac's slaves came and told him about a well which they had dug, and said to him, “We have found water.”
+\v 32 That same day, Isaac's slaves came and told him about a well which they had dug, and said to him, “We have found water.”
 \v 33 He called it Shebna\f + Oath\f*, therefore the name of the city is Beer-sheba to this day.
 \ms Esau and Jacob
 \rem Childrens
 \p
 \v 34 When Esau was forty years old he married Judith the daughter of Beeri the Hittite, and Basemath the daughter of Elon the Hittite,
-\v 35 and they were a source of grief  to Isaac and to Rebekah.
+\v 35 and they were a source of grief to Isaac and to Rebekah.
 \c 27
 \p
 \v 1 When Isaac was so old and so nearly blind that he could not see, he called Esau his oldest son and said to him, “My son.” Esau answered, “Here I am.”
-\v 2  Isaac said, “See, I am old and do not know how soon I may die.
+\v 2 Isaac said, “See, I am old and do not know how soon I may die.
 \v 3 T ake your quiver and your bow and go out into the fields and hunt venison for me
 \v 4 and prepare for me savory food, such as I love, and bring it to me that I may eat and that I may bless you before I die.”
 \p
@@ -1215,7 +1214,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 20 Isaac said to his son, “How very quickly you have found it, my son.” He answered, “Yes, because the \nd Lord\nd* your God gave me success.”
 \p
 \v 21 Then Isaac said to Jacob, “Come here, my son, that I may touch you to find out whether you are really my son Esau or not.”
-\v 22 So Jacob went near to Isaac his father, and he felt  him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.
+\v 22 So Jacob went near to Isaac his father, and he felt him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.
 \v 23-24 Are you really my son Esau?” Jacob answered, “I am.” Isaac did not recognize him, for his hands were hairy like his brother Esau's. So he blessed him.
 \v 25 Then Isaac said, “Bring the food to me, that I may eat some of my son's venison and bless you.” So he brought it to him, and he ate. Jacob also brought him wine, and he drank.
 \p
@@ -1243,7 +1242,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 34 When Esau heard the words of his father, he uttered a loud and bitter cry and said to his father, “Father, bless me also!”
 \p
 \v 35 But Isaac said, “Your brother came with deceit and has taken away your blessing.”
-\v 36 Esau said, “He was correctly named Jacob\f +which means Supplanter\f*.  He has supplanted me these two times: he took my birthright, and now he has taken my blessing!” Then he said, “Have you kept a blessing for me?”
+\v 36 Esau said, “He was correctly named Jacob\f +which means Supplanter\f*. He has supplanted me these two times: he took my birthright, and now he has taken my blessing!” Then he said, “Have you kept a blessing for me?”
 \v 37 Isaac answered Esau, “I have made him your master and I have given to him all his relatives as slaves and grain and wine as his food. What then can I do for you, my son?”
 \v 38 Esau said to his father, “Is that the only blessing you have, my father? Father, bless me too!” and Esau began to weep aloud.
 \v 39 Then Isaac his father answered him:
@@ -1264,7 +1263,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \ms Wives for Jacob and Esau
 \rem Students
 \p
-\v 46  Rebekah said to Isaac, “I am disgusted with life because of the Hittite women; if Jacob marries a Hittite woman, such as these, the women of the land, I might as well die.”
+\v 46 Rebekah said to Isaac, “I am disgusted with life because of the Hittite women; if Jacob marries a Hittite woman, such as these, the women of the land, I might as well die.”
 \c 28
 \rem Students
 \p
@@ -1286,7 +1285,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 12 Then he dreamed and saw a ladder set up on the earth, and its top reached to heaven; and the messengers of God were going up and down on it.
 \p
 \v 13 The \nd Lord\nd* also stood beside him and said, “I am the \nd Lord\nd*, God of Abraham and God of Isaac. The land on which you lie I will give to you and to your children.
-\v 14  Your descendants will be as countless as the dust of the earth and you will spread abroad to the west, and to the east, and to the north, and to the south, and all the families of the earth will wish for a blessing like yours and that of your descendants.
+\v 14 Your descendants will be as countless as the dust of the earth and you will spread abroad to the west, and to the east, and to the north, and to the south, and all the families of the earth will wish for a blessing like yours and that of your descendants.
 \v 15 See, I am with you, and will keep you wherever you go and will bring you again to this land; for I will not leave you until I have done what I have promised you.”
 \p
 \v 16 When Jacob awoke from his sleep, he said, “Surely the \nd Lord\nd* is in this place, and I did not know it.”
@@ -1301,7 +1300,7 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \ms Leah and Rachel
 \rem Childrens
 \p
-\v 1  Jacob continued on his journey and arrived at the land of the people of the East.
+\v 1 Jacob continued on his journey and arrived at the land of the people of the East.
 \v 2 He looked and saw a well in the field, and there were three flocks of sheep lying down by it; for from that well they watered the flocks; but there was a large stone over the well.
 \v 3 When all the flocks were gathered there, the shepherds used to roll away the stone and water the sheep and then put the stone back in its place over the well.
 \p
@@ -1362,14 +1361,14 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 12 Zilpah bore Jacob a second son,
 \v 13 and Leah said, “Happy am I! Now women will call me happy”, and she called his name Asher.
 \p
-\v 14 One time, during the wheat harvest, Reuben went  and found mandrakes in the field and brought them to his mother Leah.  Rachel asked Leah, “Please give me some of your son's mandrakes.”
-\v 15 But Leah said to her, “Is it a small matter that you have taken away my husband, that you would also take away my son's mandrakes?”  Rachel said, “In exchange for your son's mandrakes, Jacob can sleep with you tonight.”
+\v 14 One time, during the wheat harvest, Reuben went and found mandrakes in the field and brought them to his mother Leah. Rachel asked Leah, “Please give me some of your son's mandrakes.”
+\v 15 But Leah said to her, “Is it a small matter that you have taken away my husband, that you would also take away my son's mandrakes?” Rachel said, “In exchange for your son's mandrakes, Jacob can sleep with you tonight.”
 \v 16 So when Jacob came from the field in the evening, Leah went out to meet him, and said, “You sleep with me tonight, for I have hired you with my son's mandrakes.” So he slept with her that night.
 \p
 \v 17 God heard Leah's prayer, and she conceived and bore Jacob a fifth son.
-\v 18  Leah said, “God has given me my reward, because I gave my slave-girl to my husband”; so she called his name Issachar\f + There is a hire\f*.
+\v 18 Leah said, “God has given me my reward, because I gave my slave-girl to my husband”; so she called his name Issachar\f + There is a hire\f*.
 \v 19 Leah conceived again, and bore a sixth son to Jacob.
-\v 20 She said, “God has endowed me with a good dowry; now  my husband will honor me, because I have borne him six sons”; and she called him Zebulun\f + Dwelling\f*.
+\v 20 She said, “God has endowed me with a good dowry; now my husband will honor me, because I have borne him six sons”; and she called him Zebulun\f + Dwelling\f*.
 \v 21 And afterwards she had a daughter and named her Dinah.
 \rem Shorter
 \p
@@ -1381,22 +1380,22 @@ east of Egypt, as far as Assyria; he settled down alongside all his people.
 \v 25 When Rachel had given birth to Joseph, Jacob said to Laban, “Send me away, so that I may go to my own place, and to my country.
 \v 26 Give me my wives and my children for whom I have served you, so that I may go; for you know the service which I have rendered you.”
 \v 27 But Laban said to him, “If now I have found favor in your eyes -- I have divined that the \nd Lord\nd* has blessed me for your sake.
-\v 28  State exactly to me your wages and I will pay them.”
+\v 28 State exactly to me your wages and I will pay them.”
 \p
-\v 29  Jacob answered him, “You know how I have served you and what your cattle have become under my care;
+\v 29 Jacob answered him, “You know how I have served you and what your cattle have become under my care;
 \v 30 for it was little which you had before I came, but now it has greatly increased, since the \nd Lord\nd* has blessed you wherever I went. But now, when am I to provide for my own house as well?”
 \v 31 Laban said, “What should I give you?”
 \p Jacob said, “You do not need to give me anything. If you will do this thing for me, I will again feed your flock; I will again keep it.
 \v 32 If I can go through all your flock today, and remove from it every black one among the lambs and the spotted and speckled among the goats; these will be my wages.
-\v 33 So  my honesty will testify for me later, when you come to inspect my wages: every one that is not speckled and spotted among the goats and black among the lambs has been stolen by me.”
-\v 34  Laban said, “Good, let it be as you say.”
+\v 33 So my honesty will testify for me later, when you come to inspect my wages: every one that is not speckled and spotted among the goats and black among the lambs has been stolen by me.”
+\v 34 Laban said, “Good, let it be as you say.”
 \v 35 But he removed that day the he-goats that were striped and spotted, and all the she-goats that were striped and spotted, every one that had white on it, and all the black ones among the lambs, and gave them into the hands of his sons.
 \v 36 Then he put the distance of a three days' journey between himself and Jacob; and Jacob fed the rest of Laban's flocks.
 \p
-\v 37  Jacob, however, took fresh rods of white poplar, and of the almond and of the plane tree, and peeled white streaks in them, exposing the white which was in the rods.
+\v 37 Jacob, however, took fresh rods of white poplar, and of the almond and of the plane tree, and peeled white streaks in them, exposing the white which was in the rods.
 \v 38 He set the rods which he had peeled before the flocks in the watering-troughs where the flocks came to drink (and they conceived when they came to drink)
 \v 39 so that the flocks conceived before the rods. Therefore the flocks brought forth striped, speckled and spotted offspring.
-\v 40  Jacob separated the lambs, and he set the faces of the flocks toward the striped and the black animals in the flock of Laban and he put his own droves apart and did not put them near Laban's flock.
+\v 40 Jacob separated the lambs, and he set the faces of the flocks toward the striped and the black animals in the flock of Laban and he put his own droves apart and did not put them near Laban's flock.
 \p
 \v 41 Whenever the stronger animals of the flock conceived, Jacob laid the rods in the troughs before the eyes of the flock, so that they might conceive among the rods.
 \v 42 But when the animals were weak, he did not put them in.
@@ -1406,20 +1405,20 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \c 31
 \p
 \v 1 Now Jacob heard Laban's sons say, “Jacob has taken all that was our father's, and from that which was our father's he has acquired all these riches.”
-\v 2 Now Jacob observed that  Laban was not so favorably inclined to him as formerly.
-\v 3  The \nd Lord\nd* said to Jacob, “Return to the land of your ancestors, and to your relatives, and I will be with you.”
+\v 2 Now Jacob observed that Laban was not so favorably inclined to him as formerly.
+\v 3 The \nd Lord\nd* said to Jacob, “Return to the land of your ancestors, and to your relatives, and I will be with you.”
 \v 4 Then Jacob sent for Rachel and Leah to come to the field where his flocks were,
 \v 5 and said to them, “I see that your father is not so favorably inclined toward me as formerly; but the God of my father has been with me.
 \v 6 You know that I have served your father with all my strength.
 \v 7 Your father, however, has deceived me and changed my wages ten times; but God has not allowed him to do me harm.
 \v 8 If your father said, ‘The speckled will be your wages,’ then all the flock bore speckled offspring, but if he said: ‘The striped will be your wages,’ then all the flock have striped offspring.
-\v 9  God has taken away the possessions of your father and given them to me.
-\v 10 At the time when the flock breed,  I looked up, and saw in a dream, that the he-goats which were mating were striped, speckled, and piebald.
+\v 9 God has taken away the possessions of your father and given them to me.
+\v 10 At the time when the flock breed, I looked up, and saw in a dream, that the he-goats which were mating were striped, speckled, and piebald.
 \v 11 The messenger of God said to me in a dream, ‘Jacob!’ and I said, ‘Here I am.’
 \v 12 And he said, ‘Look! All the he-goats which are mating are striped, speckled, and piebald: for I have seen all that Laban has been doing to you.
 \v 13 I am the God of Bethel, where you anointed a pillar of stone, where you made a vow to me. Now arise, leave this land, and return to the land where you were born.’”
 \p
-\v 14 Then Rachel and Leah answered  him, “There is no longer any inheritance for us in our father's house.
+\v 14 Then Rachel and Leah answered him, “There is no longer any inheritance for us in our father's house.
 \v 15 Are we not considered as foreigners by him? For he has sold us and goes on to consume the money paid for us.
 \v 16 Since all the riches which God has taken away from our father is ours and our children's, do whatever God has told you to do.”
 \p
@@ -1430,28 +1429,28 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 21 So he fled with all he had; crossing the river Euphrates heading towards the hill-country of Gilead.
 \p
 \v 22 When it was reported to Laban on the third day that Jacob had fled,
-\v 23 he took his tribesmen with him, and pursued  him for seven days, and overtook him in the hill country of Gilead.
-\v 24 But God came to Laban the Aramean in a dream at night, and said to him, “Take care  that you do not speak to Jacob either good or bad.”
+\v 23 he took his tribesmen with him, and pursued him for seven days, and overtook him in the hill country of Gilead.
+\v 24 But God came to Laban the Aramean in a dream at night, and said to him, “Take care that you do not speak to Jacob either good or bad.”
 \v 25 When Laban caught up with Jacob, Jacob had pitched his tent in the hill country; and Laban with his relatives encamped in same hill country of Gilead.
 \p
-\v 26  Laban said to Jacob, “What have you done?  You have deceived me and carried away my daughters like captives of war!
-\v 27 Why did you flee secretly, stealing away from me without telling me?  I would have sent you away with mirth and with songs, with tambourine and with harp --
+\v 26 Laban said to Jacob, “What have you done? You have deceived me and carried away my daughters like captives of war!
+\v 27 Why did you flee secretly, stealing away from me without telling me? I would have sent you away with mirth and with songs, with tambourine and with harp --
 \v 28 but you did not allow me to kiss my sons and daughters. You have acted foolishly.
 \v 29 It was in my power to do you harm, but the God of your father spoke to me last night saying, ‘Take care that you do not speak to Jacob, neither good nor bad.’
 \v 30 But now, since you are surely going because you long so earnestly for your father's house, why have you stolen my gods?”
 \p
-\v 31 Jacob answered Laban,  “I was afraid, because I thought you would take your daughters from me by force.
+\v 31 Jacob answered Laban, “I was afraid, because I thought you would take your daughters from me by force.
 \v 32 The one with whom you find your gods will be put to death; in the presence of our kinsmen investigate for yourself what is with me and take it.” Jacob did not know that Rachel had stolen Laban's gods.
 \v 33 So Laban went into Jacob's tent and into Leah's, and into the tent of the two slave-girls, but he did not find his gods. Then he went out of Leah's tent, and entered Rachel's.
 \v 34 Now Rachel had taken the household gods and put them in the camel's saddle and was sitting on them, so that when Laban had searched all about the tent, he did not find them.
-\v 35  She said to her father, “Do not be angry that I cannot rise before you, my lord, for it is that time of the month that women have.” And though he searched thoroughly, he did not find the household gods.
+\v 35 She said to her father, “Do not be angry that I cannot rise before you, my lord, for it is that time of the month that women have.” And though he searched thoroughly, he did not find the household gods.
 \p
 \v 36 Then Jacob became angry and challenged Laban. “What is my crime?” he said, “What is my offense, that you have pursued hotly after me?
 \v 37 Alhough you have gone through all through my things, what have you found of all your household possessions? Declare it here before my kinsmen and yours, so that they may decide which of us two is in the right.
 \v 38 In all these twenty years that have I been with you, your ewes and she-goats have not miscarried their young, neither did I eat the rams of your flocks.
-\v 39  I did not bring to you the animals which were killed by wild beasts; I bore the loss of it myself; from my hand you required compensation, whether stolen by day or stolen by night.
-\v 40 This was how I was: in the day the heat consumed me, and by night the frost, and  sleep deserted me.
-\v 41 These twenty years  I have been in your house; I served you fourteen years for your two daughters, and six years for your flock, and you have changed my wages ten times.
+\v 39 I did not bring to you the animals which were killed by wild beasts; I bore the loss of it myself; from my hand you required compensation, whether stolen by day or stolen by night.
+\v 40 This was how I was: in the day the heat consumed me, and by night the frost, and sleep deserted me.
+\v 41 These twenty years I have been in your house; I served you fourteen years for your two daughters, and six years for your flock, and you have changed my wages ten times.
 \v 42 Unless the God of my father, the God of Abraham and the Fear of Isaac, had been with me, surely by now you would have sent me away empty. But God has seen my affliction and the labor of my hands, and he rebuked you last night.”
 \p
 \v 43 Then Laban answered Jacob, “The daughters are my daughters, and the children are my grandchildren, and the flocks are my flocks, and all that you see is mine, but what can I do today for these my daughters, or for their children whom they have borne?
@@ -1459,12 +1458,12 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 45 So Jacob took a stone, and set it up as a pillar,
 \v 46 and said to the members of his family, “Gather stones.” When they had taken stones and made a heap, they ate there by the heap.
-\v 47  Laban called it Jegar-sahaduthap\f + Heap of witness\f*; but Jacob called it Galeed\f + Heap of witness\f*.
-\v 48  “This heap”, Laban said, “is witness between me and you today.” This is why it was called Galeed,
-\v 49 and  Mizpah\f + Place of watching\f*, for Laban said, “May the \nd Lord\nd* watch between me and you when we are absent one from another,
+\v 47 Laban called it Jegar-sahaduthap\f + Heap of witness\f*; but Jacob called it Galeed\f + Heap of witness\f*.
+\v 48 “This heap”, Laban said, “is witness between me and you today.” This is why it was called Galeed,
+\v 49 and Mizpah\f + Place of watching\f*, for Laban said, “May the \nd Lord\nd* watch between me and you when we are absent one from another,
 \v 50 so that you may not maltreat my daughters nor take other wives besides my daughters. No one is with us; but beware: God is witness between me and you.”
 \p
-\v 51 Moreover, Laban said to Jacob, “See this heap, and  the pillar which I have set up between me and you.
+\v 51 Moreover, Laban said to Jacob, “See this heap, and the pillar which I have set up between me and you.
 \v 52 This heap is a witness and the pillar is a witness that I should not pass beyond this heap to you and that you must not pass beyond this heap and this pillar to me, with hostile intent.
 \v 53 The God of Abraham and the God of Nahor” (the God of their ancestors) “judge between us.” And Jacob swore by the Fear of his father Isaac.
 \p
@@ -1478,7 +1477,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \ms Jacob prepares to meet Esau
 \rem Childrens and Shorter
 \p
-\v 3  Jacob sent messengers before him to his brother Esau, to the land of Seir, which is the territory of the Edomites.
+\v 3 Jacob sent messengers before him to his brother Esau, to the land of Seir, which is the territory of the Edomites.
 \v 4 He gave them this command, “Say to my lord Esau: ‘Your servant Jacob declares, I have lived with Laban and have stayed until now.
 \v 5 I have oxen and donkeys, flocks and male and female slaves, and I have sent to tell my lord, in order that I may win your favor.’”
 \v 6 The messengers returned to Jacob with the report, “We came to your brother Esau, even as he was coming to meet you with four hundred men.”
@@ -1487,7 +1486,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 8 and said, “If Esau comes to the one and attacks and destroys it, then the other which is left can escape.”
 \p
 \v 9 Jacob also prayed, “God of my father Abraham and God of my father Isaac, \nd Lord\nd* who said to me, ‘Return to your country, and to your relatives, and I will do well by you,’
-\v 10 I am not worthy of the least of all the mercies and all the faithfulness which you have shown to me, your servant.  I passed over the Jordan river with only my staff, and now I have these two groups,
+\v 10 I am not worthy of the least of all the mercies and all the faithfulness which you have shown to me, your servant. I passed over the Jordan river with only my staff, and now I have these two groups,
 \v 11 deliver me, I pray, from the hand of my brother, from the hand of Esau, for I fear that he will come and attack me and kill the mothers and the children.
 \v 12 Remember your promise to make me prosper and my descendants as many as the sand of the seashore, uncountable.”
 \p
@@ -1512,16 +1511,16 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 27 So he said to him, “What is your name?” He answered, “Jacob.”
 \v 28 Then he said, “Your name shall be no longer Jacob, but Israel\f + which means Struggler with God\f*; for you have struggled with God and with mortals and have won.”
 \v 29 Jacob asked him, “Tell me, I pray, your name.” He said,“Why do you ask my name?” So he blessed him there.
-\v 30  Jacob called the place Penuel\f + which means Face of God\f*, for he said, “I have seen God face to face, and my life has been saved.”
+\v 30 Jacob called the place Penuel\f + which means Face of God\f*, for he said, “I have seen God face to face, and my life has been saved.”
 \p
-\v 31  The sun rose as soon as he had passed beyond Penuel, and he limped because of his hip.
+\v 31 The sun rose as soon as he had passed beyond Penuel, and he limped because of his hip.
 \v 32 This is why to this day the Israelites do not eat the thigh muscle, which is at the socket of the hip, because he touched the socket of Jacob's hip on the thigh muscle.
 \c 33
 \ms Reconciliation
 \rem Childrens
 \p
 \v 1 When Jacob looked up, he saw Esau coming with four hundred men. So he divided the children between Leah and Rachel and the two slave-girls.
-\v 2  He put the slave-girls and their children in front, Leah and her children next, and Rachel and her son Joseph in the rear.
+\v 2 He put the slave-girls and their children in front, Leah and her children next, and Rachel and her son Joseph in the rear.
 \v 3 Then Jacob himself went in front of them, and he bowed down to the ground seven times, as he drew near to his brother.
 \v 4 Esau ran to meet him, threw his arms about his neck, and kissed him, and they wept.
 \p
@@ -1552,18 +1551,18 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 1 Dinah the daughter of Leah and Jacob, went out to visit the women of the region.
 \v 2 When Sheeham the son of Hamor the Hivite, the prince of the region, saw her, he took her and lay with her and violated her,
 \v 3 but his heart was drawn to Dinah the daughter of Jacob -- he loved her and spoke endearingly to her.
-\v 4 Therefore Shechem said to his father Hamor,  “Get me this girl for my wife.”
+\v 4 Therefore Shechem said to his father Hamor, “Get me this girl for my wife.”
 \p
 \v 5 When Jacob heard that Shecham had defiled Dinah his daughter, his sons were with his cattle in the field, so Jacob said nothing until they came home.
 \v 6 Meanwhile Hamor the father of Shechem went out to Jacob to speak with him and with his sons.
 \p
 \v 7 The sons of Jacob came in from the field, and when they heard the news, the men were indignant and became very angry, because Shechem had committed a shameful crime in raping Jacob's daughter: such a thing ought never to be done.
-\v 8  Hamor said to them, “My son Shechem has set his heart on your daughter. I beg you: give her to him as a wife
+\v 8 Hamor said to them, “My son Shechem has set his heart on your daughter. I beg you: give her to him as a wife
 \v 9 and intermarry with us. Give your daughters to us and take our daughters for yourselves.
 \v 10 Then you can settle with us, and the land will be open before you. Remain, go about, and settle down in it.”
 \p
 \v 11 And Shechem said to Dinah's father and to her brothers, “Let me find favor in your sight, and I will give you what you ask of me.
-\v 12 Demand of me an exceedingly large gift for yourselves and a dowry for the bride, and I shall give all you  ask of me; only give me the girl for my wife.”
+\v 12 Demand of me an exceedingly large gift for yourselves and a dowry for the bride, and I shall give all you ask of me; only give me the girl for my wife.”
 \p
 \v 13 Then the sons of Jacob answered Shechem and Hamor his father deceitfully, declaring, (because he had defiled their sister Dinah),
 \v 14 “We cannot do this. We cannot give our sister to someone who is uncircumcised, for that would be a disgrace to us.
@@ -1573,13 +1572,13 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 18 Their proposal pleased Hamor and his son Shechem.
 \v 19 The young man (who was honored above all the house of his father) did not hesitate to do the thing demanded, because he was smitten with Jacob's daughter.
-\v 20  Hamor and his son Shechem  came to the gate of their city, and conversed with the men of their city, saying,
-\v 21 “These men are peaceably disposed toward us,  let them remain in the land and go about in it;  the land is broad enough for them on every side and in every direction; let us take their daughters to us for wives, and let us give them our daughters.
+\v 20 Hamor and his son Shechem  came to the gate of their city, and conversed with the men of their city, saying,
+\v 21 “These men are peaceably disposed toward us, let them remain in the land and go about in it; the land is broad enough for them on every side and in every direction; let us take their daughters to us for wives, and let us give them our daughters.
 \v 22 Only on this condition will these men consent to settle with us to become one people, namely, that every male among us be circumcised, as they are circumcised.
 \v 23 Shouldn't their cattle and their goods and all their beasts be ours? Let us make an alliance with them so that they will live with us.”
 \v 24 Then all who went in and out of the gate of his city agreed with Hamor and Shechem. And every male was circumcised, all who went out of the gate of his city.
 \p
-\v 25 On the third day when they were still in pain,  two of the sons of Jacob, Simeon and Levi, Dinah's brothers, took  swords and came upon the city unawares,
+\v 25 On the third day when they were still in pain, two of the sons of Jacob, Simeon and Levi, Dinah's brothers, took swords and came upon the city unawares,
 \v 26 and put Hamor and his son Shechem  to the sword, and took Dinah out of Shechem's house and went away.
 \v 27 The other sons of Jacob came on the slain, and plundered the city, because they had defiled their sister.
 \v 28 They took their flocks and their herds and their donkeys and all that which was in the city and all that which was in the field.
@@ -1600,21 +1599,21 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 8 Then Deborah, Rebekah's nurse, died, and was buried below Bethel under the oak. Therefore its name was called Allon-bacuth\f + Oak of Weeping\f*.
 \p
 \v 9 God appeared again to Jacob when he came from Paddanaram, and blessed him.
-\v 10 God said to him, “Now your name is Jacob: but your name will no longer be  Jacob, but Israel.” So he called his name Israel.
+\v 10 God said to him, “Now your name is Jacob: but your name will no longer be Jacob, but Israel.” So he called his name Israel.
 \v 11 God said to him, “I am God Almighty; be fruitful and become numerous; a nation and a multitude of nations will come from you, and kings will descend from you;
 \v 12 and the land which I gave to Abraham and Isaac, I will give to you, and to your descendants after you.”
 \v 13 God went up from him at that place where he spoke with him.
-\v 14  Jacob set up at the place where God had spoken with him, a pillar of stone, and poured a drink-offering and oil on it.
-\v 15  Jacob called the name of the place where God spoke with him, Bethel.
+\v 14 Jacob set up at the place where God had spoken with him, a pillar of stone, and poured a drink-offering and oil on it.
+\v 15 Jacob called the name of the place where God spoke with him, Bethel.
 \p
 \v 16 Then they set out from Bethel, and when they were still some distance from Ephrath, Rachel went into a hard and painful labor.
 \v 17 At the hardest, the midwife said to her, “Do not be afraid; for now you will have another son.”
-\v 18 And, as her life was departing (for she was dying),  she called his name Ben-oni\f + Son of my Sorrow\f*; but his father called him Benjamin\f + Son of the right hand\f*.
+\v 18 And, as her life was departing (for she was dying), she called his name Ben-oni\f + Son of my Sorrow\f*; but his father called him Benjamin\f + Son of the right hand\f*.
 \v 19 So Rachel died, and was buried on the way to Ephrath (that is, Bethlehem),
 \v 20 and Jacob set up a pillar on her grave: that is the Pillar of Rachel's Grave, which stands until this day.
 \p
 \v 21 Then Israel journeyed, and pitched his tent beyond Migdal-Eder\f + Tower of the Flock\f*.
-\v 22 While Israel was living in that land,  Reuben went and lay with his father's concubine Bilhah  and Israel heard of it.
+\v 22 While Israel was living in that land, Reuben went and lay with his father's concubine Bilhah and Israel heard of it.
 \p Now the sons of Jacob were twelve:
 \v 23 The sons of Leah: Reuben, Jacob's firstborn, and Simeon, and Levi, and Judah, and Issachar, and Zebulun;
 \v 24 the sons of Rachel: Joseph and Benjamin;
@@ -1682,7 +1681,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \rem Shorter
 \p
 \v 1 Jacob made his home in the land of Canaan, where his father had lived as a resident foreigner.
-\v 2 Joseph at the age of seventeen was a shepherd with his brothers,  the sons of Bilhah and the sons of Zilpah, his father's slave wives. He brought a bad report about them to their father.
+\v 2 Joseph at the age of seventeen was a shepherd with his brothers, the sons of Bilhah and the sons of Zilpah, his father's slave wives. He brought a bad report about them to their father.
 \v 3 Now Jacob loved his son Joseph, who was born in his old age; and he made him a long robe with sleeves.
 \v 4 When his brothers saw that their father loved Joseph more than all his other sons, they hated him and could not speak to him in a friendly manner.
 \p
@@ -1698,7 +1697,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 12 When his brothers went to pasture his father's flocks in Shechem,
 \v 13 Israel said to Joseph, “Are not your brothers pasturing the flocks in Shechem? Come now, I will send you to them.” Joseph replied, “I am ready.”
 \v 14 So his father said to him, “Go, see whether all goes well with your brothers and with the flock, and bring me back word.” So he sent him out from the valley of Hebron, and he came to Shechem.
-\v 15 There a  man found him, as he was wandering in the field, and the man asked him, “What are you seeking?”
+\v 15 There a man found him, as he was wandering in the field, and the man asked him, “What are you seeking?”
 \v 16 He said, “I am looking for my brothers; tell me, please, where they are pasturing the flock.”
 \v 17 The man said, “They have gone away, for I heard them say, ‘Let us go to Dothan.’” So Joseph went after his brothers and found them in Dothan.
 \p
@@ -1711,7 +1710,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 24 and they took him and threw him into the pit. But the pit was empty, there being no water in it.
 \p
 \v 25 Then they sat down to eat bread, and when they looked up they saw a caravan of Ishmaelites coming from Gilead, and their camels were loaded with spices, balm and myrrh on their way to carry it down to Egypt.
-\v 26  Judah said to his brothers, “What do we gain if we kill our brother and conceal his blood?
+\v 26 Judah said to his brothers, “What do we gain if we kill our brother and conceal his blood?
 \v 27 Come, let us sell him to the Ishmaelites, and let us do him no violence, for he is our brother, our own flesh and blood.” So his brothers listened to him;
 \v 28 and when the Midianite merchants passed by, pulled Joseph up from the pit and sold him for twenty pieces of silver to the Ishmaelites, who brought him to Egypt.
 \p
@@ -1741,11 +1740,11 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 9 But Onan knew that the child would not be his; so whenever he lay with his brother's wife, he spilled his semen on the ground, in order not to raise up offspring for his brother.
 \v 10 What he did was evil in the sight of the \nd Lord\nd*: therefore he took his life also.
 \p
-\v 11 Then said Judah to Tamar his daughter-in-law, “Remain a widow in your father's house, until Shelah my son is grown up”; for he said to himself, “I will not let him marry  her, he must not die like his brothers.” So Tamar went and lived in her father's house.
+\v 11 Then said Judah to Tamar his daughter-in-law, “Remain a widow in your father's house, until Shelah my son is grown up”; for he said to himself, “I will not let him marry her, he must not die like his brothers.” So Tamar went and lived in her father's house.
 \p
 \v 12 After many days had passed, Shua's daughter, the wife of Judah, died. When Judah had finished mourning, he went up to see about his sheep-shearers at Timnah, with his friend Hirah the Adullamite.
 \v 13 Someone told Tamar, saying, “Behold, your father-in-law is going up to Timnah to shear his sheep.”
-\v 14  She took off the garments of her widowhood, and covered herself with her veil. She sat, veiled, in the gate of Enaim, which is by the way to Timnah; for she saw that Shelah had grown up without her being given to him as wife.
+\v 14 She took off the garments of her widowhood, and covered herself with her veil. She sat, veiled, in the gate of Enaim, which is by the way to Timnah; for she saw that Shelah had grown up without her being given to him as wife.
 \v 15 When Judah saw her, he thought her to be a prostitute; because she had veiled her face.
 \v 16 So he turned aside to her by the roadside, and said, “Permit me, I pray you, to lie with you.” For he did not know that she was his daughter-in-law. And she said, “What will you give me to lie with me?”
 \v 17 He said, “I will send you a young goat from the flock.” She said, “Will you give me a pledge, until you send it?”
@@ -1754,8 +1753,8 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 20 Now when Judah sent the young goat by the hand of his friend the Adullamite, to receive the pledge from the woman's hand, he could not find her.
 \v 21 He asked the men of her place, saying, “Where is the sacred prostitute, who was at Enaim by the wayside?” They replied, “There has been no sacred prostitute here.”
-\v 22 So he returned to Judah, and said, “I have not found her; and  the men of the place said, ‘There has been no sacred prostitute here.’”
-\v 23 Judah said, “Let her keep the pledge, otherwise we will be put to shame.  I have sent this goat, and you have not found her.”
+\v 22 So he returned to Judah, and said, “I have not found her; and the men of the place said, ‘There has been no sacred prostitute here.’”
+\v 23 Judah said, “Let her keep the pledge, otherwise we will be put to shame. I have sent this goat, and you have not found her.”
 \p
 \v 24 Now after about three months, Judah was told, “Tamar your daughter-in-law has been acting like a whore and is pregnant.” Judah said, “Bring her forth and let her be burnt.”
 \v 25 But when she was brought forth, she sent to her father-in-law, saying, “By the man to whom these things belong, I am with child.” She also said, “Look at them and see if you know whose these are, the seal-ring and the chain and the staff.”
@@ -1763,7 +1762,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \p
 \v 27 When her time came to give birth, it was found that twins were in her womb.
 \v 28 While she was in labor, one put out a hand and the midwife took and bound on his hand a bright red thread, saying, “This one came out first.”
-\v 29 But  he drew back his hand, and his brother came out, and she said, “What a breach you have made for yourself!” Therefore he was named Perez\f + Breach\f*.
+\v 29 But he drew back his hand, and his brother came out, and she said, “What a breach you have made for yourself!” Therefore he was named Perez\f + Breach\f*.
 \v 30 Afterward his brother came out, who had the bright red thread on his hand; therefore he was named Zerah\f + Red\f*.
 \c 39
 \ms Joseph in Egypt
@@ -1935,7 +1934,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 22 Reuben added, “Did I not say to you, ‘Do not sin against the boy,’ but you would not listen? Therefore now his very blood is required.”
 \v 23 They did not know, however, that Joseph understood them, for he had spoken to them through an interpreter.
 \v 24 But he turned away from them and wept; then he turned back and spoke to them, and, taking Simeon from among them, bound him before their eyes.
-\v 25 Then Joseph gave orders to fill their vessels with grain and to restore each man's money to his sack and to give them provision for the journey; and  it was done to them.
+\v 25 Then Joseph gave orders to fill their vessels with grain and to restore each man's money to his sack and to give them provision for the journey; and it was done to them.
 \p
 \v 26 So they loaded their donkeys with their grain, and departed.
 \v 27 When they stopped for the night, one of them opened his sack to get feed for his donkey, and he saw the silver at the top of the sack.
@@ -2046,7 +2045,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 4 Then Joseph said to his brothers, “Come near to me, I beg of you.” So they came near. And he said, “I am Joseph your brother whom you sold into Egypt.
 \v 5 Do not be troubled nor angry with yourselves that you sold me here, because God sent me before you to preserve life.
 \v 6 For the famine has already been two years in the land, and there are still five years in which there will be neither ploughing nor harvest.
-\v 7 God sent me before you to keep you alive through a great deliverance and  give you descendants on the earth.
+\v 7 God sent me before you to keep you alive through a great deliverance and give you descendants on the earth.
 \v 8 So now it clear that it was not you who sent me here, but God. He has made me like a father to Pharaoh and master of all his household and ruler over all the land of Egypt.
 \p
 \v 9 “Go up quickly to my father and say to him, ‘Your son Joseph says: God has made me master of all Egypt, come down to me without delay.
@@ -2111,7 +2110,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \ms Israel in Egypt
 \rem Shorter
 \p
-\v 28 Jacob  sent Judah before him to Joseph, so that he might show him the way to Goshen.
+\v 28 Jacob sent Judah before him to Joseph, so that he might show him the way to Goshen.
 \v 29 When they came into the land of Goshen, Joseph made ready his chariot, and went up to Goshen to meet Jacob his father, and when he presented himself to him Jacob fell on his neck and wept there a long time.
 \p
 \v 30 Then Jacob said to Joseph, “Now let me die, since I have seen your face and know that you are still alive.”
@@ -2149,7 +2148,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 19 Why should we perish before your eyes, both we and our land? Take possession of us and our land in return for bread, and we and our land will become personal possessions of Pharaoh; and give us seed, so that we will live, and not die, so that the land does not become desolate.”
 \p
 \v 20 So Joseph bought all the land of Egypt for Pharaoh; because every Egyptian sold his field, because the famine was severe upon them. So the land became Pharaoh's.
-\v 21 As for the people, he reduced them to slavery from one end of Egypt  to the other.
+\v 21 As for the people, he reduced them to slavery from one end of Egypt to the other.
 \v 22 Only the land of the priests he did not buy, because the priests had a definite allowance from Pharaoh, and ate their portion which Pharaoh gave them. Hence they did not sell their land.
 \p
 \v 23 Then Joseph said to the people, “I have bought you and you land today for Pharaoh. Here is seed for you, and you must sow the land.
@@ -2163,7 +2162,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \ms Deaths of Jacob and Joseph
 \p
 \v 29 When the time drew near for Jacob to die, he called his son Joseph and said to him, “If now you will do me a favor, put your hand under my thigh and swear that you will act kindly and faithfully with me. Do not bury me, I beg of you, in Egypt;
-\v 30 but when I lie down to sleep with my ancestors, carry, me out of Egypt and bury me in their burying-place.” Joseph replied, “I will  do as you have requested.”
+\v 30 but when I lie down to sleep with my ancestors, carry, me out of Egypt and bury me in their burying-place.” Joseph replied, “I will do as you have requested.”
 \v 31 Jacob said, “Give me your oath”; so Joseph gave him his oath; and Israel bowed toward the head of the bed.
 \c 48
 \rem Students
@@ -2180,7 +2179,7 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \v 9 And Joseph said to his father, “They are my sons, whom God has given me here.” Israel said, Bring them, I pray you, to me, and I will bless them.
 \v 10 Now the eyes of Israel were dim for age, so that he could not see. So Joseph brought them near to him; and he kissed them, and embraced them.
 \v 11 Israel said to Joseph, “I had not thought to see your face; and now God has let me see your offspring as well.”
-\v 12 Joseph took them from his father's lap, and bowed  with his face to the earth.
+\v 12 Joseph took them from his father's lap, and bowed with his face to the earth.
 \rem Shorter
 \p
 \v 13 So Joseph took them both -- Ephraim with his right hand toward Israel's left hand and Manasseh with his left hand toward Israel's right hand -- and brought them near to him.
@@ -2199,9 +2198,9 @@ In this way the weaker became Laban's, and the stronger Jacobs's.
 \c 49
 \rem Students
 \p
-\v 1  Jacob summoned his sons and said, “Come near, so I can tell you what will happen to you in days to come.”
+\v 1 Jacob summoned his sons and said, “Come near, so I can tell you what will happen to you in days to come.”
 \q
-\v 2 Assemble,  sons of Jacob,
+\v 2 Assemble, sons of Jacob,
 \q and listen to Israel your father.
 \b
 \q

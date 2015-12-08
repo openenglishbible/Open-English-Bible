@@ -2,20 +2,19 @@
 \ide UTF-8
 \h Nahum
 \mt Nahum
-\rem   Original Base Text:
-\rem       Kent's Student's Old Testament
-\rem
-\rem   Tags:
-\rem       nsrv jps (versification)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 2
-\rem       US and Cth spelling OK
-\rem       NSRV and JPS versification
-\rem       Gender OK
-\p \c 1
+\rem ORIGINAL BASE TEXT
+\rem Kent's Student's Old Testament
+\rem TAGS
+\rem nsrv jps (versification)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 2
+\rem US and Cth spelling OK
+\rem NSRV and JPS versification
+\rem Gender OK
+\p
+\c 1
 \v 1 A message about Nineveh, a vision which came to Nahum from Elkosh.
 \ms God”s wrath
 \q
@@ -41,7 +40,7 @@
 \v 5 The mountains tremble before him
 \q2 and the hills dissolve.
 \q The earth heaves before him,
-\q2 the  world and all who live in it.
+\q2 the world and all who live in it.
 \b
 \q
 \v 6 Who can stand before his wrath?
@@ -73,7 +72,7 @@
 \q2 a counsellor of wickedness.
 \ms Good news for Judah
 \p
-\v 12  The \nd Lord\nd* says:
+\v 12 The \nd Lord\nd* says:
 \q ‘Though they are many and strong,
 \q2 they will pass away and be gone.
 \q Though I have afflicted you,
@@ -82,7 +81,7 @@
 \v 13 and now I will break his yoke from your necks
 \q2 and snap your chains.’
 \p
-\v 14  The \nd Lord\nd* has given this command concerning you, Nineveh:
+\v 14 The \nd Lord\nd* has given this command concerning you, Nineveh:
 \q ‘Your name will no longer be remembered.
 \q I will destroy every idol and image
 \q2 in the house of your God .
@@ -98,7 +97,8 @@
 \q Never again will these enemies invade your land,
 \q2 they are destroyed!’
 \ms Destruction of the city
-\q \c 2
+\q
+\c 2
 \v 1 Nineveh! The destroyer has come up against you;
 \q2 mount guard upon the rampart;
 \q2 watch the road; brace yourselves;
@@ -153,7 +153,7 @@
 \v 10 Nineveh is empty, desolate, devastated,
 \q2 with faint heart and knocking knee.
 \q There is weakness in every limb,
-\q2 and  faces grow pale.
+\q2 and faces grow pale.
 \b
 \q
 \v 11 Where now is the den of lions?
@@ -175,7 +175,8 @@
 \q You will never again prey on the land.
 \q2 No more will your messengers be heard.’
 \ms Ruin
-\q \c 3
+\q
+\c 3
 \v 1 Woe to the bloody city!
 \q2 Full of lies and plunder,
 \q2 without end is the spoil.
@@ -232,18 +233,18 @@
 \q2 all her great ones were bound in chains.
 \b
 \q
-\v 11 ‘You too,  Nineveh, will be drunk with fear;
-\ q2 you too will seek a place of escape from the foe.
+\v 11 ‘You too, Nineveh, will be drunk with fear;
+\q2 you too will seek a place of escape from the foe.
 \q
 \v 12 All your fortresses are fig-trees with the first ripe figs;
-\q2 if  shaken, they fall into the mouth of the eater!
+\q2 if shaken, they fall into the mouth of the eater!
 \q
 \v 13 Your troops are weak as women before your foes;
 \q2 the gates of your land are wide open;
 \q2 your defenses burned down.
 \b
 \q
-\v 14 ‘Draw  water for the siege,
+\v 14 ‘Draw water for the siege,
 \q2 strengthen your forts.
 \q Go to the clay pits and tread the clay;
 \q2 take up the brick moulds.
@@ -253,7 +254,7 @@
 \b
 \q ‘Multiply like the locust
 \q2 or a swarm of grasshoppers.
-\q1
+\q
 \v 16 Increase the numbers of your merchants
 \q2 until they are more than the stars of heaven,
 \q
@@ -273,5 +274,5 @@
 \q
 \v 19 There is no healing for your hurt,
 \q2 your wound is incurable.
-\q All who hear of your fate  clap their hands in joy,
+\q All who hear of your fate clap their hands in joy,
 \q2 for who has escaped your limitless cruelty?’

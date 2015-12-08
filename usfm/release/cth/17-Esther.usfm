@@ -3,21 +3,20 @@
 \h Esther
 \mt2 The Book of
 \mt Esther
-\rem   Original Base Text:
-\rem       Kent's Shorter Bible
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Checked x 2
-\rem       Gender OK
-\rem       US and Cth English ok
-\rem       NSRV and JPS Versification is same
+\rem ORIGINAL BASE TEXT
+\rem Kent's Shorter Bible
+\rem TAGS
+\rem us cth (spelling)
+\rem STATUS
+\rem IN RELEASE
+\rem Checked x 2
+\rem Gender OK
+\rem US and Cth English ok
+\rem NSRV and JPS Versification is same
 \ms The Follies of a Despot
 \c 1
-\v 1 \p These events happened in the time of Ahasuerus, who ruled over a hundred and twenty-seven provinces from India to Ethiopia
+\p
+\v 1 These events happened in the time of Ahasuerus, who ruled over a hundred and twenty-seven provinces from India to Ethiopia
 \v 2 from his royal throne in the fortified palace of Susa.
 \p
 \v 3 In the third year of his reign, the king gave a feast for all his officers and courtiers. The commanders of the military forces of Persia and Media, the nobles and provincial rulers were present
@@ -39,7 +38,7 @@
 \p
 \v 16 Memucan replied before the king and the officials, ‘Queen Vashti has done wrong not only to the king but also to all the officials and to all the peoples in all of the king's provinces.
 \v 17 The refusal of the queen will be reported to all the women with the result that it will make them despise their husbands. They will say, “King Ahasuerus commanded Queen Vashti to be brought in before him, but she did not come!”
-\v 18  This very day the ladies of Persia and Media who have heard of the refusal of the queen will tell it to all the king's officials, and there will be contempt and strife!
+\v 18 This very day the ladies of Persia and Media who have heard of the refusal of the queen will tell it to all the king's officials, and there will be contempt and strife!
 \v 19 If it seems best to the king, let him send out a royal edict. Let it be written among the laws of Persia and Media, never to be repealed, that Vashti may never again come before King Ahasuerus. Let the king give her place as queen to another who is more worthy than she.
 \v 20 When the king's decree which he makes is heard throughout his kingdom — great as it is — the wives of all classes will give honour to their husbands.’
 \p
@@ -77,7 +76,8 @@
 \v 21 In those days while Mordecai was sitting in the king's gate, two of the royal court attendants, Bigthan and Teresh, who guarded the entrance of the palace, became enraged and attempted to kill King Ahasuerus.
 \v 22 But Mordecai learned of the conspiracy and disclosed it to Queen Esther, and she told the king on Mordecai's behalf.
 \v 23 When the affair was investigated and the facts discovered, the conspirators were both hanged on the gallows. The incident was recorded in the presence of the king in the daily record of events.
-\p \c 3
+\p
+\c 3
 \v 1 After these events King Ahasuerus promoted Haman the son of Hammedatha the Agagite, and advanced him to a place above all the officials who were with him.
 \v 2 All the king's courtiers who were in the king's gate used to bow down before Haman, for so the king had commanded, but Mordecai did not bow down nor prostrate himself.
 \p
@@ -122,7 +122,8 @@
 \v 15 Then Esther sent this message to Mordecai:
 \v 16 ‘Go, gather all the Jews in Susa and fast for me. Don't eat nor drink anything for three days and nights. My maids and I will fast as well. Then I will go in to the king, although it is contrary to the law, and if I die, I die.’
 \v 17 Mordecai did everything Esther had directed.
-\p \c 5
+\p
+\c 5
 \v 1 On the third day, Esther put on her regalia and stood in the inner court of the royal palace opposite the king's house. The king was sitting on his throne in the palace, opposite the entrance.
 \v 2 When he saw Esther the queen standing in the court, she won his favour, and he held out to her the golden sceptre that was in his hand. So Esther approached and touched the top of the sceptre.
 \v 3 Then the king said to her, ‘What is it, Queen Esther? Whatever your request is, it will be granted, even if it is the half of the kingdom.’
@@ -159,7 +160,8 @@
 \v 12 Mordecai returned to the king's gate, but Haman hurried to his house, mourning, with his head covered.
 \v 13 Haman recounted to Zeresh his wife and to all his friends everything that had happened to him. Then his wise men and Zeresh his wife said to him, ‘If Mordecai before whom you have already been humiliated is of the Jewish people, you can do nothing against him but will surely fall before him.’
 \p
-\v 14 While they were still talking with him, the king's attendants came and quickly took Haman to the banquet that Esther had prepared. \c 7
+\v 14 While they were still talking with him, the king's attendants came and quickly took Haman to the banquet that Esther had prepared.
+\c 7
 \v 1 So the king and Haman went to drink with Queen Esther.
 \v 2 As they were drinking wine on that second day, the king again said to Esther, ‘Whatever your petition is, Queen Esther, it will be granted to you. Whatever you request it will be done, even if it takes half of the kingdom.’
 \v 3 Then Queen Esther answered, ‘Your Majesty, if I have won your favour, and if it seems best to Your Majesty, let my life be given me as my petition, and my people as my request,
@@ -196,7 +198,8 @@
 \v 15 and Mordecai had gone out from the presence of the king in royal garments of violet and white and with a great crown of gold and with a robe of fine linen and purple. The people of Susa shouted and were glad.
 \v 16 To the Jews there came light and gladness and joy and honour.
 \v 17 And in every province and city, wherever the king's command and decree came, there was gladness and joy among the Jews and a holiday. Many of the peoples of the earth professed to be Jews, for fear of the Jews took possession of them.
-\p \c 9
+\p
+\c 9
 \v 1 Now in the twelfth month (that is the month of Adar), on the thirteenth day, when the king's command and his decree was about to put into execution, on the day that the enemies of the Jews hoped to gain the mastery over them, then the tables were turned so that the Jews had the mastery over those who hated them.
 \v 2 The Jews gathered together in the cities throughout all the provinces of King Ahasuerus, to attack anyone who tried to harm them. No one could withstand them, for the fear of them had fallen on all the peoples.
 \v 3 All the princes of the provinces and the satraps and the governors and they who attended to the king's business, helped the Jews, because the fear of Mordecai had fallen on them.
@@ -216,7 +219,7 @@
 \v 15 The Jews who were in Susa gathered themselves together again on the fourteenth day of the month of Adar. They killed three hundred people in Susa. But they did not take any plunder.
 \v 16 And the other Jews who were in the king's provinces gathered themselves together and fought for their lives and overcame their enemies. They killed seventy-five thousand who hated them. But they did not take any plunder.
 \v 17 This was on the thirteenth day of Adar.
-\s
+\s ~
 \p On the fourteenth day of the month Adar the Jews rested and made it a day of feasting and rejoicing.
 \v 18 (But the Jews in Susa gatherered on both the thirteeth and fourteenth day --- and rested on the fifteenth day of the same month and made it a day of feasting and rejoicing.)
 \p
@@ -238,8 +241,9 @@
 \v 30 He sent letters to all the Jews, to the hundred and twenty-seven provinces of the kingdom of Ahasuerus, wishing them peace and security,
 \v 31 to confirm these days of Purim in their proper times, to be observed as Mordecai the Jew and Queen Esther had directed and as the Jews had proscribed for themselves and their descendants, in the matter of the fastings and their cry of lamentation.
 \v 32 And the commands of Esther confirmed these matters of Purim; and it was written in the records.
-\s
-\p \c 10
+\s ~
+\p
+\c 10
 \v 1 King Ahasuerus imposed a tribute on the land and the coasts.
 \v 2 All the acts of his power and of his might, and the full account of the greatness of Mordecai to which the king advanced him, are they not recorded in the book of the chronicles of the kings of Media and Persia?
 \v 3 For Mordecai the Jew was next in rank to King Ahasuerus, and great among the Jews, and loved by them all. He sought the good of his people and promoted the welfare of their descendents.
