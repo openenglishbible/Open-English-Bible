@@ -2,22 +2,20 @@
 \ide UTF-8
 \h 3 John
 
-\rem   Original Base Text:
-\rem       Twentieth Century New Testament
-\rem 
-\rem   Tags:
-\rem       us cth (spelling)
-\rem       masc neut (gender)
-\rem       pit gehenna (gehenna)
-\rem       ioudaioi jew (ioudaioi)
-\rem  
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 2
-\rem       US Cth spelling OK
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Twentieth Century New Testament
+\rem TAGS
+\rem us cth (spelling)
+\rem masc neut (gender)
+\rem pit gehenna (gehenna)
+\rem ioudaioi jew (ioudaioi)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 2
+\rem US Cth spelling OK
+\rem NSRV versification only
+\rem Gender OK
 
 \mt John's Third Letter
 \c 1
