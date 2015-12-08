@@ -1,22 +1,20 @@
 \id ROM
 \ide UTF-8
 \h Romans
-\rem   Original Base Text:
-\rem       Twentieth Century New Testament
-\rem
-\rem   Tags:
-\rem       us cth (spelling)
-\rem       masc neut (gender)
-\rem       pit gehenna (gehenna)
-\rem       ioudaioi jew (ioudaioi)
-\rem
-\rem   Status:
-\rem       IN RELEASE
-\rem       Complete
-\rem       Checked x 1
-\rem       US Cth spelling OK
-\rem       NSRV versification only
-\rem       Gender OK
+\rem ORIGINAL BASE TEXT
+\rem Twentieth Century New Testament
+\rem TAGS
+\rem us cth (spelling)
+\rem masc neut (gender)
+\rem pit gehenna (gehenna)
+\rem ioudaioi jew (ioudaioi)
+\rem STATUS
+\rem IN RELEASE
+\rem Complete
+\rem Checked x 1
+\rem US Cth spelling OK
+\rem NSRV versification only
+\rem Gender OK
 \mt2 Paul's Letter to the
 \mt Romans
 \c 1
@@ -121,7 +119,7 @@
 \q1
 \v 13 “Their throats are like opened graves;
 \q2 they deceive with their tongues.”
-\q1 “The venom of snakes lies behind their lips,”
+\q “The venom of snakes lies behind their lips,”
 \q2
 \v 14 “And their mouths are full of bitter curses.”
 \q1
@@ -243,17 +241,17 @@
 \v 7 What are we to say, then? That Law and sin are the same thing? Heaven forbid! On the contrary, I should not have learned what sin is, had not it been for Law. If the Law did not say “You must not covet,” I should not know what it is to covet.
 \v 8 But sin took advantage of the Commandment to arouse in me every form of covetousness, for where there is no consciousness of Law sin shows no sign of life.
 \v 9 There was a time when I myself, unconscious of Law, was alive; but when the Commandment was brought home to me, sin sprang into life, while I died!
-\v 10 The  Commandment that should have meant life I found to result in death!
+\v 10 The Commandment that should have meant life I found to result in death!
 \v 11 sin took advantage of the Commandment to deceive me, and used it to bring about my death.
 \v 12 And so the Law is holy, and each Commandment is also holy, and just, and good.
 \v 13 Did, then, a thing, which in itself was good, involve death in my case? Heaven forbid! It was sin that involved death; so that, by its use of what I regarded as good to bring about my death, its true nature might appear; and in this way the Commandment showed how intensely sinful sin is.
 \v 14 We know that the Law is spiritual, but I am earthly — sold into slavery to sin.
-\v 15 I do not understand my own actions. For I am so far from habitually doing what I want to do, that I find myself doing the  thing that I hate.
+\v 15 I do not understand my own actions. For I am so far from habitually doing what I want to do, that I find myself doing the thing that I hate.
 \v 16 But when I do what I want not to do, I am admitting that the Law is right.
 \v 17 This being so, the action is no longer my own, but is done by the sin which is within me.
 \v 18 I know that there is nothing good in me — I mean in my earthly nature. For, although it is easy for me to want to do right, to act rightly is not easy.
 \v 19 I fail to do the good thing that I want to do, but the bad thing that I want not to do — that I habitually do.
-\v 20 But, when I do the  thing that I want not to do, the action is no longer my own, but is done by the sin which is within me.
+\v 20 But, when I do the thing that I want not to do, the action is no longer my own, but is done by the sin which is within me.
 \v 21 This, then, is the law that I find — when I want to do right, wrong presents itself!
 \v 22 At heart I delight in the Law of God;
 \v 23 but throughout my body I see a different law, one which is in conflict with the law accepted by my reason, and which endeavours to make me a prisoner to that law of sin which exists throughout my body.
@@ -331,7 +329,7 @@
 \v 14 What are we to say, then? Is God guilty of injustice? Heaven forbid!
 \v 15 For his words to Moses are — “I will take pity on whom I take pity, and be merciful to whom I am merciful.”
 \v 16 So, then, all depends, not on human wishes or human efforts, but on God's mercy.
-\v 17 In scripture, again, it is said to Pharaoh — “It was for this  purpose that I raised you to the throne, to show my power by my dealings with you, and to make my name known throughout the world.”
+\v 17 In scripture, again, it is said to Pharaoh — “It was for this purpose that I raised you to the throne, to show my power by my dealings with you, and to make my name known throughout the world.”
 \v 18 So, then, where God wills, he takes pity, and where he wills, he hardens the heart.
 \v 19 Perhaps you will say to me — “How can anyone still be blamed? For who withstands his purpose?”
 \v 20 I might rather ask “Who are you who are arguing with God?” Does a thing which a person has moulded say to the person who has moulded it “Why did you make me like this?”
@@ -340,7 +338,7 @@
 \v 23 so as to make known his surpassing glory in dealing with the objects of his mercy, whom he prepared beforehand for glory,
 \v 24 and whom he called — even us — Not only from among the Jews but from among the Gentiles also!
 \v 25 This, indeed, is what he says in the book of Hosea — “Those who were not my people, I will call my people, and those who were unloved I will love.
-\v 26 And in the  place where it was said to them — ‘You are not my people’, they will be called sons of the living God.”
+\v 26 And in the place where it was said to them — ‘You are not my people’, they will be called sons of the living God.”
 \v 27 And Isaiah cries aloud over Israel — “Though the sons of Israel are like the sand of the sea in number, only a remnant of them will escape!
 \v 28 For the Lord will execute his sentence on the world, fully and without delay.”
 \v 29 It is as Isaiah foretold — “Had not the Lord of Hosts spared some few of our people to us, we should have become like Sodom and been made to resemble Gomorrah.”
@@ -348,7 +346,7 @@
 \v 30 What are we to say, then? Why, that Gentiles, who were not in search of righteousness, secured it — a righteousness which was the result of faith;
 \v 31 while Israel, which was in search of a Law which would ensure righteousness, failed to discover one.
 \v 32 And why? Because they looked to obedience, and not to faith, to secure it. They stumbled over “the Stumbling-block.”
-\v 33 As scripture says — “See, I place a Stumbling-block in Zion —  a Rock which will prove a hindrance; and he who believes in him will have no cause for shame.”
+\v 33 As scripture says — “See, I place a Stumbling-block in Zion — a Rock which will prove a hindrance; and he who believes in him will have no cause for shame.”
 \c 10
 \p
 \v 1 My friends, my heart's desire and prayer to God for my people is for their salvation.
@@ -369,14 +367,14 @@
 \p
 \v 16 Still, it may be said, everyone did not give heed to the good news. No, for Isaiah asks — “Lord, who has believed our teaching?”
 \v 17 And so we gather, faith is a result of teaching, and the teaching comes in the message of Christ.
-\v 18 But I ask “Is it possible that people have never heard?” No, indeed, for — “Their voices spread through all the earth, and their message to the  ends of the world.”
+\v 18 But I ask “Is it possible that people have never heard?” No, indeed, for — “Their voices spread through all the earth, and their message to the ends of the world.”
 \v 19 But again I ask “Did not the people of Israel understand? First there is Moses, who says — “I, the Lord, will stir you to rivalry with a nation which is no nation; Against an undiscerning nation I will arouse your anger.”
 \v 20 And Isaiah says boldly — “I was found by those who were not seeking me; I made myself known to those who were not inquiring of me.
 \v 21 But of the people of Israel he says — “All day long I have stretched out my hands to a people who disobey and contradict.”
 \c 11
 \p
 \v 1 I ask, then, “Has God rejected his people?” Heaven forbid! For I myself am an Israelite, a descendant of Abraham, of the tribe of Benjamin.
-\v 2 God has not rejected his people, whom he chose from the first. Have you forgotten the words of scripture in the story of Elijah —  how he appeals to God against Israel?
+\v 2 God has not rejected his people, whom he chose from the first. Have you forgotten the words of scripture in the story of Elijah — how he appeals to God against Israel?
 \v 3 “Lord, they have killed your prophets, they have pulled down your altars, and I only am left; and now they are eager to take my life.”
 \v 4 But what was the divine response? “I have kept for myself seven thousand who have never bowed the knee to Baal.”
 \v 5 And so in our own time, too, there is to be found a remnant of our nation selected by God in love.
@@ -399,7 +397,7 @@
 \v 21 For, if God did not spare the natural branches, neither will he spare you.
 \v 22 See, then, both the goodness and the severity of God — his severity towards those who fell, and his goodness towards you, provided that you continue to confide in that goodness; otherwise you, also, will be cut off.
 \v 23 And they, too, if they do not continue in their unbelief, will be grafted in; for God has it in his power to graft them in again.
-\v 24 If you were cut off from your natural stock — a wild olive —  and were grafted, contrary to the course of nature, on a good olive, much more will they — the natural branches — be grafted back into their parent tree.
+\v 24 If you were cut off from your natural stock — a wild olive — and were grafted, contrary to the course of nature, on a good olive, much more will they — the natural branches — be grafted back into their parent tree.
 \p
 \v 25 My friends, so that you don't think too highly of yourselves, I want you to recognise the truth, hitherto hidden, that the callousness which has come over Israel is only partial, and will continue only until the whole Gentile world has been gathered in.
 \v 26 And then all Israel will be saved. As scripture says — “From Zion will come the Deliverer; he will banish ungodliness from Jacob.
@@ -466,7 +464,7 @@
 \v 6 The person who observes a day, observes it to the Master's honour. They, again, who eat meat eat it to the Master's honour, for they give thanks to God; while the person who abstains from it abstains from it to the Master's honour, and also gives thanks to God.
 \v 7 There is not one of us whose life concerns ourselves alone, and not one of us whose death concerns ourself alone;
 \v 8 for, if we live, our life is for the Master, and, if we die, our death is for the Master. Whether, then, we live or die we belong to the Master.
-\v 9 The  purpose for which Christ died and came back to life was this — that he might be Lord over both the dead and the living.
+\v 9 The purpose for which Christ died and came back to life was this — that he might be Lord over both the dead and the living.
 \v 10 I would ask the one “Why do you judge other followers of the Lord?” And I would ask the other “Why do you despise them?” For we will all stand before the court of God.
 \v 11 For scripture says — “‘As surely as I live,’ says the Lord, ‘every knee will bend before me; and every tongue will make acknowledgment to God.’”
 \v 12 So, then, each one of us will have to render account of himself to God.
@@ -553,6 +551,7 @@
 \p
 \v 23 My host Gaius, who extends his hospitality to the whole church, sends you his greeting; and Erastus, the city treasurer, and Quartus, our dear friend, add theirs.
 \v 24 \f + Some later manuscripts add: The grace of our Lord Jesus Christ be with you all. Amen.\f*
-\v 25 \p Now to him who is able to strengthen you, as promised in the good news entrusted to me and in the proclamation of Jesus Christ, in accordance with the revelation of that hidden purpose, which in past ages was kept secret but now has been revealed
+\p
+\v 25 Now to him who is able to strengthen you, as promised in the good news entrusted to me and in the proclamation of Jesus Christ, in accordance with the revelation of that hidden purpose, which in past ages was kept secret but now has been revealed
 \v 26 and, in obedience to the command of the immortal God, made known through the writings of the prophets to all nations, to secure submission to the faith —
 \v 27 to him, I say, the wise and only God, be ascribed, through Jesus Christ, all glory for ever and ever. Amen.
