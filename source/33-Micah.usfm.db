@@ -6,13 +6,14 @@
 \rem ORIGINAL BASE TEXT
 \rem Kent's Student's Old Testament
 \rem TAGS
-\rem (none)
+\rem us cth (spelling)
+\rem nsrv jps (versification)
 \rem STATUS
-\rem DEVELOPMENT ONLY
+\rem IN RELEASE
 \rem Complete
-\rem Initial Check Only
-\rem US spelling only
-\rem NSRV versification only
+\rem Check x 2
+\rem US and Cth spelling
+\rem NSRV and JPS versification
 \rem Gender OK
 
 \c 1
@@ -53,7 +54,7 @@
 \q and lay bare her foundations.
 \b
 \q 
-\v 7 All her images will be shattered,
+\v 7 “All her images will be shattered,
 \q and all her statues will be burned with fire,
 \q and all her idols I will lay in ruins.
 \q For they were acquired by prostitution, 
@@ -73,7 +74,7 @@
 \b
 \q 
 \v 10 Don't tell this in Gath! 
-\q Don't even cry --- but sit in the dust at Beth-leaphrah.
+\q Don't even cry — but sit in the dust at Beth-leaphrah.
 \q 
 \v 11 Pass by, inhabitants of Shaphir, naked and ashamed!
 \q The inhabitants of Zaanan cannot leave their city.
@@ -126,9 +127,9 @@
 \q Shame will not overtake us!
 \q 
 \v 7 Is the \nd Lord\nd* impatient, or are such things his deeds?
-\q Are not his words favorable to the family of Jacob?’
+\q Are not his words [us:favorable|cth:favourable] to the family of Jacob?’
 \b
-\q “Aren't my commands good for those who obey them?
+\q Aren't my commands good for those who obey them?
 \q 
 \v 8 But you, you stand up as a foe against those who are peaceful;
 \q you strip the robe from those who pass by quietly, averse to conflict.
@@ -141,7 +142,7 @@
 \q 
 \v 11 If a person walking in wine and falsehood were to say, 
 \q 'I will prophesy to you of wine and strong drink,'
-\q Then he would be the perfect prophet for this people!”
+\q then he would be the perfect prophet for this people!”
 
 
 \s The Lord Leading Back His Scattered People
@@ -303,46 +304,47 @@
 \q and their wealth to the ruler of all the earth.
 \b
 \q 
-\c 5 
-\v 1 “Now cut yourself in bitter grief,
+[nrsv:\c 5 
+\v 1|jps:\v 14] “Now cut yourself in bitter grief,
 \q daughter besieged by soldiers.
 \q They have set a wall around you.
 \q They strike the ruler of Israel,
 \q in the face with a rod.
 \b
 \q 
-\v 2 “Bethlehem in Ephrathah,
+[nrsv:\v 2|jps:\c 5
+\v 1] “Bethlehem in Ephrathah,
 \q small among the tribes of Judah,
 \q from you will come a king 
 \q who will rule for me over Israel,
 \q whose family line goes back to the distant past.”
 \b
 \q 
-\v 3 So the \nd Lord\nd* will only abandon Israel to its enemies
+[nrsv:\v 3|jps:\v 2] So the \nd Lord\nd* will only abandon Israel to its enemies
 \q until the woman in [us:labor|cth:labour] gives birth. 
 \q Then the survivors will be reunited with their own people. 
 \b
 \q 
-\v 4 And he will stand and shepherd by the strength of the \nd Lord\nd*,
+[nrsv:\v 4|jps:\v 3] And he will stand and shepherd by the strength of the \nd Lord\nd*,
 \q In the exalted name of the \nd Lord\nd* his God;
 \q And they will live in security, for now he will be great, 
 \q even to the ends of the earth.
 \b
 \q 
-\v 5 This will be our peace:
+[nrsv:\v 5|jps:\v 4] This will be our peace:
 \q when Assyria comes into our land
 \q and treads on our soil,
 \q we will raise up against him seven shepherds, 
 \q eight leaders of men.
 \q 
-\v 6 They will shepherd Assyria with a sword,
+[nrsv:\v 6|jps:\v 5] They will shepherd Assyria with a sword,
 \q and the land of Nimrod with bared blades.
 \q They will deliver us from Assyria, 
 \q when they come into our land,
 \q and tread within our borders.
 \b
 \q 
-\v 7 And the survivors of Jacob will be disbursed among the nations,
+[nrsv:\v 7|jps:\v 6] And the survivors of Jacob will be disbursed among the nations,
 \q in the midst of many peoples
 \q like dew from the \nd Lord\nd*, 
 \q like showers on the grass,
@@ -350,35 +352,35 @@
 \q or linger for mortals.
 \b
 \q 
-\v 8 And the survivors of Jacob will be disbursed among the nations.
+[nrsv:\v 8|jps:\v 7] And the survivors of Jacob will be disbursed among the nations.
 \q in the midst of many peoples, 
 \q like a lion among the beasts of the forest, 
 \q like a young lion among the sheep-folds,
 \q who, when he passes through, pounces. 
 \q He savages his prey. There is no rescuer.
 \q 
-\v 9 Let your hand triumph over your adversaries, 
+[nrsv:\v 9|jps:\v 8] Let your hand triumph over your adversaries, 
 \q let all your enemies be cut off.
 \b
 \q 
-\v 10 On that day, says the \nd Lord\nd*:
-\q I will slaughter your horses from your midst, 
+[nrsv:\v 10|jps:\v 9] On that day, says the \nd Lord\nd*:
+\q “I will slaughter your horses from your midst, 
 \q and destroy your chariots.
 \q 
-\v 11 I will devastate the cities in your land, 
+[nrsv:\v 11|jps:\v 10] I will devastate the cities in your land, 
 \q and tear down your fortresses.
 \q 
-\v 12 I will destroy your magic charms, 
+[nrsv:\v 12|jps:\v 11] I will destroy your magic charms, 
 \q and you will have no soothsayers.
 \q 
-\v 13 I will cut down your idols and sacred pillars,
+[nrsv:\v 13|jps:\v 12] I will cut down your idols and sacred pillars,
 \q and you will not worship any more the work of your hands.
 \q 
-\v 14 I will uproot your sacred poles, 
+[nrsv:\v 14|jps:\v 13] I will uproot your sacred poles, 
 \q and destroy your idols.
 \q 
-\v 15 In my wrath and my anger 
-\q I will seek vengeance on the nations that ignore me.
+[nrsv:\v 15|jps:\v 14] In my wrath and my anger 
+\q I will seek vengeance on the nations that ignore me.”
 
 \c 6
 \s Israel's False Conception of the Lord's Character and Demands
@@ -439,7 +441,7 @@
 \q whose tongues speak deceit?
 \b
 \q 
-\v 13 But I indeed, have begun to punish you, 
+\v 13 “But I indeed, have begun to punish you, 
 \q to lay you in ruins because of your sins.
 \q 
 \v 14 You will eat but not be satisfied,
@@ -452,12 +454,12 @@
 \q tread grapes but drink no wine!
 \b
 \q 
-\v 16 For you have followed the commands of Omri, 
+\v 16 “For you have followed the commands of Omri, 
 \q and all the practices of the house of Ahab.
 \q You have acted in accord with their counsels,
 \q so I will give you up to ruin,
 \q the city's inhabitants to derision.
-\q The nations will treat you with contempt!
+\q The nations will treat you with contempt!”
 
 \c 7 
 \s The Utter Degeneracy of the People
@@ -509,7 +511,7 @@
 \q If I sit in darkness, the \nd Lord\nd* is my light.
 \q 
 \v 9 The anger of the \nd Lord\nd* I will bear,
-\q for against him have I sinned ---
+\q for against him have I sinned —
 \q until he champions my cause
 \q and gives judgment for me.
 \q He will bring me into to the light, 
@@ -517,7 +519,7 @@
 \q 
 \v 10 So my enemy will see, and shame will cover them, 
 \q they who said, “Where is the \nd Lord\nd* your God?”
-\q I will look upon them;
+\q I will look upon them,
 \q they will be trampled on like mud in the street!
 \b
 \q 
