@@ -64,11 +64,6 @@ def stage(src, to, tags, booklist):
                 s = s.replace(u'@leftsinglequote@', u'“')
                 s = s.replace(u'@rightsinglequote@', u'”')
                 
-            # Clean up line endings so Crosswire's sofware doesn't barf
-            # strip leading & trailing whitespace, terminate with newline
-            s = s.replace(u'\\v ', u'\n\\v ')
-            s = re.sub(r'\s*\n\s*', r'\n', s)
-    
             if booklist == [] or fn[:-3] in booklist:
                 saveIfDifferent(to, fn[:-3], s)
     
