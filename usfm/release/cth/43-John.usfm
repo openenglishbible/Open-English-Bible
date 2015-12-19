@@ -1,6 +1,7 @@
 \id JHN
 \ide UTF-8
 \h John
+
 \rem ORIGINAL BASE TEXT
 \rem Twentieth Century New Testament
 \rem TAGS
@@ -15,17 +16,18 @@
 \rem US Cth spelling OK
 \rem NSRV versification only
 \rem Gender OK
+
 \mt2 The
 \mt2 Good News According to
 \mt John
 \c 1
-\ms Introduction
+\s Introduction
 \p
 \q
 \v 1 In the beginning the Word was;
 \q2 and the Word was with God;
 \q2 and the Word was God.
-\nb
+\m
 \q
 \v 2 He was in the beginning with God;
 \q2
@@ -37,7 +39,7 @@
 \q2
 \v 5 and the light shines in the darkness,
 \q2 and the darkness never overpowered it.
-\nb
+\m
 \q
 \v 6 There appeared a man sent from God, whose name was John;
 \q2
@@ -46,14 +48,14 @@
 \q
 \v 8 He was not the light,
 \q2 but he came to bear witness to the light.
-\nb
+\m
 \q
 \v 9 That was the true light which enlightens everyone coming into the world.
 \q
 \v 10 He was in the world;
 \q2 and through him the world came into being —
 \q2 yet the world did not know him.
-\nb
+\m
 \q
 \v 11 He came to his own —
 \q2 yet his own did not receive him.
@@ -63,14 +65,14 @@
 \q
 \v 13 For not to natural conception, nor to human instincts, nor to human will did they owe the new life,
 \q2 but to God.
-\nb
+\m
 \q
 \v 14 And the Word became human, and lived among us,
 \q2 (We saw his glory — the glory of the Only Son sent from the Father),
 \q2 full of love and truth.
 \q
 \v 15 (John bears witness to him; he cried aloud — for it was he who spoke —
-\q2 ‘“He who is coming” after me is now before me,
+\q2 ‘He who is coming after me is now before me,
 \q2 for he was ever first’);
 \q
 \v 16 out of his fullness we have all received some gift,
@@ -82,8 +84,8 @@
 \v 18 No one has ever yet seen God;
 \q2 God the Only Son, who is ever with the Father —
 \q He has revealed him.
-\nb
-\ms The Preparation
+\m
+\s The Preparation
 \p
 \v 19 When the religious authorities in Jerusalem sent some Priests and Levites to ask John — ‘Who are you?’,
 \v 20 he told them clearly and simply: ‘I am not the Christ.’
@@ -95,8 +97,10 @@
 \v 22 ‘Who then are you?’ they continued; ‘tell us so that we have an answer to give to those who have sent us. What do you say about yourself?’
 \p
 \v 23 ‘I,’ he answered, ‘am —
-\q “The voice of one crying aloud in the wilderness — ‘make a straight road for the Lord’”,
-\nb as the prophet Isaiah said.’
+\q “The voice of one crying aloud in the wilderness: make a straight road for the Lord”,
+\b
+\m
+as the prophet Isaiah said.’
 \p
 \v 24 These men had been sent from the Pharisees;
 \v 25 and their next question was: ‘Why then do you baptize, if you are not the Christ or Elijah or “the prophet”?’
@@ -137,9 +141,9 @@
 \v 49 ‘Rabbi,’ Nathanael exclaimed, ‘you are the Son of God, you are king of Israel!’
 \p
 \v 50 \wj ‘Do you believe in me,’\wj* asked Jesus, \wj ‘because I told you that I saw you under the fig tree? You will see greater things than those!\wj*
-\v 51 \wj In truth I tell you,’\wj* he added, \wj ‘you will all see heaven open, and “the angels of God ascending and descending” on the Son of Man.’\wj*
+\v 51 \wj In truth I tell you,’\wj* he added, \wj ‘you will all see heaven open, and the angels of God ascending and descending on the Son of Man.’\wj*
 \c 2
-\ms The Work in Judaea, Galilee and Samaria
+\s The Work in Judaea, Galilee and Samaria
 \p
 \v 1 Two days after this there was a wedding at Cana in Galilee, and Jesus' mother was there.
 \v 2 Jesus himself, too, with his disciples, was invited to the wedding.
@@ -147,7 +151,7 @@
 \p
 \v 4 \wj ‘What do you want with me?’\wj* answered Jesus. \wj ‘My time has not come yet.’\wj*
 \v 5 His mother said to the servants: ‘Do whatever he tells you.’
-\v 6 There were standing there six stone water-jars, in accordance with the Jewish rule of “purification,” each holding twenty or thirty gallons.
+\v 6 There were standing there six stone water-jars, in accordance with the Jewish rule of purification, each holding twenty or thirty gallons.
 \p
 \v 7 Jesus said to the servants: \wj ‘Fill the water-jars with water.’\wj*
 \v 8 And, when they had filled them to the brim, he added: \wj ‘Now take some out, and carry it to the Master of the feast.’\wj* The servants did so.
@@ -216,7 +220,7 @@
 \v 22 After this, Jesus went with his disciples into the country parts of Judea; and there he stayed with them, and baptized.
 \v 23 John, also, was baptizing at Aenon near Salim, because there were many streams there; and people were constantly coming and being baptized.
 \v 24 (For John had not yet been imprisoned).
-\v 25 Now a discussion arose between some of John's disciples and a fellow Jew on the subject of “purification;”
+\v 25 Now a discussion arose between some of John's disciples and a fellow Jew on the subject of purification;
 \v 26 and the disciples came to John and said: ‘Rabbi, the man who was with you on the other side of the Jordan, and to whom you have yourself borne testimony — he, also, is baptizing, and everybody is going to him.’
 \v 27 John's answer was — ‘A person can gain nothing but what is given them from heaven.
 \v 28 You are yourselves witnesses that I said “I am not the Christ,” but “I have been sent before him as a messenger.”
@@ -228,7 +232,7 @@
 \v 33 They who did accept his statement confirm the fact that God is true.
 \v 34 For he whom God sent as his messenger gives us God's own teaching, for God does not limit the gift of the Spirit.
 \v 35 The Father loves his Son, and has put everything in his hands.
-\v 36 The person who believes in the Son has eternal life, while a person who rejects the Son will not even see that life, but remains under “God's displeasure.”
+\v 36 The person who believes in the Son has eternal life, while a person who rejects the Son will not even see that life, but remains under God's displeasure.
 \c 4
 \rem Titleless Section Break
 \b
@@ -242,7 +246,7 @@
 \v 7 A woman of Samaria came to draw water; and Jesus said to her — \wj ‘Give me some to drink,’\wj*
 \v 8 For his disciples had gone into the town to buy food.
 \v 9 ‘How is it,’ replied the Samaritan woman, ‘that you who are a Jew ask for water from a Samaritan woman like me?’ (For Jews do not associate with Samaritans).
-\v 10 \wj ‘If you knew of the gift of God,’\wj* replied Jesus, \wj ‘and who it is that is saying to you “Give me some water,” you would have asked him, and he would have given you “living water”.’\wj*
+\v 10 \wj ‘If you knew of the gift of God,’\wj* replied Jesus, \wj ‘and who it is that is saying to you “Give me some water,” you would have asked him, and he would have given you living water.’\wj*
 \p
 \v 11 ‘You have no bucket, Sir, and the well is deep,’ she said; ‘where did you get that “living water?”
 \v 12 Surely you are not greater than our ancestor Jacob who gave us the well, and used to drink from it himself, and his sons, and his cattle!’
@@ -301,7 +305,7 @@
 \v 49 ‘Sir,’ said the officer, ‘come down before my child dies.’ And Jesus answered: ‘Go, your son is living.’
 \v 50 The man believed what Jesus said to him, and went;
 \v 51 and, while he was on his way down, his servants met him, and told him that his child was living.
-\v 52 So he asked them at what time the boy began to get better. ‘It was yesterday, about one o”clock,’ they said, ‘that the fever left him.’
+\v 52 So he asked them at what time the boy began to get better. ‘It was yesterday, about one o'clock,’ they said, ‘that the fever left him.’
 \v 53 By this the father knew that it was at the very time when Jesus had said to him \wj “Your son is living”\wj* ; and he himself, with all his household, believed in Jesus.
 \v 54 This was the second occasion on which Jesus gave a sign of his mission on coming from Judea to Galilee.
 \c 5
@@ -331,11 +335,12 @@
 \v 16 And that was why they began to persecute Jesus — because he did things of this kind on the Sabbath.
 \v 17 But Jesus replied: \wj ‘My Father works to this very hour, and I work also.’\wj*
 \v 18 This made the authorities all the more eager to kill him, because not only was he doing away with the Sabbath, but he actually called God his own Father — putting himself on an equality with God.
+\p
 \v 19 So Jesus made this further reply: \wj ‘In truth I tell you, the Son can do nothing of himself; he does only what he sees the Father doing; whatever the Father does, the Son does also.\wj*
 \v 20 \wj For the Father loves his Son, and shows him everything that he is doing; and he will show him still greater things — so that you will be filled with wonder.\wj*
 \v 21 \wj For, just as the Father raises the dead and gives them life, so also the Son gives life to whom he pleases.\wj*
-\v 22 \wj The Father himself does not judge any one, but has “entrusted the work of judging entirely to his Son,”\wj*
-\v 23 \wj So that everyone may honour the Son, just as they honour the Father. The person who does not honour the Son fails to honour the Father who sent him.\wj*
+\v 22 \wj The Father himself does not judge any one, but has entrusted the work of judging entirely to his Son,\wj*
+\v 23 \wj so that everyone may honour the Son, just as they honour the Father. The person who does not honour the Son fails to honour the Father who sent him.\wj*
 \v 24 \wj In truth I tell you that the person who listens to my message and believes him who sent me, has eternal life, and does not come under condemnation, but has already passed out of death into life.\wj*
 \v 25 \wj In truth I tell you that a time is coming, indeed it is already here, when the dead will listen to the voice of the Son of God, and when those who listen will live.\wj*
 \v 26 \wj For, just as the Father has inherent life within him, so also he has granted to the Son to have inherent life within him;\wj*
@@ -344,18 +349,18 @@
 \v 29 \wj and will come out — those who have done good rising to life, and those who have lived evil lives rising for condemnation.\wj*
 \v 30 \wj I can do nothing of myself; I judge as I am taught; and the judgment that I give is just, because my aim is not to do my own will, but the will of him who sent me.\wj*
 \p
-\v 31 \wj If I bear testimony to myself, my testimony is not trustworthy;\wj*
+\v 31 \wj ‘If I bear testimony to myself, my testimony is not trustworthy;\wj*
 \v 32 \wj it is another who bears testimony to me, and I know that the testimony which he bears to me is trustworthy.\wj*
 \v 33 \wj You have yourselves sent to John, and he has testified to the truth.\wj*
 \v 34 \wj But the testimony which I receive is not from people; I am saying this for your salvation.\wj*
-\v 35 \wj He was the “Lamp that was burning” and shining, and you were ready to rejoice, for a time, in his light.\wj*
+\v 35 \wj He was the Lamp that was burning and shining, and you were ready to rejoice, for a time, in his light.\wj*
 \v 36 \wj But the testimony which I have is of greater weight than John's; for the work that the Father has given me to carry out — the work that I am doing — is in itself proof that the Father has sent me as his messenger.\wj*
 \v 37 \wj The Father who has sent me has himself borne testimony to me. You have neither listened to his voice, not seen his form;\wj*
 \v 38 \wj and you have not taken his message home to your hearts, because you do not believe him whom he sent as his messenger.\wj*
 \v 39 \wj You search the scriptures, because you think that you find in them immortal life;\wj* and, though it is those scriptures that bear testimony to me,
 \v 40 \wj you refuse to come to me to have life.\wj*
 \p
-\v 41 \wj I do not receive honour from people,\wj*
+\v 41 \wj ‘I do not receive honour from people,\wj*
 \v 42 \wj but I know this of you, that you have not the love of God in your hearts.\wj*
 \v 43 \wj I have come in my Father's name, and you do not receive me; if another comes in his own name, you will receive him.\wj*
 \v 44 \wj How can you believe in me, when you receive honour from one another and do not desire the honour which comes from the only God?\wj*
@@ -382,7 +387,7 @@
 \v 12 When they were satisfied, Jesus said to his disciples: \wj ‘Collect the broken pieces that are left, so that nothing may be wasted.’\wj*
 \v 13 The disciples did so, and filled twelve baskets with the pieces of the five barley loaves, which were left after all had eaten.
 \p
-\v 14 When the people saw the signs which Jesus gave, they said: ‘This is certainly “the prophet who was to come” into the world.’
+\v 14 When the people saw the signs which Jesus gave, they said: ‘This is certainly the prophet who was to come into the world.’
 \v 15 But Jesus, having discovered that they were intending to come and carry him off to make him king, went again up the hill, quite alone.
 \p
 \v 16 When evening fell, his disciples went down to the sea,
@@ -455,7 +460,7 @@
 \v 68 But Simon Peter answered: ‘Master, to whom would we go? Eternal life is in your teaching;
 \v 69 and we have learned to believe and to know that you are the Holy One of God.’
 \p
-\v 70 \wj ‘Didn't I myself choose you to be the Twelve?’\wj* replied Jesus; \wj ‘and yet, even of you, one is playing the “devil's' part.’\wj*
+\v 70 \wj ‘Didn't I myself choose you to be the Twelve?’\wj* replied Jesus; \wj ‘and yet, even of you, one is playing the devil's part.’\wj*
 \v 71 He meant Judas, the son of Simon Iscariot, who was about to betray him, though he was one of the Twelve.
 \c 7
 \rem Titleless Section Break
@@ -513,7 +518,7 @@
 \v 39 (By this he meant the Spirit, which those who had believed in him were to receive; for the Spirit had not yet come, because Jesus had not yet been exalted.)
 \v 40 Some of the people, when they heard these words, said: ‘This is certainly the Prophet!’;
 \v 41 others said: ‘the Christ!’; but some asked: ‘What! Does the Christ come from Galilee?
-\v 42 Is not it said in scripture that it is of the descendents of David, and from Bethlehem, the village to which David belonged, that the Christ is to come?’
+\v 42 Is not it said in scripture that it is of the descendants of David, and from Bethlehem, the village to which David belonged, that the Christ is to come?’
 \v 43 So there was a sharp division among the people because of Jesus.
 \v 44 Some of them wanted to arrest him, and yet no one touched him.
 \v 45 When the officers returned to the chief priests and Pharisees, they were asked: ‘Why have you not brought him?’
@@ -521,7 +526,7 @@
 \v 46 ‘No one ever spoke as he speaks!’ they answered.
 \v 47 ‘What! Have you been led astray too?’ the Pharisees replied.
 \v 48 ‘Have any of our leading men believed in him, or any of the Pharisees?
-\v 49 As for these people who do not know the Law — they are cursed!
+\v 49 As for these people who do not know the Law — they are cursed!’
 \v 50 But one of their number, Nicodemus, who before this had been to see Jesus, said to them:
 \v 51 ‘Does our Law pass judgment on a person without first giving them a hearing, and finding out what they have been doing?’
 \p
@@ -578,7 +583,7 @@
 \v 28 So Jesus added: \wj ‘When you have lifted up the Son of Man, then you will understand that I am what I am, and that I do nothing of myself, but that I say just what the Father has taught me.\wj*
 \v 29 \wj Moreover, he who sent me is with me; he has not left me alone; for I always do what pleases him.’\wj*
 \v 30 While he was speaking in this way, many came to believe in him.
-\v 31 So Jesus went on to say to those  who had believed him: \wj ‘If you remain constant to my message, you are truly my disciples;\wj*
+\v 31 So Jesus went on to say to those who had believed him: \wj ‘If you remain constant to my message, you are truly my disciples;\wj*
 \v 32 \wj and you find out the truth, and the truth will set you free.’\wj*
 \p
 \v 33 ‘We are descendants of Abraham,’ was their answer, ‘and have never yet been in slavery to anyone. What do you mean by saying \wj “you will be set free”?’\wj*
@@ -636,7 +641,7 @@
 \v 10 ‘How did you get your sight, then?’ they asked.
 \v 11 ‘The man whom they call Jesus,’ he answered, ‘made clay, and anointed my eyes, and said to me \wj “Go to Siloam and wash your eyes.”\wj* So I went and washed my eyes, and gained my sight.’
 \p
-\v 12 ‘Where is he?’ they asked. I do not know,’ he answered.
+\v 12 ‘Where is he?’ they asked. ‘I do not know,’ he answered.
 \v 13 They took the man, who had been blind, to the Pharisees.
 \v 14 Now it was a Sabbath when Jesus made the clay and gave him his sight.
 \v 15 So the Pharisees also questioned the man as to how he had gained his sight. ‘He put clay on my eyes,’ he answered, ‘and I washed them, and I can see.’
@@ -693,9 +698,9 @@
 \v 11 \wj I am the good shepherd. The good shepherd lays down his life for his sheep.\wj*
 \v 12 \wj The hired man who is not a shepherd, and who does not own the sheep, when he sees a wolf coming, leaves them and runs away; then the wolf seizes them, and scatters the flock.\wj*
 \v 13 \wj He does this because he is only a hired man and does not care about the sheep.\wj*
-\v 14 \wj I am the good shepherd; and I know my sheep, and my sheep know me — \wj*
+\v 14 \wj I am the good shepherd; and I know my sheep, and my sheep know me —\wj*
 \v 15 \wj Just as the Father knows me and I know the Father — and I lay down my life for the sheep.\wj*
-\v 16 \wj I have other sheep besides, which do not belong to this fold; I must lead them also, and they will listen to my voice; and they will become one flock under “one shepherd.”\wj*
+\v 16 \wj I have other sheep besides, which do not belong to this fold; I must lead them also, and they will listen to my voice; and they will become one flock under one shepherd.\wj*
 \v 17 \wj This is why the Father loves me, because I lay down my life — to receive it again.\wj*
 \v 18 \wj No one took it from me, but I lay it down of myself. I have authority to lay it down, and I have authority to receive it again. This is the command which I received from my Father.’\wj*
 \p
@@ -721,9 +726,9 @@
 \p
 \v 33 ‘It is not for any good action that we would stone you,’ they answered, ‘but for blasphemy; and because you, who are only a man, make yourself out to be God.’
 \p
-\v 34 \wj ‘Are there not,’\wj* replied Jesus, \wj ‘these words in your Law — “I said ‘You are gods’”?\wj*
-\v 35 \wj If those to whom God's word were addressed were said to be “gods” — and scripture cannot be set aside — \wj*
-\v 36 \wj Do you say of one whom the Father has consecrated and sent as his messenger to the world “You are blaspheming,” because I said “I am God's Son”?\wj*
+\v 34 \wj ‘Are there not,’\wj* replied Jesus, \wj ‘these words in your Law — “I said: You are gods”?\wj*
+\v 35 \wj If those to whom God's word were addressed were said to be “gods” — and scripture cannot be set aside —\wj*
+\v 36 \wj do you say of one whom the Father has consecrated and sent as his messenger to the world “You are blaspheming,” because I said “I am God's Son”?\wj*
 \v 37 \wj If I am not doing the work that my Father is doing, do not believe me;\wj*
 \v 38 \wj if I am doing it, even though you do not believe me, believe what that work shows; so that you may understand, and understand more and more clearly, that the Father is in union with me, and I with the Father.’\wj*
 \v 39 The authorities again sought to arrest him; but he escaped their hands.
@@ -769,7 +774,7 @@
 \v 25 \wj ‘I am the resurrection and the life,’\wj* said Jesus. \wj ‘He who believes in me will live, though he die;\wj*
 \v 26 \wj and he who lives and believes in me will never die. Do you believe this?’\wj*
 \p
-\v 27 ‘Yes Master,’ she answered; ‘I have learned to believe that you are the Christ, the Son of God, “who was to come” into the world.’
+\v 27 ‘Yes Master,’ she answered; ‘I have learned to believe that you are the Christ, the Son of God, who was to come into the world.’
 \v 28 After saying this, Martha went and called her sister Mary, and whispered: ‘The teacher is here, and is asking for you.’
 \v 29 As soon as Mary heard that, she got up quickly, and went to meet him.
 \v 30 Jesus had not then come into the village, but was still at the place where Martha had met him.
@@ -787,7 +792,7 @@
 \v 41 So they moved the stone away; and Jesus, with uplifted eyes, said:
 \q \wj ‘Father, I thank you that you have heard my prayer;\wj*
 \v 42 \wj I know that you always hear me; but I say this for the sake of the people standing near, so that they may believe that you has sent me as your messenger.’\wj*
-\nb
+\m
 \v 43 Then, after saying this, Jesus called in a loud voice: \wj ‘Lazarus! Come out!’\wj*
 \v 44 The dead man came out, wrapped hand and foot in a winding-sheet; his face, too, had been wrapped in a cloth. \wj ‘Set him free,’\wj* said Jesus, \wj ‘and let him go.’\wj*
 \rem Titleless Section Break
@@ -806,11 +811,11 @@
 \b
 \p
 \v 54 In consequence of this, Jesus did not go about publicly among the people any more, but left and went into the country bordering on the wilderness, to a town called Ephraim, where he stayed with his disciples.
-\v 55 But the Jewish Festival of the Passover was near; and many people had gone up from the country to Jerusalem, for their “purification,” before the Festival began.
+\v 55 But the Jewish Festival of the Passover was near; and many people had gone up from the country to Jerusalem, for their purification, before the Festival began.
 \v 56 So they looked for Jesus there, and said to one another, as they stood in the Temple Courts: ‘What do you think? Do you think he will come to the Festival?’
 \v 57 The chief priests and the Pharisees had already issued orders that, if anyone learned where Jesus was, he should give information, so that they might arrest him.
 \c 12
-\ms The Last Days
+\s The Last Days
 \p
 \v 1 Six days before the Passover Jesus came to Bethany, where Lazarus, whom he had raised from the dead, was living.
 \v 2 There a supper was given in honour at which Martha waited, while Lazarus was one of those present at the table.
@@ -825,7 +830,7 @@
 \v 10 The chief priests, however, plotted to put Lazarus, as well as Jesus, to death,
 \v 11 because it was owing to him that many of the people had left them, and were becoming believers in Jesus.
 \v 12 On the following day great numbers of people who had come to the Festival, hearing that Jesus was on his way to Jerusalem, took palm branches,
-\v 13 and went out to meet him, shouting as they went: ‘“God save Him! Blessed is He who Comes in the name of the Lord” — The king of Israel!’
+\v 13 and went out to meet him, shouting as they went: ‘God save Him! Blessed is He who Comes in the name of the Lord — The king of Israel!’
 \v 14 Having found a young ass, Jesus seated himself on it, in accordance with the passage of scripture —
 \v 15 “Fear not, people of Zion; Your king is coming to you, Sitting on the foal of an ass.”
 \v 16 His disciples did not understand all this at first; but, when Jesus had been exalted, then they remembered that these things had been said of him in scripture, and that they had done these things for him.
@@ -842,7 +847,7 @@
 \v 24 \wj In truth I tell you, unless a grain of wheat falls into the ground and dies, it remains solitary; but, if it dies, it becomes fruitful.\wj*
 \v 25 \wj A person who loves their life loses it; while someone who hates their life in the present world will preserve it for eternal life.\wj*
 \v 26 \wj If someone is ready to serve me, let them follow me; and where I am, there my servant will be also. If a person is ready to serve me, my Father will honour them.\wj*
-\v 27 \wj Now I am distressed at heart and what can I say? Father, bring me safe through this hour — yet it was for this reason that I came to this hour — \wj*
+\v 27 \wj Now I am distressed at heart and what can I say? Father, bring me safe through this hour — yet it was for this reason that I came to this hour —\wj*
 \v 28 \wj Father, honour your own name.’\wj* At this there came a voice from heaven, which said: ‘I have already honoured it, and I will honour it again.’
 \v 29 The crowd of bystanders, who heard the sound, said that it was thundering. Others said: ‘An angel has been speaking to him.’
 \p
@@ -850,10 +855,10 @@
 \v 31 \wj Now this world is on its trial. Now the Spirit that is ruling this world will be driven out;\wj*
 \v 32 \wj and I, when I am lifted up from the earth, will draw all people to myself.’\wj*
 \v 33 By these words he indicated what death he was destined to die.
-\v 34 ‘We,’ replied the people, ‘have learned from the Law that the “Christ is to remain for ever”; how is it, then, that you say that the Son of Man must be \wj “lifted up”\wj* Who is this “Son of Man”?’
+\v 34 ‘We,’ replied the people, ‘have learned from the Law that the Christ is to remain for ever; how is it, then, that you say that the Son of Man must be \wj “lifted up”\wj* Who is this “Son of Man”?’
 \p
 \v 35 \wj ‘Only a little while longer,’\wj* answered Jesus, \wj ‘will you have the light among you. Travel on while you have the light, so that darkness may not overtake you; he who travels in the darkness does not know where he is going.\wj*
-\v 36 \wj While you still have the light, believe in the light, so that you may be “children of light.”’\wj* After he had said this, Jesus went away, and hid himself from them.
+\v 36 \wj While you still have the light, believe in the light, so that you may be children of light.’\wj* After he had said this, Jesus went away, and hid himself from them.
 \v 37 But, though Jesus had given so many signs of his mission before their eyes, they still did not believe in him,
 \v 38 in fulfilment of the words of the prophet Isaiah, where he says — “Lord, who has believed our teaching? And to whom has the might of the Lord been revealed?”
 \v 39 The reason why they were unable to believe is given by Isaiah elsewhere, in these words —
@@ -960,7 +965,7 @@
 \rem Titleless Section Break
 \b
 \p
-\v 1 \wj I am the true vine, and my Father is the vine-grower.\wj*
+\v 1 \wj ‘I am the true vine, and my Father is the vine-grower.\wj*
 \v 2 \wj Any unfruitful branch in me he takes away, and he cleanses every fruitful branch, so that it may bear more fruit.\wj*
 \v 3 \wj You are already clean because of the message that I have given you.\wj*
 \v 4 \wj Remain united to me, and I will remain united to you. As a branch cannot bear fruit by itself, unless it remains united to the vine; no more can you, unless you remain united to me.\wj*
@@ -988,7 +993,7 @@
 \v 26 \wj But, when the helper comes, whom I will send to you from the Father — the Spirit of truth, who comes from the Father — will bear testimony to me;\wj*
 \v 27 \wj yes, and you also are to bear testimony, because you have been with me from the first.\wj*
 \c 16
-\v 1 I have spoken to you in this way so that you may not falter.
+\v 1 ‘I have spoken to you in this way so that you may not falter.
 \v 2 \wj They will expel you from their synagogues; indeed the time is coming when anyone who kills you will think that they are making an offering to God.\wj*
 \v 3 \wj They will do this, because they have not learned to know the Father, or even me.\wj*
 \v 4 \wj But I have spoken to you of these things so that, when the time for them comes, you may remember that I told you about them myself.\wj*
@@ -1004,6 +1009,7 @@
 \v 14 \wj He will honour me; because he will take of what is mine, and will tell it to you.\wj*
 \v 15 \wj Everything that the Father has is mine; that is why I said that he takes of what is mine, and will tell it to you.\wj*
 \v 16 \wj In a little while you will no longer see me; and then in a little while you will see me indeed.’\wj*
+\p
 \v 17 At this some of his disciples said to one another: ‘What does he mean by saying to us \wj “In a little while you will not see me, and then in a little while you will see me indeed”;\wj* and by saying \wj “Because I am going to the Father”?\wj*
 \v 18 What does he mean by \wj “In a little while”?’\wj* they said; ‘we do not know what he is speaking about.’
 \v 19 Jesus saw that they were wanting to ask him a question, and said: \wj ‘Are you trying to find out from one another what I meant by saying “In a little while you will not see me; and then in a little while you will see me indeed”?\wj*
@@ -1036,7 +1042,7 @@
 \v 6 \wj I have revealed you to those whom you gave me from the world; they were your own, and you gave them to me; and they have laid your message to heart.\wj*
 \v 7 \wj They recognise now that everything that you gave me was from you;\wj*
 \v 8 \wj for I have given them the teaching which you gave me, and they received it, and clearly understood that I came from you, and they believed that you has sent me as your messenger.\wj*
-\v 9 \wj I intercede for them; I am not interceding for the world, but for those whom you has given me, for they are your own — \wj*
+\v 9 \wj I intercede for them; I am not interceding for the world, but for those whom you has given me, for they are your own —\wj*
 \v 10 \wj All that is mine is yours, and all that is yours is mine — and I am honoured in them.\wj*
 \v 11 \wj Now I am to be in this world no longer, but they are still to be in the world, and I am to come to you. Holy Father, keep them by that revelation of your name which you has given me, so that they may be one, as we are.\wj*
 \v 12 \wj Whilst I was with them, I kept them by that revelation, and I have guarded them; and not one of them has been lost, except that lost soul — in fulfilment of scripture.\wj*
@@ -1049,12 +1055,12 @@
 \v 19 \wj And it is for their sakes that I am consecrating myself, so that they also may be truly consecrated.\wj*
 \v 20 \wj But it is not only for them that I am interceding, but also for those who believe in me through their message,\wj*
 \v 21 \wj that they all may be one — that as you, Father, are in union with us — and so the world may believe that you have sent me as your messenger.\wj*
-\v 22 \wj I have given them the honour which you has given me, so that they may be one as we are one — \wj*
+\v 22 \wj I have given them the honour which you has given me, so that they may be one as we are one —\wj*
 \v 23 \wj I in union with them and you with me — that so they may be perfected in their union, and so that the world may know that you have sent me as your messenger, and that you have loved them as you have loved me.\wj*
 \v 24 \wj Father, my desire for all those whom you have given me is that they may be with me where I am, so that they may see the honour which you have given me; for thou did love me before the beginning of the world.\wj*
 \v 25 \wj Righteous Father, though the world did not know you, I knew you; and these people knew that you have sent me as your messenger.\wj*
 \v 26 \wj I have made you known to them, and will do so still; that the love that you have had for me may be in their hearts, and that I may be in them also.’\wj*
-\nb
+\m
 \c 18
 \rem Titleless Section Break
 \b
@@ -1093,7 +1099,7 @@
 \rem Titleless Section Break
 \b
 \p
-\v 28 From Caiaphas they took Jesus to the Government house. It was early in the morning. But they did not enter the Government house themselves, otherwise they might become “defiled,” and so be unable to eat the Passover.
+\v 28 From Caiaphas they took Jesus to the Government house. It was early in the morning. But they did not enter the Government house themselves, otherwise they might become defiled, and so be unable to eat the Passover.
 \v 29 Therefore Pilate came outside to speak to them. ‘What charge do you bring against this man?’ he asked.
 \v 30 ‘If he had not been a criminal, we should not have given him up to you,’ they answered.
 \v 31 ‘Take him yourselves,’ said Pilate, ‘and try him by your own Law.’
@@ -1144,7 +1150,7 @@
 \v 18 There they crucified him, and two others with him — one on each side, and Jesus between them.
 \v 19 Pilate also had these words written and put up over the cross — “JESUS OF NAZARETH, THE KING OF THE JEWS.”
 \v 20 These words were read by many people, because the place where Jesus was crucified was near the city; and they were written in Hebrew, Latin and Greek.
-\v 21 The  chief priests said to Pilate: ‘Do not write “The king of the Jews”, but write what the man said — “I am the king of the Jews.”’
+\v 21 The chief priests said to Pilate: ‘Do not write “The king of the Jews”, but write what the man said — “I am the king of the Jews.”’
 \v 22 But Pilate answered: ‘What I have written, I have written.’
 \rem Titleless Section Break
 \b
@@ -1153,7 +1159,9 @@
 \v 24 So they said to one another: ‘Do not let us tear it, but let us cast lots for it, to see who will have it.’ This was in fulfilment of the words of scripture —
 \q “They shared my clothes among them,
 \q2 And over my clothing they cast lots.”
-\nb That was what the soldiers did.
+\b
+\m
+That was what the soldiers did.
 \v 25 Meanwhile near the cross of Jesus were standing his mother and his mother's sister, as well as Mary the wife of Clopas and Mary of Magdala.
 \v 26 When Jesus saw his mother, and the disciple whom he loved, standing near, he said to his mother: \wj ‘There is your son.’\wj*
 \v 27 Then he said to that disciple: \wj ‘There is your mother.’\wj* And from that very hour the disciple took her to live in his house.
@@ -1176,7 +1184,7 @@
 \v 41 At the place where Jesus had been crucified there was a garden, and in the garden a newly made tomb in which no one had ever been laid.
 \v 42 And so, because of its being the Preparation day, and as the tomb was close at hand, they laid Jesus there.
 \c 20
-\ms The Risen Life
+\s The Risen Life
 \p
 \v 1 On the first day of the week, early in the morning, while it was still dark, Mary of Magdala went to the tomb, and saw that the stone had been removed.
 \v 2 So she came running to Simon Peter, and to that other disciple who was Jesus' friend, and said to them: ‘They have taken away the Master out of the tomb, and we do not know where they have laid him!’

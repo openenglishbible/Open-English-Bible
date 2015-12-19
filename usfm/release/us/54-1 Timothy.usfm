@@ -1,6 +1,7 @@
 \id 1TI
 \ide UTF-8
 \h 1 Timothy
+
 \rem ORIGINAL BASE TEXT
 \rem Twentieth Century New Testament
 \rem TAGS
@@ -15,10 +16,11 @@
 \rem US Cth spelling OK
 \rem NSRV versification only
 \rem Gender OK
+
 \mt2 Paul's First Letter to
 \mt Timothy
 \c 1
-\ms Introduction
+\s Introduction
 \p
 \v 1 From Paul, an apostle of Christ Jesus by the appointment of God, our Savior, and Christ Jesus, our hope.
 \v 2 To Timothy, my true child in the faith: May God, the Father, and Christ Jesus, our Lord, bless you, and be merciful to you, and give you peace.
@@ -46,7 +48,7 @@
 \v 19 with faith, and with a clear conscience; and it is because they have thrust this aside, that, as regards the faith, some have wrecked their lives.
 \v 20 Hymenaeus and Alexander are instances — the men whom I delivered over to Satan so that they might be taught not to blaspheme.
 \c 2
-\ms General Directions on Church Matters
+\s General Directions on Church Matters
 \p
 \v 1 First of all, then, I ask that petitions, prayers, intercessions, and thanksgivings should be offered for everyone,
 \v 2 especially for kings and all who are in high positions, in order that we may lead a quiet and peaceful life in a deeply religious and reverent spirit.
@@ -71,7 +73,7 @@ This must be our testimony, as opportunities present themselves;
 \p
 \v 1 How true is this saying:
 ‘To aspire to be to be a supervisor in the church is to be ambitious for a noble task.’
-\v 2 The supervisor should be  of blameless character; a faithful partner; living a temperate, discreet, and well-ordered life; hospitable, and a skillful teacher,
+\v 2 The supervisor should be of blameless character; a faithful partner; living a temperate, discreet, and well-ordered life; hospitable, and a skillful teacher,
 \v 3 not addicted to drink or brawling, but of a forbearing and peaceable disposition, and not a lover of money;
 \v 4 they should provide for own household well, and their children should kept under control and be well-behaved.
 \v 5 If someone does not know how to provide for their own household, how can they take charge of the church of God?
@@ -83,7 +85,7 @@ This must be our testimony, as opportunities present themselves;
 \v 11 It should be the same with the women in this office. They should be serious, not gossips, sober, and trustworthy in all respects.
 \v 12 assistants should be faithful partners who manage their children and their households well.
 \v 13 Those who have filled that post with honor gain for themselves an honorable position, as well as great confidence through the faith that they place in Christ Jesus.
-\ms Special Directions to Timothy
+\s Special Directions to Timothy
 \p
 \v 14 I am writing this to you, though I hope that I will come to see you before long;
 \v 15 but in case I should be delayed, I want you to know what your conduct ought to be in the Household of God, which is the church of the living God — the pillar and stay of the truth.
@@ -94,7 +96,7 @@ This must be our testimony, as opportunities present themselves;
 \q Proclaimed among the Gentiles,
 \q2 Believed on in the world,
 \q3 Taken up into glory.’
-\nb
+\m
 \c 4
 \v 1 But the Spirit distinctly says that in later times there will be some who will fall away from the faith, and devote their attention to misleading spirits, and to the teaching of demons,
 \v 2 who will make use of the hypocrisy of lying teachers. These people's consciences are seared,
@@ -138,9 +140,11 @@ This must be our testimony, as opportunities present themselves;
 \v 17 Those church elders who fill their office well should be held deserving of especial consideration, particularly those whose work lies in preaching and teaching.
 \v 18 The words of scripture are —
 \q ‘You should not muzzle the ox while it is treading out the grain.’
-\nb and again —
+\b
+\m
+and again —
 \q \wj ‘The worker is worth their wages.’\wj*
-\nb
+\m
 \v 19 Do not receive a charge against an church elder, unless it is supported by two or three witnesses;
 \v 20 but rebuke offenders publicly, so that others may take warning.
 \v 21 I charge you solemnly, before God and Christ Jesus and the chosen angels, to carry out these directions, unswayed by prejudice, never acting with partiality.
@@ -152,7 +156,7 @@ This must be our testimony, as opportunities present themselves;
 \p
 \v 1 All who are in the position of slaves should regard their masters as deserving of the greatest respect, so that the name of God, and our teaching, may not be maligned.
 \v 2 Those who have Christian masters should not think less of them because they are also followers of Christ, but on the contrary they should serve them all the better, because those who are to benefit by their good work are dear to them as their fellow Christians.
-\ms Conclusion
+\s Conclusion
 Those are the things to insist on in your teaching.
 \p
 \v 3 Anyone who teaches otherwise, and refuses their assent to sound instruction — the instruction of our Lord Jesus Christ — and to the teaching of religion,

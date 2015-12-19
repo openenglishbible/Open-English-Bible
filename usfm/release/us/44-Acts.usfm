@@ -1,6 +1,7 @@
 \id ACT
 \ide UTF-8
 \h Acts
+
 \rem ORIGINAL BASE TEXT
 \rem Twentieth Century New Testament
 \rem TAGS
@@ -15,6 +16,7 @@
 \rem US Cth spelling OK
 \rem NSRV versification only
 \rem Gender OK
+
 \mt2 The
 \mt Acts
 \mt2 of the Apostles
@@ -22,7 +24,7 @@
 \v 1
 \ms The Church and the Jews
 \p
-\ms2 The Acts of the Apostles Peter and John
+\s The Acts of the Apostles Peter and John
 \p The first account which I drew up, Theophilus, dealt with all that Jesus did and taught from the very first,
 \v 2 down to that day on which he was taken up to heaven, after he had, by the help of the Holy Spirit, given instructions to the apostles whom he had chosen.
 \v 3 With abundant proofs, he showed himself to them, still living, after his death; appearing to them from time to time during forty days, and speaking of all that related to the kingdom of God.
@@ -52,16 +54,18 @@
 \v 20 “For in the book of Psalms,” Peter continued, “it is said —
 \q ‘Let his home become desolate,
 \q And let no one live in it’;
-\nb and also —
+\b
+\m
+and also —
 \q ‘His office let another take.’
-\nb
+\m
 \v 21 Therefore, from among the men who have been with us all the time that Jesus, our Master, went in and out among us —
 \v 22 from his baptism by John down to that day on which he was taken from us — someone must be found to join us as a witness of his resurrection.”
 \v 23 So they put forward two men, Joseph called Barsabas, whose other name was Justus, and Matthias;
 \v 24 and they offered this prayer —
 \q “Lord, who reads all hearts, show which of these two men you have chosen
 \v 25 to take the place in this apostolic work, which Judas has abandoned, to go to his proper place.”
-\nb
+\m
 \v 26 Then they drew lots between them; and, the lot having fallen on Matthias, he was added to the number of the eleven apostles.
 \c 2
 \rem Titleless Section Break
@@ -70,7 +74,7 @@
 \v 1 In the course of the Festival at the close of the Harvest the disciples had all met together,
 \v 2 when suddenly there came from the heavens a noise like a strong wind rushing by; it filled the whole house in which they were sitting.
 \v 3 Then there appeared tongues of what seemed to be flame, separating, so that one settled on each of them;
-\v 4 and they were all filled with the Holy Spirit, and began to speak with strange ‘tongues’ as the Spirit prompted their utterances.
+\v 4 and they were all filled with the Holy Spirit, and began to speak in different languages as the Spirit prompted their utterances.
 \p
 \v 5 Now there were then staying in Jerusalem religious Jews from every country in the world;
 \v 6 and, when this sound was heard, numbers of people collected, in the greatest excitement, because each of them heard the disciples speaking in his own language.
@@ -80,7 +84,7 @@
 \v 8 Then how is it that we each of us hear them in our own language?
 \v 9 Some of us are Parthians, some Medes, some Elamites; and some of us live in Mesopotamia, in Judea and Cappadocia, in Pontus and Roman Asia,
 \v 10 in Phrygia and Pamphylia, in Egypt and the districts of Libya adjoining Cyrene; some of us are visitors from Rome,
-\v 11 either Jews by birth or converts, and some are Cretans and Arabians — yet we all alike hear them speaking in our own tongues of the great things that God has done.”
+\v 11 either Jews by birth or converts, and some are Cretans and Arabians — yet we all alike hear them speaking in our own languages of the great things that God has done.”
 \v 12 They were all utterly amazed and bewildered.
 \p
 “What does it mean?” they asked one another.
@@ -109,7 +113,7 @@
 \q2 Before the day of the Lord comes — that great and awful day.
 \q3
 \v 21 Then will everyone who invokes the name of the Lord be saved.’
-\nb
+\m
 \v 22 People of Israel, listen to what I am saying. Jesus of Nazareth, a man whose mission from God to you was proved by miracles, wonders, and signs, which God showed among you through him, as you know full well —
 \v 23 He, I say, in accordance with God's definite plan and with his previous knowledge, was betrayed, and you, by the hands of lawless men, nailed him to a cross and put him to death.
 \v 24 But God released him from the pangs of death and raised him to life, it being impossible for death to retain its hold on him.
@@ -125,7 +129,7 @@
 \q1
 \v 28 You have shown me the path to life,
 \q2 You will fill me with gladness in your presence.’
-\nb
+\m
 \v 29 Friends, I can speak to you the more confidently about the patriarch David, because he is dead and buried, and his tomb is here among us to this very day.
 \v 30 David, then, prophet as he was, knowing that God had solemnly sworn to him to set one of his descendants on his throne, looked into the future,
 \v 31 and referred to the resurrection of the Christ when he said that he had not been abandoned to Hades, nor had his body undergone corruption.
@@ -135,7 +139,7 @@
 \q ‘The Lord said to my master: “Sit on my right hand,
 \q1
 \v 35 Until I put your enemies as a footstool under your feet.”’
-\nb
+\m
 \v 36 So let the whole nation of Israel know beyond all doubt, that God has made him both Lord and Christ — this Jesus whom you crucified.”
 \p
 \v 37 When the people heard this, they were conscience-smitten, and said to Peter and the rest of the apostles: “Friends, what can we do?”
@@ -156,7 +160,7 @@
 \rem Titleless Section Break
 \b
 \p
-\v 1 One day, as Peter and John were going up into the Temple Courts for the three o’clock Prayers, a man, who had been lame from his birth, was being carried by.
+\v 1 One day, as Peter and John were going up into the Temple Courts for the three o'clock Prayers, a man, who had been lame from his birth, was being carried by.
 \v 2 This man used to be set down every day at the gate of the Temple called ‘the Beautiful Gate,’ to beg of those who went in.
 \v 3 Seeing Peter and John on the point of entering, he asked them to give him something.
 \v 4 Peter fixed his eyes on him, and so did John, and then Peter said: “Look at us.”
@@ -182,11 +186,11 @@
 \v 22 Moses himself said —
 \q ‘The Lord your God will raise up from among yourselves a prophet, as he raised me. To him you will listen whenever he speaks to you.
 \v 23 And it will be that should anyone among the people not listen to that prophet, he will be utterly destroyed.’
-\nb
+\m
 \v 24 Yes, and all the prophets from Samuel onwards, and all their successors who had a message to deliver, told of these days.
 \v 25 You yourselves are the heirs of the prophets, and heirs, too, of the covenant which God made with your ancestors, when he said to Abraham —
 \q ‘In your descendants will all the nations of the earth be blessed.’
-\nb
+\m
 \v 26 For you, first, God raised up his servant, and sent him to bless you, by turning each one of you from his wicked ways.”
 \c 4
 \v 1 While Peter and John were still speaking to the people, the chief priest, with the officer in charge at the Temple and the Sadducees, came up to them,
@@ -226,20 +230,20 @@
 \p
 \v 23 After they had been set at liberty, the apostles went to their friends and told them what the chief priests and the elders had said to them.
 \v 24 All who heard their story, moved by a common impulse, raised their voices to God in prayer:
-\q “Sovereign Lord, it is you who has ‘made the heavens, the earth, the sea, and everything that is in them,’
-\v 25 And who, by the lips of our ancestor, your servant David, who spoke under the influence of the Holy Spirit, have said —
+\q “Sovereign Lord, it is you who has made the heavens, the earth, the sea, and everything that is in them,
+\v 25 and who, by the lips of our ancestor, your servant David, who spoke under the influence of the Holy Spirit, have said —
 \q2 ‘Why did the nations rage,
-\q3 And the peoples form vain designs?
+\q3 and the peoples form vain designs?
 \q2
 \v 26 The kings of the earth set their array,
-\q2 And its rulers gathered together,
-\q3 Against the Lord and against his Christ.’
+\q2 and its rulers gathered together,
+\q3 against the Lord and against his Christ.’
 \q
 \v 27 There have indeed gathered together in this city against your holy servant Jesus, whom you has consecrated the Christ, not Herod and Pontius Pilate only, but the nations and the people of Israel besides —
 \v 28 Yet only to do what you, by your power and of your own will, did long ago destine to be done.
 \v 29 Now, therefore, Lord, mark their threats, and enable your servants, with all fearlessness, to tell your message,
 \v 30 while you stretch out your hand to heal, and cause signs and wonders to take place through the name of your holy servant Jesus.”
-\nb
+\m
 \v 31 When their prayer was ended, the place in which they were assembled was shaken; and they were all filled with the Holy Spirit, and began to tell God's message fearlessly.
 \rem Titleless Section Break
 \b
@@ -345,7 +349,7 @@
 \v 2 Stephen replied: “Brothers and fathers, hear what I have to say. God, who manifests himself in the glory, appeared to our ancestor Abraham when he was in Mesopotamia, and before he settled in Haran, and said to him —
 \v 3 ‘Leave your country and your kindred, and come into the country that I will show you.’
 \v 4 And so Abraham left the country of the Chaldaeans and settled in Haran; and from there, after his father's death, God caused him to migrate into this country, in which you are now living.
-\v 5 God did not at that time give him any part of it, not even a foot of ground. But he promised to ‘give him possession of it and his descendants after him, though at that time he had no child.
+\v 5 God did not at that time give him any part of it, not even a foot of ground. But he promised to give him possession of it and his descendants after him, though at that time he had no child.
 \v 6 God's words were these — ‘Abraham's descendants will live in a foreign country, where they will be enslaved and ill-treated for four hundred years.
 \v 7 But I myself will judge the nation, to which they will be enslaved,’ God said, ‘and after that they will leave the country and worship me in this place.’
 \v 8 Then God made with Abraham the covenant of circumcision; and under it Abraham became the father of Isaac, and circumcised him when he was eight days old; and Isaac became the father of Jacob; and Jacob of the Twelve Patriarchs.
@@ -384,13 +388,13 @@
 \v 41 That was the time when they made the calf and offered sacrifice to their idol, and held festivities in honor of their own handiwork!
 \v 42 So God turned from them and left them to the worship of the Starry Host, as is written in the book of the prophets —
 \q ‘Did you offer victims and sacrifices to me, house of Israel,
-\q2 All those forty years in the desert?
+\q2 all those forty years in the desert?
 \q1
 \v 43 You took with you the tent where Moloch is worshiped
-\q And the star of the god Rephan —
-\q2 The images which you had made to worship.
+\q and the star of the god Rephan —
+\q2 the images which you had made to worship.
 \q3 Therefore I will exile you beyond Babylon.’
-\nb
+\m
 \v 44 Our ancestors had the tent where they worshiped God in the desert, constructed, just as he who spoke to Moses had directed him to make it, after the model which he had seen.
 \v 45 This tent, which was handed down to them, was brought into this country by our ancestors who accompanied Joshua (at the conquest of the nations that God drove out before their advance), and remained here until the time of David.
 \v 46 David found favor with God, and prayed that he might provide the God of Jacob with a place to reside.
@@ -398,12 +402,12 @@
 \v 48 Yet it is not in buildings made by hands that the Most High dwells. As the prophet says —
 \q1
 \v 49 ‘The heavens are a throne for me,
-\q2 And the earth a stool for my feet.
-\q What manner of house will you build me, saith the Lord,
-\q2 Or what place is there where I may rest?
+\q2 and the earth a stool for my feet.
+\q What manner of house will you build me, asks the Lord,
+\q2 or what place is there where I may rest?
 \q3
 \v 50 Was it not my hand that made all these things?’
-\nb
+\m
 \v 51 Stubborn people, heathen in heart and ears, you are for ever resisting the Holy Spirit; your ancestors did it, and you are doing it still.
 \v 52 Which of the prophets escaped persecution at their hands? They killed those who foretold the coming of the righteous one; of whom you, in your turn, have now become the betrayers and murderers —
 \v 53 You who received the Law as transmitted by angels and yet failed to keep it.”
@@ -444,9 +448,9 @@ On that very day a great persecution broke out against the church which was in J
 \v 19 “Give me also this power of yours, so that, if I place my hands on anyone, he may receive the Holy Spirit.”
 \p
 \v 20 “A curse on you and on your money,” Peter exclaimed, “for thinking that God's free gift can be bought with gold!
-\v 21 You have no share or part in our message, for your ‘heart is not right with God.’
+\v 21 You have no share or part in our message, for your heart is not right with God.
 \v 22 Therefore repent of this wickedness of yours, and pray to the Lord, that, if possible, you may be forgiven for such a thought;
-\v 23 for I see that you have fallen into the ‘bitterness of envy’ and the ‘fetters of sin.’”
+\v 23 for I see that you have fallen into the bitterness of envy and the fetters of sin.”
 \p
 \v 24 “Pray to the Lord for me, all of you,” Simon answered, “so that none of the things you have spoken of may happen to me.”
 \p
@@ -462,13 +466,13 @@ On that very day a great persecution broke out against the church which was in J
 \v 31 “How can I,” the other answered, “unless someone will explain it to me?” and he invited Philip to get up and sit by his side.
 \v 32 The passage of scripture which he was reading was this —
 \q ‘Like a sheep, he was led away to slaughter,
-\q2 And as a lamb is dumb in the hands of its shearer,
-\q2 So he refrains from opening his lips.
+\q2 and as a lamb is dumb in the hands of its shearer,
+\q2 so he refrains from opening his lips.
 \q1
 \v 33 He was humiliated and justice was denied him.
 \q Who will tell the story of his generation?
 \q2 For his life is cut off from earth.’
-\nb
+\m
 \v 34 “Now,” said the Treasurer, addressing Philip, “tell me, of whom is the prophet speaking? Of himself, or of someone else?”
 \v 35 Then Philip began, and, taking this passage as his text, told him the good news about Jesus.
 \p
@@ -499,7 +503,7 @@ On that very day a great persecution broke out against the church which was in J
 \p
 \v 10 Now there was at Damascus a disciple named Ananias, to whom, in a vision, the Lord said: \wj “Ananias.”\wj*
 \p “Yes, Lord,” he answered.
-\v 11 \wj “Go at once,”\wj* said the Lord, \wj “to the ‘Straight Street’, and ask at Judas's house for a man named Saul, from Tarsus. He is at this moment praying,\wj*
+\v 11 \wj “Go at once,”\wj* said the Lord, \wj “to the Straight Street, and ask at Judas's house for a man named Saul, from Tarsus. He is at this moment praying,\wj*
 \v 12 \wj and he has seen, in a vision, a man named Ananias coming in and placing his hands on him, so that he may recover his sight.”\wj*
 \p
 \v 13 “Lord,” exclaimed Ananias, “I have heard from many people about this man — how much harm he has done at Jerusalem to your people there.
@@ -556,7 +560,7 @@ She opened her eyes, and, seeing Peter, sat up.
 \p
 \v 1 At Caesarea there was a man named Cornelius, a captain in the regiment known as the ‘Italian Regiment,’
 \v 2 A religious man and one who reverenced God, with all his household. He was liberal in his charities to the people, and prayed to God constantly.
-\v 3 One afternoon, about three o’clock, he distinctly saw in a vision an angel from God come to him, and call him by name.
+\v 3 One afternoon, about three o'clock, he distinctly saw in a vision an angel from God come to him, and call him by name.
 \v 4 Cornelius fixed his eyes on him and, in great alarm, said: “What is it, Lord?”
 \p
 “Your prayers and your charities,” the angel answered, “have been an acceptable offering to God.
@@ -572,8 +576,8 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 12 In it were all kinds of quadrupeds, reptiles, and birds.
 \v 13 Then he was aware of a voice which said — \wj “Stand up, Peter, kill something, and eat.”\wj*
 \p
-\v 14 “No, Lord, I cannot,” answered Peter, “for I have never eaten anything ‘defiled’ and ‘unclean’.”
-\v 15 Again he was aware of a voice which said — \wj “What God has pronounced ‘clean’, do not regard as ‘defiled’.”\wj*
+\v 14 “No, Lord, I cannot,” answered Peter, “for I have never eaten anything defiled and unclean.”
+\v 15 Again he was aware of a voice which said — \wj “What God has pronounced clean, do not regard as defiled.”\wj*
 \v 16 This happened three times, and then suddenly it was all taken up into the heavens.
 \p
 \v 17 While Peter was still perplexed as to the meaning of the vision that he had seen, the men sent by Cornelius, having enquired the way to Simon's house, came up to the gate,
@@ -591,7 +595,7 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 26 Peter, however, lifted him up, saying as he did so: “Stand up, I am only human like yourself.”
 \p
 \v 27 Talking with him as he went, Peter entered the house, where he found a large gathering of people, to whom he said:
-\v 28 “You are doubtless aware that it is forbidden for a Jew to be intimate with a foreigner, or even to enter his house; and yet God has shown me that I ought not to call anyone ‘defiled’ or ‘unclean.’
+\v 28 “You are doubtless aware that it is forbidden for a Jew to be intimate with a foreigner, or even to enter his house; and yet God has shown me that I ought not to call anyone defiled or unclean.
 \v 29 That was why I came, when I was sent for, without raising any objection. And now I ask your reason for sending for me.”
 \p
 \v 30 “Just three days ago this very hour,” Cornelius said, “I was in my house, saying the Afternoon Prayers, when a man in dazzling clothing suddenly stood before me.
@@ -600,8 +604,8 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 33 Accordingly I sent to you at once, and you have been so good as to come. And now we are all here in the presence of God, to listen to all that you have been instructed by the Lord to say.”
 \v 34 Then Peter began.
 \p
-“I see, beyond all doubt,” he said, “that ‘God does not show partiality,’
-\v 35 But that in every nation he who reverences him and does what is right is acceptable to him.
+“I see, beyond all doubt,” he said, “that God does not show partiality,
+\v 35 but that in every nation he who reverences him and does what is right is acceptable to him.
 \v 36 God has sent his message to the Israelites and told them, through Jesus Christ, the good news of peace — and Jesus is Lord of all!
 \v 37 You yourselves know the story which spread through all Judea, how, beginning form Galilee, after the baptism which John proclaimed —
 \v 38 The story, I mean, of Jesus of Nazareth, and how God consecrated him his Christ by enduing him with the Holy Spirit and with power; and how he went about doing good and curing all who were under the power of the devil, because God was with him.
@@ -613,7 +617,7 @@ She opened her eyes, and, seeing Peter, sat up.
 \p
 \v 44 Before Peter had finished saying these words, the Holy Spirit fell on all who were listening to the message.
 \v 45 Those converts from Judaism, who had come with Peter, were amazed that the gift of the Holy Spirit had been bestowed even on the Gentiles;
-\v 46 for they heard them speaking with ‘tongues’ and extolling God. At this Peter asked:
+\v 46 for they heard them speaking in different languages and extolling God. At this Peter asked:
 \v 47 “Can anyone refuse the water for the baptism of these people, now that they have received the Holy Spirit as we did ourselves?”
 \v 48 And he directed that they should be baptized in the faith of Jesus Christ; after which they asked him to stay there a few days longer.
 \c 11
@@ -627,8 +631,8 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 5 “I was in the town of Jaffa,” he said, “and was praying; and, while in a trance, I saw a vision. There was something like a great sail descending, let down by its four corners out of the heavens; and it came right down to me.
 \v 6 Looking intently at it, I began to distinguish quadrupeds, wild beasts, reptiles, and birds;
 \v 7 and I also heard a voice saying to me — \wj ‘Stand up, Peter, kill something and eat.’\wj*
-\v 8 ‘No, Lord, I cannot,’ I answered, ‘for nothing ‘defiled’ or ‘unclean’ has ever passed my lips.’
-\v 9 Then a second time there came a voice from the heavens. \wj “What God has pronounced ‘clean’,”\wj* it said, \wj “you must not call ‘defiled’.”\wj*
+\v 8 ‘No, Lord, I cannot,’ I answered, ‘for nothing defiled or unclean has ever passed my lips.’
+\v 9 Then a second time there came a voice from the heavens. \wj ‘What God has pronounced clean’,\wj* it said, \wj ‘you must not call defiled.’\wj*
 \v 10 This happened three times, and then all was drawn up again into the heavens.
 \v 11 At that moment three men, who had been sent from Caesarea to see me, came up to the house in which we were.
 \v 12 The Spirit told me to go with them without hesitation. These six companions also went with me. And, when we came into the man's house,
@@ -700,7 +704,7 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 1
 \ms The Church and the Gentiles
 \p
-\ms2 Acts of the Apostle Paul
+\s Acts of the Apostle Paul
 \p Among the members of the church at Antioch there were several prophets and teachers — Barnabas, Simeon who was known by the name of ‘Black’, Lucius of Cyrene, Manaen, foster-brother of Prince Herod, and Saul.
 \v 2 While they were engaged in the worship of the Lord and were fasting, the Holy Spirit said: “Set apart for me Barnabas and Saul, for the work to which I have called them.”
 \v 3 Accordingly, after fasting and prayer, they placed their hands on them and dismissed them.
@@ -713,7 +717,7 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 7 He was at the court of the Governor, Sergius Paulus, a man of intelligence, who sent for Barnabas and Saul and asked to be told God's message.
 \v 8 But Elymas, the astrologer (for that is the meaning of the word), opposed them, eager to divert the Governor's attention from the faith.
 \v 9 However, Saul (who is the same as Paul), full of the Holy Spirit, fixed his eyes on him and said:
-\v 10 “You incarnation of deceit and all fraud! You son of the devil! You opponent of all that is good! Will you never cease to divert ‘the straight paths of the Lord’? Listen!
+\v 10 “You incarnation of deceit and all fraud! You son of the devil! You opponent of all that is good! Will you never cease to divert the straight paths of the Lord? Listen!
 \v 11 The hand of the Lord is on you even now, and you will be blind for a time and unable to see the sun.” Immediately a mist and darkness fell on him, and he went feeling about for someone to guide him.
 \v 12 When the Governor saw what had happened, he became a believer in Christ, being greatly impressed by the teaching about the Lord.
 \rem Titleless Section Break
@@ -725,15 +729,15 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 16 So Paul rose and, motioning with his hand, said:
 \p
 “People of Israel and all here who worship God, hear what I have to say.
-\v 17 The God of this people Israel chose our ancestors, and during their stay in Egypt increased the prosperity of the people, and then ‘with uplifted arm brought them out from that land.’
-\v 18 For about forty years ‘he bore with them in the desert’;
+\v 17 The God of this people Israel chose our ancestors, and during their stay in Egypt increased the prosperity of the people, and then with uplifted arm brought them out from that land.
+\v 18 For about forty years he bore with them in the desert;
 \v 19 then, after destroying seven heathen nations in Canaan, he allotted their land to this people —
 \v 20 For about four hundred and fifty years. In later times he gave them Judges, of whom the prophet Samuel was the last.
 \v 21 And, when they demanded a king, God gave them Saul the son of Kish, a man of the tribe of Benjamin, who reigned for forty years.
 \v 22 After removing him, he raised David to the throne, and bore this testimony to him — ‘In David, the son of Jesse, I have found a man after my own heart, who will carry out all my purposes.’
 \v 23 It was from this man's descendants that God, in accordance with his promise, gave Israel a Savior — Jesus;
 \v 24 John having first proclaimed, before the appearance of Jesus, a baptism on repentance for all the people of Israel.
-\v 25 As John was drawing towards the end of his career, he said what do you suppose that I am? I am not the Christ. But there is “one coming” after me, whose sandal I am not worthy to untie.’
+\v 25 As John was drawing towards the end of his career, he said ‘What do you suppose that I am? I am not the Christ. But there is “one coming” after me, whose sandal I am not worthy to untie.’
 \v 26 Brothers and sisters, descendants of Abraham, and all those among you who worship God, it was to us that the message of this salvation was sent.
 \v 27 The people of Jerusalem and their leaders, failing to recognize Jesus, and not understanding the utterances of the prophets that are read every Sabbath, fulfilled them by condemning him.
 \v 28 They found no ground at all for putting him to death, and yet demanded his execution from Pilate;
@@ -743,23 +747,23 @@ She opened her eyes, and, seeing Peter, sat up.
 \v 32 We also have good news to tell you, about the promise made to our ancestors —
 \v 33 That our children have had this promise completely fulfilled to them by God, by his raising Jesus. That is just what is said in the second Psalm —
 \q ‘You are my Son; this day I have become your Father.’
-\nb
+\m
 \v 34 As to his raising Jesus from the dead, never again to return to corruption, this is what is said —
 \q ‘I will give to you the sacred promises made to David;’
-\nb
+\m
 \v 35 And, therefore, in another Psalm it is said —
 \q ‘You will not give up the Holy One to undergo corruption.’
-\nb
-\v 36 David, after obediently doing God's will in his own time, ‘fell asleep and was laid by the side of his ancestors, and did undergo corruption;
+\m
+\v 36 David, after obediently doing God's will in his own time, fell asleep and was laid by the side of his ancestors, and did undergo corruption;
 \v 37 but Jesus, whom God raised from the dead, did not undergo corruption.
 \v 38 I would, therefore, like you to know, friends, that through Jesus forgiveness of sins is being proclaimed to you,
 \v 39 and that, in union with him, everyone who believes in him is absolved from every sin from which under the Law of Moses you could not be absolved.
 \v 40 Beware, therefore, that what is said in the prophets does not come true of you —
 \q1
 \v 41 ‘Look, you despisers, and wonder, and perish;
-\q For I am doing a deed in your days —
-\q2 A deed which, though told you in full, you will never believe’.”
-\nb
+\q for I am doing a deed in your days —
+\q2 a deed which, though told you in full, you will never believe’.”
+\m
 \v 42 As Paul and Barnabas were leaving the synagogue, the people begged for a repetition of this teaching on the next Sabbath.
 \v 43 After the congregation had dispersed, many of the Jews, and of the converts who joined in their worship, followed Paul and Barnabas, who talked with them and urged them to continue to rely on the loving kindness of God.
 \p
@@ -770,8 +774,8 @@ She opened her eyes, and, seeing Peter, sat up.
 “It was necessary that the message of God should be told to you first; but, since you reject it and reckon yourselves not worthy of the eternal life — we turn to the Gentiles!
 \v 47 For this is the Lord's command to us —
 \q ‘I have destined you for a light to the Gentiles,
-\q A means of salvation to the ends of the earth’.”
-\nb
+\q a means of salvation to the ends of the earth’.”
+\m
 \v 48 On hearing this, the Gentiles were glad and extolled God's message; and all those who had been enrolled for eternal life became believers in Christ;
 \v 49 and the Lord's message was carried throughout that district.
 \v 50 But the Jews incited the women of high social standing who worshiped with them, and the leading men of the town, and started a persecution against Paul and Barnabas, and drove them out of their region.
@@ -799,7 +803,7 @@ The man leaped up, and began walking about,
 \v 13 and the priest of Zeus-beyond-the-Walls, accompanied by the crowd, brought bullocks and garlands to the gates, with the intention of offering sacrifices.
 \v 14 But, when the apostles Barnabas and Paul heard of it, they tore their clothes and rushed out into the crowd.
 \p “Friends, why are you doing this?” they shouted.
-\v 15 “We are only people like yourselves, and we have come with the good news that you should turn away from these follies to a living God, ‘who made the heavens, the earth, the sea, and everything that is in them.’
+\v 15 “We are only people like yourselves, and we have come with the good news that you should turn away from these follies to a living God, who made the heavens, the earth, the sea, and everything that is in them.
 \v 16 In bygone times he permitted all the nations to go their own ways.
 \v 17 Yet he has not failed to give you, in the good he does, some revelation of himself — sending you from heaven rain and fruitful seasons, and gladdening your hearts with plenty and good cheer.”
 \v 18 Even with this appeal they could hardly restrain the people from offering sacrifice to them.
@@ -849,7 +853,7 @@ The man leaped up, and began walking about,
 \q Even all the Gentiles on whom my name has been bestowed.
 \q2
 \v 18 Says the Lord, as he does these things, foreknown from of old.’
-\nb
+\m
 \v 19 In my judgment, therefore, we should not add to the difficulties of those Gentiles who are turning to God,
 \v 20 but we should write to them to abstain from food that has been polluted by being sacrificed to idols, from impurity, from eating the flesh of strangled animals, and from blood.
 \v 21 For in every town, for generations past, there have been those who preach Moses, read as he is in the synagogues every Sabbath.”
@@ -864,7 +868,7 @@ The man leaped up, and began walking about,
 \v 27 We are accordingly sending Judas and Silas, and they will tell you by word of mouth what we are now writing.
 \v 28 We have, therefore, decided, under the guidance of the Holy Spirit, to lay no further burden on you beyond these necessary conditions —
 \v 29 That you abstain from food offered to idols, from blood, from eating the flesh of strangled animals, and from impurity. If you guard yourselves against such things, it will be well with you. Farewell.’
-\nb
+\m
 \v 30 So the bearers of this letter were sent on their way, and went down to Antioch. There they called a meeting of all the followers,
 \v 31 and delivered the letter, the reading of which caused great rejoicing by its encouraging contents.
 \v 32 Judas and Silas, who were themselves prophets, further encouraged the them by many an address, and strengthened their faith.
@@ -980,10 +984,10 @@ In that city we spent several days.
 \v 27 That they might search for God, if by any means they might feel their way to him and find him. And yet he is not really far from any one of us;
 \v 28 for in him we live and move and are. To use the words of some of your own poets —
 \q ‘His offspring, too, are we.’
-\nb
+\m
 \v 29 Therefore, as the offspring of God, we must not think that the Deity has any resemblance to anything made of gold, or silver, or stone — a work of human art and imagination.
 \v 30 True, God looked with indulgence on the days of people's ignorance, but now he is announcing to everyone everywhere the need for repentance,
-\v 31 because he has fixed a day on which he intends to ‘judge the world with justice,’ by a man whom he has appointed — and of this he has given all people a pledge by raising this man from the dead.”
+\v 31 because he has fixed a day on which he intends to judge the world with justice, by a man whom he has appointed — and of this he has given all people a pledge by raising this man from the dead.”
 \p
 \v 32 On hearing of a resurrection of the dead, some began jeering, but others said that they wanted to hear what he had to say about that another time.
 \v 33 And so Paul left the Court.
@@ -1039,7 +1043,7 @@ In that city we spent several days.
 \v 4 “John's baptism was a baptism on repentance,” rejoined Paul, “and John told the people (speaking of the ‘one coming’ after him) that they should believe in him — that is in Jesus.”
 \p
 \v 5 On hearing this, they were baptized into the faith of the Lord Jesus,
-\v 6 and, after Paul had placed his hands on them, the Holy Spirit descended on them, and they began to speak with ‘tongues’ and to preach.
+\v 6 and, after Paul had placed his hands on them, the Holy Spirit descended on them, and they began to speak in other languages and to preach.
 \v 7 There were about twelve of them in all.
 \p
 \v 8 Paul went to the synagogue there, and for three months spoke out fearlessly, giving addresses and trying to convince his hearers, about the kingdom of God.
@@ -1150,7 +1154,7 @@ In that city we spent several days.
 \v 6 and then said goodbye to one another; after which we went on board, and they returned home.
 \p
 \v 7 After we had made the run from Tyre, we landed at Ptolemais, and exchanged greetings with the followers there, and spent a day with them.
-\v 8 The next day we left, and reached Caesarea, where we went to the house of Philip, the missionary, who was one of ‘the Seven,’ and stayed with him.
+\v 8 The next day we left, and reached Caesarea, where we went to the house of Philip, the missionary, who was one of the Seven, and stayed with him.
 \v 9 He had four unmarried daughters, who had the gift of prophecy.
 \v 10 During our visit, which lasted several days, a prophet, named Agabus, came down from Judea.
 \v 11 He came to see us, and, taking Paul's belt, and binding his own feet and hands with it, said: “This is what the Holy Spirit says — ‘The man to whom this belt belongs will be bound like this by the religious authorities in Jerusalem, and they will give him up to the Gentiles’.”
@@ -1215,11 +1219,11 @@ In that city we spent several days.
 \v 13 Standing close to me, he said ‘Saul, my brother, recover your sight.’ And then and there I recovered my sight and looked up at him.
 \v 14 Then he said ‘The God of our ancestors has appointed you to learn his will, and to see the righteous one, and to hear words from his lips;
 \v 15 for you will be a witness for him to all the world of what you have just seen and heard.
-\v 16 And now why wait any longer: Be baptized at once, wash away your sins, and invoke his name.
+\v 16 And now why wait any longer: Be baptized at once, wash away your sins, and invoke his name.’
 \v 17 After my return to Jerusalem, while I was praying one day in the Temple, I fell into a trance,
 \v 18 and saw Jesus saying to me \wj ‘Make haste and leave Jerusalem at once, because they will not accept your testimony about me.’\wj*
 \v 19 ‘Lord,’ I answered, ‘these people know that I used to imprison and scourge, in synagogue after synagogue, those who believed in you;
-\v 20 and, when the blood of your martyr, Stephen, was being shed, I was myself standing by, approving of his death, and took charge of the clothes of those who were murdering him.
+\v 20 and, when the blood of your martyr, Stephen, was being shed, I was myself standing by, approving of his death, and took charge of the clothes of those who were murdering him.’
 \v 21 But Jesus said to me \wj ‘Go; for I will send you to the Gentiles far away’.”\wj*
 \p
 \v 22 Up to this point the people had been listening to Paul, but at these words they called out: “Kill him! A fellow like this ought not to have been allowed to live!”
@@ -1248,13 +1252,13 @@ In that city we spent several days.
 \v 4 The people standing near said to Paul: “Do you know that you are insulting God's high priest?”
 \p
 \v 5 “I did not know, brothers, that it was the high priest,” said Paul, “for scripture says —
-\q ‘Of the Ruler of your people you should speak no ill’.”
-\nb
+\q ‘Of the ruler of your people you should speak no ill’.”
+\m
 \v 6 Noticing that some of those present were Sadducees and others Pharisees, Paul called out in the Council: “Brothers, I am a Pharisee and a son of Pharisees. It is on the question of hope for the dead and of their resurrection that I am on my trial.”
 \p
 \v 7 As soon as he said this, a dispute arose between the Pharisees and the Sadducees; and there was a sharp division of opinion among those present.
 \v 8 (For Sadducees say there is no such thing as a resurrection, and that there is neither angel nor spirit, while Pharisees believe in both.)
-\v 9 So a great uproar ensued, and some of the Teaches of the Law belonging to the Pharisees' party stood up and hotly protested: “We find nothing whatever wrong in this man. Suppose a spirit did speak to him, or an angel...”
+\v 9 So a great uproar ensued, and some of the Teachers of the Law belonging to the Pharisees' party stood up and hotly protested: “We find nothing whatever wrong in this man. Suppose a spirit did speak to him, or an angel...”
 \v 10 The dispute was becoming so violent, that the commanding officer, fearing that Paul would be torn in pieces between them, ordered the Guard to go down and rescue him from them, and take him into the Fort.
 \p
 \v 11 That night the Lord came and stood by Paul, and said: \wj “Courage! You have borne witness for me in Jerusalem and you must bear witness in Rome also.”\wj*
@@ -1271,7 +1275,7 @@ In that city we spent several days.
 \v 20 “Some men have agreed,” answered the lad, “to ask you to bring Paul down before the Council tomorrow, on the plea of your making further inquiry into his case.
 \v 21 But do not let them persuade you, for more than forty of them are lying in wait for him, who have taken an oath that they will not eat or drink, until they have made away with him; and they are at this very moment in readiness, counting on your promise.”
 \v 22 The commanding officer then dismissed the lad, cautioning him not to mention to anybody that he had given him that information.
-\v 23 Then he called two Captains, and ordered them to have two hundred soldiers ready to go to Caesarea, as well as seventy troopers and two hundred lancers, by nine o’clock that night,
+\v 23 Then he called two Captains, and ordered them to have two hundred soldiers ready to go to Caesarea, as well as seventy troopers and two hundred lancers, by nine o'clock that night,
 \v 24 and to have horses ready for Paul to ride, so that they might take him safely to Felix, the Governor.
 \v 25 He also wrote a letter along these lines:
 \q
@@ -1280,7 +1284,7 @@ In that city we spent several days.
 \v 28 Wanting to know exactly the ground of the charges they made against him, I brought him before their Council,
 \v 29 when I found that their charges were connected with questions of their own Law, and that there was nothing alleged involving either death or imprisonment.
 \v 30 Having, however, information of a plot against the man, which was about to be put into execution, I am sending him to you at once, and I have also directed his accusers to prosecute him before you.’
-\nb
+\m
 \v 31 The soldiers, in accordance with their orders, took charge of Paul and conducted him by night to Antipatris;
 \v 32 and on the next day, leaving the troopers to go on with him, they returned to the Fort.
 \v 33 On arriving at Caesarea, the troopers delivered the letter to the Governor, and brought Paul before him.
@@ -1378,7 +1382,7 @@ In that city we spent several days.
 \v 12 It was while I was traveling to Damascus on an errand of this kind, entrusted with full powers by the chief priests,
 \v 13 that at midday, your Majesty, I saw right in my path, coming from the heavens, a light brighter than the glare of the sun, which shone all around me and those traveling with me.
 \v 14 We all fell to the ground, and then I heard a voice saying to me in Hebrew — \wj ‘Saul, Saul, why are you persecuting me? By kicking against the goad you are punishing yourself.’\wj*
-\v 15 ‘Who are you, Lord?’ I asked. And the Lord said: \wj “I am Jesus, whom you are persecuting;\wj*
+\v 15 ‘Who are you, Lord?’ I asked. And the Lord said: \wj ‘I am Jesus, whom you are persecuting;\wj*
 \v 16 \wj but get up and stand upright; for I have appeared to you in order to appoint you a servant and a witness of those revelations of me which you have already had, and of those in which I will yet appear to you,\wj*
 \v 17 \wj since I am choosing you out from your own people and from the Gentiles, to whom I now send you,\wj*
 \v 18 \wj to open their eyes, and to turn them from darkness to light, and from the power of Satan to God; so that they may receive pardon for their sins, and a place among those who have become God's people, by faith in me.’\wj*
@@ -1495,9 +1499,9 @@ In that city we spent several days.
 \p
 “True, indeed, was the declaration made by the Holy Spirit, through the prophet Isaiah to your ancestors —
 \q1
-\v 26 ‘Go to this nation and say —
-\q2 “You will hear with your ears without ever understanding,
-\q3 And, though you have eyes, you will see without ever perceiving.”
+\v 26 Go to this nation and say:
+\q2 You will hear with your ears without ever understanding,
+\q3 and, though you have eyes, you will see without ever perceiving.
 \q2
 \v 27 For the mind of this nation has grown dense,
 \q3 And their ears are dull of hearing,
@@ -1505,8 +1509,8 @@ In that city we spent several days.
 \q2 Otherwise some day they might see with their eyes,
 \q2 And with their ears they might hear,
 \q2 And in their mind they might understand, and might turn —
-\q3 And I might heal them.’
-\nb
+\q3 And I might heal them.
+\m
 \v 28 Understand, then, that this salvation of God was sent for the Gentiles; and they will listen.”
 \v 29 \f + Some later manuscripts add: After he said these things the Jews left, all the while engaging in a heated debate among themselves.\f*
 \p

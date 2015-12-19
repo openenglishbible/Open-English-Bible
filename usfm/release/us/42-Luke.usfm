@@ -1,6 +1,7 @@
 \id LUK
 \ide UTF-8
 \h Luke
+
 \rem ORIGINAL BASE TEXT
 \rem Twentieth Century New Testament
 \rem TAGS
@@ -15,18 +16,19 @@
 \rem US Cth spelling OK
 \rem NSRV versification only
 \rem Gender OK
+
 \mt2 The
 \mt2 Good News According to
 \mt Luke
 \c 1
-\ms Dedication
+\s Dedication
 \p
 \v 1 To his Excellency, Theophilus.
 \p Many attempts have been already made to draw up an account of those events which have reached their conclusion among us,
 \v 2 just as they were reported to us by those who from the beginning were eye-witnesses, and afterward became bearers of the message.
 \v 3 And, therefore, I also, since I have investigated all these events with great care from their very beginning, have resolved to write a connected history of them for you,
 \v 4 in order that you may be able to satisfy yourself of the accuracy of the story which you have heard from the lips of others.
-\ms Birth, Parentage, Infancy and Boyhood
+\s Birth, Parentage, Infancy and Boyhood
 \p
 \v 5 In the reign of Herod, king of Judea, there was a priest named Zechariah, who belonged to the division called after Abijah. His wife, whose name was Elizabeth, was also a descendant of Aaron.
 \v 6 They were both righteous people, who lived blameless lives, guiding their steps by all the commandments and ordinances of the Lord.
@@ -41,7 +43,7 @@
 \v 14 He will be to you a joy and a delight; and many will rejoice over his birth.
 \v 15 For he will be great in the sight of the Lord; he will not drink any wine or strong drink, and he will be filled with the Holy Spirit from the very hour of his birth,
 \v 16 and will reconcile many of the Israelites to the Lord their God.
-\v 17 He will go before him in the spirit and with the power of Elijah, ‘to reconcile fathers to their children’ and the disobedient to the wisdom of the righteous, and so make ready for the Lord a people prepared for him.”
+\v 17 He will go before him in the spirit and with the power of Elijah, to reconcile fathers to their children and the disobedient to the wisdom of the righteous, and so make ready for the Lord a people prepared for him.”
 \p
 \v 18 “How can I be sure of this?” Zechariah asked the angel. “For I am an old man and my wife is advanced in years.”
 \p
@@ -91,14 +93,14 @@
 \q2 From now on all generations will call me blessed!
 \b
 \q
-\v 49 For the Almighty has done great things for me,
+\v 49 “For the Almighty has done great things for me,
 \q2 and holy is his name.
 \q1
 \v 50 He has mercy on those who revere him
 \q2 in every generation.
 \b
 \q
-\v 51 Mighty are the deeds of his arm;
+\v 51 “Mighty are the deeds of his arm;
 \q2 he has scattered the self-satisfied proud,
 \q1
 \v 52 he has cast down the mighty from their thrones,
@@ -108,24 +110,24 @@
 \q2 and the rich he has sent away empty.
 \b
 \q
-\v 54 He has stretched out his hand to his servant Israel,
+\v 54 “He has stretched out his hand to his servant Israel,
 \q2 ever mindful of his mercy,
 \q1
 \v 55 as he promised to our ancestors
-\q2 for Abraham and his descendents for ever.”
-\nb
+\q2 for Abraham and his descendants for ever.”
+\m
 \v 56 Mary stayed with Elizabeth about three months, and then returned to her home.
 \v 57 When Elizabeth's time came, she gave birth to a son;
 \v 58 and her neighbors and relatives, hearing of the great goodness of the Lord to her, came to share her joy.
-\v 59 A week later they met to circumcise the child, and were about to call him ‘Zechariah’ after his father,
+\v 59 A week later they met to circumcise the child, and were about to call him Zechariah after his father,
 \v 60 when his mother spoke up: “No, he is to be called John.”
 \p
 \v 61 “You have no relation of that name!” they exclaimed;
 \v 62 and they made signs to the child's father, to find out what he wished the child to be called.
-\v 63 Asking for a writing-tablet, he wrote the words — ‘His name is John.’ Everyone was surprised;
+\v 63 Asking for a writing-tablet, he wrote the words — ‘His name is John.’ Everyone was surprised
 \v 64 and immediately Zechariah recovered his voice and the use of his tongue, and began to bless God.
-\v 65 All their neighbors were awe-struck at this; and throughout the hill-country of Judea the whole story was much talked about;
-\v 66 and all who heard it kept it in mind, asking one another — “What can this child be destined to become?” For the Power of the Lord was with him.
+\v 65 All their neighbors were awe-struck at this, and throughout the hill-country of Judea the whole story was much talked about.
+\v 66 All who heard it kept it in mind, asking one another — “What can this child be destined to become?” For the Power of the Lord was with him.
 \p
 \v 67 Then his father Zechariah was filled with the Holy Spirit, and, speaking under inspiration, said:
 \q1
@@ -134,7 +136,7 @@
 \q1
 \v 69 and has raised up for us the Strength of our salvation
 \q2 In the house of his servant David —
-\nb
+\m
 \q
 \v 70 As he promised by the lips of his holy prophets of old —
 \q2
@@ -142,7 +144,7 @@
 \q1
 \v 72 showing mercy to our ancestors,
 \q2 And mindful of his sacred covenant.
-\nb
+\m
 \q
 \v 73 This was the oath which he swore to our ancestor Abraham —
 \q2
@@ -150,21 +152,21 @@
 \q1
 \v 75 and should serve him without fear in holiness and righteousness,
 \q2 In his presence all our days.
-\nb
+\m
 \q
 \v 76 And you, child, will be called prophet of the Most High,
 \q2 For you will go before the Lord to make ready his way,
 \q1
 \v 77 to give his people the knowledge of salvation
 \q2 In the forgiveness of their sins,
-\nb
+\m
 \q
 \v 78 through the tender mercy of our God,
 \q2 Whereby the Dawn will break on us from heaven,
 \q1
 \v 79 to give light to those who live in darkness and the shadow of death,
 \q2 And guide our feet into the way of peace.”
-\nb
+\m
 \v 80 The child grew and became strong in spirit; and he lived in the Wilds until the time came for his appearance before Israel.
 \c 2
 \p
@@ -185,7 +187,7 @@
 \q
 \v 14 “glory to God on high,
 \q2 And on earth peace among those in whom he finds pleasure.”
-\nb
+\m
 \v 15 Now, when the angels had left them and gone back to heaven, the shepherds said to one another: “Let us go at once to Bethlehem, and see this thing that has happened, of which the Lord has told us.”
 \v 16 So they went quickly, and found Mary and Joseph, and the infant lying in a manger;
 \v 17 and, when they saw it, they told of all that had been said to them about this child.
@@ -200,8 +202,8 @@
 \b
 \p
 \v 22 When the period of purification of mother and child, required by the Law of Moses, came to an end, his parents took the child up to Jerusalem to present him to the Lord,
-\v 23 in compliance with the Law of the Lord that ‘every first-born male will be dedicated to the Lord,’
-\v 24 And also to offer the sacrifice required by the Law of the Lord — ‘a pair of turtle-doves or two young pigeons.’
+\v 23 in compliance with the Law of the Lord that every first-born male will be dedicated to the Lord,
+\v 24 and also to offer the sacrifice required by the Law of the Lord — a pair of turtle-doves or two young pigeons.
 \p
 \v 25 There was at that time in Jerusalem a man named Simeon, a righteous and devout man, who lived in constant expectation of the Consolation of Israel, and under the guidance of the Holy Spirit.
 \v 26 It had been revealed to him by the Holy Spirit that he should not die until he had seen the Lord's Christ.
@@ -244,9 +246,9 @@
 \v 49 \wj “What made you search for me?”\wj* he answered. \wj “Didn't you know that I must be in my Father's house?”\wj*
 \v 50 His parents did not understand what he meant.
 \v 51 However he went down with them to Nazareth, and submitted himself to their control; and his mother treasured all that was said in her heart.
-\v 52 And Jesus grew in wisdom as he grew in years, and ‘gained the blessing of God and people.’
+\v 52 And Jesus grew in wisdom as he grew in years, and gained the blessing of God and people.
 \c 3
-\ms The Preparation
+\s The Preparation
 \p
 \v 1 In the fifteenth year of the reign of the Emperor Tiberius, when Pontius Pilate was Governor of Judea, Herod Ruler of Galilee, his brother Philip Ruler of the territory comprising Ituraea and Trachonitis, and Lysanias Ruler of Abilene,
 \v 2 and when Annas and Caiaphas were high priests, a command from God came to John, the son of Zechariah, while he was in the wilderness.
@@ -262,7 +264,7 @@
 \q2 The rough roads made smooth,
 \q3
 \v 6 and everyone will see the salvation of God.”’
-\nb
+\m
 \v 7 And John said to the crowds that went to be baptized by him: “You children of snakes! Who has prompted you to seek refuge from the coming judgment?
 \v 8 Let your lives, then, prove your repentance; and do not begin to say among yourselves ‘Abraham is our ancestor,’ for I tell you that out of these stones God is able to raise descendants for Abraham!
 \v 9 Already, indeed, the axe is lying at the root of the trees. Therefore every tree that fails to bear good fruit will be cut down and thrown into the fire.”
@@ -305,7 +307,7 @@
 \v 36 Kenan, Arpachshad, Shem, Noah, Lamech,
 \v 37 Methuselah, Enoch, Jared, Mahalalel, Kenan,
 \v 38 Enosh, Seth and Adam the son of God.
-\nb
+\m
 \c 4
 \v 1 On returning from the Jordan, full of the Holy Spirit, Jesus was led by the power of the Spirit through the wilderness for forty days, tempted by the devil.
 \p
@@ -324,7 +326,7 @@
 \v 12 But Jesus answered him: \wj “It is said — ‘You must not tempt the Lord your God.’”\wj*
 \p
 \v 13 When he had tried every kind of temptation, the devil left Jesus, until another opportunity.
-\ms The Work in Galilee
+\s The Work in Galilee
 \p
 \v 14 Moved by the power of the Spirit, Jesus returned to Galilee. Reports about him spread through all that region;
 \v 15 and he began to teach in their synagogues, and was honored by everyone.
@@ -340,7 +342,7 @@
 \q2 To set the oppressed at liberty,\wj*
 \q3
 \v 19 \wj to proclaim the accepted year of the Lord.’\wj*
-\nb
+\m
 \v 20 Then, closing the book and returning it to the attendant, he sat down. The eyes of all in the synagogue were fixed on him,
 \v 21 and Jesus began:
 \p \wj “This very day this passage has been fulfilled in your hearing.”\wj*
@@ -417,7 +419,7 @@
 \v 28 Levi left everything and got up and followed him.
 \v 29 And Levi gave a great entertainment at his house, in honor of Jesus; and a large number of tax-gatherers and others were having dinner with them.
 \p
-\v 30 The Pharisees and the teachers of the Law belonging to their party complained of this to the disciples of Jesus.”
+\v 30 The Pharisees and the teachers of the Law belonging to their party complained of this to the disciples of Jesus.
 \v 31 In answer Jesus said: \wj “It is not those who are well who need a doctor, but those who are ill.\wj*
 \v 32 \wj I have not come to call the religious, but the outcast, to repent.”\wj*
 \p
@@ -433,7 +435,7 @@
 \b
 \v 1 One Sabbath Jesus was walking through cornfields, and his disciples were picking the ears of wheat, and rubbing them in their hands, and eating them.
 \v 2 “Why are you doing what it is not allowable to do on the Sabbath?” asked some of the Pharisees.
-\v 3 Jesus' answer was: \wj “Haven't you read even of what David did, when he was hungry, he and his companions — \wj*
+\v 3 Jesus' answer was: \wj “Haven't you read even of what David did, when he was hungry, he and his companions —\wj*
 \v 4 \wj That he went into the house of God, and took the consecrated bread and ate it, and gave some to his companions, though only the priests are allowed to eat it?”\wj*
 \v 5 Then Jesus added: \wj “The Son of Man is lord even of the Sabbath.”\wj*
 \p
@@ -464,12 +466,12 @@
 \q2 and insult you,
 \q2 and reject your name as an evil thing —
 \q because of the Son of Man.\wj*
-\nb
+\m
 \q
 \v 23 \wj Then indeed you may be glad and dance for joy, for be sure that your reward in heaven will be great; for that is what their ancestors did to the prophets.\wj*
 \v 24 \wj But
-\nb
-\q ‘alas for you who are rich,’
+\m
+\q alas for you who are rich,
 \q2 for you have had your comforts in full.\wj*
 \q
 \v 25 \wj Alas for you who are sated now,
@@ -479,25 +481,25 @@
 \q
 \v 26 \wj Alas for you when everyone speaks well of you;
 \q2 for this is what their ancestors did to the false prophets.\wj*
-\nb
+\m
 \q
 \v 27 \wj But to you who hear I say — love your enemies, show kindness to those who hate you,\wj*
 \v 28 \wj bless those who curse you, pray for those who insult you.\wj*
 \v 29 \wj When someone gives one of you a blow on the cheek, offer the other cheek as well; and, when anyone takes away your cloak, do not keep back your coat either.\wj*
 \v 30 \wj Give to everyone who asks of you; and, when anyone takes away what is yours, do not demand its return.\wj*
 \v 31 \wj Do to others as you wish them to do to you.\wj*
-\nb
+\m
 \q
 \v 32 \wj If you love only those who love you, what thanks will be due to you? Why, even the outcast love those who love them!\wj*
 \v 33 \wj For, if you show kindness only to those who show kindness to you, what thanks will be due to you? Even the outcast do that!\wj*
 \v 34 \wj If you lend only to those from whom you expect to get something, what thanks will be due to you? Even the outcast lend to the outcast in the hope of getting as much in return!\wj*
 \v 35 \wj But love your enemies, and show them kindness, and lend to them, never despairing. Then your reward will be great, and you will be sons of the Most High, for he is kind to the thankless and the bad.\wj*
-\nb
+\m
 \q
 \v 36 \wj Learn to be merciful — even as your Father is merciful.\wj*
 \v 37 \wj Do not judge, and you will not be judged; do not condemn, and you will not be condemned. Forgive, and you will be forgiven.\wj*
 \v 38 \wj Give, and others will give to you. A generous measure, pressed and shaken down, and running over, will they pour into your lap; For The standard you use will be the standard used for you.”\wj*
-\nb
+\m
 \v 39 \wj Then, speaking in parables, Jesus said: “Can one blind person guide another? Will they not both fall into a ditch?\wj*
 \v 40 \wj A student is not above their teacher; yet every finished student will be like their teacher.\wj*
 \v 41 \wj And why do you look at the speck of sawdust in someone's eye, while you pay no attention at all to the plank of wood in your own?\wj*
@@ -537,7 +539,7 @@
 \v 18 All these events were reported to John by his disciples.
 \v 19 So he summoned two of them, and sent them to the Master to ask — “Are you ‘the coming one,’ or are we to look for someone else?”
 \p
-\v 20 When these men found Jesus, they said: “John the Baptist has sent us to you to ask — ‘Are you ‘the coming one,’ or are we to look for somebody else?’”
+\v 20 When these men found Jesus, they said: “John the Baptist has sent us to you to ask — Are you ‘the coming one,’ or are we to look for somebody else?”
 \v 21 At that very time Jesus had cured many people of diseases, afflictions, and wicked spirits, and had given many blind people their sight.
 \v 22 So his answer to the question was: \wj “Go and report to John what you have witnessed and heard — the blind recover their sight, the lame walk, the lepers are made clean, and the deaf hear, the dead are raised to life, the good news is told to the poor.\wj*
 \v 23 \wj And blessed is the person who finds no hindrance in me.”\wj*
@@ -548,7 +550,7 @@
 \v 27 \wj This is the man of whom scripture says —
 \q ‘I am sending my messenger ahead of you,
 \q2 and he will prepare your way before you.’\wj*
-\nb
+\m
 \v 28 \wj There is, I tell you, no one born of a woman who is greater than John; and yet the least in the kingdom of God is greater than he.”\wj*
 \p
 \v 29 (All the people, when they heard this, and even the tax-gatherers, having accepted John's baptism, acknowledged the justice of God.
@@ -564,7 +566,7 @@
 \v 37 Just then a woman, who was an outcast in the town, having heard that Jesus was eating in the Pharisee's house, brought an alabaster jar of perfume,
 \v 38 and placed herself behind Jesus, near his feet, weeping. Then she began to make his feet wet with her tears, and she dried them with the hair of her head, repeatedly kissing his feet and anointing them with the perfume.
 \p
-\v 39 When the Pharisee who had invited Jesus saw this, he said to himself: “Had this man been ‘The prophet,’ he would have known who, and what sort of woman, this is who is touching him, and that she is an outcast.”
+\v 39 When the Pharisee who had invited Jesus saw this, he said to himself: “Had this man been ‘the prophet,’ he would have known who, and what sort of woman, this is who is touching him, and that she is an outcast.”
 \v 40 But, addressing him, Jesus said: \wj “Simon, I have something to say to you.”\wj*
 \p “Pray do so, teacher,” Simon answered; and Jesus began:
 \v 41 \wj “There were two people who were in debt to a moneylender; one owed five hundred silver coins, and the other fifty.\wj*
@@ -594,14 +596,14 @@
 \v 8 \wj Other seed fell into rich soil, and grew, and gave a hundredfold return.”\wj* After saying this, Jesus cried aloud: \wj “Let those who have ears to hear with hear.”\wj*
 \p
 \v 9 His disciples asked Jesus the meaning of this parable.
-\v 10 \wj “To you,”\wj* he said, \wj “the knowledge of the hidden truths of the kingdom of God has been imparted, but to others in parables only, so that ‘though they have eyes they may not see, and though they have ears, they may not understand.’\wj*
+\v 10 \wj “To you,”\wj* he said, \wj “the knowledge of the hidden truths of the kingdom of God has been imparted, but to others in parables only, so that though they have eyes they may not see, and though they have ears, they may not understand.\wj*
 \v 11 \wj This is the parable — The seed is God's message.\wj*
 \v 12 \wj By the seed which fell along the path are meant those who hear the message; but then comes the devil and carries away the message from their minds, to prevent their believing it and being saved.\wj*
 \v 13 \wj By the seed which fell on the rock are meant those who, as soon as they hear the message, welcome it joyfully; but they have no root, and believe it only for a time, and, when the time of temptation comes, they draw back.\wj*
 \v 14 \wj By that which fell among the brambles are meant those who hear the message, but who, as they go on their way, are completely choked by this world's cares and wealth and pleasures, and bring nothing to perfection.\wj*
 \v 15 \wj But by that in the good ground are meant those who, having heard the message, keep it in the good, rich soil of their hearts, and patiently yield a return.\wj*
 \p
-\v 16 \wj No one sets light to a lamp and then covers it with a bowl or puts it underneath a couch, but they put it on a lamp-stand, so that anyone who comes in may see the light.\wj*
+\v 16 \wj “No one sets light to a lamp and then covers it with a bowl or puts it underneath a couch, but they put it on a lamp-stand, so that anyone who comes in may see the light.\wj*
 \v 17 \wj Nothing is hidden which will not be brought into the light of day, not ever kept hidden which will not some day become known and come into the light of day.\wj*
 \v 18 \wj Take care, then, how you listen. For, to all those who have, more will be given; while, from all those who have nothing, even what they seem to have will be taken away.”\wj*
 \b
@@ -727,7 +729,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 49 John said: “Sir, we saw a man driving out demons by using your name, and we tried to prevent him, because he does not follow you with us.”
 \p
 \v 50 \wj “None of you must prevent him,”\wj* Jesus said to John; \wj “whoever's not against you is for you.”\wj*
-\ms The Journey to Jerusalem
+\s The Journey to Jerusalem
 \p
 \v 51 As the days before his being taken up to heaven were growing few, Jesus set his face resolutely in the direction of Jerusalem; and he sent on messengers in advance.
 \v 52 On their way, they went into a Samaritan village to make preparations for him,
@@ -758,10 +760,10 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 6 \wj Then, if anyone there is deserving of a blessing, your blessing will rest on him; but if not, it will come back on yourselves.\wj*
 \v 7 \wj Remain at that same house, and eat and drink whatever they offer you; for the worker is worth their wages. Do not keep changing from one house to another.\wj*
 \v 8 \wj Whatever town you visit, if the people welcome you, eat what is set before you;\wj*
-\v 9 \wj cure the sick there, and tell people ‘The kingdom of God is close at hand.\wj*
+\v 9 \wj cure the sick there, and tell people that the kingdom of God is close at hand.\wj*
 \v 10 \wj But, whatever town you go to visit, if the people do not welcome you, go out into its streets and say\wj*
 \v 11 \wj ‘We wipe off the dust of your town which has clung to Our feet; still, be assured that the kingdom of God is close at Hand.’\wj*
-\v 12 \wj I tell you that the doom of Sodom will be more bearable on ‘that day’ than the doom of that town.\wj*
+\v 12 \wj I tell you that the doom of Sodom will be more bearable on that day than the doom of that town.\wj*
 \v 13 \wj Alas for you, Chorazin! Alas for you, Bethsaida! For, if the Miracles which have been done in you had been done in Tyre and Sidon, they would have sat in sackcloth and ashes and repented long ago.\wj*
 \v 14 \wj Yet the doom of Tyre and Sidon will be more bearable at the judgment than yours.\wj*
 \v 15 \wj And you, Capernaum! Will you exalt yourself to heaven? You will be flung down to Hades.\wj*
@@ -769,29 +771,28 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \p
 \v 17 When the seventy-two returned, they exclaimed joyfully: “Master, even the demons submit to us when we use your name.”
 \v 18 And Jesus replied: \wj “I have had visions of Satan, fallen, like lightning from the heavens.\wj*
-\v 19 \wj Remember, I have given you the power to ‘trample on snakes and scorpions,’ and to meet all the strength of the Enemy. Nothing will ever harm you in any way.\wj*
+\v 19 \wj Remember, I have given you the power to trample on snakes and scorpions, and to meet all the strength of the Enemy. Nothing will ever harm you in any way.\wj*
 \v 20 \wj Yet do not rejoice in the fact that the spirits submit to you, but rejoice that your names have been enrolled in heaven.”\wj*
 \p
 \v 21 At that same time, moved to exultation by the Holy Spirit, Jesus said:
 \q \wj “I thank you, Father, Lord of heaven and earth, that, though you have hidden these things from the wise and learned, you have revealed them to the childlike! Yes, Father, I thank you that this has seemed good to you.\wj*
-\nb
+\m
 \q
 \v 22 \wj Everything has been committed to me by my Father; nor does anyone know who the Son is, except the Father, or who the Father is, except the Son and those to whom the Son may choose to reveal him.”\wj*
-\nb
+\m
 \v 23 Then, turning to his disciples, Jesus said to them alone: \wj “Blessed are the eyes that see what you are seeing;\wj*
 \v 24 \wj for, I tell you, many prophets and kings wished for the sight of the things which you are seeing, yet never heard them.”\wj*
 \b
-\v 25 Just then a Student of the Law came forward to test Jesus further. “Teacher,” he said, “what must I do if I am to ‘gain eternal life’?”
+\v 25 Just then a Student of the Law came forward to test Jesus further. “Teacher,” he said, “what must I do if I am to gain eternal life?”
 \p
 \v 26 \wj “What is said in the Law?”\wj* answered Jesus. \wj “What do you read there?”\wj*
 \v 27 His reply was —
-\q “‘You must love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as you love yourself.’”
-\nb
+\q “You must love the Lord your God with all your heart, and with all your soul, and with all your strength, and with all your mind; and your neighbor as you love yourself.”
+\m
 \v 28 \wj “You have answered right,”\wj* said Jesus; \wj “do that, and you will live.”\wj*
 \v 29 But the man, wanting to justify himself, said to Jesus: “And who is my neighbor?”
 \p
-\v 30 To which Jesus replied:
-\wj “A man was once going down from Jerusalem to Jericho when he fell into the hands of robbers, who stripped him of everything, and beat him, and went away leaving him half dead.\wj*
+\v 30 To which Jesus replied: \wj “A man was once going down from Jerusalem to Jericho when he fell into the hands of robbers, who stripped him of everything, and beat him, and went away leaving him half dead.\wj*
 \v 31 \wj As it chanced, a priest was going down by that road. He saw the man, but passed by on the opposite side.\wj*
 \v 32 \wj A Levite, too, did the same; he came up to the spot, but, when he saw the man, passed by on the opposite side.\wj*
 \v 33 \wj But a Samaritan, traveling that way, came upon the man, and, when he saw him, he was moved with compassion.\wj*
@@ -823,13 +824,13 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 4 \wj and forgive us our sins,
 \q for we ourselves forgive everyone who wrongs us;
 \q and take us not into temptation.’”\wj*
-\nb
+\m
 \v 5 Jesus also said to them: \wj “Suppose that one of you who has a friend were to go to him in the middle of the night and say ‘Friend, lend me three loaves,\wj*
 \v 6 \wj for a friend of mine has arrived at my house after a journey, and I have nothing to offer him;’\wj*
 \v 7 \wj And suppose that the other should answer from inside ‘Do not trouble me; the door is already fastened, and my children and I are in bed; I cannot get up and give you anything’;\wj*
 \v 8 \wj I tell you that, even though he will not get up and give him anything because he is a friend, yet because of his persistence he will rouse himself and give him what he wants.\wj*
 \p
-\v 9 \wj And so I say to you — Ask, and your prayer will be granted: search, and you will find; knock, and the door will be opened to you.\wj*
+\v 9 \wj “And so I say to you — Ask, and your prayer will be granted: search, and you will find; knock, and the door will be opened to you.\wj*
 \v 10 \wj For the person who asks receives, everyone who searches finds, and to the person who knocks the door will be opened.\wj*
 \v 11 \wj What father among you, if his son asks him for a fish, will give him a snake instead,\wj*
 \v 12 \wj or, if he asks for an egg, will give him a scorpion?\wj*
@@ -875,9 +876,9 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 46 But Jesus went on: \wj “Alas for you, too, you students of the Law! You load people with loads that are too heavy to carry, but do not, yourselves, touch them with one of your fingers.\wj*
 \v 47 \wj Alas for you! You build the monuments of the prophets whom your ancestors killed.\wj*
 \v 48 \wj You are actually witnesses to your ancestors' acts and show your approval of them, because, while they killed the prophets, you build tombs for them.\wj*
-\v 49 \wj That is why the wisdom of God said — “I will send to them prophets and apostles,\wj*
-\v 50 \wj some of whom they will persecute and kill, in order that the ‘blood’ of all the prophets ‘that has been spilt’ since the creation of the world may be exacted from this generation — \wj*
-\v 51 \wj From the blood of Abel down to the blood of Zechariah, who was slain between the altar and the house of God.” Yes, I tell you, it will be exacted from this generation.\wj*
+\v 49 \wj That is why the wisdom of God said — ‘I will send to them prophets and apostles,\wj*
+\v 50 \wj some of whom they will persecute and kill, in order that the blood of all the prophets that has been spilt since the creation of the world may be exacted from this generation —\wj*
+\v 51 \wj from the blood of Abel down to the blood of Zechariah, who was slain between the altar and the house of God.’ Yes, I tell you, it will be exacted from this generation.\wj*
 \v 52 \wj Alas for you students of the Law! You have taken away the key of the door of knowledge. You have not gone in yourselves and you have hindered those who try to go in.”\wj*
 \p
 \v 53 When Jesus left the house, the teachers of the Law and the Pharisees began to press him hard and question him closely on many subjects,
@@ -922,7 +923,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 31 \wj No, seek his kingdom, and these things will be added for you.\wj*
 \v 32 \wj So do not be afraid, my little flock, for your Father has been pleased to give you the kingdom.\wj*
 \p
-\v 33 \wj Sell what belongs to you, and give in charity. Make yourselves purses that will not wear out — an inexhaustible treasure in heaven, where no thief comes near, or moth works ruin.\wj*
+\v 33 \wj “Sell what belongs to you, and give in charity. Make yourselves purses that will not wear out — an inexhaustible treasure in heaven, where no thief comes near, or moth works ruin.\wj*
 \v 34 \wj For where your treasure is, there also will your heart be.\wj*
 \v 35 \wj Make yourselves ready, with your lamps alight;\wj*
 \v 36 \wj and be like servants who are waiting for their Master's return from his wedding, so that, when he comes and knocks, they may open the door for him at once.\wj*
@@ -944,9 +945,8 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 50 \wj There is a baptism that I must undergo, and how great is my distress until it is over!\wj*
 \v 51 \wj Do you think that I am here to give peace on earth? No, I tell you, but to cause division.\wj*
 \v 52 \wj For from this time, if there are five people in a house, they will be divided, three against two, and two against three.\wj*
-\q
-\v 53 \wj ‘Father will be opposed to son and son to father, mother to daughter and daughter to mother, mother-in-law to her daughter-in-law and daughter-in-law to her mother-in-law.’”\wj*
-\nb
+\v 53 \wj Father will be opposed to son and son to father, mother to daughter and daughter to mother, mother-in-law to her daughter-in-law and daughter-in-law to her mother-in-law.”\wj*
+\p
 \v 54 And to the people Jesus said: \wj “When you see a cloud rising in the west, you say at once ‘There is a storm coming,’ and come it does.\wj*
 \v 55 \wj And when you see that the wind is in the south, you say ‘It will be burning hot,’ and so it proves.\wj*
 \v 56 \wj Hypocrites! You know how to judge of the earth and the sky; how is it, then, that you cannot judge of this time?\wj*
@@ -979,7 +979,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 17 As he said this, his opponents all felt ashamed; but all the people rejoiced to see all the wonderful things that he was doing.
 \p
 \v 18 So Jesus said: \wj “What is the kingdom of God like? And to what can I liken it?\wj*
-\v 19 \wj It is like a mustard seed which a man took and put in his garden. The seed grew and became a tree, and ‘the wild birds roosted in its branches.’”\wj*
+\v 19 \wj It is like a mustard seed which a man took and put in his garden. The seed grew and became a tree, and the wild birds roosted in its branches.”\wj*
 \v 20 And again Jesus said: \wj “To what can I liken the kingdom of God?\wj*
 \v 21 \wj It is like some yeast which a woman took and covered in three pecks of flour, until the whole had risen.”\wj*
 \p
@@ -987,7 +987,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 23 “Master,” someone asked, “are there but few in the path of salvation?” And Jesus answered:
 \v 24 \wj “Strive to go in by the small door. Many, I tell you, will seek to go in, but they will not be able,\wj*
 \v 25 \wj when once the master of the house has got up and shut the door, while you begin to say, as you stand outside and knock, ‘Sir, open the door for us.’ His answer will be — ‘I do not know where you come from.’\wj*
-\v 26 \wj Then you will begin to say ‘We have eaten and drunk in your presence, and you have taught in our streets,’ and his reply will be — \wj*
+\v 26 \wj Then you will begin to say ‘We have eaten and drunk in your presence, and you have taught in our streets,’ and his reply will be —\wj*
 \v 27 \wj ‘I do not know where you come from. Leave my presence, all you who are living in wickedness.’\wj*
 \v 28 \wj There, there will be weeping and grinding of teeth, when you see Abraham, Isaac, and Jacob, and all the prophets, in the kingdom of God, while you yourselves are being driven outside.\wj*
 \v 29 \wj People will come from East and West, and from North and South, and take their places at the banquet in the kingdom of God.\wj*
@@ -999,7 +999,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 34 \wj Jerusalem! Jerusalem! You who slays the prophets and stones the messengers sent to you — Oh, how often have I wished to gather your children around me, as a hen takes her brood under her wings, and you would not come!\wj*
 \v 35 \wj Verily your house is left to you desolate! And never, I tell you, will you see me, until you say —
 \q ‘Blessed is He who comes in the name of the Lord.’”\wj*
-\nb
+\m
 \c 14
 \b
 \v 1 On one occasion, as Jesus was going, on a Sabbath into the house of one of the leading Pharisees to dine, they were watching him closely.
@@ -1033,7 +1033,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 25 One day, when great crowds of people were walking with Jesus, he turned and said to them:
 \v 26 \wj “If any one comes to me and does not hate their father, and mother, and wife, and children, and brothers, and sisters, yes and even their life, he can be no disciple of mine.\wj*
 \v 27 \wj Whoever does not carry their own cross, and walk in my steps, can be no disciple of mine.\wj*
-\v 28 \wj Why, which of you, when you want to build a tower, does not first sit down and reckon the cost, to see if you have enough to complete it? — \wj*
+\v 28 \wj Why, which of you, when you want to build a tower, does not first sit down and reckon the cost, to see if you have enough to complete it? —\wj*
 \v 29 \wj Otherwise, if you have laid the foundation and are not able to finish it, everyone who sees it will laugh at you,\wj*
 \v 30 \wj and say ‘Here is a person who began to build and was not able to finish!’\wj*
 \v 31 \wj Or what king, when he is setting out to fight another king, does not first sit down and consider if with ten thousand men he is able to meet one who is coming against him with twenty thousand?\wj*
@@ -1092,7 +1092,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 8 \wj His master complimented this dishonest steward on the shrewdness of his action. And indeed men of the world are shrewder in dealing with their fellow men than those who have the light.\wj*
 \v 9 \wj And I say to you ‘Win friends for yourselves with your dishonest money,’ so that, when it comes to an end, there may be a welcome for you into the Eternal Home.\wj*
 \v 10 \wj The person who is trustworthy in the smallest matter is trustworthy in a great one also; and the person who is dishonest in the smallest matter is dishonest in a great one also.\wj*
-\v 11 \wj So, if you have proved untrustworthy with the ‘dishonest money,’ who will trust you with the true?\wj*
+\v 11 \wj So, if you have proved untrustworthy with the dishonest money, who will trust you with the true?\wj*
 \v 12 \wj And, if you have proved untrustworthy with what does not belong to us, who will give you what is really our own?\wj*
 \v 13 \wj No servant can serve two masters, for, either they will hate one and love the other, or else they will attach themselves to one and despise the other. You cannot serve both God and Money.”\wj*
 \p
@@ -1110,7 +1110,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 24 \wj So he called out ‘Pity me, Father Abraham, and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am suffering agony in this flame.’\wj*
 \v 25 \wj ‘Child,’ answered Abraham, ‘remember that you in your lifetime received what you thought desirable, just as Lazarus received what was not desirable; but now he has his consolation here, while you are suffering agony.\wj*
 \v 26 \wj And not only that, but between you and us there lies a great chasm, so that those who wish to pass from here to you cannot, nor can they cross from there to us.’\wj*
-\v 27 \wj ‘Then, Father,’ he said, ‘I beg you to send Lazarus to my father's house — \wj*
+\v 27 \wj ‘Then, Father,’ he said, ‘I beg you to send Lazarus to my father's house —\wj*
 \v 28 \wj For I have five brothers to warn them, so that they may not come to this place of torture also.’\wj*
 \v 29 \wj ‘They have the writings of Moses and the prophets,’ replied Abraham; ‘let them listen to them.’\wj*
 \v 30 \wj ‘But, Father Abraham,’ he urged, ‘if someone from the dead were to go to them, they would repent.’\wj*
@@ -1146,7 +1146,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 20 Being once asked by the Pharisees when the kingdom of God was to come, Jesus answered: \wj “The kingdom of God does not come in a way that can be seen,\wj*
 \v 21 \wj nor will people say ‘Look, here it is!’ or ‘There it is!’; for the kingdom of God is within you!\wj*
 \v 22 \wj The day will come,”\wj* he said to his disciples, \wj “when you will long to see but one of the days of the Son of Man, and will not see it.\wj*
-\v 23 \wj People will say to you ‘There he is! Or ‘Here he is!’ Do not go and follow them.\wj*
+\v 23 \wj People will say to you ‘There he is!’ Or ‘Here he is!’ Do not go and follow them.\wj*
 \v 24 \wj For, just as lightning will lighten and flare from one side of the heavens to the other, so will it be with the Son of Man.\wj*
 \v 25 \wj But first he must undergo much suffering, and he must be rejected by the present generation.\wj*
 \v 26 \wj As it was in the days of Noah, so will it be again in the days of the Son of Man.\wj*
@@ -1161,7 +1161,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 35 \wj of two women grinding grain together, one will be taken and the other left.”\wj*
 \v 36 \f + Some later manuscripts add: There will be two in the field; one will be taken and the other left.\f*
 \p
-\v 37 “Where will it be, Master?” asked the disciples. \wj “Where there is a body,”\wj* said Jesus, \wj “‘there will the vultures flock.’”\wj*
+\v 37 “Where will it be, Master?” asked the disciples. \wj “Where there is a body,”\wj* said Jesus, \wj “there will the vultures flock.”\wj*
 \c 18
 \rem Titleless Section Break
 \b
@@ -1179,8 +1179,8 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 10 \wj “Two men went up into the Temple Courts to pray. One was a Pharisee and the other a tax-gatherer.\wj*
 \v 11 \wj The Pharisee stood forward and began praying to himself in this way — ‘God, I thank you that I am not like other men — thieves, rogues, adulterers — or even like this tax-gatherer.\wj*
 \v 12 \wj I fast twice a week, and give a tenth of everything I get to God.’\wj*
-\v 13 \wj Meanwhile the tax-gatherer stood at a distance, not venturing even ‘to raise his eyes to heaven’; but he kept striking his breast and saying ‘God, have mercy on me, a sinner.’\wj*
-\v 14 \wj This man, I tell you, went home pardoned, rather than the other; for everyone who exalts himself will be humbled, while everyone who humbles himself will be exalted.”\wj*
+\v 13 \wj Meanwhile the tax-gatherer stood at a distance, not venturing even to raise his eyes to heaven, but he kept striking his breast and saying ‘God, have mercy on me, a sinner.’\wj*
+\v 14 \wj This man, I tell you, went home pardoned, rather than the other. For everyone who exalts himself will be humbled, while everyone who humbles himself will be exalted.”\wj*
 \rem Titleless Section Break
 \b
 \p
@@ -1191,7 +1191,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 18 And one of the leaders asked Jesus this question — “Good teacher, what must I do if I am to gain eternal life?”
 \p
 \v 19 \wj “Why do you call me good?”\wj* answered Jesus. \wj “No one is good but God.\wj*
-\v 20 \wj You know the commandments — ‘Do not commit adultery, Do not kill, Do not steal, Do not say what is false about others, Honor your father and your mother.’”\wj*
+\v 20 \wj You know the commandments — Do not commit adultery, Do not kill, Do not steal, Do not say what is false about others, Honor your father and your mother.”\wj*
 \p
 \v 21 “I have observed all these,” he replied, “from childhood.”
 \v 22 Hearing this, Jesus said to him: \wj “There is one thing still lacking in you; sell everything that you have, and distribute to the poor, and you will have wealth in heaven; then come and follow me.”\wj*
@@ -1238,7 +1238,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 8 But Zacchaeus stood forward and said to the Master: “Listen, Master! I will give half my property to the poor, and, if I have defrauded anyone of anything, I will give him back four times as much.”
 \p
 \v 9 \wj “Salvation has come to this house today,”\wj* answered Jesus, \wj “for even this man is a son of Abraham.\wj*
-\v 10 \wj The Son of Man has come to ‘search for those who are lost’ and to save them.”\wj*
+\v 10 \wj The Son of Man has come to search for those who are lost and to save them.”\wj*
 \p
 \v 11 As the people were listening to this, Jesus went on to tell them a parable. He did so because he was near Jerusalem, and because they thought that the kingdom of God was going to be proclaimed at once.
 \v 12 He said: \wj “A nobleman once went to a distant country to receive his appointment to a kingdom and then return.\wj*
@@ -1259,7 +1259,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 27 \wj But as for my enemies, these men who would not have me as their king, bring them here and put them to death in my presence.’”\wj*
 \p
 \v 28 After saying this, Jesus went on in front, going up to Jerusalem.
-\ms The Last Days
+\s The Last Days
 \p
 \v 29 It was when Jesus had almost reached Bethphage and Bethany, near the Mount of Olives, that he sent on two of the disciples.
 \v 30 \wj “Go to the village facing us,”\wj* he said, \wj “and, when you get there, you will find a foal tethered, which no one has yet ridden; untie it and lead it here.\wj*
@@ -1275,17 +1275,17 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \q2 Our king — in the name of the Lord!
 \q Peace in heaven,
 \q2 And glory on high.”
-\nb
+\m
 \v 39 Some of the Pharisees in the crowd said to him: “Teacher, restrain your disciples.”
 \v 40 But Jesus answered: \wj “I tell you that if they are silent, the stones will call out.”\wj*
 \p
 \v 41 When he drew near, on seeing the city, he wept over it, and said:
 \v 42 \wj “If only you had known, while yet there was time — even you — the things that make for peace! But now they have been hidden from your sight.\wj*
 \v 43 \wj For a time is coming when your enemies will surround you with earthworks, and encircle you, and hem you in on all sides;\wj*
-\v 44 \wj they will trample you down and your children within you, and they will not leave in you one stone on another, because you did not know ‘the time of your visitation.’”\wj*
+\v 44 \wj they will trample you down and your children within you, and they will not leave in you one stone on another, because you did not know the time of your visitation.”\wj*
 \p
 \v 45 Jesus went into the Temple Courts and began to drive out those who were selling,
-\v 46 saying as he did so: \wj “Scripture says — ‘My house will be a house of prayer’; but you have made it ‘a den of robbers.’”\wj*
+\v 46 saying as he did so: \wj “Scripture says — ‘My house will be a house of prayer’; but you have made it a den of robbers.”\wj*
 \rem Titleless Section Break
 \b
 \p
@@ -1316,7 +1316,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \p “heaven forbid!” they exclaimed when they heard it.
 \v 17 But Jesus looked at them and said: \wj “What then is the meaning of this passage? —
 \q ‘The stone which the builders despised has now itself become the corner-stone.’\wj*
-\nb
+\m
 \v 18 \wj Everyone who falls on that stone will be dashed to pieces, while anyone on whom it falls — it will scatter him as dust.”\wj*
 \p
 \v 19 After this the teachers of the Law and the chief priest were eager to lay hands on Jesus then and there, but they were afraid of the people; for they saw that it was at them that he had aimed this parable.
@@ -1334,7 +1334,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 27 Presently there came up some Sadducees, who maintain that there is no resurrection. Their question was this —
 \v 28 “Teacher, Moses laid down for us in his writings that —
 \q ‘Should a man's married brother die, and should he be childless, the man should take the widow as his wife, and raise up a family for his brother.’
-\nb
+\m
 \v 29 Well, there were once seven brothers; of whom the eldest, after taking a wife, died childless.
 \v 30 The second and third brothers both took her as their wife;
 \v 31 and so, too, did all seven — dying without children.
@@ -1346,17 +1346,17 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 36 \wj nor indeed can they die again, for they are like angels and, having shared in the resurrection, they are God's children.\wj*
 \v 37 \wj As to the fact that the dead rise, even Moses indicated that, in the passage about the Bush, when he calls the Lord —
 \q ‘The God of Abraham, and the God of Isaac, and the God of Jacob.’\wj*
-\nb
+\m
 \v 38 \wj Now he is not God of dead people, but of living. For in his sight all are alive.”\wj*
 \p
 \v 39 “Well said, teacher!” exclaimed some of the teachers of the Law,
 \v 40 for they did not venture to question him any further.
 \v 41 But Jesus said to them: \wj “How is it that people say that the Christ is to be David's son?\wj*
 \v 42 \wj For David, in the book of Psalms, says himself —
-\q ‘The Lord said to my lord: “Sit at my right hand,\wj*
+\q ‘The Lord said to my lord: Sit at my right hand,\wj*
 \q
-\v 43 \wj until I put your enemies as a stool for your feet.”’\wj*
-\nb
+\v 43 \wj until I put your enemies as a stool for your feet.’\wj*
+\m
 \v 44 \wj David, then, calls him ‘lord,’ so how is he David's son?”\wj*
 \p
 \v 45 While all the people were listening, Jesus said to the disciples:
@@ -1377,8 +1377,8 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \p
 \v 8 And Jesus said: \wj “See that you are not led astray; for many will take my name, and come saying ‘I am He,’ and ‘The time is close at hand.’ Do not follow them.\wj*
 \v 9 \wj And, when you hear of wars and disturbances, do not be terrified, for these things must occur first; but the end will not be at once.”\wj*
-\v 10 Then he said to them: \wj “‘Nation will rise against nation and kingdom against kingdom,’\wj*
-\v 11 \wj And there will be great earthquakes, and plagues and famines in various places, and there will be terrible appearances and signs in the heavens.\wj*
+\v 10 Then he said to them: \wj “Nation will rise against nation and kingdom against kingdom,\wj*
+\v 11 \wj and there will be great earthquakes, and plagues and famines in various places, and there will be terrible appearances and signs in the heavens.\wj*
 \v 12 \wj Before all this, they will lay hands on you and persecute you, and they will betray you to synagogues and put you in prison, when you will be brought before kings and governors for the sake of my name.\wj*
 \v 13 \wj Then will be your opportunity of witnessing for me.\wj*
 \v 14 \wj Make up your minds, therefore, not to prepare your defense;\wj*
@@ -1391,10 +1391,10 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 21 \wj Then those of you who are in Judea must take refuge in the mountains, those who are in Jerusalem must leave at once, and those who are in the country places must not go into it.\wj*
 \v 22 \wj For these are to be the days of vengeance, when all that scripture says will be fulfilled.\wj*
 \v 23 \wj Alas for pregnant women, and for those who are nursing infants in those days! For there will be great suffering in the land, and anger against this people.\wj*
-\v 24 \wj They will fall by the edge of the sword, and will be taken prisoners to every land, and ‘Jerusalem will be under the heel of the Gentiles,’ until their day is over — as it will be.\wj*
+\v 24 \wj They will fall by the edge of the sword, and will be taken prisoners to every land, and Jerusalem will be under the heel of the Gentiles, until their day is over — as it will be.\wj*
 \v 25 \wj There will be signs, too, in the sun and moon and stars, and on the earth despair among the nations, in their dismay at the roar of the sea and the surge.\wj*
-\v 26 \wj People's hearts will fail them through dread of what is coming upon the world; for ‘the forces of the heavens will be convulsed.’\wj*
-\v 27 \wj Then will be seen the ‘Son of Man coming in a cloud’ with power and great glory.\wj*
+\v 26 \wj People's hearts will fail them through dread of what is coming upon the world; for the forces of the heavens will be convulsed.\wj*
+\v 27 \wj Then will be seen the Son of Man coming in a cloud with power and great glory.\wj*
 \v 28 \wj And, when these things begin to occur, look upwards and lift your heads, for your deliverance will be at hand.”\wj*
 \p
 \v 29 Then he taught them a lesson , saying — \wj “Look at the fig tree and all the other trees.\wj*
@@ -1435,10 +1435,10 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 14 When the time came, Jesus took his place at the table, and the apostles with him.
 \v 15 \wj “I have most earnestly wished,”\wj* he said, \wj “to eat this Passover with you before I suffer.\wj*
 \v 16 \wj For I tell you that I will not eat it again, until it has had its fulfillment in the kingdom of God.”\wj*
-\v 17 Then, on receiving a cup, after saying the thanksgiving, he said: \wj “Take this and share it among you. \wj*
+\v 17 Then, on receiving a cup, after saying the thanksgiving, he said: \wj “Take this and share it among you.\wj*
 \v 18 \wj For I tell you that I will not, after today, drink of the juice of the grape, until the kingdom of God has come.”\wj*
 \v 19 Then Jesus took some bread, and, after saying the thanksgiving, broke it and gave to them, with the words: \wj “This is my body.\wj*
-\v 20 \f + Some early manuscripts add: \it which is now to be given on your behalf. Do this in memory of me. And in the same way with the cup, after supper, saying: “This cup is the New Covenant made by my blood which is being poured out on your behalf.”\it*\f*
+\v 20 \f + Some later manuscripts add: which is now to be given on your behalf. Do this in memory of me. And in the same way with the cup, after supper, saying: “This cup is the New Covenant made by my blood which is being poured out on your behalf.”\f*
 \v 21 \wj Yet see! The hand of the man who is betraying me is beside me on the table!\wj*
 \v 22 \wj True, the Son of Man is passing, by the way ordained for him, yet alas for that man by whom he is being betrayed!”\wj*
 \v 23 Then they began questioning one another which of them it could be who was going to do this.
@@ -1470,7 +1470,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 40 And, when he reached the spot, he said to them: \wj “Pray that you may not fall into temptation.”\wj*
 \v 41 Then he withdrew about a stone's throw, and knelt down and began to pray.
 \v 42 \wj “Father,”\wj* he said, \wj “if it is your pleasure, spare me this cup; only, not my will but your be done.”\wj*
-\v 43 Presently there appeared to him an angel from heaven, who strengthened him.\f + Some early manuscripts do not contain verses 43 or 44.\f*
+\v 43 Presently there appeared to him an angel from heaven, who strengthened him.\f + Some later manuscripts do not contain verses 43 or 44.\f*
 \v 44 And, as his anguish became intense, he prayed still more earnestly, while his sweat was like great drops of blood falling on the ground.
 \v 45 Then he rose from praying, and came to the disciples and found them sleeping for sorrow.
 \v 46 \wj “Why are you asleep?”\wj* he asked them. \wj “Rise and pray so that you don't fall into temptation.”\wj*
@@ -1505,7 +1505,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 67 “If you are the Christ,” they said, “tell us so.”
 \p \wj “If I tell you,”\wj* replied Jesus, \wj “you will not believe me;\wj*
 \v 68 \wj and, if I question you, you will not answer.\wj*
-\v 69 \wj But from this hour ‘the Son of Man will be seated on the right hand of God Almighty.’”\wj*
+\v 69 \wj But from this hour the Son of Man will be seated on the right hand of God Almighty.”\wj*
 \p
 \v 70 “Are you, then, the Son of God?” they all asked. \wj “It is true,”\wj* answered Jesus, \wj “I am.”\wj*
 \v 71 At this they exclaimed: “Why do we want any more evidence? We have heard it ourselves from his own lips!”
@@ -1556,7 +1556,7 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 37 and saying as they did so: “If you are the king of the Jews, save yourself.”
 \v 38 Above him were the words —
 \q ‘THIS IS THE KING OF THE JEWS.’
-\nb
+\m
 \v 39 One of the criminals who were hanging beside Jesus railed at him. “Aren't you the Christ? Save yourself and us,” he said.
 \v 40 But the other rebuked him. “Haven't you,” he said, “any fear of God, now that you are under the same sentence?
 \v 41 And we justly so, for we are only reaping our deserts, but this man has not done anything wrong.
@@ -1579,22 +1579,22 @@ In the midst of the general astonishment at all that Jesus was doing, he said to
 \v 54 It was the Preparation day, and just before the Sabbath began.
 \v 55 The women who had accompanied Jesus from Galilee followed, and saw the tomb and how the body of Jesus was laid,
 \v 56 and then went home, and prepared spices and perfumes.
-\ms The Risen Life
+\s The Risen Life
 During the Sabbath they rested, as directed by the commandment.
 \c 24
 \p
 \v 1 But very early on the first day of the week they went to the tomb, taking with them the spices that they had prepared.
 \v 2 They found that the stone had been rolled away from the tomb;
-\v 3 and, on going into it, they could not find the body \f + Some early manuscripts add: \it of the Lord Jesus\it*\f*.
+\v 3 and, on going into it, they could not find the body\f + Some later manuscripts add: of the Lord Jesus.\f*.
 \v 4 While they were at a loss to account for this, all at once two men stood beside them, in dazzling clothing.
 \v 5 But, when in their fear the women bowed their faces to the ground, the men said to them: “Why are you looking among the dead for him who is living?
-\v 6 \f + Some early manuscripts add: \it He is not here; but he has risen.\it*\f* Remember how he spoke to you before he left Galilee —
+\v 6 \f + Some later manuscripts add: He is not here but he has risen.\f* Remember how he spoke to you before he left Galilee —
 \v 7 How he said that the Son of Man must be betrayed into the hands of wicked men, and be crucified, and rise again on the third day.”
 \v 8 Then they remembered the words of Jesus,
 \v 9 and, on returning from the tomb, they told all this to the Eleven and to all the rest.
 \v 10 There were Mary of Magdala, and Joanna, and Mary, the mother of James. The other women, too, spoke about this to the apostles.
 \v 11 What they said seemed to the apostles mere nonsense, and they did not believe them.
-\v 12 \f + Some early manuscripts add: \it Peter got up and ran to the tomb. Stooping down he saw nothing but the linen wrappings, and he went away, wondering to himself at what had taken place.\it*\f*
+\v 12 \f + Some later manuscripts add: Peter got up and ran to the tomb. Stooping down he saw nothing but the linen wrappings, and he went away, wondering to himself at what had taken place.\f*
 \rem Titleless Section Break
 \b
 \p
@@ -1624,11 +1624,11 @@ During the Sabbath they rested, as directed by the commandment.
 \v 33 Then they immediately got up and returned to Jerusalem, where they found the Eleven and their companions all together,
 \v 34 who told them that the Master had really risen, and had appeared to Simon.
 \v 35 So they also related what had happened during their walk, and how they had recognized Jesus at the breaking of the bread.
-\v 36 While they were still talking about these things, Jesus himself stood among them.\f + Some early manuscripts add: \it and said, “Peace be with you.”\it*\f*
+\v 36 While they were still talking about these things, Jesus himself stood among them.\f + Some later manuscripts add: and said, “Peace be with you.”\f*
 \v 37 In their terror and alarm they thought they saw a spirit,
 \v 38 but Jesus said to them: \wj “Why are you so startled? And why do doubts arise in your minds?\wj*
 \v 39 \wj Look at my hands and my feet, and you will know that it is I. Feel me, and look at me, for a spirit has not flesh and bones, as you see that I have.”\wj*
-\v 40 \f + Some early manuscripts add: \it After saying this he showed them his hands and his feet.\it*\f*
+\v 40 \f + Some later manuscripts add: After saying this he showed them his hands and his feet.\f*
 \v 41 While they were still unable to believe it all, overcome with joy, and were wondering if it were true, Jesus said to them: \wj “Have you anything here to eat?”\wj*
 \v 42 They handed him a piece of broiled fish,
 \v 43 and he took it and ate it before their eyes.
@@ -1643,6 +1643,6 @@ During the Sabbath they rested, as directed by the commandment.
 \b
 \p
 \v 50 After this, Jesus led them out as far as Bethany, and there raised his hands and blessed them.
-\v 51 As he was in the act of blessing them, he left them.\f + Some early manuscripts add: \it and was carried up into heaven\it*\f*
-\v 52 They returned\f + Some early manuscripts read: \it They bowed to the ground before him and returned\it*\f* to Jerusalem full of joy;
+\v 51 As he was in the act of blessing them, he left them.\f + Some later manuscripts add: and was carried up into heaven.\f*
+\v 52 They returned\f + Some later manuscripts read: They bowed to the ground before him and returned.\f* to Jerusalem full of joy;
 \v 53 and they were constantly in the Temple Courts, blessing God.

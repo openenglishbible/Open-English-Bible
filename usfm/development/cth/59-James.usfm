@@ -1,6 +1,7 @@
 \id JAS
 \ide UTF-8
 \h James
+
 \rem ORIGINAL BASE TEXT
 \rem Twentieth Century New Testament
 \rem TAGS
@@ -15,13 +16,14 @@
 \rem US Cth spelling OK
 \rem NSRV versification only
 \rem Gender OK
+
 \mt2 The Letter from
 \mt James
 \c 1
-\ms Greeting
+\s Greeting
 \p
 \v 1 James, a servant of God and of the Lord Jesus Christ, greets the twelve tribes that are living abroad.
-\ms Advice on Various Subjects
+\s Advice on Various Subjects
 \p
 \v 2 My friends, whatever trials you may face from time to time, always regard them as a reason for rejoicing,
 \v 3 knowing, as you do, that the testing of your faith develops endurance.
@@ -56,7 +58,7 @@
 \v 26 When a person appears to be religious, yet does not bridle their tongue, but imposes on their own conscience, that person's religious observances are valueless.
 \v 27 That religious observance which is pure and spotless in the eyes of God our Father is this — to visit orphans and widows in their trouble, and to keep oneself uncontaminated by the world.
 \c 2
-\ms Warning on Various Subjects
+\s Warning on Various Subjects
 \p
 \v 1 My friends, are you really trying to combine faith in Jesus Christ, our glorified Lord, with discrimination?
 \v 2 Suppose a visitor should enter your synagogue, with gold rings and in grand clothes, and suppose a poor man should come in also, in shabby clothes,
@@ -120,7 +122,9 @@
 \q “God opposes the haughty,
 \q2 but gives grace to the humble.”
 \v 7
-\nb Therefore submit to God. Stand up to the devil, and he will flee from you.
+\b
+\m
+Therefore submit to God. Stand up to the devil, and he will flee from you.
 \v 8 Draw near to God, and he will draw near to you. Make your hands clean, you sinners; and your hearts pure, you vacillators!
 \v 9 Grieve, mourn, and lament! Let your laughter be turned to mourning, and your happiness to gloom!
 \v 10 Humble yourselves before the Lord, and he will exalt you.
@@ -142,7 +146,7 @@
 \v 4 Listen! The wages you have held back from the labourers who mowed your fields are crying out against you, and the outcries of your harvesters have reached the ears of the Lord of Hosts!
 \v 5 You have lived on earth a life of extravagance and luxury; you have indulged your fancies in a time of bloodshed.
 \v 6 You have condemned, you have murdered, the righteous one! Must not God be opposed to you?
-\ms Concluding Appeal
+\s Concluding Appeal
 \p
 \v 7 Be patient, then, friends, until the coming of the Lord. Even the farmer has to wait for the precious fruit of the earth, watching over it patiently, until it has had the spring and summer rains.
 \v 8 And you must be patient also, and not be discouraged; for the Lord's coming is near.
