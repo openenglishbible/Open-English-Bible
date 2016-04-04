@@ -17,11 +17,11 @@
 \rem Gender OK
 
 \c 1
-\v 1
 
 \s The Superscription to Micah's Sermons
 
-\p The \nd Lord\nd*'s message which came to Micah of Morsheth in the reigns of Jotham, Ahaz and Hezekiah, kings of Judah. The visions he saw about Samaria and Jerusalem.
+\p
+\v 1 The \nd Lord\nd*'s message which came to Micah of Morsheth in the reigns of Jotham, Ahaz and Hezekiah, kings of Judah. The visions he saw about Samaria and Jerusalem.
 
 \s The Lord's Judgment on Guilty Samaria and Judah
 \q
@@ -74,7 +74,7 @@
 \b
 \q
 \v 10 Don't tell this in Gath!
-\q Don't even cry — but sit in the dust at Beth-leaphrah.
+\q Don't even cry – but sit in the dust at Beth-leaphrah.
 \q
 \v 11 Pass by, inhabitants of Shaphir, naked and ashamed!
 \q The inhabitants of Zaanan cannot leave their city.
@@ -303,16 +303,18 @@
 \q and devote to the \nd Lord\nd* their spoil,
 \q and their wealth to the ruler of all the earth.
 \b
-\q
 [nrsv:\c 5
-\v 1|jps:\v 14] “Now cut yourself in bitter grief,
+\q
+\v 1|jps:\q
+\v 14] “Now cut yourself in bitter grief,
 \q daughter besieged by soldiers.
 \q They have set a wall around you.
 \q They strike the ruler of Israel,
 \q in the face with a rod.
 \b
+[nrsv:\q
+\v 2|jps:\c 5
 \q
-[nrsv:\v 2|jps:\c 5
 \v 1] “Bethlehem in Ephrathah,
 \q small among the tribes of Judah,
 \q from you will come a king
@@ -511,7 +513,7 @@
 \q If I sit in darkness, the \nd Lord\nd* is my light.
 \q
 \v 9 The anger of the \nd Lord\nd* I will bear,
-\q for against him have I sinned —
+\q for against him have I sinned –
 \q until he champions my cause
 \q and gives judgment for me.
 \q He will bring me into to the light,

@@ -64,6 +64,9 @@ def stage(src, to, tags, booklist):
                 s = s.replace(u'@leftsinglequote@', u'“')
                 s = s.replace(u'@rightsinglequote@', u'”')
                 
+            # Now deal with contractions and possessives
+            s = s.replace(u'\'', u'’')
+                
             if booklist == [] or fn[:-3] in booklist:
                 saveIfDifferent(to, fn[:-3], s)
     

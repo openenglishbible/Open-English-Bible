@@ -4,6 +4,10 @@
 import os
 import re
 
+def pos(usfm, index):
+    x = usfm[:index].count('\n')
+    return x
+
 class Tester(object):
     def loadBooks(self, path):
         books = {}
@@ -32,10 +36,14 @@ class Tester(object):
             self.testMissingSpaces(b, books[b])
             self.testExtraSpaces(b, books[b])
             self.testParas(b, books[b])
+            self.testPoetry(b, books[b])
             self.testSectionHeaders(b, books[b])
             self.testWJ(b, books[b])
             self.testB(b, books[b])
             self.testM(b, books[b])
+            self.testDash(b, books[b])
+            self.testApostrophe(b, books[b])
+            self.testNesting(b, books[b])
 
     def testMalformedCodes(self, b, u):
         w = u.split(u' \n\t.,:?;\'\"')
@@ -135,3 +143,43 @@ Character styles (like \wj ...\wj*) cannot continue through footnotes, but must 
             if i == -1: return
             if not u[i+3] == '\\': print '\\m tag with no text content in: ' + b
             i = i + 3
+
+    def testDash(self, b, u):
+        """
+        Standard is n-dash with surrounding space
+        """
+        i = u.find(u'—')
+        if not i == -1:
+            print 'm-dash in ' + b + ' at position ' + str(pos(u,i))
+        i2 = u.find(u' - ')
+        if not i2 == -1:
+            print 'hyphen as n-dash in ' + b + ' at  ' + str(pos(u,i2))
+        i3 = u.find(u' -')
+        if not i3 == -1:
+            print 'hyphen as n-dash in ' + b + ' at  ' + str(pos(u,i3))
+
+    def testApostrophe(self, b, u):
+        """
+        Simple ascii apostrophe's shouldn't appear in final product
+        """
+        i = u.find(u'\'')
+        if not i == -1:
+            print 'apostophe in ' + b + ' at line ' + str(pos(u,i))
+
+    def testNesting(self, b, u):
+        """
+        \em I am the \+nd Lord\+nd*\em*
+        """
+        rx = re.compile(r'\\em[^\*][^\\]+\\nd')
+        if not rx.search(u) == None:
+            print 'Possible need for nested markup in: ' + b
+
+    def testPoetry(self, b, u):
+        """
+        When a poetic line and verse start together, always put the poetry marker before the verse marker.
+        """
+        if u'\\q\n\\c' in u:
+            print 'Misplaced Poetry marker against chapter in: ' + b
+        rx = re.compile('\\\\v [0-9]+\\n\\\\q')
+        if not rx.search(u) == None:
+            print 'Misplaced poetry marker against verse in: ' + b

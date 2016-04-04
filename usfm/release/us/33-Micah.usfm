@@ -4,7 +4,7 @@
 \mt Micah
 
 \rem ORIGINAL BASE TEXT
-\rem Kent's Student's Old Testament
+\rem Kent’s Student’s Old Testament
 \rem TAGS
 \rem us cth (spelling)
 \rem nsrv jps (versification)
@@ -17,13 +17,13 @@
 \rem Gender OK
 
 \c 1
-\v 1
 
-\s The Superscription to Micah's Sermons
+\s The Superscription to Micah’s Sermons
 
-\p The \nd Lord\nd*'s message which came to Micah of Morsheth in the reigns of Jotham, Ahaz and Hezekiah, kings of Judah. The visions he saw about Samaria and Jerusalem.
+\p
+\v 1 The \nd Lord\nd*’s message which came to Micah of Morsheth in the reigns of Jotham, Ahaz and Hezekiah, kings of Judah. The visions he saw about Samaria and Jerusalem.
 
-\s The Lord's Judgment on Guilty Samaria and Judah
+\s The Lord’s Judgment on Guilty Samaria and Judah
 \q
 \v 2 Listen, all you peoples!
 \q Pay attention, all you inhabitants of the earth!
@@ -73,8 +73,8 @@
 \q even to Jerusalem.
 \b
 \q
-\v 10 Don't tell this in Gath!
-\q Don't even cry — but sit in the dust at Beth-leaphrah.
+\v 10 Don’t tell this in Gath!
+\q Don’t even cry – but sit in the dust at Beth-leaphrah.
 \q
 \v 11 Pass by, inhabitants of Shaphir, naked and ashamed!
 \q The inhabitants of Zaanan cannot leave their city.
@@ -115,21 +115,21 @@
 \q
 \v 4 On that day they will sing a taunt-song to you,
 \q this mocking lament:
-\q ‘My people's estate is being measured for sale,
+\q ‘My people’s estate is being measured for sale,
 \q our captors are dividing our fields.
 \q We are completely undone.’
 \q
 \v 5 There will be no one to measure out land for you
-\q from the \nd Lord\nd*'s community.
+\q from the \nd Lord\nd*’s community.
 \b
 \q
-\v 6 “‘Don't rant!’ they urge, ‘Of such things one does not prophesy!
+\v 6 “‘Don’t rant!’ they urge, ‘Of such things one does not prophesy!
 \q Shame will not overtake us!
 \q
 \v 7 Is the \nd Lord\nd* impatient, or are such things his deeds?
 \q Are not his words favorable to the family of Jacob?’
 \b
-\q Aren't my commands good for those who obey them?
+\q Aren’t my commands good for those who obey them?
 \q
 \v 8 But you, you stand up as a foe against those who are peaceful;
 \q you strip the robe from those who pass by quietly, averse to conflict.
@@ -161,7 +161,7 @@
 \q the \nd Lord\nd* at their head.”
 
 \c 3
-\s The Crimes of Judah's Civil and Spiritual Leaders
+\s The Crimes of Judah’s Civil and Spiritual Leaders
 \q
 \v 1 I also said:
 \q “Listen now, leaders of Jacob,
@@ -241,12 +241,12 @@
 \q All the nations will flow to it,
 \q
 \v 2 and many peoples will go and say,
-\q “Come, let us go up to the \nd Lord\nd*'s mount,
+\q “Come, let us go up to the \nd Lord\nd*’s mount,
 \q to the house of the God of Jacob,
 \q so that he may instruct us in his ways,
 \q so that we may walk in his paths.”
 \q For from Zion proceeds instruction
-\q and the \nd Lord\nd*'s word from Jerusalem.
+\q and the \nd Lord\nd*’s word from Jerusalem.
 \b
 \q
 \v 3 He will arbitrate between many peoples,
@@ -278,7 +278,7 @@
 \q hill of the daughter of Zion,
 \q to you will return your former rule.
 \q
-\v 9 So why do you now cry aloud? Haven't you any king?
+\v 9 So why do you now cry aloud? Haven’t you any king?
 \q Or has your counselor perished, so you writhe in pain like a woman in labor?
 \b
 \q
@@ -303,8 +303,8 @@
 \q and devote to the \nd Lord\nd* their spoil,
 \q and their wealth to the ruler of all the earth.
 \b
-\q
 \c 5
+\q
 \v 1 “Now cut yourself in bitter grief,
 \q daughter besieged by soldiers.
 \q They have set a wall around you.
@@ -347,7 +347,7 @@
 \q in the midst of many peoples
 \q like dew from the \nd Lord\nd*,
 \q like showers on the grass,
-\q which don't wait for people to come
+\q which don’t wait for people to come
 \q or linger for mortals.
 \b
 \q
@@ -382,13 +382,13 @@
 \q I will seek vengeance on the nations that ignore me.”
 
 \c 6
-\s Israel's False Conception of the Lord's Character and Demands
+\s Israel’s False Conception of the Lord’s Character and Demands
 \q
 \v 1 Hear now what the \nd Lord\nd* is saying:
 \q Arise, present your complaint before the mountains,
 \q let the hills hear your voice!
 \q
-\v 2 Hear, mountains, the \nd Lord\nd*'s accusation,
+\v 2 Hear, mountains, the \nd Lord\nd*’s accusation,
 \q listen, foundations of the earth.
 \q For the \nd Lord\nd* has a case against his people.
 \q He has a dispute with Israel.
@@ -457,7 +457,7 @@
 \q and all the practices of the house of Ahab.
 \q You have acted in accord with their counsels,
 \q so I will give you up to ruin,
-\q the city's inhabitants to derision.
+\q the city’s inhabitants to derision.
 \q The nations will treat you with contempt!”
 
 \c 7
@@ -497,9 +497,9 @@
 \v 6 For son insults father,
 \q daughter rises up against mother,
 \q daughter-in-law against mother-in-law,
-\q a man's enemies are the people of his own household.
+\q a man’s enemies are the people of his own household.
 
-\s Zion's Ultimate Vindication and Exaltation
+\s Zion’s Ultimate Vindication and Exaltation
 \q
 \v 7 But I will look to the \nd Lord\nd*,
 \q I will wait for the God of my salvation.
@@ -510,7 +510,7 @@
 \q If I sit in darkness, the \nd Lord\nd* is my light.
 \q
 \v 9 The anger of the \nd Lord\nd* I will bear,
-\q for against him have I sinned —
+\q for against him have I sinned –
 \q until he champions my cause
 \q and gives judgment for me.
 \q He will bring me into to the light,
