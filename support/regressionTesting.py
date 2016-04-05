@@ -44,6 +44,7 @@ class Tester(object):
             self.testDash(b, books[b])
             self.testApostrophe(b, books[b])
             self.testNesting(b, books[b])
+            self.testFootnotes(b, books[b])
 
     def testMalformedCodes(self, b, u):
         w = u.split(u' \n\t.,:?;\'\"')
@@ -157,6 +158,15 @@ Character styles (like \wj ...\wj*) cannot continue through footnotes, but must 
         i3 = u.find(u' -')
         if not i3 == -1:
             print 'hyphen as n-dash in ' + b + ' at  ' + str(pos(u,i3))
+        i4 = u.find(u'-\n')
+        if not i4 == -1:
+            print 'hyphen as n-dash in ' + b + ' at  ' + str(pos(u,i4))
+        rx = re.compile(r'[^\s]–')
+        if not rx.search(u) == None:
+            print 'n-dash without prior space in: ' + b
+        rx = re.compile(r'–[^\s]')
+        if not rx.search(u) == None:
+            print 'n-dash without subsequent space in: ' + b
 
     def testApostrophe(self, b, u):
         """
@@ -183,3 +193,11 @@ Character styles (like \wj ...\wj*) cannot continue through footnotes, but must 
         rx = re.compile('\\\\v [0-9]+\\n\\\\q')
         if not rx.search(u) == None:
             print 'Misplaced poetry marker against verse in: ' + b
+
+    def testFootnotes(self, b, u):
+        """
+        Footnotes should have back reference
+        """
+        rx = re.compile(r'\\f \+ [^\\][^f][^r]')
+        if not rx.search(u) == None:
+            print 'Footnote without back reference in: ' + b
