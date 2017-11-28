@@ -1,4 +1,4 @@
-﻿\id 1SA
+\id 1SA
 \ide UTF-8
 \h 1 Samuel
 \mt The First Book of Samuel
@@ -8,7 +8,7 @@
 \rem us cth (spelling)
 \rem masc neut
 \rem STATUS
-\rem IN DEVELOPMENT
+\rem In Release
 \rem Checked
 \rem Gender OK
 \rem US and Cth English OK
@@ -20,6 +20,8 @@
 \rem no shall
 \rem came to pass
 \c 1
+\ms Samuel
+\s Samuel's Birth
 \p
 \v 1 Now there was a certain man of Ramah, a Zuphite of the hill country of Ephraim, and his name was Elkanah the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite.
 \v 2 He had two wives: the name of the one was Hannah, and the name of the other Peninnah. Peninnah had children, but Hannah had none.
@@ -40,20 +42,21 @@
 \q then I will give him to the \nd Lord\nd* all the days of his life.
 \q A razor will not come upon his head.”
 \b
-\v 12 \m While she continued praying before the \nd Lord\nd*, Eli observed her mouth.
+\m
+\v 12 While she continued praying before the \nd Lord\nd*, Eli observed her mouth.
 \v 13 Now Hannah was speaking to herself. Only her lips moved, but her voice was not heard; therefore Eli took her for a drunken woman.
 \v 14 So Eli said to her, “How long will you act like a drunken woman? Put away the effects of your wine and go from the presence of the \nd Lord\nd*.”
 \p
-\v 15 But Hannah answered and said, “No, my lord, I am an unfortunate woman! I have drunk neither wine nor intoxicating drink, but I have been pouring out my heart before the \nd Lord\nd*.
+\v 15 “No, my lord,” Hannah answered, “I am an unfortunate woman! I have drunk neither wine nor intoxicating drink, but I have been pouring out my heart before the \nd Lord\nd*.
 \v 16 Do not take your maid-servant to be a vile woman, for because of the greatness of my grief and vexation have I continued speaking until now.”
 \p
-\v 17 Then Eli answered and said, “Go in peace, and the God of Israel grant your petition that you have asked of him.”
+\v 17 Then Eli answered, “Go in peace, and the God of Israel grant your petition that you have asked of him.”
 \p
 \v 18 She said, “Let your maid-servant find [us:favor|cth:favour] in your sight.” So the woman went her way and ate, and her countenance was no more sad.
 \p
 \v 19 They rose up in the morning early, and worshipped before the \nd Lord\nd*, and returned and came to their house at Ramah. And Elkanah knew Hannah his wife; and the \nd Lord\nd* remembered her.
 \p
-\v 20 And Hannah conceived, and it came to pass at the coming around of the new year that she bore a son, and called his name Samuel\f + \fr 1:20 \ft Heb: Asked of God\f*, saying, “For I have asked him of the \nd Lord\nd*.”
+\v 20 And Hannah conceived, and it came to pass at the coming around of the new year that she bore a son, and named him Samuel\f + \fr 1:20 \ft Heb: Asked of God\f*, saying, “For I have asked him of the \nd Lord\nd*.”
 \p
 \v 21 The man Elkanah and all his household went up to offer to the \nd Lord\nd* the yearly sacrifice and his vow.
 \v 22 But Hannah did not go up; for she said to her husband, “When the child is weaned then I will bring him and he will appear in the presence of the \nd Lord\nd* and will live there forever.”
@@ -67,7 +70,7 @@
 \v 28 Now, I on my part have given him to the \nd Lord\nd*; as long as he lives he is given to the \nd Lord\nd*.” So she left him there before the \nd Lord\nd*.
 \c 2
 \p
-\v 1 And Hannah prayed, and said:
+\v 1 And Hannah prayed:
 \q My heart exults in the \nd Lord\nd*,
 \q my strength is exalted in the \nd Lord\nd*;
 \q my mouth laughs at my enemies;
@@ -138,7 +141,8 @@
 \p
 \v 27 There came a man of God to Eli and said to him, “This is the \nd Lord\nd*'s message: I revealed myself to your father's house, when they were in Egypt servants to Pharaoh's house,
 \v 28 and I chose him from all the tribes of Israel to be my priest to go up to my altar to burn sacrifices, to bear an ephod before me, and I gave to your father's house for food all the offerings of the Israelites made by fire.
-\v 29 Why do you look with envious eyes on my sacrifices and offerings, and [us:honor|cth:honour] your sons above me in fattening yourselves with the first-fruits of all the offerings which the Israelites bring me?’ Therefore the \nd Lord\nd* the God of Israel says, ‘I had indeed thought that your house and the house of your father would walk before me forever;’ but now the \nd Lord\nd* says, ‘Far be it from me, for them who [us:honor|cth:honour] me I will [us:honor|cth:honour], and they who despise me will be lightly esteemed.
+\v 29 Why do you look with envious eyes on my sacrifices and offerings, and [us:honor|cth:honour] your sons above me in fattening yourselves with the first-fruits of all the offerings which the Israelites bring me?’
+\v 30 Therefore the \nd Lord\nd* the God of Israel says, ‘I had indeed thought that your house and the house of your father would walk before me forever,’ but now the \nd Lord\nd* says, ‘Far be it from me, for them who [us:honor|cth:honour] me I will [us:honor|cth:honour], and they who despise me will be lightly esteemed.
 \v 31 The days are quickly coming when I Will cut off your arm and the arm of your father's house.
 \v 32 You will look in affliction and enviously on all the prosperity which I will give Israel, and there will not be an old man in your house forever.
 \v 33 The only one of you whom I do not cut off from my altar will be spared to weep out his eyes and to wear out his body, and all of your household will die by the sword of men.
@@ -147,7 +151,7 @@
 \v 36 Anyone who is left in your house will come to do him obeisance for a piece of money or a loaf of bread, and will beg to be given in one of the priests' offices so that they may eat a morsel of bread.’”
 \c 3
 \p
-\v 1 The child Samuel continued ministering before the \nd Lord\nd* in the the presence of Eli. The word of the \nd Lord\nd* was rare in those days; there were no frequent visions.
+\v 1 The child Samuel continued ministering before the \nd Lord\nd* in the presence of Eli. The word of the \nd Lord\nd* was rare in those days; there were no frequent visions.
 \v 2 Once at that time, when Eli was lying in his Samuel place – his eyes had begun to grow dim, so that he could not see –
 \v 3 and while the lamp of God was still burning, and Samuel was lying in the temple of the \nd Lord\nd* where the ark of God was,
 \v 4 the \nd Lord\nd* called, “Samuel! Samuel!” He said, “Here I am.”
@@ -164,7 +168,7 @@
 \p
 \v 15 And Samuel lay there until the morning. Then he rose early in the morning and opened the doors of the house of the \nd Lord\nd*. Samuel was afraid to make the known the vision to Eli.
 \v 16 But Eli called Samuel and said, “Samuel, my son.” He said, “I am here.”
-\v 17 He said, “What is the thing that the \nd Lord\nd* has spoken to you? Hide nothing from me. May God do to you whatever he will, if you conceal from me a word of all that he spoke to you. ”
+\v 17 He said, “What is the thing that the \nd Lord\nd* has spoken to you? Hide nothing from me. May God do to you whatever he will, if you conceal from me a word of all that he spoke to you.”
 \v 18 So Samuel told him everything; and hid nothing from him. And Eli said, “It is the \nd Lord\nd*; let him do what seems good to him.”
 \p
 \v 19 And Samuel grew, and the \nd Lord\nd* was with him and let none of his words fall to the ground.
@@ -172,12 +176,13 @@
 \v 21 And the \nd Lord\nd* again appeared in Shiloh, for the \nd Lord\nd* revealed himself to Samuel,
 \c 4
 \v 1 and the word of Samuel came to all Israel.
+\s Samuel the judge
 \p
 Now in those days the Philistines assembled to make war against Israel. Israel went out against the Philistines to battle, and encamped at Ebenezer; and the Philistines encamped in Aphek.
 \v 2 The Philistines put themselves in array against Israel, and Israel was smitten before the Philistines, and the battle was hard fought and they slew in the ranks on the field about four thousand men.
 \v 3 But when the people returned to the camp, the elders of Israel said, “Why has the \nd Lord\nd* smitten us today before the Philistines? Let us bring to us the ark of our God out of Shiloh, that it may come among us and save us from the hand of our enemies.”
 \v 4 So they sent to Shiloh; and took from there the ark of the \nd Lord\nd* of armies who sits enthroned above the cherubim. The two sons of Eli, Hophni and Phinehas, were there with the ark of God.
-\v 5 When the ark of God the \nd Lord\nd* came to the the camp, all Israel shouted such a great shout that the earth rang.
+\v 5 When the ark of God the \nd Lord\nd* came to the camp, all Israel shouted such a great shout that the earth rang.
 \p
 \v 6 When the Philistines heard the noise of the shout, they said, “What does this great shouting in the Hebrew's camp mean?” When they learned that the ark of the \nd Lord\nd* had come to the camp,
 \v 7 they were afraid, and said, “These are their gods. They have come to them to the camp.
@@ -197,7 +202,8 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \p
 \v 19 His daughter-in-law, Phinehas's wife, was pregnant and near her time. When she heard the report regarding the capture of the ark of God, and that her father-in-law and her husband were dead, she went into labor and crouched down and gave birth to a child.
 \v 20 As she lay dying, the women who stood by her said to her, “Do not fear, for you have given birth to a son.” But she neither answered nor heeded.
-\v 21 So they named the child Ichabod, saying, “The glory is taken away from Israel, because of the capture of the ark of God, and because of her father-in-law and her husband.”
+\v 21 She named the child Ichabod, saying, “The glory is taken away from Israel,” meaning the capture of the ark of God, and the deaths of her father-in-law and her husband.
+\v 22 “Glory has left Israel,” she said, “because the ark of God is taken.”
 \c 5
 \p
 \v 1 The Philistines took the ark of God and brought it from Ebenezer to Ashdod.
@@ -230,7 +236,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 12 The cows took a straight course in the direction of Beth-shemesh. They went along the highway, lowing as they went, and did not turn left nor right. The lords of the Philistines went after them to the border of Beth-shemesh.
 \v 13 The inhabitants of Beth-shemesh were harvesting their wheat in the valley. They lifted up their eyes and saw the ark, and came rejoicing to meet it.
 \v 14 When the cart came into the field of Joshua of Beth-shemesh, it stood still there, near a great stone. So they chopped up the wood of the cart and offered the cows as a burnt offering to the \nd Lord\nd*.
-\v 18 The Levites took down the ark of the \nd Lord\nd* and the box that was with it, in which were the golden objects, and placed them on the great stone. The men of Beth-shemesh offered to the \nd Lord\nd* on that day burnt offerings and ordinary sacrifices.
+\v 15 The Levites took down the ark of the \nd Lord\nd* and the box that was with it, in which were the golden objects, and placed them on the great stone. The men of Beth-shemesh offered to the \nd Lord\nd* on that day burnt offerings and ordinary sacrifices.
 \v 16 When the five lords of the Philistines saw it, they returned to Ekron on that day.
 \p
 \v 17 These are the golden tumors which the Philistines returned as a guilt offering to the \nd Lord\nd*: one for Ashdod, one for Gaza, one for Ashkelon, one for Gath, and one for Ekron.
@@ -240,6 +246,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 20 The people of Beth-shemesh said, “Who is able to stand before the \nd Lord\nd*, this holy God? To whom can we send him to be rid of him?”
 \v 21 So they sent messengers to the inhabitants of Kiriath-jearim, saying, “The Philistines have brought back the ark of the \nd Lord\nd*. Come and take it back with you.”
 \c 7
+\p
 \v 1 So the people of Kiriath-jearim came, and took the ark of the \nd Lord\nd*, and carried it into the house of Abinadab on the hill, and consecrated Eleazar, his son, to guard the ark of the \nd Lord\nd*.
 \p
 \v 2 Many years passed from the time the ark began to abide in Kiriath-jearim – twenty years. All the nation of Israel turned to the \nd Lord\nd*,
@@ -262,11 +269,14 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 16 He used to go around from year to year in succession to Bethel, Gilgal, and Mizpah, and he used to judge Israel in all those places.
 \v 17 But he always returned to Ramah, for there was his home, and there he judged Israel. There he built an altar to the \nd Lord\nd*.
 \c 8
+\ms Samuel and Saul
+\s Development of Monarchy
 \p
 \v 1 When Samuel grew old he appointed his sons judges over Israel.
-\v 2 The his eldest was called Joel, and his second was called Abijah. They were judges in Beer-sheba.
+\v 2 The eldest was called Joel, and his second was called Abijah. They were judges in Beer-sheba.
 \v 3 However his sons did not follow his ways, but turned aside after unjust gain and took bribes and perverted justice.
-\v 4 So all the elders of Israel assembled and came to Samuel at Ramah, and they said to him, “You have become old and your sons don't follow your ways. Appoint for us a king to rule us like all the other nations.”
+\v 4 So all the elders of Israel assembled and came to Samuel at Ramah,
+\v 5 and they said to him, “You have become old and your sons don't follow your ways. Appoint for us a king to rule us like all the other nations.”
 \v 6 But the statement displeased Samuel, when they said, “Give us a king to judge us.” And Samuel prayed to the \nd Lord\nd*.
 \v 7 The \nd Lord\nd* said to Samuel, “Listen to the voice of the people and all that they say to you. For they have not rejected you, but they have rejected me from being king over them.
 \v 8 Like all the deeds which they have done to me since the day that I brought them up out of Egypt, even to this day, in that they have forsaken me and served other gods, so also are they doing to you.
@@ -322,6 +332,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \p
 \v 27 As they were going down at the outskirts of the city, Samuel said to Saul, “Tell your servant to go on ahead of us, but you stay here so that I can make known to you the word of God.”
 \c 10
+\p
 \v 1 Then Samuel took a vial of oil, and poured it on his head, and kissed him and said, “The \nd Lord\nd* has anointed you to be a ruler over his people Israel. You will reign over the people of the \nd Lord\nd* and save them from the power of their enemies all around. This will be the sign that the \nd Lord\nd* has anointed you to be a ruler over his heritage:
 \v 2 when you go from me today you will find two men at Rachel's tomb, in the boundary of Benjamin at Zelzah. They will say to you, ‘The donkeys you went to seek are found, and now your father has dismissed the matter of the donkeys and is anxious for you, asking, “What should I do about my son?”’
 \v 3 Then you will go on from there and come to the oak of Tabor. There three men going up to God to Bethel will meet you, one carrying three kids, and another carrying three loaves of bread, and another carrying a skin of wine.
@@ -348,19 +359,20 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 21 He brought the tribe of Benjamin near by their clans, and the clan of the Matrites was picked by lot. He brought near the clan of Matri man by man and Saul the son of Kish was picked, but when they searched for him, him he could not be found.
 \v 22 So they asked of the \nd Lord\nd* further, “Did the man come here?” And the \nd Lord\nd* answered “See, he has hid himself among the baggage.”
 \v 23 Someone ran and brought him from there. When he stood among the people, he was taller than any of the people by a head.
-\v 24 Said Samuel to the the people, “Have you seen this man whom the \nd Lord\nd* has chosen? For there is no one like him among all the people.” All the people shouted loudly, “Long live the king!”
+\v 24 Said Samuel to the people, “Have you seen this man whom the \nd Lord\nd* has chosen? For there is no one like him among all the people.” All the people shouted loudly, “Long live the king!”
 \p
 \v 25 In this way Samuel revealed to the people the manner of the kingdom, and wrote it in a book, and laid it up before the \nd Lord\nd*. Then Samuel sent all the people away, each to [neut:their|masc:his] home.
 \v 26 And Saul also went to his home at Gibeah; and with him went the warriors whose hearts God had touched.
 \v 27 But there were some scoundrels who said, “How can this man save us?” They despised him, and brought him no presents.
 \c 11
+\s Saul the king
 \p
 \v 1 About a month later Nahash the Ammonite came up and besieged Jabesh-gilead. All the men of Jabesh said to Nahash, “Make terms with us and we will serve you.”
 \v 2 But Nahash the Ammonite said to them, “On this condition will I make terms with you: that I gouge out the right eye of each of you and by this bring disgrace on all Israel.”
 \v 3 The elders of Jabesh said to him, “Give us seven days respite, so that we can send messengers through all the territory of Israel. Then if there be no one to save us we will surrender to you.”
 \v 4 So the messengers came to Gibeah of Saul and recounted the facts in the hearing of the people, and all the people wept aloud.
 \p
-\v 6 Saul was just coming from the field, driving the oxen. He said, “What is the trouble with the people? Why are they weeping?” Then they told him the words of the men of Jabesh.
+\v 5 Saul was just coming from the field, driving the oxen. He said, “What is the trouble with the people? Why are they weeping?” Then they told him the words of the men of Jabesh.
 \v 6 The spirit of the \nd Lord\nd* rushed upon Saul when he heard these words, and his anger was greatly aroused.
 \v 7 He took a yoke of oxen, and cut them in pieces, and sent them throughout all the territory of Israel by the hand of messengers, saying, “Whoever does not come out after Saul and after Samuel, so will it be done to his oxen!” Then a terror from the \nd Lord\nd* fell upon the people, and they rallied as one man.
 \p
@@ -408,7 +420,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \p
 \v 2 Saul chose three thousand men of Israel. Two thousand were with Saul in Michmash and on the mountain of Bethel and a thousand were with Jonathan in Gibeah of Benjamin. The rest of the people he sent to their homes.
 \v 3 Jonathan defeated the garrison of the Philistines that was in Geba, and the news reached the Philistines that the Hebrews were in revolt. But Saul had in the meantime caused the trumpet to be blown throughout all the land,
-\v 4 and all Israel heard the news that Saul had defeated the garrison of the Philistines, and also that Israel had brought itself into ill odor with the Philistines. the people were called out to join Saul at Gilgal.
+\v 4 and all Israel heard the news that Saul had defeated the garrison of the Philistines, and also that Israel had brought itself into ill odor with the Philistines. The people were called out to join Saul at Gilgal.
 \p
 \v 5 The Philistines were gathered together to fight with Israel – thirty thousand chariots and six thousand horsemen and fighters as numerous as the sand on the seashore. They came up and encamped in Michmash, east of Beth-aven.
 \v 6 When the Israelites saw that they were in a strait (for the fighters were hard pressed), they hid themselves in caves, in holes, in rocks, in tombs, and in pits.
@@ -441,7 +453,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 5 One crag rose up on the north in front of Michmash, and the other on the south in front of Geba.
 \p
 \v 6 Jonathan said to the young man who bore his [us:armor|cth:armour], “Come, let's go over to the garrison of these uncircumcised Philistines. Perhaps the \nd Lord\nd* will act for us, for there is nothing that can prevent the \nd Lord\nd* from saving by many or by few.”
-\v 7 His [us:armor|cth:armour]-bearer said to him, “Do whatever your judgment dictates. I am with you, your wish is mine.”
+\v 7 His [us:armor|cth:armour]-bearer said to him, “Do whatever your [cth:judgment|us:judgement] dictates. I am with you, your wish is mine.”
 \v 8 Then Jonathan said, “We will pass over to the men and show ourselves to them.
 \v 9 If they say to us, ‘Stand still until we can reach you,’ then we will stand still in our place, and will not go up to them.
 \v 10 But if they say, ‘Come up to us,’ then we will go up; for the \nd Lord\nd* has given them into our hand, and this will be the sign to us.”
@@ -471,7 +483,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 31 But they struck at the Philistines that day from Michmash to Aijalon, and the people were very faint,
 \v 32 and they rushed upon the spoil and took sheep and oxen and calves and slaughtered them on the ground, and the people ate them with the blood.
 \v 33 When Saul was told that the people were sinning against the \nd Lord\nd* in eating with the blood, he said to those who told him, “Treason! Roll a great stone to me.”
-\v 34 And Saul said, “Go out among the people and say to them, ‘Let each man bring to me his ox and his sheep, and slay it here and eat; but do not sin against the \nd Lord\nd* in eating the flesh together with the blood.’ ” All the people brought their oxen that night and slew them there.
+\v 34 And Saul said, “Go out among the people and say to them, ‘Let each man bring to me his ox and his sheep, and slay it here and eat; but do not sin against the \nd Lord\nd* in eating the flesh together with the blood.’” All the people brought their oxen that night and slew them there.
 \v 35 So Saul built an altar to the \nd Lord\nd*. That was the first altar that he built to the \nd Lord\nd*.
 \p
 \v 36 Then Saul said, “Let us go down after the Philistines by night and plunder among them until daybreak, and let us not spare a single man.” They said, “Do whatever you think best,” but the priest said, “Let us first consut God.”
@@ -499,7 +511,7 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \p
 \v 1 Samuel said to Saul, “The \nd Lord\nd* sent me to anoint you to be king over his people Israel. Now listen to the words of the \nd Lord\nd*.
 \v 2 This says the \nd Lord\nd* of armies: ‘I have determined to punish the Amalekites for wha they did to Israel, in opposing them as they came up out of Egypt.
-\v 3 Now go and attack Amalek and utterly destroy all that they have. Spare no one but slay both man and woman, child and infant, ox and sheep, camel and donkey.’ ”
+\v 3 Now go and attack Amalek and utterly destroy all that they have. Spare no one but slay both man and woman, child and infant, ox and sheep, camel and donkey.’”
 \p
 \v 4 So Saul summoned the people and mustered them in Telaim, two hundred thousand foot soldiers and ten thousand from Judah.
 \v 5 When Saul came to the city of Amalek, he lay in wait in the valley.
@@ -538,12 +550,14 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 34 Then Samuel went to Ramah, but Saul went up to his house to Gibeah of Saul.
 \v 35 And Samuel did not see Saul again until the day of his death, for Samuel grieved over Saul. Now the \nd Lord\nd* repented that he had made Saul king over Israel.
 \c 16
+\ms Saul, Jonathan, and David
+\s David at the court of Saul
 \p
 \v 1 The \nd Lord\nd* said to Samuel, “How long will you grieve over Saul, when I have rejected him from being king over Israel? Fill your horn with oil and go. I will send you to Jesse the Bethlehemite, for I have chosen for myself a king among his sons.”
 \v 2 And Samuel said, “How can I go, since Saul will hear of it and kill me?” But the \nd Lord\nd* said, “Take a calf with you and say you have come to sacrifice to the \nd Lord\nd*.
 \v 3 Invite Jesse to the sacrifice, and I will show you what to do, and anoint the man whom I name.”
 \v 4 So Samuel did that which the \nd Lord\nd* had commanded. When he came to Bethlehem, the elders of the city came trembling to meet him and said, “Do you come in peace?”
-\v 6 He said “Yes, I have come to sacrifice to the \nd Lord\nd*. Purify yourselves and rejoiced with me in the sacrifice.” He purified Jesse and his sons and invited them to the sacrifice.
+\v 5 He said “Yes, I have come to sacrifice to the \nd Lord\nd*. Purify yourselves and rejoiced with me in the sacrifice.” He purified Jesse and his sons and invited them to the sacrifice.
 \p
 \v 6 When they came and he saw Eliab, he said, “Surely the \nd Lord\nd*'s annointed is now in presence.”
 \v 7 But the \nd Lord\nd* said to Samuel, “Pay no attention to his appearance or to the height of his stature, because I have rejected him. The \nd Lord\nd* does not see as humans see, for they look on the outward appearance, but the \nd Lord\nd* looks at the heart.”
@@ -669,13 +683,13 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 24 The servants of Saul reported back what David had said.
 \v 25 And Saul said, “Tell David: The king desires no bride-price, but a hundred foreskins of the Philistines, in order to take vengeance on the king's enemies.” Saul thought to make David fall by the hand of the Philistines.
 \v 26 When his servants told David these words, David was well pleased with the prospect of being the king's son-in-law. Before the appointed time,
-\p
 \v 27 he arose and went together with his men and slew a hundred Philistines. He brought their foreskins and gave them in full to the king, in order to become the king's son-in-law. So Saul gave him Michal his daughter as wife.
 \v 28 When Saul saw and knew that the \nd Lord\nd* was with David and his daughter Michal loved him,
 \v 29 Saul feared David still more, and from that time was David's enemy.
 \p
 \v 30 The Philistine commanders continued to come out to battle, and as often as they came out, David acted more wisely and with greater success than all the servants of Saul, so that his name was held in high repute.
 \c 19
+\s David flees Saul
 \p
 \v 1 Saul commanded Jonathan his son and all his servants to put David to death. But Jonathan, Saul's son, was very fond of David,
 \v 2 and told David, “Saul my father is seeking to put you to death. Now, I beg you, take care in the morning and stay in concealment and hide yourself.
@@ -705,7 +719,8 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 23 But on his journey to Naioth in Ramah, the spirit of God also came upon him, and he went along prophesying, until he came to Naioth in Ramah.
 \v 24 He too stripped off his clothes and prophesied before Samuel, and lay naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”
 \c 20
-\v 1 \p David fled from Naioth in Ramah. He came to Jonathan and said, “What have I done? What is my guilt? What is my sin against your father, that he is seeking my life?”
+\p
+\v 1 David fled from Naioth in Ramah. He came to Jonathan and said, “What have I done? What is my guilt? What is my sin against your father, that he is seeking my life?”
 \v 2 He replied to him, “Far from it! You will not die. See, my father does nothing great or small, but that he discloses it to than me; and why should my father hide this from me? It can't be true!”
 \v 3 David answered, “Your father well knows that I have found [cth:favour|us:favor] in your eyes, and he is saying to himself, ‘Let not Jonathan know this or he will be pained.’ Nevertheless as surely as the \nd Lord\nd* lives, and as you live, there is but a step between me and death.”
 \v 4 Then Jonathan said to David, “What do you want me to do for you?”
@@ -714,7 +729,8 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 7 If he says ‘Good,’ then it is well with your servant, but if it arouses his anger, then know that he intends evil on me.
 \v 8 Now deal kindly with your servant, for you have brought your servant into a sacred covenant with you. If there is guilt in me, slay me yourself, for why should you bring me to your father?”
 \v 9 And Jonathan said, “No! For if I should learn that my father had determined that evil should come upon you, I would tell you.”
-\v 11 Then David said to Jonathan, “Who will tell me, if your father answers you harshly?” And Jonathan replied to David, “Come, and let us go out into the field.” So the two of them went out into the field.
+\v 10 Then David said to Jonathan, “Who will tell me, if your father answers you harshly?”
+\v 11 And Jonathan replied to David, “Come, and let us go out into the field.” So the two of them went out into the field.
 \v 12 And Jonathan said to David, “The \nd Lord\nd*, the God of Israel, be witness that I will sound my father about this time tomorrow or the next day, and if is well disposed toward David, then I will send and disclose it to you.
 \v 13 May God do to Jonathan whatever he will, should my father be disposed to do you evil, and I disclose it not to you and send you away that you may go in peace. May the \nd Lord\nd* be with you, as he has been with my father.
 \v 14 If I am yet alive, show me the kindness of the \nd Lord\nd*! But if I should die,
@@ -727,18 +743,21 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 21 Then I will send the boy, saying, ‘Go, find the arrows.’ If I say to the boy, ‘See, the arrows are on this side of you, pick them up!’ – then come; for it is safe for you, and, as the \nd Lord\nd* lives, there is no danger.
 \v 22 But if I say to the boy, ‘See, the arrows are beyond you,’, go, for then the \nd Lord\nd* sends you away.
 \v 23 As to the word which you and I have spoken, behold, the \nd Lord\nd* is witness between you and me forever.
-\v 24 \p So David hid himself in the field; and when the new moon came, the king sat down at the table to eat.
+\p
+\v 24 So David hid himself in the field; and when the new moon came, the king sat down at the table to eat.
 \v 25 The king sat upon his seat as usual, on the seat by the wall, with Jonathan opposite, and Abner sat by Saul's side; but David's place was empty.
 \v 26 Nevertheless Saul did not say anything that day, for he thought, ‘It is an accident, he is not ceremonially clean, for he has not been cleansed.’
 \v 27 But when on the day following the new moon, David's place was empty, Saul said to Jonathan his son, “Why has not the son of Jesse come to the meal, either yesterday or today?”
 \v 28 And Jonathan answered Saul, “David urgently asked leave of me to go to Bethlehem,
 \v 29 for he said, ‘Let me go, since our family has a sacrifice in the city; and my brothers have commanded me. Now if I have found [cth:favour|us:favor] in your sight, let me slip away and see my brothers.’ Hence he has not come to the king's table.”
-\v 30 \p Then Saul's anger was kindled against Jonathan, and he said to him, “Son of a depraved woman! Don't I know that you are associated with the son of Jesse to your own shame and to the shame of your mother's nakedness?
+\p
+\v 30  Then Saul's anger was kindled against Jonathan, and he said to him, “Son of a depraved woman! Don't I know that you are associated with the son of Jesse to your own shame and to the shame of your mother's nakedness?
 \v 31 For as long as the son of Jesse lives on the earth, neither you nor your kingdom will be established. Now send and bring him to me, for he is doomed to die.”
 \v 32 Then Jonathan answered Saul his father “Why should he be put to death? What has he done?”
 \v 33 But Saul lifted up his spear at him to strike him. So Jonathan knew that his father had determined to put David to death.
 \v 34 Jonathan rose from the table in hot anger and ate no food the second day of the month, for he was grieved for David, because his father reviled him.
-\v 35 \p In the morning Jonathan went out into the field at the time appointed with David, and a little boy with him.
+\p
+\v 35 In the morning Jonathan went out into the field at the time appointed with David, and a little boy with him.
 \v 36 He said to his boy, “Run, find and the arrows which I shoot.” As the boy ran, he shot an arrow beyond him.
 \v 37 When the boy came to the place where the arrow which Jonathan had shot lay, Jonathan cried after the boy, and said, “Isn't the arrow beyond you?”
 \v 38 Jonathan cried after the boy, “Hurry, quick, do not stop!” So Jonathan's boy gathered up the arrows, and brought them to his master.
@@ -747,13 +766,15 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 41 As soon as the lad had gone, David rose from beside the stone heap, and fell on his face to the ground and prostrated himself three times, and they kissed each other and wept at length with each other.
 \v 42 Then Jonathan said to David, “Go in peace! As to what we two have sworn in the name of the \nd Lord\nd* – the \nd Lord\nd* will be between me and you and between my descendants and your descendants forever.” Then David rose and departed and Jonathan went into the city.
 \c 21
-\v 1 \p David came to Nob, to Ahimelech the priest. Ahimelech came trembling to meet David and said to him, “Why are you alone and no one with you?”
+\p
+\v 1 David came to Nob, to Ahimelech the priest. Ahimelech came trembling to meet David and said to him, “Why are you alone and no one with you?”
 \v 2 David answered Ahimelech the priest, “The king has entrusted me with a matter and has said to me, ‘Let no one know anything about the matter upon which I am sending you and which I have commanded you.’ I have directed the young men to meet me at a certain place.
 \v 3 Now if you have five loaves of bread at hand, or whatever can be found, give it to me.”
 \v 4 The priest answered David, “There is no ordinary bread at hand. There is holy bread, but only if the young men have kept themselves from women.”
 \v 5 David answered the priest, “Women have been kept from us, as always when I set out on an expedition. The weapons of the young men were consecrated even on an ordinary journey; how much more then today will their weapons be holy!”
 \v 6 So the priest gave him holy bread, for there was no bread there but the bread of the Presense, that was taken from before the \nd Lord\nd* in order to put hot bread there the day it was taken away.
-\v 7 \p (Now one of the servants of Saul was there that day, detained before the \nd Lord\nd*. His name was Doeg, an Edomite, the chief of Saul's herdsmen.)
+\p
+\v 7 (Now one of the servants of Saul was there that day, detained before the \nd Lord\nd*. His name was Doeg, an Edomite, the chief of Saul's herdsmen.)
 \v 8 David said to Ahimelech, “Have you not here at hand a spear or sword? For I brought neither my sword nor my weapons with me, because the king's matter required haste.”
 \v 9 The priest said, “The sword of Goliath the Philistine, whom you slew in the valley of Elah, is here, wrapped in a garment behind the ephod. If you wish to take that, take it, for there is no other except that here.” And David said, “There is none like that, give it to me.”
 \v 10 Then David rose and fled that day from before Saul, and went to Achish the king of Gath.
@@ -761,22 +782,26 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \q Saul has slain his thousands,
 \q But David his ten thousands?”
 \b
-\v 12 \m David took these words to his heart and was greatly afraid of Achish the king of Gath.
+\m
+\v 12 David took these words to his heart and was greatly afraid of Achish the king of Gath.
 \v 13 He pretended to be insane before them, and raved in their hands and drummed on the doors and let his spittle run down his beard.
 \v 14 Achish said to his servants, “You see plainly that the man is mad; why do you bring him to me?
 \v 15 Do I lack madmen that you have brought this fellow to act the madman in my presence? Should this one come into my house?”
 \c 22
-\v 1 \p So David left there and escaped to the cave of Adullam. When his brothers and all his father's clan heard of it, they went down there to him.
+\p
+\v 1 So David left there and escaped to the cave of Adullam. When his brothers and all his father's clan heard of it, they went down there to him.
 \v 2 Everyone who was in distress, and everyone who was in debt, and everyone who was embittered gathered about him, and he became their leader. There were about four hundred men with him.
 \v 3 David went from there to Mizpeh in Moab. He said to the king of Moab, “Let my father and my mother shelter with you, until I know what God will do for me.”
 \v 4 He left them in the presences of the king of Moab, and they stayed with him all the while that David was in the stronghold.
 \v 5 Then the prophet Gad said to David, “Do not remain in the stronghold. Depart and go to the land of Judah.” So David left and went into the forest of Hereth.
-\v 6 \p When Saul heard that David and the men with him were discovered, he was sitting in Gibeah, under the tamarisk tree on the high place, with his spear in his hand, and all his servants standing about him.
+\p
+\v 6 When Saul heard that David and the men with him were discovered, he was sitting in Gibeah, under the tamarisk tree on the high place, with his spear in his hand, and all his servants standing about him.
 \v 7 Saul said to his servants who were standing before him, “Listen Benjamites! Will the son of Jesse give you all fields and vineyards? Will he make you all commanders of thousands and commanders of hundreds?
 \v 8 Is that why all of you have conspired against me, and no one discloses to me that my son has made a covenant with the son of Jesse, and none of you has pity on me or discloses to me that my son has stirred up my servant to be an enemy against me, as is now the case?”
 \v 9 Then Doeg the Edomite, who was standing by the servants of Saul, answered, “I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.
-\v 19 He inquired of the \nd Lord\nd* for him and gave him provisions and the sword of Goliath the Philistine.”
-\v 11 \p Then the king summoned Ahimelech the priest, the son of Ahitub, and all his father's house, the priests who were in Nob, and they came all of them to the king.
+\v 10 He inquired of the \nd Lord\nd* for him and gave him provisions and the sword of Goliath the Philistine.”
+\p
+\v 11 Then the king summoned Ahimelech the priest, the son of Ahitub, and all his father's house, the priests who were in Nob, and they came all of them to the king.
 \v 12 Saul said, “Listen, son of Ahitub!” He answered, “Here am I, my lord!”
 \v 13 And Saul said to him, “Why have you conspired against me with the son of Jesse, in that you have given him bread and a sword and have inquired of God for him, so that he should rise against me as an enemy, as is now the case?”
 \v 14 Then Ahimelech answered the king, “But who among all your servants is like David, trusted and the king's son-in-law and captain over your retainers and [us:honored|cth:honoured] in your household?
@@ -785,17 +810,20 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 17 The king said to the runners who stood before him, “Turn about and slay the priests of the \nd Lord\nd*, for their hand also was with David, and, although they knew that he was fleeing, they did not disclose it to me.” But the servants of the king would not put forth their hands to strike down the priests of the \nd Lord\nd*.
 \v 18 Then the king said to Doeg, “Turn and strike down the priests.” And Doeg the Edomite turned and himself struck down the priests. So he slew on that day eighty-five men who wore the ephod.
 \v 19 The priestly city Nob he put to the sword, both men and women, children and infants, oxen and donkeys and sheep.
-\v 20 \p One of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped and fled to David.
+\p
+\v 20 One of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped and fled to David.
 \v 21 And Abiathar told David that Saul had slain the priests of the \nd Lord\nd*.
 \v 22 David said to Abiathar, “I knew that day, because Doeg the Edomite was there, that he would surely tell Saul. I myself am guilty of all the lives of your clan.
 \v 23 Remain with me, fear not; for whoever seeks your life must also seek mine. You will be safe with me.”
 \c 23
-\v 1 \p David was told that Philistines were fighting against Keilah and are robbing the threshing floors.
+\p
+\v 1 David was told that Philistines were fighting against Keilah and are robbing the threshing floors.
 \v 2 David inquired of the \nd Lord\nd*, “Should I go and attack these Philistines?” And the \nd Lord\nd* said to David, “Go, attack the Philistines, and save Keilah.”
 \v 3 But David's men said to him, “Behold we are afraid here in Judah. How much more then if we go to Keilah against the armies of the Philistines?”
 \v 4 Then David inquired of the \nd Lord\nd* yet again. And the \nd Lord\nd* answered him, “Arise, go down to Keilah, for I will deliver the Philistines into your hand.”
 \v 5 So David and his men went to Keilah, and fought with the Philistines and drove away their cattle, inflicting heavy losses on them. In this way David delivered the inhabitants of Keilah.
-\v 6 \p When Abiathar the son of Ahimelech fled to David at Keilah, he came down with the ephod in his hand.
+\p
+\v 6 When Abiathar the son of Ahimelech fled to David at Keilah, he came down with the ephod in his hand.
 \v 7 When Saul was told that David had come to Keilah, Saul said, “God has sold him into my hand, for he has entrapped himself in entering into a town that has doors and bars.”
 \v 8 And Saul summoned all the people to war, to go down to Keilah, to besiege David and his men.
 \v 9 When David knew that Saul was devising evil against him, he said to Abiathar the priest, “Bring here the ephod.”
@@ -804,23 +832,27 @@ Now in those days the Philistines assembled to make war against Israel. Israel w
 \v 12 Then David said, “Will the men of Keilah deliver me and my men into the hand of Saul?” And the \nd Lord\nd* said, “They will deliver you up.”
 \v 13 Then David and his men, who were about six hundred, arose and departed from Keilah, and moving from place to place. When it was reported to Saul that David had escaped from Keilah, he abandoned his expedition.
 \v 14 So David stayed in the wilderness in the strongholds and remained in the hill-country in the Wilderness of Ziph. Saul sought him continually, but the \nd Lord\nd* did not deliver him into his hand.
-\v 15 \p Now David saw that Saul had come out to seek his life. At that time, he was in the Wilderness of Ziph in Horesha.
+\p
+\v 15 Now David saw that Saul had come out to seek his life. At that time, he was in the Wilderness of Ziph in Horesha.
 \v 16 And Jonathan, Saul's son, came to David in Horesha and strengthened his hand in God.
 \v 17 He said to him, “Fear not, for the hand of Saul my father will not find you, and you will be king over Israel and I will be next to you. This Saul my father well knows.”
 \v 18 The two of them made a covenant before the \nd Lord\nd*, and David stayed in Horesha, and Jonathan returned home.
-\v 19 \p Then the Ziphites came up to Saul to Gibeah, saying, “Is not David hiding himself with us in the strongholds in Horesha, in the hill of Hachilah, which is to the south of Jeshimon?
+\p
+\v 19 Then the Ziphites came up to Saul to Gibeah, saying, “Is not David hiding himself with us in the strongholds in Horesha, in the hill of Hachilah, which is to the south of Jeshimon?
 \v 20 Now therefore, O king, according to all your heart's desire, come down, and it will be our part to deliver him into the king's hand.”
 \v 21 Then Saul said, “Blessed may you be of the \nd Lord\nd*, for you have had compassion on me.
 \v 22 Go, I pray, make yet more sure, and know and see the place where his haunt is and who has seen him there, for I am told that he is very cunning.
 \v 23 See therefore, and gain knowledge of all the lurking-places where he hides, and return to me, with sure information, and I will go with you, and, if he be in the land, I will search him out of all the thousands of Judah.”
-\v 24 \p So they arose and went to Ziph before Saul. But David and his men were in the Wilderness of Maon, in the Arabah to the south of Jeshimon.
+\p
+\v 24 So they arose and went to Ziph before Saul. But David and his men were in the Wilderness of Maon, in the Arabah to the south of Jeshimon.
 \v 25 When Saul and his men went to seek him, David found out and he went down to the rock which is in the Wilderness of Maon. When Saul heard, he pursued after David in the Wilderness of Maon.
 \v 26 Saul went on the one side of the mountain and David and his men on the other side of the mountain. David was anxiously trying to escape from Saul, for Saul and his men were about to surround David and his men, to seize them,
-v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines have made a raid upon the land.”
+\v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines have made a raid upon the land.”
 \v 28 So Saul returned from pursuing after David and went against the Philistines. This is why they call that place the Rock of Divisions.
 \v 29 David went up from there, and stayed in the strongholds of En-gedi.
 \c 24
-\v 1 \p When Saul returned from following the Philistines, he was told, “David is in the Wilderness of En-gedi.”
+\p
+\v 1 When Saul returned from following the Philistines, he was told, “David is in the Wilderness of En-gedi.”
 \v 2 So Saul took three thousand men chosen from all Israel and went to seek David and his men upon the Wild Goats' Crags.
 \v 3 He came to the sheepfolds by the way, and there was a cave. And Saul went in to relieve himself, while David and his men were staying in the recesses of the cave.
 \v 4 The men of David said to him, “See this is the day of which the \nd Lord\nd* said to you, ‘Behold, I give your enemy into your hand and you will do to him as you please.’” Then David arose, and secretly cut off the skirt of Saul's robe.
@@ -828,7 +860,7 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \v 6 He said to his men, “The \nd Lord\nd* forbid that I should do this thing to my lord, the \nd Lord\nd*'s anointed, to lift my hand against him, since he is the \nd Lord\nd*'s anointed.”
 \v 7 So David upbraided his men with these words, and did not permit them to attack Saul. When Saul rose from the cave and went on his way,
 \v 8 David also rose after him and went from the cave and cried after Saul, saying, “My lord the king.” When Saul looked behind him, David bowed his face to the earth, and did obeisance.
-\v 9 And David said to Saul, “Why did you listen to the words of the men who said, 'See, David seeks to harm you?’
+\v 9 And David said to Saul, “Why did you listen to the words of the men who said, ‘See, David seeks to harm you?’
 \v 10 Today your eyes see that the \nd Lord\nd* gave you into my hand in the cave, but I refused to kill you and had pity on you, and I said, ‘I will not lift my hand against my lord, for he is the \nd Lord\nd*'s anointed.’
 \v 11 Moreover, my father, see the corner of your robe in my hand, for in that I cut off the corner of your robe and did not kill you, know and see that there is neither evil nor guilt on my hands, and I have not sinned against you, though you are aiming to take my life.
 \v 12 May the \nd Lord\nd* judge between me and you, but my hand will not be against you.
@@ -838,7 +870,8 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \m But my hand will not be raised against you.
 \v 14 After whom is the king of Israel come out? After whom are you pursuing? After a dead dog? After a flea?
 \v 15 The \nd Lord\nd* therefore be judge and decide between me and you and see and plead my cause and obtain justice for me from you.”
-\v 16 \p Now when David had finished speaking these words to Saul, Saul said, “Is this not your voice, my son David?” Then Saul lifted up his voice and wept.
+\p
+\v 16 Now when David had finished speaking these words to Saul, Saul said, “Is this not your voice, my son David?” Then Saul lifted up his voice and wept.
 \v 17 He said to David, “You are more righteous than I, for you have done to me that which is good, while I have done to you that which is evil.
 \v 18 You have done great good to me in that today, when the \nd Lord\nd* had shut me up in your hand, you did not kill me.
 \v 19 For when a man finds his enemy, does he send him on his way safe and sound? Therefore may the \nd Lord\nd* reward you richly for what you have done to me this day.
@@ -846,7 +879,8 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \v 21 Swear now therefore to me by the \nd Lord\nd*, that you will not cut off my descendants after me and that you will not destroy my name from my father's house.”
 \v 22 So David took oath to Saul. And Saul went to his home, but David and his men went up to the stronghold.
 \c 25
-\v 1 \p Samuel died; and all Israel gathered themselves together, and lamented him, and buried him in his house at Ramah.
+\p
+\v 1 Samuel died; and all Israel gathered themselves together, and lamented him, and buried him in his house at Ramah.
 \p Then David arose and went into the Wilderness of Maon.
 \v 2 There was a man in Maon, whose business was in Carmel. The man was very rich, and he had three thousand sheep and a thousand goats, and he was shearing his sheep in Carmel.
 \v 3 The man's name was Nabal, and his wife's name was Abigail. The woman was sensible and beautiful, but the man was rough and ill-mannered. He was a Calebite.
@@ -855,108 +889,133 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \v 6 and say to him and to his clan, ‘Peace be to you and your house and all that you have.
 \v 7 Now I have heard that you have shearers. Your shepherds were with us, and we did not jeer at them, and nothing of theirs was missing all the while they were in Carmel.
 \v 8 Ask your young men and they will tell you. Therefore let the young men find [us:favor|cth:favour] in your eyes, for we have come on a feast day. Give, therefore, whatever you have at hand to your servants and to your son David.’”
-\v 9 \p When David's young men came, they spoke to Nabal in the name of David and waited as directed.
+\p
+\v 9 When David's young men came, they spoke to Nabal in the name of David and waited as directed.
 \v 10 But Nabal answered David's servants, “Who is David? Who is the son of Jesse? Many are the slaves these days who break away, each from his master!
 \v 11 Should I then take my bread and my water and my meat that I have butchered for my shearers, and give it to men of whom I know not where they came from?”
 \v 12 So David's young men turned back on their way, and came and reported all these words to him.
 \v 13 And David said to his men, “Let every man buckle on his sword.” Each man buckled on his sword. And David also buckeled on his sword, and there went up after David about four hundred men while two hundred remained with the baggage.
-\v 14 \p But one of the young men had told Abigail, Nabal's wife, “David has just sent messengers from the wilderness to salute our master, and he railed at them.
+\p
+\v 14 But one of the young men had told Abigail, Nabal's wife, “David has just sent messengers from the wilderness to salute our master, and he railed at them.
 \v 15 But the men have been very good to us and we have not been jeered at nor have we missed anything, as long as we went with them, when we were in the fields.
 \v 16 They were a wall about us both by night and by day all the while we were with them keeping the sheep.
 \v 17 Now therefore know and consider what you will do, for evil is determined against our master and against all his house, for he is such a base scoundrel that no one speak to him.”
-\v 18 \p Then Abigail quickly took two hundred loaves of bread and two skins of wine and five roasted sheep and five mesures of parched grain and a hundred bunches of raisins and two hundred cakes of figs and laid them on donkeys.
+\p
+\v 18 Then Abigail quickly took two hundred loaves of bread and two skins of wine and five roasted sheep and five mesures of parched grain and a hundred bunches of raisins and two hundred cakes of figs and laid them on donkeys.
 \v 19 She said to her young men, “Go on before me, I am coming after you.” But she said nothing about it to her husband Nabal.
 \v 20 Just as she was riding on the donkey and coming down under cover of the mountain, David and his men were also coming down toward her, so that she met them.
 \v 21 Now David had said, “Surely for nothing did I guard all that belongs to this fellow in the wilderness, so that nothing of all that belongs to him was missing, for he has returned me evil for good.
 \v 22 God do whatever he will to David, if I leave by daybreak of all who belong to him as much as a single man.”
-\v 23 \p When Abigail saw David, she alighted quickly from her donkey and fell on her face before David and bowed to the ground.
+\p
+\v 23 When Abigail saw David, she alighted quickly from her donkey and fell on her face before David and bowed to the ground.
 \v 24 She fell at his feet and said, “Upon me, my lord, upon me be the guilt. Only let your maid-servant speak in your ears, and heed the words of your servant.
 \v 25 Let not my lord pay any attention to that base scoundrel, Nabal, for as his name is, so is he, ‘Reckless Fool,’ is his name and folly is his master, but your maid-servant didn't see the young men of my lord, whom you sent.
-\v 26 \p Now my lord, as the \nd Lord\nd* lives and as you live, since the \nd Lord\nd* has kept you from committing an act of bloodshed and from delivering yourself by your own hand – and may your enemies and those who seek to do evil to my lord be as Nabal –
+\p
+\v 26 Now my lord, as the \nd Lord\nd* lives and as you live, since the \nd Lord\nd* has kept you from committing an act of bloodshed and from delivering yourself by your own hand – and may your enemies and those who seek to do evil to my lord be as Nabal –
 \v 27 let this present, which your servant has brought to my lord, be given to the young men who follow my lord
 \v 28 Forgive, I pray the trespass of your servant, for the \nd Lord\nd* will certainly make for my lord a secure house, for my lord is fighting the wars of the \nd Lord\nd*, and no evil will be found in you as long as you live.
 \v 29 Should a man rise up to pursue you and to seek your life, the life of my lord will be bound in the bundle of the living in the care of the \nd Lord\nd* your God, but the lives of your enemies will he sling out as from the hollow of a sling.
 \v 30 When the \nd Lord\nd* has done to my lord all the good that he has promised you and has made you prince over Israel,
 \v 31 then this will not be a qualm or a burden on the conscience of my lord, that you have shed blood without cause or that my lord has delivered himself by his own hand. When the \nd Lord\nd* gives prosperity to my lord, then remember your servant.”
-\v 32 \p David said to Abigail, “Blessed be the \nd Lord\nd*, the God of Israel, who sent you this day to meet me,
+\p
+\v 32 David said to Abigail, “Blessed be the \nd Lord\nd*, the God of Israel, who sent you this day to meet me,
 \v 33 and blessed be your discretion, and blessed be you yourself, who have kept me this day from committing an act of bloodshed and from avenging myself by my own hand.
 \v 34 For as sure as the \nd Lord\nd*, the God of Israel, lives, who has kept me from doing you harm, except you had quickly come to meet me, surely there would not have been left to Nabal by daybreak so much as one man.”
 \v 35 So David received from her hand that which she had brought him, and to her he said, “Go up in peace to your house. See, I have heeded your advice, and granted your request.”
-\v 36 \p But when Abigail came to Nabal, he was just having a banquet in his house, like a king. And Nabal's heart was merry within him, for he was very drunk, so that she did not tell him anything at all until day break.
+\p
+\v 36 But when Abigail came to Nabal, he was just having a banquet in his house, like a king. And Nabal's heart was merry within him, for he was very drunk, so that she did not tell him anything at all until day break.
 \v 37 But then in the morning when the effects of the wine were gone from Nabal, his wife told him these things, and his heart died within him and he became a stone.
 \v 38 At the end of about ten days the \nd Lord\nd* struck Nabal, so that he died.
-\v 39 \p Now when David heard that Nabal was dead, he said, “Blessed be the \nd Lord\nd* who has avenged the case of my insult at the hand of Nabal and has kept back his servant from evil. The evil-doing of Nabal the \nd Lord\nd* brought back upon his own head.” then David sent and wooed Abigail to take her to him to be his wife.
-\v 40 \p When the servants of David came to Abigail at Carmel and said to her, “David has sent us to you to take you to him to be his wife,” she arose and bowed with her face to the earth and said, “See, your slave is willing to be a servant to wash the feet of my lord's servants.”
+\p
+\v 39 Now when David heard that Nabal was dead, he said, “Blessed be the \nd Lord\nd* who has avenged the case of my insult at the hand of Nabal and has kept back his servant from evil. The evil-doing of Nabal the \nd Lord\nd* brought back upon his own head.” Then David sent and wooed Abigail to take her to him to be his wife.
+\p
+\v 40 When the servants of David came to Abigail at Carmel and said to her, “David has sent us to you to take you to him to be his wife,”
+\v 41 She rose and bowed with her face to the earth and said, “See, your slave is willing to be a servant to wash the feet of my lord's servants.”
 \v 42 Abigail quickly arose and mounted an donkey, and five maids followed as servants. So she accompanied the messengers of David and became his wife.
-\v 43 \p David also took Ahinoam of Jezreel, and they both became his wives.
+\p
+\v 43 David also took Ahinoam of Jezreel, and they both became his wives.
 \v 44 But Saul had given Michal his daughter, David's wife, to Palti the son of Laish to Gallim.
 \c 26
-\v 1 \p Then the Ziphites came to Saul at Gibeah, saying, “David is hiding in the hill of Hachilah, which is east of the desert.”
+\p
+\v 1 Then the Ziphites came to Saul at Gibeah, saying, “David is hiding in the hill of Hachilah, which is east of the desert.”
 \v 2 Accordingly Saul arose, and went down to the Wilderness of Ziph, with three thousand men of Israel, to seek David in the Wilderness of Ziph.
 \v 3 Saul encamped beside the road on the hill of Hachilah overlooking Jeshimon. But David remained in the wilderness. When he saw that Saul was pursuing him into the wilderness,
 \v 4 David sent out spies and learned that Saul had come there after him,
 \v 5 so he arose and came to the place where Saul had encamped. And David saw the place where Saul lay, with Abner the son of Ner, the commander of his army. Saul lay within the barricade, and the people were encamped around about him.
-\v 6 \p Then David spoke to Ahimelech the Hittite and to Abishai the son Zeruiah, Joab's brother, saying, “Who will go down with me into the camp to Saul?” And Abishai said, “I will go down with you.”
+\p
+\v 6 Then David spoke to Ahimelech the Hittite and to Abishai the son Zeruiah, Joab's brother, saying, “Who will go down with me into the camp to Saul?” And Abishai said, “I will go down with you.”
 \v 7 So David and Abishai went to the army by night. Saul was lying there asleep within the barricade, with his spear stuck into the earth at his head, with Abner and the people lying around about him.
 \v 8 Abishai said to David, “God has delivered your enemy into your hand today. Now therefore let me strike him with his spear to the earth at one stroke, and I will not need to strike him twice!”
 \v 9 But David said to Abishai, “Do not destroy him, for who can lay his hand upon the \nd Lord\nd*'s anointed and be innocent?”
 \v 10 David said, “As the \nd Lord\nd* lives, either the \nd Lord\nd* will strike him, or his day will come to die, or he will go down into battle and be destroyed.
 \v 11 The \nd Lord\nd* forbid that I should lift my hand against the \nd Lord\nd*'s anointed, but now take the spear that is at his head and the jug of water and let us go.”
 \v 12 So David took the spear and the jug of water from Saul's head and they departed. No man saw it of knew it neither did any awake, for they were all asleep because a deep sleep from the \nd Lord\nd* had fallen upon them.
-\v 13 \p Then David went over to the other side and stood on the top of a mountain at a distance, a great space being between them.
+\p
+\v 13 Then David went over to the other side and stood on the top of a mountain at a distance, a great space being between them.
 \v 14 And David cried to the army and to Abner, the son of Ner, “Do you make no answer Abner?” Then Abner answered, “Who are you that calls to the king?”
 \v 15 And David said to Abner, “Are you not a man? Who is like you in Israel? Why then have you not kept guard over your lord the king? For one of the people came to destroy your lord.
 \v 16 This that you have done is not good. As the \nd Lord\nd* lives, you are deserving death, because you have not kept watch over your lord, the \nd Lord\nd*'s anointed. Now see where the king's spear is and the jug of water that was at his head.”
 \v 17 Then Saul [us:recognized|cth:recognised] David's voice and said, “Is this your voice, my son David?” And David said, “It is my voice, my lord the king.”
 \v 18 He said, “Why is my lord pursuing his servant? For what have I done? Or of what kind of evil have I been guilty?
-\v 19 Now therefore let my lord the king hear the words of his servant. If the \nd Lord\nd* has stirred you up against me, let him accept an offering, but if it was men, cursed be they before the \nd Lord\nd*, for they have driven me out today, so that I have no part in the inheritance of the \nd Lord\nd*, saying, 'Go serve other gods.'
+\v 19 Now therefore let my lord the king hear the words of his servant. If the \nd Lord\nd* has stirred you up against me, let him accept an offering, but if it was men, cursed be they before the \nd Lord\nd*, for they have driven me out today, so that I have no part in the inheritance of the \nd Lord\nd*, saying, ‘Go serve other gods.’
 \v 20 Now therefore, may my blood not fall to the earth far away from the presence of the \nd Lord\nd*, for the king of Israel has come out to look for a flea, as one hunts a partridge on the mountains.”
-\v 21 \p Then Saul said, “I have done wrong. Return, my son David, for I will do you no more harm, because my life was regarded as sacred by you today. I have acted foolishly and have erred exceedingly.”
+\p
+\v 21 Then Saul said, “I have done wrong. Return, my son David, for I will do you no more harm, because my life was regarded as sacred by you today. I have acted foolishly and have erred exceedingly.”
 \v 22 And David answered, “There is the king's spear! Let one of the young men come over and take it.
 \v 23 And the \nd Lord\nd* will reward each man's righteousness and fidelity, for the \nd Lord\nd* delivered you into my hand today, but I would not raise my hand against the \nd Lord\nd*'a anointed.
 \v 24 Just as your life was today of great value in my sight, so may my life be of great value in the \nd Lord\nd*'s sight, and let him deliver me out of all affliction.”
 \v 25 Then Saul said to David, “Be blessed, my son David; you will do great things and will surely succeed!” So David went his way, but Saul returned to his place.
 \c 27
-\v 1 \p Then David said to himself, “I will be destroyed some day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines. Then Saul will despair of seeking me any longer in all the territory of Israel, and I will escape from his hand.”
+\s David among the Philistines
+\p
+\v 1 Then David said to himself, “I will be destroyed some day by the hand of Saul. There is nothing better for me than that I should escape into the land of the Philistines. Then Saul will despair of seeking me any longer in all the territory of Israel, and I will escape from his hand.”
 \v 2 So David set out, together with the six hundred men who were with him, to Achish the son of Maoch, king of Gath.
 \v 3 David stayed with Achish at Gath, together with his men, each with his household and David with his two wives, Ahinoam the Jezreelite and Abigail the Carmelite, Nabal's widow.
 \v 4 When Saul was informed that David had fled to Gath, he sought him no more.
-\v 5 \p David Said to Achish, “If now I have found [us:favor|cth:favour] in your sight, let a place in one of the towns in the open country be given me, that I may live there, for why should your servant live in the royal city with you?”
+\p
+\v 5 David Said to Achish, “If now I have found [us:favor|cth:favour] in your sight, let a place in one of the towns in the open country be given me, that I may live there, for why should your servant live in the royal city with you?”
 \v 6 So Achish gave him Ziklag at that time, therefore Ziklag belongs to the kings of Judah to this day.
 \v 7 The length of the time that David lived in the open country of the Philistines was a year and four months.
-\v 8 \p David and his men went up, and made a raid upon the Geshurites, the Girzites, and the Amalekites, for these tribes live in the land which extends from Telem as far as Shur, all the way down to Egypt.
+\p
+\v 8 David and his men went up, and made a raid upon the Geshurites, the Girzites, and the Amalekites, for these tribes live in the land which extends from Telem as far as Shur, all the way down to Egypt.
 \v 9 As often as David struck the land, he did not leave alive man or woman, but taking the sheep, the oxen, the asses, the camels, and the clothing, he returned and came to Achish.
 \v 10 When Achish said, “Where have you made a raid today?” David answered, “Against the Negreb of Judah”, or “against the Negreb of the Jerahmeelites”, or “against the Negreb of the Kenites.”
 \v 11 But David never left alive man or woman, to bring them to Gath, for he thought, “They might give information against us and say, ‘David has done this, or that.’” Such was his custom all the while he lived in the open country of the Philistines.
 \v 12 And Achish trusted David, thinking, “He has brought himself into ill [us:odor|cth:odour] with his people Israel, therefore he will be my servant forever.”
 \c 28
-\v 1 \p Now in those days the Philistines assembled their forces to make a campaign against Israel. Achish said to David, “You know thqt you must, together with your men,  go with me along with the forces.”
+\p
+\v 1 Now in those days the Philistines assembled their forces to make a campaign against Israel. Achish said to David, “You know thqt you must, together with your men,  go with me along with the forces.”
 \v 2 David said to Achish, “Good, you will now know what your servant can do.” And Achish said to David, “I will make you my bodyguard from this time on.”
-\v 3 \p Now Samuel had died and all Israel had lamented for him and buried him in Ramah, his own city. And Saul had banished the mediums and magicians out of the land.
+\p
+\v 3 Now Samuel had died and all Israel had lamented for him and buried him in Ramah, his own city. And Saul had banished the mediums and magicians out of the land.
 \v 4 When the Philistines assembled and came and encamped in Shunem, Saul assembled all Israel, and they encamped in Gilboa.
 \v 5 When Saul saw the army of the Philistines, he was afraid and his heart was filled with apprehension.
 \v 6 Saul inquired of the \nd Lord\nd*, but the \nd Lord\nd* did not answer him either by dreams or by Urim or by prophets.
 \v 7 Then Saul said to his servants, “Find for me a woman who is a medium so that I may go to her and inquire through her.” His servants said to him, “Behold, there is a medium at Endor.”
-\v 8 \p So Saul disguised himself and put on other clothes and went, taking two men with him, and they came to the woman by night. He said, “Tell my future by consulting the dead, call up for me the one whom I name to you.”
+\p
+\v 8 So Saul disguised himself and put on other clothes and went, taking two men with him, and they came to the woman by night. He said, “Tell my future by consulting the dead, call up for me the one whom I name to you.”
 \v 9 The woman said to him, Surely you know what Saul has done, how he has banished the mediums and the magicians from the land. Why then are you laying a snare for my life, to put me to death?”
 \v 10 And Saul swore to her by the \nd Lord\nd*, saying, “As the \nd Lord\nd* lives, no guilt will come upon you for this.”
 \v 11 Then the woman said, “Whom should I bring up to you?” He said, “Bring up Samuel.”
 \v 12 When the woman saw Samuel, she screamed. The woman said to Saul, “Why have you deceived me, for you are Saul?”
 \v 13 The king said to her, “Do not be afraid! What do you see?” The woman said to Saul, “I see a god coming up out of the earth.”
 \v 14 He said to her, “What is his appearance?” She said, “An old man is coming up, and he is wrapped in a robe.” Then Saul knew that it was Samuel, and he bowed with his face to the earth in respect.
-\v 15 \p Samuel said to Saul, “Why have you disturbed me by bringing me up?” And Saul answered, “I am in great trouble, for the Philistines are making war against me and God has turned from me and answers me no more, either by prophets or by dreams; so I have called you to tell me what I should do.”
+\p
+\v 15 Samuel said to Saul, “Why have you disturbed me by bringing me up?” And Saul answered, “I am in great trouble, for the Philistines are making war against me and God has turned from me and answers me no more, either by prophets or by dreams; so I have called you to tell me what I should do.”
 \v 16 And Samuel said, “Why do you ask of me when the \nd Lord\nd* has turned from you and become your adversary?
 \v 17 The \nd Lord\nd* has done to you as he declared by me, and the \nd Lord\nd* has torn the kingdom out of your hand, and given it to your [us:neighbor|cth:neighbour], David.
 \v 18 Because you did not heed the voice of the \nd Lord\nd*, and did not execute his fierce wrath upon Amalek, the \nd Lord\nd* has done this thing to you today.
 \v 19 The \nd Lord\nd* will deliver Israel into the power of the Philistines. Tomorrow you and your sons will be with me, and the \nd Lord\nd* will deliver the army of Israel into the power of the Philistines.”
-\v 20 \p Then Saul fell at once at full length upon the earth and was greatly afraid, because of the words of Samuel, and he had no strength in him, for he had not eaten bread during all the day and all the night.
+\p
+\v 20 Then Saul fell at once at full length upon the earth and was greatly afraid, because of the words of Samuel, and he had no strength in him, for he had not eaten bread during all the day and all the night.
 \v 21 When the woman came to Saul and saw that he was greatly troubled, she said to him, “Your servant has heeded your voice, and I have taken my life in my hand and have listened to your words which you spoke to me.
 \v 22 Now therefore, listen also to the advice of your servant and let me set before you a morsel of meat, and eat that you may have strength when you go on your way.”
 \v 23 But he refused, and said, “I will not eat.” But his servants, together with the woman urged him, until he listened to their advice. So he rose from the earth and sat upon the couch.
 \v 24 The woman had a fatted calf in the house, and she quickly killed it, and took flour and kneaded it and baked from it unleavened bread.
 \v 25 She set it before Saul and his servants and they ate. Then they rose and went away that night.
 \c 29
-\v 1 \p The Philistines had assembled their forces at Aphek, and the Israelites encamped by the fountain in Jezreel.
+\p
+\v 1 The Philistines had assembled their forces at Aphek, and the Israelites encamped by the fountain in Jezreel.
 \v 2 The lords of the Philistines were marching past, with hundreds and with thousands, and David and his men marched in the rear guard with Achish.
 \v 3 Then the commanders of the Philistines said, “What are these Hebrews doing here?” And Achish said to the commanders of the Philistines, “This is David, the servant of Saul the king of Israel, who has now been with me two years, and I have found no fault in him from the time that he came over to me to the present.”
 \v 4 But the commanders of the Philistines were enraged against him, and said, “Send back the man so that he may return to the place where you have stationed him. Don't let him go down with us to battle – he might become an adversary to us. How could this fellow better ingratiate himself with his master than with the heads of our men?
@@ -964,15 +1023,18 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \q Saul has slain his thousands,
 \q But David his ten thousands?”
 \b
-\v 6 \m Then Achish called to David and said to him, “As the \nd Lord\nd* lives, you are upright, and it is my desire that you should go out and fight with me, for I have found no evil in you from the time that you came to me to the present, but you are not regarded [us:favorably|cth:favourably] by the lords.
+\m
+\v 6 Then Achish called to David and said to him, “As the \nd Lord\nd* lives, you are upright, and it is my desire that you should go out and fight with me, for I have found no evil in you from the time that you came to me to the present, but you are not regarded [us:favorably|cth:favourably] by the lords.
 \v 7 Therefore now return and go in peace, so that you do nothing to displease the lords of the Philistines.”
 \v 8 David said to Achish, “But what have I done? What have you found in your servant fromt the day that I entered into your service to this day, that I may not go and fight against the enemies of my lord the king?”
 \v 9 And Achish answered David, “I know that you are as good in my sight as a Messenger of God, but the commanders of the Philistines have said, ‘He must not go up with us to the battle.’
 \v 10 Therefore now rise early in the morning, with the servants of your lord who came with you, and go to the place where I have stationed you, and do not entertain any evil design in your heart, for you are good in my sight, but rise early in the morning and as soon as it is light, depart.”
 \v 11 So David rose early, together with his men, to depart in the morning to return to the land of the Philistines. The Philistines went up to Jezreel.
 \c 30
-\v 1 \p Now when David and his men  on the third day, the Amalekites had made a raid on the South Country and on Ziklag, and had attacked Ziklag and burnt it down,
-\v 2 and had carried away captive the women and all who were in it, both small and great. THey did not kill anyone, but carried them off and went on their way.
+\s David returns
+\p
+\v 1 Now when David and his men  on the third day, the Amalekites had made a raid on the South Country and on Ziklag, and had attacked Ziklag and burnt it down,
+\v 2 and had carried away captive the women and all who were in it, both small and great. They did not kill anyone, but carried them off and went on their way.
 \v 3 When David and his men came to the city, they found it burned down, and their wives and their sons and their daughters taken captive.
 \v 4 Then David and the people who were with him wept aloud until they were no longer able to weep.
 \v 5 David's two wives had been take captive, Ahinoam the Jezreelite, and Abigail the wife of Nabal the Carmelite.
@@ -988,19 +1050,23 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \q2 For you will surely overtake,
 \q2 You will surely rescue.”
 \b
-\v 9 \m So David went, together with the six hundred men who were with him, and came to the Wadi Besor, where those who were left behind remained.
+\m
+\v 9 So David went, together with the six hundred men who were with him, and came to the Wadi Besor, where those who were left behind remained.
 \v 10 But David pursued together with four hundred men, while two hundred remained behind, who were too faint to cross the Wadi Besor.
-\v 11 \p They found an Egyptian in the field and brought him to David and gave him food to eat and water to drink,
+\p
+\v 11 They found an Egyptian in the field and brought him to David and gave him food to eat and water to drink,
 \v 12 and they gave him a piece of fig cake, and two clusters of raisins. When he had eaten, his spirit revived, for he had eaten no bread and drunk no water for three days and nights.
 \v 13 David said to him, “To whom do you belong? Where are you from?” He said “I am an Egyptian lad, an Amalekite's servant, and my master abandoned me because three days ago I fell sick.
 \v 14 We made a raid upon the South Country of the Cherethites and on that which belongs to Judah and upon the South Country of Caleb, and Ziklag we burned down.”
 \v 15 And David said to him, “Will you bring me down to this band?” He said, “Swear to me by God, that you will neither kill me nor deliver me into the hands of my master, and I will bring you down to this band.”
-\v 16 \p When he had brought him down, there they were spread over all the land, eating and drinking and dancing, on account of all the great spoil that they had taken from the land of the Philistines and from the land of Judah.
+\p
+\v 16 When he had brought him down, there they were spread over all the land, eating and drinking and dancing, on account of all the great spoil that they had taken from the land of the Philistines and from the land of Judah.
 \v 17 And David struck them from twilight to the following evening in order to destroy them completely. None escaped except four hundred young men, who rode on camels and fled.
 \v 18 David recovered all the people whom the Amalekites had taken, and David rescued his two wives.
 \v 19 There was nothing missing, either small or great, sons or daughters, spoil or anything that they had taken to themselves – David brought it all back.
 \v 20 He took all the flocks and the herds and drove those animals before the people, and they said, “This is David's spoil.”
-\v 21 \p Now when David came to the two hundred men, who had been too faint to follow him, so that he had to leave them behind at the Wadi Besor, they went out to meet David, and the people who were with him. When they came near to the people, he saluted them.
+\p
+\v 21 Now when David came to the two hundred men, who had been too faint to follow him, so that he had to leave them behind at the Wadi Besor, they went out to meet David, and the people who were with him. When they came near to the people, he saluted them.
 \v 22 Then all the wicked and base scoundrels among the men who went with David began to say, “Because they did not go with us, we will not give them any of the spoil that we have recovered, except to each, his wife and his children, that he may take them away and depart.”
 \v 23 But David said, No! My brothers, you must not do this with that which the \nd Lord\nd* has given us – after he has preserved us and delivered the marauding band that came against us into our hand.
 \v 24 Who will give heed to you in this matter? For:
@@ -1008,22 +1074,26 @@ v 27 when a messenger came to Saul, saying, “Come quickly, for the Philistines
 \q So is the share of him who remains with the baggage.
 \q They must share alike.”
 \b
-\v 25 \m From that time on he made it a statute and precedent in Israel to this day.
-\v 26 \p When David came to Ziklag, he sent some of the spoil to the elders of Judah, his friends, saying, “See! a present for you from the spoil of the enemies of the \nd Lord\nd*,
+\m
+\v 25 From that time on he made it a statute and precedent in Israel to this day.
+\p
+\v 26 When David came to Ziklag, he sent some of the spoil to the elders of Judah, his friends, saying, “See! a present for you from the spoil of the enemies of the \nd Lord\nd*,
 \v 27 to them who were in Bethel, in Ramoth in the South Country, in Jattir,
 \v 28 in Aroer, in Siphmoth, and to them who were in Eshtemoa,
 \v 29 in Carmel, in the cities of Jerahmeelites, in the cities of the Kenites,
 \v 30 in Hormah, Bor-ashan, in Athach,
 \v 31 in Hebron, and to those in all the places where David and his men had stayed.
 \c 31
-\v 1 \p Now the Philistines fought against Israel, and the Israelites fled from before the Philistines and fell down slain on Mount Gilboa.
+\p
+\v 1 Now the Philistines fought against Israel, and the Israelites fled from before the Philistines and fell down slain on Mount Gilboa.
 \v 2 The Philistines followed close after Saul and his sons, and the Philistines slew Jonathan and Abinadab and Malchishua, the sons of Saul.
 \v 3 They pressed hard upon Saul, and the archers found him, and he was wounded by the archers.
 \v 4 Then said Saul to his [us:armor|cth:armour]bearer, “Draw your sword and run me through with it, lest these uncircumcised Philistines come and make sport of me.” But his [us:armor|cth:armour]bearer would not, for he was greatly afraid. Therefore Saul took his own sword and fell upon it.
 \v 5 When his [us:armor|cth:armour]bearer saw that Saul was dead, he also fell upon his sword and died with him.
 \v 6 So Saul and his three sons and his [us:armor|cth:armour]bearer died together on the same day.
 \v 7 When the Israelites who were in the cities of the valley and in the cities of the Jordan saw that the Israelites had fled and that Saul and his sons were dead, they also left the cities and fled, and the Philistines came and occupied them.
-\v 8 \p When on the following day the Philistines came to strip the slain, they found Saul and his three sons fallen on Mount Gilboa.
+\p
+\v 8 When on the following day the Philistines came to strip the slain, they found Saul and his three sons fallen on Mount Gilboa.
 \v 9 They cut off his head and stripped off his [us:armor|cth:armour] and sent throughout the land of the Philistines to bring the good news to their idols and to the people.
 \v 10 They put his [us:armor|cth:armour] in the temple of Ashtarte, and they fastened his body on the wall of Beth-shan.
 \v 11 When the inhabitants of Jabesh in Gilead heard what the Philistines had done to Saul,

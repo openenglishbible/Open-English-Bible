@@ -22,20 +22,15 @@ This site
 
 This source tree contains:
 
-usfm/
-The final generated usfm. This is probably what you want if you want to use the OEB's usfm files. The subdirectories are release/ which has the books in the OEB release, and development/ which has all books, no matter how partial or rough. 
+artifacts/
+The final generated documents. This is probably what you want if you want to use the OEB. The subdirectories are marked as 'release' which has the books in the OEB release, and 'development' which has all books, no matter how partial or rough.
 
 source/
-These are the source files we are working from. They are USFM files with a layer of markup to handle variations.
+These are the source files we are working from. They are USFM files with a lightweight layer of markup to handle variations.
 
-scratch/
-These are various support documents such as books not yet fit for the development version.
+build.sh
+A bash script to generate artifacts from the source
 
-build.py
-The python 2.x script which creates a set of USFM files from the usfm.db files
-
-build-standard.sh
-Shell script which builds the main sets of USFM files in usfm/
 
 
 

@@ -3,6 +3,11 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB.
 
+Summary of Recent Changes
+-------------------------
+
+* **2017-11-13** Backend upgraded to python3 and functionality moved to separate USFM-Tools project
+
 Summary of changes to the January 2015 Release
 ----------------------------------------------
 
