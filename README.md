@@ -28,10 +28,13 @@ The final generated documents. This is probably what you want if you want to use
 source/
 These are the source files we are working from. They are USFM files with a lightweight layer of markup to handle variations.
 
-build.sh
-A bash script to generate artifacts from the source
+build-release.sh
+A bash script to generate a release version from the source.
 
+update-development-artifacts.py
+A python3 script to generate usfm and rtf files for all the books, whether in development or release.
 
+To make these scripts work, you will need to have the USFM-Tools git repository in this top level directory (ie as the USFM-Tools directory)
 
 
 

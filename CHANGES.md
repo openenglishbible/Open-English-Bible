@@ -1,12 +1,23 @@
 Open English Bible Changes
 ==========================
 
-This is a summary of the progress of the OEB.
+This is a summary of the progress of the OEB. It includes changes to the text itself and to the infrastructure in this repository.
 
 Summary of Recent Changes
 -------------------------
 
+Textual:
+
+* **2018-11-18** - Typo fix in John 1:30
+
+Technical:
+
+* **2018-11-21** Restructure in preparation for project reboot.
+
+* **2017-11-29** Artifacts now held in Git.
+
 * **2017-11-13** Backend upgraded to python3 and functionality moved to separate USFM-Tools project
+
 
 Summary of changes to the January 2015 Release
 ----------------------------------------------
