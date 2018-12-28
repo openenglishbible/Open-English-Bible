@@ -69,7 +69,7 @@ def templateForBook(b):
         c = f.read()
         f.close()
         if c.find(r'\rem IN RELEASE') > 0: status = 'released'
-        elif c.find(r'\rem SCHEDULED FOR RELEASE') > 0: status = 'checked'
+        elif c.find(r'\rem OK FOR RELEASE') > 0: status = 'checked'
         elif c.find(r'\rem DEVELOPMENT ONLY') > 0: status = 'unchecked'
         else: status = 'unchecked'
         d = lastModified(b)
