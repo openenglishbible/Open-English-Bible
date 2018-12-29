@@ -8,6 +8,8 @@ Summary of Recent Changes
 
 Textual:
 
+* **2018-12-29** - Removed Ps 145:13b to conform to Masoretic Text
+
 * **2018-11-18** - Typo fix in John 1:30
 
 Technical:
