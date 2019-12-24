@@ -8,6 +8,15 @@ import pathlib
 import sys
 import datetime
 
+#
+#  Use Pypy if installed - willbe faster.
+#
+if shutil.which('pypy3') is None:
+	PYTHON="python3"
+else:
+	PYTHON="pypy3"
+print("Using " + PYTHON + ' at ' + shutil.which(PYTHON))
+
 ##############################
 #
 #   Functions
@@ -29,9 +38,10 @@ def updateUSFM():
     print('            rtf: ' + rtfDir)
     print('            tmp: ' + tempDir)
 
-    run = 'python3 ' + toolsDir + '/variant/variant.py -s ' + sourceDir + ' -d ' + tempDir + ' -t ' + tags + ' -b ' + booklist + ' ' + swap
+    run = PYTHON + ' ' + toolsDir + '/variant/variant.py -s ' + sourceDir + ' -d ' + tempDir + ' -t ' + tags + ' -b ' + booklist + ' ' + swap
     subprocess.run(run, shell=True)
 
+    isDifferent = False
     for book in books:
         fm = tempDir  + '/' + book.fileName()
         to = usfmDir + '/' + book.fileName()
@@ -39,16 +49,27 @@ def updateUSFM():
         if os.path.isfile(fm) and \
            (not os.path.isfile(to) or not filecmp.cmp(fm, to)):
 
+            # We are different from last run
+            isDifferent = True
+
             # Update USFM
             shutil.move(fm, to)
 
             # Update RTF
             subprocess.run('rm ' + tempDir2 + '/*', shell=True)
             shutil.copy(to, tempDir2)
-            run = 'python3 ' + toolsDir + '/transform/transform.py --target=rtf --usfmDir=' + tempDir2 + ' --builtDir=' + rtfDir + ' --config=' + config + ' --name="' + buildId + book.name() + '"'
+            run = PYTHON + ' ' + toolsDir + '/transform/transform.py --target=rtf --usfmDir=' + tempDir2 + ' --builtDir=' + rtfDir + ' --config=' + config + ' --name="' + buildId + '-' + book.name() + '"'
             subprocess.run(run, shell=True)
 
             print('Updated ' + book.fileName())
+
+    if isDifferent:
+            # Update Accordance
+            subprocess.run('rm ' + tempDir2 + '/*', shell=True)
+            shutil.copy(to, tempDir2)
+            run = PYTHON + ' ' + toolsDir + '/transform/transform.py --target=accordance --usfmDir=' + usfmDir + ' --builtDir=' + indexDir + ' --config=' + config + ' --name="' + buildId + '"'
+            subprocess.run(run, shell=True)
+            print('Updated Accordance')
 
     print('******* UPDATING INDEX *******')
     f = open (indexDir + '/table.html', 'w')
@@ -242,7 +263,7 @@ for d in [sourceDir, tempDir, tempDir2]:
 
 booklist = 'all'
 config = baseDir + '/support/oeb.config'
-buildId = 'oeb-working-'
+buildId = 'oeb-working'
 
 ##############################
 #
