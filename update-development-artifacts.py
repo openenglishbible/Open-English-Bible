@@ -63,13 +63,13 @@ def updateUSFM():
 
             print('Updated ' + book.fileName())
 
-    if isDifferent:
-            # Update Accordance
-            subprocess.run('rm ' + tempDir2 + '/*', shell=True)
-            shutil.copy(to, tempDir2)
-            run = PYTHON + ' ' + toolsDir + '/transform/transform.py --target=accordance --usfmDir=' + usfmDir + ' --builtDir=' + indexDir + ' --config=' + config + ' --name="' + buildId + '"'
-            subprocess.run(run, shell=True)
-            print('Updated Accordance')
+    # if isDifferent:
+    #         # Update Accordance
+    #         subprocess.run('rm ' + tempDir2 + '/*', shell=True)
+    #         shutil.copy(to, tempDir2)
+    #         run = PYTHON + ' ' + toolsDir + '/transform/transform.py --target=accordance --usfmDir=' + usfmDir + ' --builtDir=' + indexDir + ' --config=' + config + ' --name="' + buildId + '"'
+    #         subprocess.run(run, shell=True)
+    #         print('Updated Accordance')
 
     print('******* UPDATING INDEX *******')
     f = open (indexDir + '/table.html', 'w')
