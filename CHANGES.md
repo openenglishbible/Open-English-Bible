@@ -3,10 +3,12 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB. It includes changes to the text itself and to the infrastructure in this repository.
 
-Summary of Recent Changes
--------------------------
+Summary of changes to the 2020.1 Release (January 2020)
+-------------------------------------------------------
 
 Textual:
+
+* **2020-01-13** - Added Hosea
 
 * **2018-12-31** - Harmonised use of capitalisation in verse text in OT and NT
 
@@ -15,6 +17,8 @@ Textual:
 * **2018-11-18** - Typo fix in John 1:30
 
 Technical:
+
+* **2020-01-12** Improved rtf rendering
 
 * **2018-11-21** Restructure in preparation for project reboot.
 
