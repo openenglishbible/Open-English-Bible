@@ -10,6 +10,14 @@ Textual:
 
 * **2020-01-13** - Added Hosea
 
+* **2019-12-25** - Fix to transliteration of Barsabbas in Acts 1:23
+
+* **2019-11-29** - Fix to 1 Co 11:18, thanks C Ingram
+
+* **2019-11-25** - Add missing fix to 1 Corinthians 1:13
+
+* 2019-11-25** - Fix to mistranslation of 'baptize in the name of' - thanks Mitchell Harris
+
 * **2018-12-31** - Harmonised use of capitalisation in verse text in OT and NT
 
 * **2018-12-29** - Removed Ps 145:13b to conform to Masoretic Text
