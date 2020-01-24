@@ -1,28 +1,32 @@
     @media all {
-        html {font-size: 19px;} 
+        html {
+            font-size: 20px;
+            font-family: "Georgia", serif;
+            text-align: center;
+        }
         body {
-            padding: 0rem 0em 0rem 0em;
+            padding: 0 0 0 0;
             margin-left:auto;
             margin-right:auto;
             width:100%;
-            max-width:800px;
+            max-width:850px;
             min-height: 100%;
-            position: relative; 
+            position: relative;
         }
         body > * {
             font-size: 100%;
             line-height: 135%;
             text-rendering: optimizeLegibility;
-            margin-left: 7rem; 
+            margin-left: 7rem;
             margin-right: 7rem;
         }
-        a { 
+        a {
             color: green;  
             text-decoration: none; 
         }
         .chapter{
         	position: absolute;
-        	left: 0rem;
+        	left: 0;
         	width: 6rem;
         	text-align: right;
         	font-size: 120%;
@@ -30,7 +34,7 @@
         }
         .verse{
         	position: absolute;
-        	left: 0rem;
+        	left: 0;
         	width: 6rem;
         	text-align: right;
         	font-size: 80%;
@@ -41,48 +45,48 @@
         }
         .rightnote{
         	position: absolute;
-        	right: 0rem;
+        	right: 0;
         	width: 6rem;
         	text-align: left;	
         	color: gray;
         	font-size: 80%;
         }
         h1{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 180%;
+            font-family: "Georgia", serif;
+            text-transform: uppercase;
+            font-size: 240%;
         	color: #202020;
         }
         h2{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 140%;
+            font-family: "Georgia", serif;
+            text-transform: uppercase;
+        	font-size: 180%;
         	color: #202020;
         }
         h3{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 120%;
+            font-family: "Georgia", serif;
+            text-transform: uppercase;
+            font-size: 140%;
         	color: #202020;
         }
         h4{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 100%;
+        	font-size: 140%;
         	color: #202020;
             padding-top:2em;
+            text-transform: uppercase;
         }
         h5{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 100%;
+         	font-size: 140%;
         	color: #202020;
             padding-top:2em;
         }
         h6{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 100%;
+        	font-size: 136%;
         	color: #202020;
-            padding-top:0em;
+            padding-top:0;
         }
         h7{
-        	font-family: 'Verdana', sans-serif;
-        	font-size: 100%;
+        	font-size: 120%;
         	color: #202020;
             padding-top:0em;
         }
@@ -92,45 +96,142 @@
         	-ms-hyphens: auto;
         	-o-hyphens: auto;
         	hyphens: auto;
-        	font-family: 'Georgia', 'Verdana', sans-serif;
+            font-family: "Georgia", serif;
         	color: #202020;
             -moz-font-feature-settings: "liga=1, dlig=1", "onum=1";
             -ms-font-feature-settings: "liga", "dlig","onum";
             -webkit-font-feature-settings: "liga", "dlig","onum";
             -o-font-feature-settings: "liga", "dlig","onum";
             font-feature-settings: "liga", "dlig","onum";
+            text-align: justify;
+            hanging-punctuation: first last force-end;
         }
-        #navbar { 
-            position:fixed; 
-            margin-left:5px; 
-            font-family: 'Verdana', sans-serif;
-            background-color:white;
-            z-index:999;
-         }
-        #navbar a { 
-            color: green;  
-            text-decoration: none; 
+        .dropcap {
+            float: left;
+            font-size: 250%;
+            line-height: 1;
+            margin-right: 4px;
         }
-        #navbar p { 
-            color:green; 
+
+        p.smallcappara::first-line {
+            font-variant: small-caps;
         }
-        #navtable {
-            position:absolute; 
-            left:-999em; 
-            background-color:#E6FAE6;
-            border-top:solid green;
-            font-size:80%;
+        .smallcap{
+            font-variant: small-caps;
         }
-        #navbar table td {
-            vertical-align:top;
-        }
+
         .nd { /* Lord */
             font-variant:small-caps;
         }
         .vspacer{
             height:1em;
         }
-        
+
+        #nav-menu {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 70%;
+            text-align: left;
+            background-color: white;
+            color: green;
+            position: fixed;
+            width: 100vw;
+            padding: 5px 0 5px 20px;
+            margin: 0;
+            left: 0;
+            top: 0;
+            height: 26px;
+            text-transform: uppercase;
+            z-index: 999;
+        }
+
+        /*hide the inputs/checkmarks*/
+        #nav-menu input.label {
+            display: none;
+        }
+
+        /*hide the submenu div*/
+        #nav-menu div.submenu {
+            max-height: 0;
+            overflow: hidden;
+            color: black;
+            background-color: #E6FAE6;
+            text-transform: none;
+            max-width: 0;
+            margin-top: 1em;
+            border-bottom: 0 none;
+            box-shadow: 0 1px 5px rgba(0, 0, 0, 0.46);
+            font-size: 100%;
+            line-height: 135%;
+        }
+
+        #nav-menu ul {
+            list-style: none;
+            border-width: 0;
+        }
+
+        #nav-menu li.label1 {
+            color: #999999;
+            font-size: 140%;
+        }
+
+        #nav-menu li.label2 {
+            color: #999999;
+            padding-left: 1em;
+            font-size: 120%;
+        }
+
+        #nav-menu li.label3 {
+            color: black;
+            padding-left: 2em;
+        }
+
+        /*position the label*/
+        #nav-menu label {
+            position: relative;
+            display: block;
+            cursor: pointer;
+        }
+
+        /*show the submenu when checked*/
+        #nav-menu input:checked~div.submenu {
+            max-height: 80vh;
+            overflow-y: auto;
+            max-width: 20em;
+            overflow-x: auto;
+        }
+
+        #navform {
+            padding: 8px;
+        }
+
+        .indent1 {
+            text-indent: 1em;
+            margin-top: 0;
+            margin-bottom: 0;
+            text-align: left;
+        }
+
+        .indent2 {
+            text-indent: 2em;
+            margin-top: 0;
+            margin-bottom: 0;
+            text-align: left;
+        }
+
+        .indent3 {
+            text-indent: 3em;
+            margin-top: 0;
+            margin-bottom: 0;
+            text-align: left;
+        }
+
+        .indent4 {
+            text-indent: 4em;
+            margin-top: 0;
+            margin-bottom: 0;
+            text-align: left;
+        }
+
     }
     @media all and (max-width:800px){html {font-size: 19px;}}
     @media all and (max-width:760px){html {font-size: 18px;}}
@@ -147,7 +248,7 @@
             margin:0;
             padding:0;
         } 
-        body > * { margin-left:100px; margin-right:0px; width:100%; }
+        body > * { margin-left:100px; margin-right:0; width:100%; }
         .chapter{
         	position: absolute;
         	left: 20px;
@@ -164,17 +265,21 @@
         	font-size: 80%;
         	color: green;
         }
-        .navbar {
-            position:fixed;
-            margin-top:-200px;
-        }
-        #txtSearch {
-            width: 80%;
-            padding: 1px;
-        }
         #headerImg {
             width: 80%;
         }
+
+        .rightnote{
+            visibility: hidden;
+        }
+        .rightnotemarker{
+            visibility: hidden;
+        }
+
+        #nav-menu{
+            height: 52px;
+        }
         
     }
+
 
