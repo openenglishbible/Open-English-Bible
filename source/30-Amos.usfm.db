@@ -2,7 +2,7 @@
 \ide UTF-8
 
 \rem ORIGINAL BASE TEXT
-\rem Kent's Student's Old Testament vol 3
+\rem Kent’s Student’s Old Testament vol 3
 \rem TAGS
 \rem (none)
 \rem STATUS
@@ -21,10 +21,10 @@
 
 \c 1
 
-\s God's Judgment on Israel's Neighbors
+\s God’s Judgment on Israel’s Neighbors
 
-\v 1
-\p The message of Amos, one of the sheep breeders of Tekoa, which he saw concerning Israel in the reign of King Uzziah of Judah, and in the reign of Jeroboam the son of King Joash of Israel, two years before the earthquake.
+\p
+\v 1 The message of Amos, one of the sheep breeders of Tekoa, which he saw concerning Israel in the reign of King Uzziah of Judah, and in the reign of Jeroboam the son of King Joash of Israel, two years before the earthquake.
 \q
 \v 2 Amos said:
 \q Whenever the \nd Lord\nd* roars from Zion,
@@ -33,12 +33,12 @@
 \q and the top of Carmel becomes arid.
 \q
 \v 3 The \nd Lord\nd* says:
-\q For Damascus' three crimes –
+\q For Damascus’ three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They have threshed Gilead with threshing instruments of iron.
 \b
 \q
-\v 4 Therefore I will send fire on Hazael's house,
+\v 4 Therefore I will send fire on Hazael’s house,
 \q and it will devour the palaces of Ben-hadad,
 \q
 \v 5 and I will break open the gate of Damascus,
@@ -49,7 +49,7 @@
 \b
 \q
 \v 6 The \nd Lord\nd* says:
-\q For Gaza's three crimes –
+\q For Gaza’s three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They carried away captive a whole nation,
 \q sold them as slaves to Edom.
@@ -66,7 +66,7 @@
 \b
 \q
 \v 9 The \nd Lord\nd* says:
-\q For Tyre's three crimes –
+\q For Tyre’s three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They carried away captive a whole people into exile in Edom,
 \q and did not remember the brotherly covenant.
@@ -77,7 +77,7 @@
 \b
 \q
 \v 11 The \nd Lord\nd* says:
-\q For Edom's three crimes –
+\q For Edom’s three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They pursued their relatives with the sword,
 \q stilled their pity,
@@ -90,7 +90,7 @@
 \b
 \q
 \v 13 The \nd Lord\nd* says:
-\q For Ammonites' three crimes –
+\q For Ammonites’ three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They have ripped open pregnant women in Gilead,
 \q in their lust for land.
@@ -105,12 +105,13 @@
 \q he and his nobles together,
 \q says the \nd Lord\nd*.
 \b
-\q
+
 \c 2
+\q
 \v 1 The \nd Lord\nd* says:
-\q For Moab's three crimes –
+\q For Moab’s three crimes –
 \q no, four! – I will not rescind my judgment.
-\q They have burned to lime the bones of the king of Edom,	
+\q They have burned to lime the bones of the king of Edom,
 \q
 \v 2 to desecrate the dead.
 \b
@@ -125,7 +126,7 @@
 \b
 \q
 \v 4 The \nd Lord\nd* says:
-\q For Judah's three crimes –
+\q For Judah’s three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They have rejected the law of the \nd Lord\nd*,
 \q and have not kept his statutes,
@@ -136,11 +137,11 @@
 \v 5 So I will send a fire on Judah.
 \q It will devour the palaces of Jerusalem.
 
-\s God's Judgment on Israel
+\s God’s Judgment on Israel
 
 \q
 \v 6 The \nd Lord\nd* says:
-\q For Israel's three crimes –
+\q For Israel’s three crimes –
 \q no, four! – I will not rescind my judgment.
 \q They sell the righteous for money,
 \q the needy for a pair of shoes.
@@ -151,7 +152,7 @@
 \q and so profane my holy name.
 \q
 \v 8 They stretch themselves on garments taken in pledges beside every altar,
-\q and they drink the wine of those who have been fined in the house of their God.	
+\q and they drink the wine of those who have been fined in the house of their God.
 \b
 \q
 \v 9 It was I who destroyed the Amorites for your sake,
@@ -160,28 +161,28 @@
 \q I destroyed their fruit from above and their roots from below.
 \b
 \q
-\v 10 It was I who brought you up from the land of Egypt,	
+\v 10 It was I who brought you up from the land of Egypt,
 \q and led you forty years in the wilderness,
-\q and brought you here to possess the land of the Amorites.	
+\q and brought you here to possess the land of the Amorites.
 \b
 \q
 \v 11 I raised up some of your sons to be prophets
 \q and some of your youths to be Nazirites.
 \q Is not this indeed so, Israelites?
-\q says the \nd Lord\nd*.	
+\q says the \nd Lord\nd*.
 \q
 \v 12 But you made the Nazirites drink wine
 \q and banned the prophets from prophesying.
 \b
 \q
 \v 13 Listen!
-\q It is I who will make you groan in your places,	
-\q as a wagon groans under its load of grain.	
+\q It is I who will make you groan in your places,
+\q as a wagon groans under its load of grain.
 \b
 \q
-\v 14 Then flight will fail the swift,	
+\v 14 Then flight will fail the swift,
 \q and the strength of the strongest will be useless.
-\q The warrior will not save his life,	
+\q The warrior will not save his life,
 \q
 \v 15 the archer will not stand firm,
 \q the swift of foot will not escape,
@@ -195,8 +196,8 @@
 
 \s A Warning to Israel
 
-\v 1
-\q Hear this word
+\q
+\v 1 Hear this word
 \q which the \nd Lord\nd* has spoken against you, Israelites,
 \q against the whole nation that I brought out of Egypt:
 \q
@@ -232,24 +233,24 @@
 \q They are heaping up violence and oppression in their palaces,
 \q says the \nd Lord\nd*.
 \b
-\v 11
-\q Therefore the Lord \nd God\nd* says:	
-\q An enemy will surround the land,	
+\q
+\v 11 Therefore the Lord \nd God\nd* says:
+\q An enemy will surround the land,
 \q he will strip your strength from you.
 \q and your palaces will be looted.
-\v 12
-\q The \nd Lord\nd* says:
+\q
+\v 12 The \nd Lord\nd* says:
 \q Just as a shepherd rescues from the jaws of a lion
 \q two shin-bones or a piece of an ear,
 \q so the Israelites living in Sameria will be rescued –
 \q with the corner of a couch,
 \q and the damask of a divan!
 \b
-\v 13
-\q Hear and testify against the house of Jacob,
+\q
+\v 13 Hear and testify against the house of Jacob,
 \q says the Lord \nd God\nd*, the God of hosts.
-\v 14
-\q On the day when I punish Israel for their crimes,
+\q
+\v 14 On the day when I punish Israel for their crimes,
 \q I will also visit in judgment the altars of Bethel,
 \q and the horns of the altar will be hacked off,
 \q and they will fall to the ground.
@@ -259,8 +260,9 @@
 \q Many great houses will be swept away,
 \q says the \nd Lord\nd*.
 \b
-\q
+
 \c 4
+\q
 \v 1 Listen to this message, women of Sameria,
 \q you well-fed cows of Bashan,
 \q who oppress the poor and crush the needy,
@@ -302,30 +304,30 @@
 \q
 \v 8 People from two or three cities
 \q ranged as far as another city
-\q for drinking water, 
+\q for drinking water,
 \q and still they did not have enough,
-\q yet you did not return to me, 
+\q yet you did not return to me,
 \q says the \nd Lord\nd*.
 \b
 \q
 \v 9 I struck you with blight and mildew,
 \q I laid waste your gardens and vineyards.
 \q The swarming locust devoured your fig and your olive trees,
-\q yet you did not return to me, 
+\q yet you did not return to me,
 \q says the \nd Lord\nd*.
 \b
 \q
 \v 10 I sent plague among you like the plagues of Egypt,
 \q I slew your youths with the sword, your horses raided away,
 \q I caused the stench of your camps to rise in your nostrils,
-\q yet you did not return to me, 
+\q yet you did not return to me,
 \q says the \nd Lord\nd*.
 \b
 \q
 \v 11 I wrought a destruction among you,
 \q as God destroyed Sodom and Gomorrah.
 \q You were like a stick snatched from the fire,
-\q yet you did not return to me, 
+\q yet you did not return to me,
 \q says the \nd Lord\nd*.
 \b
 \q
@@ -346,8 +348,8 @@
 
 \s A Funeral Song for Israel
 
-\v 1
-\q Listen to the words of the funeral song I am singing for you, Israel:
+\q
+\v 1 Listen to the words of the funeral song I am singing for you, Israel:
 \q
 \v 2 Fallen, no more to rise, is the virgin Israel!
 \q Hurled down upon her own soil she lies, with no one to lift her up!
@@ -370,7 +372,7 @@
 \q
 \v 6 Seek the \nd Lord\nd* and live,
 \q or he will cast fire on the house of Joseph,
-\q and it will devour 
+\q and it will devour
 \q and there will be no one to quench it for Bethel.
 \b
 \q
@@ -382,7 +384,7 @@
 \q who turns deep darkness into dawn,
 \q who darkens day again into night,
 \q who summons the waters of the sea,
-\q and pours them out on the earth's surface,
+\q and pours them out on the earth’s surface,
 \q the \nd Lord\nd* is his name!
 \b
 \q
@@ -440,7 +442,7 @@
 \q as when one reaches home, leans his hand on the wall,
 \q and a snake bites him.
 \q
-\v 20 Won't the \nd Lord\nd*'s day be darkness and not light,
+\v 20 Won’t the \nd Lord\nd*’s day be darkness and not light,
 \q murky darkness without a ray of light in it?
 \q
 \v 21 I hate, I despise your feasts,
@@ -503,16 +505,16 @@
 \q and hushed will be the revelry of the sprawlers.
 \b
 \q
-\v 8 The \nd Lord\nd* God, 
-\q the \nd Lord\nd*, the God of hosts, has sworn by himself: 
+\v 8 The \nd Lord\nd* God,
+\q the \nd Lord\nd*, the God of hosts, has sworn by himself:
 \q I abhor the pride of Jacob,
-\q I hate his palaces, 
-\q therefore I will deliver up the city 
+\q I hate his palaces,
+\q therefore I will deliver up the city
 \q and all that is in it to their enemies.
 
 \p
 \v 9 If ten people remain in one house, then they will die.
-\v 10 And when the uncle and another member of the family of a dead man come to carry the body out of the house for burial, they will call to someone in a corner of the house, ‘Any more there?’ and he will answer, ‘No’, and then he will add, ‘Be quiet!’ — for the name of the \nd Lord\nd* must not be mentioned. 
+\v 10 And when the uncle and another member of the family of a dead man come to carry the body out of the house for burial, they will call to someone in a corner of the house, ‘Any more there?’ and he will answer, ‘No’, and then he will add, ‘Be quiet!’ — for the name of the \nd Lord\nd* must not be mentioned.
 
 \q
 \v 11 Look! The \nd Lord\nd* is giving the command!
@@ -540,85 +542,87 @@
 
 \s A Vision of Locusts
 
-\v 1
-\p This is what the Lord \nd God\nd* showed me: he was forming a swarm of locusts, when the late spring grass began to come up after the king's share had been harvested. 
-\v 2 And when they had finished devouring all the land's vegetation, I said:
+\p
+\v 1 This is what the Lord \nd God\nd* showed me: he was forming a swarm of locusts, when the late spring grass began to come up after the king’s share had been harvested.
+\v 2 And when they had finished devouring all the land’s vegetation, I said:
 \q “Lord \nd God\nd*, forgive, I beg you!
-\q How can Jacob survive, 
+\q How can Jacob survive,
 \q for he is so helpless?”
-\v 3 
-\p The \nd Lord\nd* relented. This will not happen,” said the \nd Lord\nd*.
+\p
+\v 3 The \nd Lord\nd* relented. This will not happen,” said the \nd Lord\nd*.
 \b
 
 \s A Vision of Fire
 
-\v 4 
-\p This is what the Lord \nd God\nd* showed me: the Lord \nd God\nd* was giving command to execute judgment by fire. It burned up the great deep, and had begun to devour the fields, and I said:
-\v 5 \q “Lord \nd God\nd*, forgive, I beg you!
-\q How can Jacob survive, 
+\p
+\v 4  This is what the Lord \nd God\nd* showed me: the Lord \nd God\nd* was giving command to execute judgment by fire. It burned up the great deep, and had begun to devour the fields, and I said:
+\q
+\v 5 “Lord \nd God\nd*, forgive, I beg you!
+\q How can Jacob survive,
 \q for he is so helpless?”
-\v 6 
-\p The \nd Lord\nd* relented. “This will not happen either,” said the \nd Lord\nd*.
-\b
+\p
+\v 6  The \nd Lord\nd* relented. “This will not happen either,” said the \nd Lord\nd*.
 
 \s A Vision of a Plumb Line
 
-\v 7 
-\p This is what the Lord \nd God\nd* showed me: the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand.
+\p
+\v 7  This is what the Lord \nd God\nd* showed me: the Lord was standing beside a wall built with a plumb line, with a plumb line in his hand.
 \v 8 And the \nd Lord\nd* said to me,
 \q “What do you see, Amos?”
-\p And I answered, 
+\p And I answered,
 \q “A plumb line,”
-\p Then the Lord said, 
+\p Then the Lord said,
 \q “Watch: I am setting a plumb line
 \q in the midst of my people Israel,
 \q I will no longer overlook their crookedness.
 \q
-\v 9 And the high places of Isaac 
+\v 9 And the high places of Isaac
 \q will be desolate,
-\q the sanctuaries of Israel 
+\q the sanctuaries of Israel
 \q will be laid waste,
-\q and I will rise up against the house of Jeroboam 
+\q and I will rise up against the house of Jeroboam
 \q with the sword.”
 
 \s Amaziah and Amos
 
 \p
 \v 10 Then Amaziah, chief priest of Bethel sent this message to King Jeroboam of Israel: “Amos has conspired against you right in the heart of Israel. The country cannot survive all his words.
-\v 11 Amos has said, ‘Jeroboam will die by the sword, and Israel will be led away captive out of their land.’” 
+\v 11 Amos has said, ‘Jeroboam will die by the sword, and Israel will be led away captive out of their land.’”
 \p
 \v 12 And Amaziah said to Amos, “Leave, you who see visions, go to the land of Judah. Earn your bread there and prophesy there,
-\v 13 but don't prophesy any more at Bethel, for it is the king's sanctuary, and it is the royal residence.”
+\v 13 but don’t prophesy any more at Bethel, for it is the king’s sanctuary, and it is the royal residence.”
 \p
 \v 14 “I am no prophet,” Amos answered Amaziah, “nor trained as one.  I am a shepherd and a keeper of sycamores fig trees.
 \v 15 But the \nd Lord\nd* took me away from following the flock, and the \nd Lord\nd* said to me, ‘Go, prophesy to my people Israel.’
-\v 16 Now therefore listen to the \nd Lord\nd*'s message:
-\q You say not to prophesy against Israel, 
+\v 16 Now therefore listen to the \nd Lord\nd*’s message:
+\q You say not to prophesy against Israel,
 \q nor to preach against the house of Isaac.
 \p
-\v 17 But the \nd Lord\nd* says: 
-\q ‘Your wife will become a prostitute in the city, 
+\v 17 But the \nd Lord\nd* says:
+\q ‘Your wife will become a prostitute in the city,
 \q your sons and your daughters will fall by the sword,
-\q your land will be divided up, 
-\q you will die on unclean soil, 
+\q your land will be divided up,
+\q you will die on unclean soil,
 \q and Israel will be led away captive out of their land.’”
+
+
+\c 8
 
 \s The Time is Ripe
 
-\c 8
-\v 1
-\p The Lord \nd God\nd* showed me this: a basket of summer fruit.
-\v 2 “What do you see, Amos?” he asked. I replied, “'A basket of ripe summer fruit.” Then the \nd Lord\nd* said to me:
+\p
+\v 1 The Lord \nd God\nd* showed me this: a basket of summer fruit.
+\v 2 “What do you see, Amos?” he asked. I replied, “’A basket of ripe summer fruit.” Then the \nd Lord\nd* said to me:
 \q The time is ripe for my people Israel,
 \q I will no longer overlook their crimes.
 \q
-\v 3 The singing women in the palace will howl on that day, 
+\v 3 The singing women in the palace will howl on that day,
 \q says the \nd Lord\nd*:
-\q Corpses everywhere, 
+\q Corpses everywhere,
 \q thrown out in silence.
 \q
 \v 4 Hear this, you who trample on the needy,
-\q who oppress the poor of the earth, 
+\q who oppress the poor of the earth,
 \v 5 saying:
 \q When will the feast of the new moon be over
 \q so that we may sell grain?
@@ -632,16 +636,16 @@
 \q the needy for a pair of shoes.
 \p
 \v 7 Now the \nd Lord\nd* has taken an oath by the Pride of Jacob:
-\q I will never forget all their deeds!	
+\q I will never forget all their deeds!
 \q
-\v 8 Because of this won't the land quake,	
-\q and all its inhabitants mourn?	
-\q Won't the whole of it rise like the Nile,	
-\q churn and subside like the Nile in Egypt?	
+\v 8 Because of this won’t the land quake,
+\q and all its inhabitants mourn?
+\q Won’t the whole of it rise like the Nile,
+\q churn and subside like the Nile in Egypt?
 \b
 \q
 \v 9 On that day, says the Lord \nd God\nd*,
-\q I will make the sun set at noon	
+\q I will make the sun set at noon
 \q and darken the earth in broad daylight.
 \q
 \v 10 I will turn your feasts into mourning,
@@ -654,25 +658,25 @@
 \q
 \v 11 The day is coming, says the Lord \nd God\nd*,
 \q when I will send hunger in the land.
-\q Not a famine of bread or thirst for water,	
-\q but for hearing the message of the \nd Lord\nd*.	
+\q Not a famine of bread or thirst for water,
+\q but for hearing the message of the \nd Lord\nd*.
 \q
-\v 12 Then they will wander from sea to sea,	
+\v 12 Then they will wander from sea to sea,
 \q from the north to the east,
-\q to seek a message from the \nd Lord\nd*, 
+\q to seek a message from the \nd Lord\nd*,
 \q but they will not find it.
 \q
 \v 13 In that day beautiful girls and strong young men
-\q will faint from thirst.	
+\q will faint from thirst.
 \b
 \q
-\v 14 Those who take oaths by the shameful idol of Samaria,	
-\q who swear, ‘As surely as your God lives, O Dan!’	
+\v 14 Those who take oaths by the shameful idol of Samaria,
+\q who swear, ‘As surely as your God lives, O Dan!’
 \q and, ‘By the sacred way to Beer-sheba!’ —
 \q they will fall and never rise again.
 \c 9
-\v 1
-\p I saw the Lord towering above the altar, and he commanded: 
+\p
+\v 1  I saw the Lord towering above the altar, and he commanded:
 \q Strike the tops of the pillars so that the foundations may shake,
 \q bring them down on the heads of the people below.
 \q The rest of them I will slay with the sword:
@@ -713,10 +717,10 @@
 \q just like the Cushites,
 \q says the  \nd Lord\nd*.
 \q Yes, I brought Israel up out of the land of Egypt,
-\q but also the Philistines from Caphtor, 
+\q but also the Philistines from Caphtor,
 \q and the Arameans from Kir!
 \q
-\v 8 Behold the eyes of the Lord \nd God\nd* 
+\v 8 Behold the eyes of the Lord \nd God\nd*
 \q are on the sinful kingdom:
 \q I will destroy it from the face of the earth!
 \q But I will not completely destroy the house of Jacob,
@@ -758,5 +762,5 @@
 \q
 \v 15 I will plant them on their own soil,
 \q and they will never again be uprooted from their land
-\q which I have given them, 
+\q which I have given them,
 \q says the \nd Lord\nd* your God.
