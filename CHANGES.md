@@ -3,6 +3,14 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB. It includes changes to the text itself and to the infrastructure in this repository.
 
+Summary of changes to the 2020.2 Release (July 2020)
+-------------------------------------------------------
+
+Textual:
+
+* **2020-07-15** - Added Amos
+
+
 Summary of changes to the 2020.1 Release (January 2020)
 -------------------------------------------------------
 

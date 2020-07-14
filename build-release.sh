@@ -31,7 +31,7 @@ SOURCEDIR=$PWD/source
 CONFIG=$PWD/support/oeb.config
 USFMTOOLS=USFM-Tools
 
-ID=OEB-2020.1-US
+ID=OEB-2020.2-US
 
 BUILTDIR=$PWD/artifacts/us-release
 TAGS=us-nrsv-neut-gehenna-ioudaioi
@@ -39,7 +39,7 @@ BOOKLIST=$PWD/books-in-release
 SWAP=
 build-all
 
-ID=OEB-2020.1-Cth
+ID=OEB-2020.2-Cth
 
 BUILTDIR=$PWD/artifacts/cth-release
 TAGS=cth-nrsv-neut-gehenna-ioudaioi
