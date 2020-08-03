@@ -1,18 +1,28 @@
 \id ISA Open English Bible – Isaiah
 \ide UTF-8
+
+\rem ORIGINAL BASE TEXT
+\rem McFadyens, Isaiah in Modern Speach
+\rem TAGS
+\rem STATUS
+\rem NOT CHECKED
+\rem Checked as marked
+\rem Versification (nrsv jps) not marked
+\rem x
+
 \h Isaiah
 \mt The Book of the Prophet Isaiah
 
-\s Prophecies Concerning Judah and Israel
+\ms Prophecies Concerning Judah and Israel
 
-\ms2 Jerusalem: Her Present Sin and Punishment; Her Future Redemption and Glory
+\s Jerusalem: Her Present Sin and Punishment; Her Future Redemption and Glory
 
 \c 1
 
 \p
 \v 1 The vision of Judah and Jerusalem, as seen by Isaiah the son of Amoz, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 
-\s The Prophet’s Lament over the Unfaithfulness of the People to their God
+\s2 The Prophet’s Lament over the Unfaithfulness of the People to their God
 \q
 \v 2 Hear, you heavens, and give ear, O earth,
 \q2 for the \nd Lord\nd* Himself is the Speaker.
@@ -61,7 +71,7 @@
 \q our fate has been wellnigh like Sodom’s,
 \q2 or like to Gomorrah’s.
 
-\s The Futility of a Merely Ceremonial Worship
+\s2 The Futility of a Merely Ceremonial Worship
 \q
 \v 10 Give ear to the word of the \nd Lord\nd*,
 \q2 you rulers of Sodom;
@@ -108,7 +118,7 @@
 \q win for the orphan his rights,
 \q2 and defend the cause of the widow.”
 
-\s The Great Alternatives
+\s2 The Great Alternatives
 \q
 \v 18 “Come,” says the \nd Lord\nd*, “and now
 \q2 let us reason together.
@@ -124,7 +134,7 @@
 \q2 “Tis the sword you shall taste:
 \q2 For the mouth of the \nd Lord\nd* has spoken it.”
 
-\s Zion’s Present Shame and Future Glory
+\s2 Zion’s Present Shame and Future Glory
 \q
 \v 21 Alas! how the once faithful City
 \q2 has turned to be harlot.
@@ -165,7 +175,7 @@
 \v 28 But together rebels and sinners be crushed,
 \q2 and those that abandon the \nd Lord\nd* shall perish.
 
-\s The Heathen Cult and its Doom
+\s2 The Heathen Cult and its Doom
 \q
 \v 29 For the trees you delight in shall bring you to shame,
 \q2 and abashed shall you be for your gardens beloved.
@@ -178,7 +188,7 @@
 \q and both shall burn together
 \q2 in a flame that cannot be quenched.
 
-\s Jerusalem the Centre of Blessing to the World; Arbitration, Disarmament, and International Peace
+\s2 Jerusalem the Centre of Blessing to the World; Arbitration, Disarmament, and International Peace
 
 \c 2
 
@@ -210,9 +220,9 @@
 \v 5 O household of Jacob, come,
 \q2 let us walk in the light of the \nd Lord\nd*.
 
-\ms2 Judgment upon the Wealth and Pride of Judah
+\s Judgment upon the Wealth and Pride of Judah
 
-\s the \nd Lord\nd*’s Judgement-Day
+\s2 The \nd Lord\nd*’s Judgement-Day
 \q
 \v 6 \em (Get you into the caves of the rocks,
 \q2 and hide in the holes of the ground,
@@ -235,12 +245,12 @@
 \q2 he worships the work of his hands,
 \q2 the things that his fingers have made.
 \q
-\v 10 Get you into the rocks,
+\v 10 \em (Get you into the rocks,
 \q2 and hide in the ground,
 \q from the \nd Lord\nd*’s dread presence
-\q2 and glory majestic. \em*
+\q2 and glory majestic.) \em*
 \q
-\v 11 \em So the pride of men shall be humbled,
+\v 11 So the pride of men shall be humbled,
 \q2 laid low shall man’s loftiness be,
 \q2 and that day shall the \nd Lord\nd* alone be exalted.
 \q
@@ -284,7 +294,7 @@
 \p
 \v 22 Oh cease your trust in man, in whose nostrils is but a breath. Of what account is he?
 
-\s A Reign of Anarchy
+\s2 A Reign of Anarchy
 \c 3
 \q
 \v 1 Behold, the Lord the \nd Lord\nd* of Hosts
@@ -351,7 +361,7 @@
 \q2 and grinding the faces of the poor?”
 \q2 says the Lord the \nd Lord\nd* of Hosts.
 
-\s The Doom of the Haughty Women
+\s2 The Doom of the Haughty Women
 \q
 \v 16 Moreover the \nd Lord\nd* said:
 \q2 “Because Zion’s daughters are haughty,
@@ -402,7 +412,7 @@
 \q but oh, let us bear your name,
 \q2 and take our reproach away.”
 
-\s Zion’s Final Glory
+\s2 Zion’s Final Glory
 \q2
 \v 2 In that day
 \q shall the wild vegetation be glorious and fair,
@@ -429,9 +439,9 @@
 \q A shade by day from the heat,
 \q2 a refuge and shelter from storm and rain.
 
-\ms2 The Vineyard with the Wild Grapes
+\s The Vineyard with the Wild Grapes
 
-\s The Song of the Vineyard
+\s2 The Song of the Vineyard
 
 \c 5
 \q
@@ -473,7 +483,7 @@
 \q But instead of the justice He looked for was bloodshed,
 \q2 instead of the right was the cry (of the wronged).
 
-\s The National Sins: Woe!
+\s2 The National Sins: Woe!
 \q
 \v 8 Woe unto you who join house unto house
 \q2 and who add one field to another,
@@ -552,7 +562,7 @@
 \q because they rejected the \nd Lord\nd*’s instruction,
 \q2 and the message of Israel’s Holy One scorned.
 
-\s A Foreign Army is Coming
+\s2 A Foreign Army is Coming
 \q
 \v 25 So against His people His anger was kindled,
 \q2 against them He stretched forth His hand and He smote them;
@@ -585,7 +595,7 @@
 \q When he looks on the earth, behold! darkness,
 \q2 the light has grown dark in the clouds.
 
-\ms2 The Prophet’s Call
+\s The Prophet’s Call
 
 \c 6
 
@@ -637,9 +647,9 @@
 \q2 that too, in its turn, must be given to the fire,
 \q2 like the stump of an oak or a terebinth felled.”
 
-\ms2 The Crisis Created by the Menace to Judah in 735 B.C.
+\s The Crisis Created by the Menace to Judah in 735 B.C.
 
-\s The Prophet’s World to the Terrified King
+\s2 The Prophet’s World to the Terrified King
 
 \c 7
 
@@ -666,7 +676,7 @@
 \q Your faith must firmly hold,
 \q2 if you would yourselves be held.’”
 
-\s The Great Refusal and the Sign
+\s2 The Great Refusal and the Sign
 
 \p
 \v 10 One more I addressed Ahaz thus, “Ask the \nd Lord\nd*
@@ -687,7 +697,7 @@
 \q that land shall be deserted
 \q2 whose two kings you so dreaded.
 
-\s Judah shall also be Ravaged
+\s2 Judah shall also be Ravaged
 \q
 \v 17 The \nd Lord\nd* shall bring upon you your people
 \q2 and on your father’s house
@@ -730,7 +740,7 @@
 \q2 from the hills that used to be hoed with the hoe.
 \q2 There cattle shall wander and sheep shall tread.
 
-\s The Fall of Damascus and Samaria
+\s2 The Fall of Damascus and Samaria
 \c 8
 
 \p
@@ -743,7 +753,7 @@
 \q The wealth of Damascus, the spoil of Samaria,
 \q2 shall be carried away to the king of Assyria.”
 
-\s The Invasion of Judah
+\s2 The Invasion of Judah
 
 \p
 \v 5 Once more I had a message from the \nd Lord\nd* – it was this:
@@ -767,7 +777,7 @@
 \q2 shall cover the breadth of the land;
 \q2 for with us is God.
 
-\s The Futility of Opposition to Judah
+\s2 The Futility of Opposition to Judah
 \q
 \v 9 You may storm as you will, you nations,
 \q2 you shall be shattered.
@@ -783,7 +793,7 @@
 \q2 for with us is God.
 
 
-\s None is to be Feared but the \nd Lord\nd*
+\s2 None is to be Feared but the \nd Lord\nd*
 
 \p
 \v 11 These were the \nd Lord\nd*’s words to me, as He grasped me with His hand and warned me not to walk in the ways of the people:
@@ -804,14 +814,14 @@
 \q2 shall be broken and snared and taken.
 
 
-\s Isaiah’s Patient Hope
+\s2 Isaiah’s Patient Hope
 
 \p
 \v 16 I will seal my teaching and fasten my message
 \v 17 in (the heart of) my disciples. I will patiently wait for the \nd Lord\nd* who hides His face from the
 \v 18 household of Israel; I will set my hope in Him. I myself and the children the \nd Lord\nd* has given me are in Israel as signs and symbols from the \nd Lord\nd* of Hosts whose home is on Mount Zion.
 
-\s The Awful Plight of Unbelieving Judah
+\s2 The Awful Plight of Unbelieving Judah
 
 \p
 \v 19 When they tell you have recourse to ghosts and familiar spirits that chirp and mutter, ask them if a nation should not rather have recourse to its God. Why should they consult the dead on behalf
@@ -825,7 +835,7 @@
 \q but nought shall they see save distress and anguish,
 \q2 and thick impenetrable gloom.
 
-\s The Great Deliverance and the Glorious King
+\s2 The Great Deliverance and the Glorious King
 \c 9
 
 \p
@@ -879,7 +889,7 @@
 \q2 The zeal of the \nd Lord\nd* of Hosts
 \q2 shall bring this thing to pass.
 
-\ms2 The Doom of Israel
+\s The Doom of Israel
 \q
 \v 8 The Lord sent a word into Jacob,
 \q2 on Israel it shall alight
@@ -961,9 +971,9 @@
 \q Yet for all this His anger is not turned back,
 \q2 but his hand is stretched out still.
 
-\ms2 The Doom of Assyria
+\s The Doom of Assyria
 
-\s The Two Plans – Assyria’s and the Lord’s
+\s2 The Two Plans – Assyria’s and the Lord’s
 \q
 \v 5 Oh! Assyria! Rod of mine anger,
 \q2 and staff of Mine indignation!
@@ -1016,7 +1026,7 @@
 \q As if ever a rod could swing him that lifts it,
 \q2 or staff of wood could brandish a man!
 
-\s The Fate of Assyria and Judah
+\s2 The Fate of Assyria and Judah
 \q
 \v 16 So into his fat shall the Lord
 \q2 the \nd Lord\nd* of Hosts send leanness,
@@ -1056,7 +1066,7 @@
 \q2 the \nd Lord\nd* of Hosts will accomplish
 \q2 in the midst of all the earth.
 
-\s The Consolation of Zion: Assyria will assuredly fall
+\s2 The Consolation of Zion: Assyria will assuredly fall
 \q
 \v 24 Therefore thus says the Lord the \nd Lord\nd*,
 \q2 “You My people who dwell in Zion,
@@ -1109,9 +1119,9 @@
 \v 34 He strikes with His axe the wild thickets away,
 \q2 and Lebanon’s glorious cedar are fallen.
 
-\ms2 The Bliss of Israel in the Latter Days
+\s The Bliss of Israel in the Latter Days
 
-\s The Messianic King and Kingdom
+\s2 The Messianic King and Kingdom
 
 \c 11
 \q
@@ -1153,7 +1163,7 @@
 \q2 with the knowledge of the \nd Lord\nd*,
 \q2 as the waters cover sea.
 
-\s The Triumphant Return
+\s2 The Triumphant Return
 \q
 \v 10 That day it shall come to pass,
 \q that the Root of Jesse who stands
@@ -1195,7 +1205,7 @@
 \q like that on which Israel trod
 \q2 on the day he came up out of Egypt.
 
-\s The Song of Thanksgiving
+\s2 The Song of Thanksgiving
 
 \c 12
 \q
@@ -1225,11 +1235,11 @@
 \q Lift up your voices, you dwellers in Zion;
 \q2 for great in your midst is the Holy One of Israel.”
 
-\s Prophecies Concerning Foreign Nations
+\ms2 Prophecies Concerning Foreign Nations
 
-\ms2 Prophecy Concerning Babylon
+\s Prophecy Concerning Babylon
 
-\s The Doom of Babylon
+\s2 The Doom of Babylon
 
 \c 13
 \p
@@ -1343,7 +1353,7 @@
 \q Her time is wellnigh come,
 \q2 her day lasts not much longer.
 
-\s Song of Triumph over the Fall of Babylon’s King
+\s2 Song of Triumph over the Fall of Babylon’s King
 
 \c 14
 
@@ -1446,7 +1456,7 @@
 \p
 \v 22 I will rise up against them, says the \nd Lord\nd* of Hosts, cut off from Babylon record and remnant, kith and kin, says the \nd Lord\nd*. And I will make it a possession of the bittern, and pools of water; and I will sweep it with the besom of destruction, says the \nd Lord\nd* of Hosts.
 
-\ms2 The Lord’s Invincible World-Plan
+\s The Lord’s Invincible World-Plan
 
 \p
 \v 24 The \nd Lord\nd* of Hosts has sworn this oath:
@@ -1468,7 +1478,7 @@
 \q And when His is the Hand that is outstretched,
 \q2 who can turn it back?
 
-\ms2 Warning to Philistia
+\s Warning to Philistia
 
 \p
 \v 28 In the year that King Ahaz died, came this oracle:
@@ -1495,7 +1505,7 @@
 \q That “the \nd Lord\nd* Himself is the founder of Zion,
 \q2 and there do His suffering people find refuge.”
 
-\ms2 Lament over Moab
+\s Lament over Moab
 \c 15
 
 \p
@@ -1624,9 +1634,9 @@
 \v 12 When Moab appears on the heights
 \q2 and makes herself weary,
 
-\ms2 Prophecy Concerning Damascus and Northern Israel
+\s Prophecy Concerning Damascus and Northern Israel
 
-\s The Destruction of Damascus
+\s2 The Destruction of Damascus
 
 \c 17
 \p
@@ -1643,7 +1653,7 @@
 \q2 their fate shall be Israel’s fate,
 \q2 says the \nd Lord\nd* of Hosts.
 
-\s The Doom of Israel
+\s2 The Doom of Israel
 \q
 \v 4 That day it shall come to pass
 \q that the glory of Jacob shall pale,
@@ -1680,8 +1690,8 @@
 \q Your harvest shall vanish away
 \q2 in the day of your sickness and desperate pain.
 
-\ms2 The Speedy Doom of the Assyrians
-\s Their Sudden Destruction
+\s The Speedy Doom of the Assyrians
+\s2 Their Sudden Destruction
 \q
 \v 12 Ha!
 \q The uproar of peoples many!
@@ -1699,7 +1709,7 @@
 \q Such is the fate of those that despoil us,
 \q2 the lot of those that plunder us.
 
-\s Isaiah’s Answer to the Ethiopian Ambassadors
+\s2 Isaiah’s Answer to the Ethiopian Ambassadors
 
 \c 18
 \q
@@ -1738,8 +1748,8 @@
 \p
 \v 7 At that time shall a gift of homage be brought to the \nd Lord\nd* of Hosts from that tall and bronze-skinned people, whose land is divided by rivers – that nation strong and victorious, dreaded near and far – to Mount Zion, the place of the name of the \nd Lord\nd* of Hosts.
 
-\ms2 The Destiny of Egypt
-\s The Disaster of Egypt
+\s The Destiny of Egypt
+\s2 The Disaster of Egypt
 
 \p Oracle on Egypt
 
@@ -1823,7 +1833,7 @@
 \v 15 Thus head, tail, palm-branch and rush,
 \q2 shall nothing accomplish for Egypt.
 
-\s The Conversion of Egypt
+\s2 The Conversion of Egypt
 
 \p
 \v 16 In that day shall Egypt fear and tremble like a woman, at the Hand which the \nd Lord\nd* of Hosts
@@ -1843,7 +1853,7 @@
 \v 24 In that day Israel will join Egypt and Assyria in a triple alliance, and so bring blessing to the world
 \v 25 around, which the \nd Lord\nd* of Hosts has in these words blessed: “Blessed be Egypt My people, and Assyria the work of My hands, and Israel My inheritance.”
 
-\ms2 Warning against the Folly of an Alliance with Egypt
+\s Warning against the Folly of an Alliance with Egypt
 
 \c 20
 \p
@@ -1854,8 +1864,8 @@
 \v 5 shoe, and with buttocks exposed. Then those who had looked with hope to Ethiopia and made their boast of Egypt, shall be put to shame and dismay
 \v 6 And in that day the people who live in the coast-land shall say, ’If this be the fate of those to whom we had fled in expectation of help and deliverance from the King of Assyria, how can \em we\em* escape?”
 
-\ms2 The Fall of Babylon
-\s The Fall of Babylon: Its Consequences for Judah
+\s The Fall of Babylon
+\s2 The Fall of Babylon: Its Consequences for Judah
 
 \c 21
 
@@ -1928,7 +1938,7 @@
 \q2 from Israel’s God,
 \q2 from the \nd Lord\nd* of Hosts.
 
-\s The Fall of Babylon: Its Consequences for the Trading Tribes of the Desert!
+\s2 The Fall of Babylon: Its Consequences for the Trading Tribes of the Desert!
 
 \p
 \v 11 Oracle of Edom
@@ -1960,7 +1970,7 @@
 \v 16 For thus has the Lord said unto me, “Within a year, no more and no less, shall all the glory of
 \v 17 Kadar be at an end; and few shall remain of the mighty archers of the Kedareness. the \nd Lord\nd* the God of Israel has decreed it.”
 
-\ms2 Judah’s Unpardonable Sin
+\s Judah’s Unpardonable Sin
 
 \c 22
 \p
@@ -2019,8 +2029,8 @@
 \q2 “This sin shall assuredly never be purged
 \q2 till you die” – says the Lord, the \nd Lord\nd* of Hosts.
 
-\ms2 Personal Threats and Promises
-\s The Doom of Sheba
+\s Personal Threats and Promises
+\s2 The Doom of Sheba
 \q
 \v 15 Against Shebna, the Governor of the Palace.
 \q Thus says the Lord the \nd Lord\nd*,
@@ -2040,7 +2050,7 @@
 \q2 and there shall you die,
 \q2 you disgrace of the house of your lord.
 
-\s The Exaltation of Eliakim
+\s2 The Exaltation of Eliakim
 \q
 \v 19 I will thrust you from your office,
 \q2 and tear you down from your post.
@@ -2064,14 +2074,14 @@
 \q Through him shall his father’s house
 \q2 be lifted to seats of honour.”
 
-\s The Downfall of Eliakim’s Family
+\s2 The Downfall of Eliakim’s Family
 
 \p
 \v 24 His family will hang upon him with all their weight – off-spring and off-scourings, all the meaner sort of vessels, be they bowls or be they pitchers.
 \v 25 In that day, says the \nd Lord\nd* of Hosts, shall the nail so firmly fastened be removed with a wrench, and down shall come in ruin all that had hung upon it: for the \nd Lord\nd* of Hosts has spoken it.
 
-\ms2 The fate of Phoenicia
-\s The Elegy
+\s The fate of Phoenicia
+\s2 The Elegy
 
 \c 23
 \p
@@ -2135,7 +2145,7 @@
 \v 14 Howl, you ships of Tarshish,
 \q2 your haven is ruined.
 
-\s The Revival of Tyre
+\s2 The Revival of Tyre
 
 \p
 \v 15 In that day Tyre shall pass into oblivion for seventy years, covering the period of one dynasty. At the end of seventy years, Tyre shall fare like the harlot in the song:
@@ -2149,8 +2159,8 @@
 \v 17 But at the end of seventy years the \nd Lord\nd* shall visit Tyre (with favour). She will resume her meretricious practices, selling herself to all the kingdoms of the
 \v 18 world on the face of the earth. But her gains from this traffic shall be dedicated to the \nd Lord\nd*: they shall not be stored or hoarded, but they are to belong to those who dwell in the \nd Lord\nd*’s presence; and these are to be furnished there from with abundance of food and stately apparel.
 
-\s The Great World-Judgment
-\ms2 The Judgment: The Rebels Punished
+\ms2 The Great World-Judgment
+\s The Judgment: The Rebels Punished
 
 \c 24
 \q
@@ -2268,7 +2278,7 @@
 \q shall manifest His glory
 \q2 in the presence of His elders.
 
-\ms2 The Banquet of the Nations on Mount Zion.
+\s The Banquet of the Nations on Mount Zion.
 \c 25
 \q
 \v 6 On this mountain the \nd Lord\nd* of Hosts
@@ -2289,7 +2299,7 @@
 \q2 the reproach that has clung to His people.
 \q2 The \nd Lord\nd* Himself has decreed it.
 
-\ms2 Israel’s Security in the Great World-Judgment
+\s Israel’s Security in the Great World-Judgment
 
 \c 26
 \q
@@ -2320,7 +2330,7 @@
 \q shall come and bow down to the \nd Lord\nd* in worship
 \q2 on the holy Mount in Jerusalem.
 
-\ms2 Song of Thanksgiving over the Destruction of Some Proud City
+\s Song of Thanksgiving over the Destruction of Some Proud City
 
 \c 25
 \q
@@ -2344,7 +2354,7 @@
 \v 5 You subdues the voice of the proud,
 \q2 and you humblest the song of the tyrant.
 
-\ms2 Song over the Anticipated Destruction of Moab
+\s Song over the Anticipated Destruction of Moab
 \q
 \v 9 That day it shall be said:
 \q Behold! this is our God,
@@ -2360,8 +2370,8 @@
 \q
 \v 11 Should he spread forth his hands.
 
-\ms2 Song of Gratitude and Hope
-\s Jerusalem Secure: The Proud City Destroyed
+\s Song of Gratitude and Hope
+\s2 Jerusalem Secure: The Proud City Destroyed
 \c 26
 \q
 \v 1 In that say shall this song be snug in the land of Judah:
@@ -2392,7 +2402,7 @@
 \q2 the feet of the poor,
 \q2 and the steps of the needy.
 
-\s It is Well with the Righteous, Ill with the Persistently Wicked
+\s2 It is Well with the Righteous, Ill with the Persistently Wicked
 \q
 \v 7 The path of the upright is even,
 \q2 you smoothest the way of the righteous.
@@ -2414,7 +2424,7 @@
 \q and are altogether blind
 \q2 to the majesty of the \nd Lord\nd*.
 
-\s The Utter Destruction of the Enemy
+\s2 The Utter Destruction of the Enemy
 \q
 \v 11 The \nd Lord\nd*, Your hand is uplifted,
 \q2 but they are blind thereto;
@@ -2436,7 +2446,7 @@
 \q you have visited them with destruction,
 \q2 and blotted their memory clean.
 
-\s A Yet More Glorious Day
+\s2 A Yet More Glorious Day
 \q
 \v 15 You have, O the \nd Lord\nd*, increased the nation,
 \q2 enlarged all the bounds of the land,
@@ -2464,7 +2474,7 @@
 \q2 and the earth (refreshed thereby)
 \q2 Shall quicken the shades into life.
 
-\ms2 Song of the Vineyard
+\s Song of the Vineyard
 
 \c 27
 \q
@@ -2492,7 +2502,7 @@
 \q2 israel shall blossom and bud,
 \q2 and with fruit fill the face of the world.
 
-\ms2 the Lord’s Mercy to Israel
+\s the Lord’s Mercy to Israel
 \q
 \v 7 Has (Israel) been smitten so sorely
 \q2 as those that smote \em her\em* have been smitten?
@@ -2524,8 +2534,8 @@
 \q and so from their Maker they win no pity,
 \q2 no favour from their Creator.
 
-\s Warnings and Promises to Jerusalem
-\ms2 Woe to Samaria
+\ms2 Warnings and Promises to Jerusalem
+\s Woe to Samaria
 
 \c 28
 \q
@@ -2557,9 +2567,9 @@
 \q of valour to those at the gate
 \q2 that stem the tide of war.
 
-\ms2 The Scoffers of Jerusalem Threatened
+\s The Scoffers of Jerusalem Threatened
 
-\s Isaiah’s Solemn Warning to the Drunken Priests and Prophets
+\s2 Isaiah’s Solemn Warning to the Drunken Priests and Prophets
 \q
 \v 7 But here also men reel with wine
 \q2 and stagger under drink;
@@ -2597,7 +2607,7 @@
 \q To the end that you trip on your way and fall backward,
 \q2 shattered and snared and taken.
 
-\s The Folly of the Egyptians Alliance
+\s2 The Folly of the Egyptians Alliance
 \q
 \v 14 Hear therefore the word of the \nd Lord\nd*, you scoffers,
 \q2 who rule this folk in Jerusalem.
@@ -2640,7 +2650,7 @@
 \q2 for this have I heard from the \nd Lord\nd* of Hosts –
 \q2 a decree of destruction o’er all the earth.
 
-\ms2 The Patience and Considerateness of the Divine Purpose
+\s The Patience and Considerateness of the Divine Purpose
 \q
 \v 23 Listen, and hear you my voice;
 \q2 attend and give ear to my speech.
@@ -2665,9 +2675,9 @@
 \v 28 Do we ever crush bread-corn to pieces?
 \q2 Nay, we do not keep threshing for ever;
 
-\ms2 The Character and Fate Jerusalem
+\s The Character and Fate Jerusalem
 
-\s The Fate of Jerusalem
+\s2 The Fate of Jerusalem
 
 \c 29
 \rem Initial check
@@ -2713,7 +2723,7 @@
 \q Even so shall it be with the horde of all nations
 \q2 that fight against Mount Zion.
 
-\s The Spiritual Torpor and Religious Formality of the People
+\s2 The Spiritual Torpor and Religious Formality of the People
 \q
 \v 9 Utterly dazed shall you be,
 \q2 utterly blind shall you be,
@@ -2748,7 +2758,7 @@
 \q doing their deeds in the dark,
 \q2 unseen, unperceived – so they think!
 
-\ms2 Doubters Rebuked by a Vision of Israel’s Welfare in the Latter Days
+\s Doubters Rebuked by a Vision of Israel’s Welfare in the Latter Days
 \q
 \v 16 O perverse that you are!
 \q2 Is the potter no more than the clay?
@@ -2797,9 +2807,9 @@
 \q and those that had grumbled
 \q2 will willingly learn the truth.
 
-\ms2 The Egyptian Alliance a Ruinous Policy
+\s The Egyptian Alliance a Ruinous Policy
 
-\s The Embassy to Egypt
+\s2 The Embassy to Egypt
 
 \c 30
 \q
@@ -2834,7 +2844,7 @@
 \v 7 And therefore I name her Rahab,
 \q2 the monster brought to silence.
 
-\s Judah’s Rebellion and Ruin
+\s2 Judah’s Rebellion and Ruin
 \q
 \v 8 Now go and write it down,
 \q2 and on a roll inscribe it,
@@ -2893,9 +2903,9 @@
 \q like a pole on the top of a mountain,
 \q2 or a signal upon a hill.
 
-\ms2 The Final Triumph and Prosperity of Jerusalem
+\s The Final Triumph and Prosperity of Jerusalem
 
-\s Forgiveness and Prosperity
+\s2 Forgiveness and Prosperity
 \q
 \v 18 Therefore the \nd Lord\nd* length
 \q2 to show unto you His favour,
@@ -2947,7 +2957,7 @@
 \q2 the hurt of His people,
 \q2 and heals the wound that has smitten them.
 
-\s The Glorious Triumph
+\s2 The Glorious Triumph
 \q
 \v 27 Behold, the \nd Lord\nd* comes from afar
 \q2 in thick rising clouds and with anger that blazes,
@@ -2988,7 +2998,7 @@
 \q2 and fired by the breath of the \nd Lord\nd*,
 \q2 as by a stream of brimstone.
 
-\ms2 The Folly of the Egyptian Alliance
+\s The Folly of the Egyptian Alliance
 
 \c 31
 \q
@@ -3028,7 +3038,7 @@
 \q he will shield her and deliver her,
 \q2 he will spare her and bring her to safety.
 
-\ms2 The Enemy’s Downfall
+\s The Enemy’s Downfall
 \q
 \v 6 O turn, you men of Israel, to Him
 \q2 whom deeply you have offended.
@@ -3047,7 +3057,7 @@
 \q Thus says the \nd Lord\nd* whose fire is in Zion,
 \q2 whose furnace is in Jerusalem.
 
-\ms2 Rulers and People in the Coming Days
+\s Rulers and People in the Coming Days
 
 \c 32
 \q
@@ -3086,7 +3096,7 @@
 \v 8 But the plans of the “noble” are noble,
 \q2 by nobleness shall he endure.
 
-\ms2 Warning to the Women
+\s Warning to the Women
 \q
 \v 9 You women that are at ease,
 \q2 arise and hear my voice;
@@ -3117,7 +3127,7 @@
 \q watchtower and hill shall become
 \q2 an everlasting waste.
 
-\ms2 The Security and Prosperity of the Coming Days
+\s The Security and Prosperity of the Coming Days
 \q
 \v 15 But yet from the heavenly height
 \q2 shall a spirit be poured upon us,
@@ -3141,9 +3151,9 @@
 \q2 in a land that is all well watered,
 \q2 where oxen and asses may roam.
 
-\ms2 The Present Distress and the Future Glory of Jerusalem
+\s The Present Distress and the Future Glory of Jerusalem
 
-\s The Distress
+\s2 The Distress
 
 \c 33
 \q
@@ -3185,7 +3195,7 @@
 \q Sharon is now like a desert,
 \q2 and Bashan and Carmel are leafless.
 
-\s The Deliverance
+\s2 The Deliverance
 \q
 \v 10 But thus says the \nd Lord\nd*, “Now \em I\em* will arise;
 \q2 yea now, even now, I will lift Me on high.
@@ -3256,11 +3266,11 @@
 \v 24 Nevermore shall inhabitants say, “I am sick,”
 \q2 For the sins of her people are all forgiven.
 
-\s The Golden Age
+\ms2 The Golden Age
 
-\ms2 The Day of Vengeance
+\s The Day of Vengeance
 
-\s The Destruction of the Nations
+\s2 The Destruction of the Nations
 
 \c 34
 \q
@@ -3286,7 +3296,7 @@
 \q As the leaves fade away from the vine,
 \q2 as the foliage fades from the fig-tree.
 
-\s The Destruction of Edom
+\s2 The Destruction of Edom
 \q
 \v 5 For already drunk with His wrath
 \q2 is the sword of the \nd Lord\nd* in heaven.
@@ -3366,7 +3376,7 @@
 \q as their everlasting possession,
 \q2 their home through all the ages.
 
-\ms2 The Joy of the Redeemed
+\s The Joy of the Redeemed
 
 \c 35
 \q
@@ -3428,11 +3438,11 @@
 \q for at last joy and gladness have found them,
 \q2 and sorrow and sighing are fled.
 
-\s Historical Appendix
+\ms2 Historical Appendix
 
-\ms2 Isaiah Encourages Hezekiah to Resist Sennacheirb’s Summons to Surrender Jerusalem
+\s Isaiah Encourages Hezekiah to Resist Sennacheirb’s Summons to Surrender Jerusalem
 
-\s First Narrative
+\s2 First Narrative
 
 \c 36
 \p
@@ -3480,7 +3490,7 @@
 
 \p So Sennacherib, King of Assyria, broke up camp and returned to Nineveh, where he settled. Subsequently, as he was worshipping in the temple of Nisroch his god, he was assassinated by his sons Adrammelech and Sharezer. They, however, made good their escape to Armenia, and he was succeeded by Esar-haddon his son.
 
-\s Second Narrative
+\s2 Second Narrative
 \q
 \v 9b Then he sent messengers to Hezekiah with the
 \v 10 following instructions. “This,” said he, “is what you are to say to Hezekiah King of Judah,
@@ -3576,9 +3586,9 @@
 \p
 \v 36 Then the angel of the \nd Lord\nd* went forth and slew in the camp of Assyria one hundred and eighty-five thousand men: when they rose in the morning, behold! every man was a lifeless corpse.
 
-\ms2 Hezekiah’s Sickness, Recovery, and Song of Thanksgiving
+\s Hezekiah’s Sickness, Recovery, and Song of Thanksgiving
 
-\s Hezekiah’s Sickness
+\s2 Hezekiah’s Sickness
 
 \c 38
 
@@ -3592,7 +3602,7 @@
 \v 7 “Take this,” he replied, “as a sign from the \nd Lord\nd*
 \v 8 that He will do what He has promised. Watch the shadow that the descending sun has cast on the step-clock of Ahaz: I will bring that shadow ten steps backward.” and the sun did indeed go back on the step-clock the ten steps it had gone down.
 
-\s Hezekiah’s Song of Thanksgiving
+\s2 Hezekiah’s Song of Thanksgiving
 
 \p
 \v 9 A psalm of Hezekiah King of Judah, to celebrate his recovery from the sickness which had overtaken him:
@@ -3656,7 +3666,7 @@
 \v 21 this city I will protect.’” Then Isaiah said, “Let them take a cake of figs and press it on the boil, to
 \v 22 ensure his recovery.” And Hezekiah said, “What is the sign that I shall yet go up to the Temple?”
 
-\ms2 Hezekiah’s Vanity and Isaiah’s Rebuke
+\s Hezekiah’s Vanity and Isaiah’s Rebuke
 
 \c 39
 \p
@@ -3671,12 +3681,12 @@
 \v 7 Babylon: nothing shall be left, says the \nd Lord\nd*. And of the sons that may yet be born to you, some shall be taken to become eunuchs is the palace of the
 \v 8 King of Babylon.” Then said Hezekiah to Isaiah, “I accept the word of the \nd Lord\nd* which you have spoken.” At least, thought he, there will be peace and stability in my day.
 
-\s The Exiles’ Book of Consolation
+\ms The Exiles’ Book of Consolation
 
-\ms2 The Lord the Omnipotent is About to Usher in the day of Israel’s Deliverance
+\s The Lord the Omnipotent is About to Usher in the day of Israel’s Deliverance
 
-\ms2 The Lord is the Lord of Nature and History
-\ms2 The Glorious News – Redemption is Nigh
+\s2 The Lord is the Lord of Nature and History
+\s2 The Glorious News – Redemption is Nigh
 
 \c 40
 \q
@@ -3737,7 +3747,7 @@
 \q he carries the lambs in His bosom,
 \q2 and those that give suck He leads.
 
-\ms2 The Sovereignty and Omnipotence of God as Seen in Nature
+\s The Sovereignty and Omnipotence of God as Seen in Nature
 \q
 \v 12 Who has measured the waters in the hollow of his hand?
 \q2 Who has ruled off the heavens with a span,
@@ -3842,9 +3852,9 @@
 \q They shall run, and not grow weary;
 \q2 they shall walk, and not be faint.
 
-\ms2 The Sovereignty of God as Seen in History, and Especially in the Rise of Cyrus
+\s The Sovereignty of God as Seen in History, and Especially in the Rise of Cyrus
 
-\s The Rise of Cyrus a Proof of the \nd Lord\nd*’s Power
+\s2 The Rise of Cyrus a Proof of the \nd Lord\nd*’s Power
 
 \c 41
 \q
@@ -3876,7 +3886,7 @@
 \q2 the ends of the earth fell a-trembling,
 \q2 they came and drew nigh (to the judgment).
 
-\s Israel is the \nd Lord\nd*’s Servant, Loved and Upheld by Him
+\s2 Israel is the \nd Lord\nd*’s Servant, Loved and Upheld by Him
 \q
 \v 8 But you, Israel My Servant,
 \q2 jacob, whom I have chosen,
@@ -3929,7 +3939,7 @@
 \q I will set in the wilderness fir-trees,
 \q2 the plane and the cypress together:
 
-\s No Heathen God Can Predict the Future
+\s2 No Heathen God Can Predict the Future
 \q
 \v 21 Now then, says the \nd Lord\nd*, bring forward your suit,
 \q2 produce your idols, says Jacob’s King.
@@ -3950,7 +3960,7 @@
 \v 24 Now see, you are nothing, and nought can you do:
 \q2 Hateful is he that chooses you.
 
-\s No Heathen God, but the \nd Lord\nd* Alone, Predicted the Advent of Cyrus
+\s2 No Heathen God, but the \nd Lord\nd* Alone, Predicted the Advent of Cyrus
 \q
 \v 25 I have roused up one from the north, he is come –
 \q2 even one from the sunrise who calls on My name;
@@ -3979,9 +3989,9 @@
 \q2 and nothing can they do:
 \q2 Their idols are wind and waste.
 
-\s The Servant (Israel), his Task and Destiny
+\ms2 The Servant (Israel), his Task and Destiny
 
-\ms2 The Servant’s Task
+\s The Servant’s Task
 
 \c 42
 \q
@@ -4033,7 +4043,7 @@
 \q before they spring into being,
 \q2 I make them know unto you.
 
-\ms2 The New Song
+\s The New Song
 \q
 \v 10 Sing a new song to the \nd Lord\nd*,
 \q2 his praise form the end of the earth;
@@ -4053,7 +4063,7 @@
 \q he shouts His fierce battle-cry,
 \q2 he engages His foes like a hero.
 
-\ms2 The Lord at last Bestirs Himself
+\s The Lord at last Bestirs Himself
 \q
 \v 14 Long time have I held My peace,
 \q2 and restrained Myself in silence;
@@ -4076,7 +4086,7 @@
 \q2 and call an image their god,
 \q2 shall backward be driven in shame.
 
-\ms2 A Call for Repentance on Israel’s Part
+\s A Call for Repentance on Israel’s Part
 \q
 \v 18 Hearken. you that are deaf;
 \q2 and you blind, look up, that you see;
@@ -4110,7 +4120,7 @@
 \q that it blazed round about him – he knew not why –
 \q2 and it burned him, yet never heart did he lay it?
 
-\ms2 The Lord will show His Love for Israel by Gathering her Exiles Home
+\s The Lord will show His Love for Israel by Gathering her Exiles Home
 
 \c 43
 \q
@@ -4148,7 +4158,7 @@
 \v 7 Every one that is called by My name,
 \q2 whom I fashioned and made for My glory.
 
-\ms2 Israel is the \nd Lord\nd*’s Witness to the World
+\s Israel is the \nd Lord\nd*’s Witness to the World
 \q
 \v 8 Forth! you folk that have eyes, but are blind;
 \q2 and you that have ears, yet are deaf.
@@ -4181,7 +4191,7 @@
 \q There is none that can snatch from My hand,
 \q2 and who can reverse what I do?
 
-\ms2 The Deliverance from Babylon more Wonderful than the Deliverance from Egypt
+\s The Deliverance from Babylon more Wonderful than the Deliverance from Egypt
 \q
 \v 14 Thus says the \nd Lord\nd*, your Redeemer,
 \q2 the Holy One of Israel:
@@ -4222,7 +4232,7 @@
 \v 21 The people I formed for Myself,
 \q to tell abroad My praise.
 
-\ms2 Israel’s Restoration is Due, not to her own Merits, but to the Lord’s Free Grace
+\s Israel’s Restoration is Due, not to her own Merits, but to the Lord’s Free Grace
 \q
 \v 22 Yet you have not called upon Me, O Jacob,
 \q2 nor wearied yourself about Me, O Israel.
@@ -4278,7 +4288,7 @@
 \q Another shall write on his hand, “To the \nd Lord\nd*,”
 \q2 And add to his own name the surname of Israel.
 
-\ms2 Israel’s God is Sovereign and Eternal
+\s Israel’s God is Sovereign and Eternal
 \q
 \v 6 Thus says the \nd Lord\nd*, the King of Israel,
 \q2 his Redeemer, the \nd Lord\nd* of Hosts:
@@ -4295,7 +4305,7 @@
 \q You are my Witnesses: is there a God
 \q2 or a Rock beside Me at all?
 
-\ms2 The Folly of Idolatry
+\s The Folly of Idolatry
 \q
 \v 9 Makers of idols are all an illusion,
 \q2 and profitless all are the idols they dote on;
@@ -4363,7 +4373,7 @@
 \q He cannot deliver himself, and confess
 \q2 that his hand has been grasping an utter delusion.
 
-\ms2 Let the World Rejoice over Israel’s Redemption
+\s Let the World Rejoice over Israel’s Redemption
 \q
 \v 21 Remember these things, O Jacob;
 \q2 yea, Israel, for you are My Servant.
@@ -4381,9 +4391,9 @@
 \q For the \nd Lord\nd* has now wrought redemption for Jacob,
 \q2 he shows His glory in Israel.
 
-\s Cyrus and the Overthrow of Babylon
+\ms2 Cyrus and the Overthrow of Babylon
 
-\ms2 The Lord Calls Cyrus and Bestows upon Him a Career of Victory, for Israel and the World’s Sake
+\s The Lord Calls Cyrus and Bestows upon Him a Career of Victory, for Israel and the World’s Sake
 \q
 \v 24 Thus says the \nd Lord\nd*, your Redeemer,
 \q2 who formed you from the womb:
@@ -4460,7 +4470,7 @@
 \q Let victory blossom therein:
 \q2 It is all My creation, the \nd Lord\nd*’s creation.
 
-\ms2 Murmurs against Cyrus Rebuked
+\s Murmurs against Cyrus Rebuked
 \q
 \v 9 Woe unto him that strives with his Maker –
 \q2 a potsherd no better than earthen potsherd.
@@ -4491,7 +4501,7 @@
 \q yet neither for price nor reward.
 \q2 Thus says the \nd Lord\nd* of Hosts.
 
-\ms2 The Heathen Acknowledge the Uniqueness of Israel and Her God
+\s The Heathen Acknowledge the Uniqueness of Israel and Her God
 \q
 \v 14 Thus says the \nd Lord\nd* of Hosts:
 \q The peasants of Egypt, the merchants of Cush,
@@ -4516,7 +4526,7 @@
 \q You shall not be ashamed or confounded
 \q2 for ever and evermore.
 
-\ms2 The Lord Desires the Salvation of the Whole World
+\s The Lord Desires the Salvation of the Whole World
 \q
 \v 18 For thus says the \nd Lord\nd*, God indeed,
 \q2 creator of the heavens,
@@ -4569,7 +4579,7 @@
 \v 25 But all the descendants of Israel
 \q2 shall triumph and boast in the \nd Lord\nd*,
 
-\ms2 The Downfall of Babylon’s Gods
+\s The Downfall of Babylon’s Gods
 
 \c 46
 \q
@@ -4633,7 +4643,7 @@
 \q I will set the deliverance in Zion,
 \q2 and lavish My glory on Israel.
 
-\ms2 The Downfall of Babylon
+\s The Downfall of Babylon
 
 \c 47
 \q
@@ -4732,9 +4742,9 @@
 \q your flee staggering, each his own way –
 \q2 not a man of them all to save you.
 
-\ms2 The Summons to Depart from Babylon
+\s The Summons to Depart from Babylon
 
-\s The New Prophecies will be Fulfilled as Surely as the Old
+\s2 The New Prophecies will be Fulfilled as Surely as the Old
 
 \c 48
 \q
@@ -4766,11 +4776,11 @@
 \v 6 You have heard it, now see it fulfilled;
 \q2 wilt you not bear witness to it?
 
-\s The Restoration of Israel and the Future Glory of Zion
+\ms2 The Restoration of Israel and the Future Glory of Zion
 
-\ms2 The Servant Discouraged, but at last Triumphant
+\s The Servant Discouraged, but at last Triumphant
 
-\s The Servant: His Seeming Failure and his Great Destiny
+\s2 The Servant: His Seeming Failure and his Great Destiny
 
 \c 46
 \q
@@ -4812,7 +4822,7 @@
 \q2 that so My salvation may reach
 \q2 to the very ends of the earth.”
 
-\s Israel’s Happy Return and Restoration
+\s2 Israel’s Happy Return and Restoration
 \q
 \v 7 Thus says the (true) God the \nd Lord\nd*,
 \q2 israel’s Holy Redeemer,
@@ -4857,9 +4867,9 @@
 \q For the \nd Lord\nd* comforts His folk,
 \q2 takes pity upon His affected.
 
-\ms2 The Consolation of Zion
+\s The Consolation of Zion
 
-\s Wasted Zion will be Rebuilt and Repeopled
+\s2 Wasted Zion will be Rebuilt and Repeopled
 \q
 \v 14 “But the \nd Lord\nd*,” says Zion, “has left me;”
 \q2 My Lord has forgotten me clean.”
@@ -4901,9 +4911,9 @@
 \q Behold! I was left all alone:
 \q2 Who then can these children be?”
 
-\ms2 Three Words of Consolation
+\s Three Words of Consolation
 
-\s At a Signal from the \nd Lord\nd*, the Nations shall Bring Israel Back to Zion
+\s2 At a Signal from the \nd Lord\nd*, the Nations shall Bring Israel Back to Zion
 \q
 \v 22 Thus says the Lord the \nd Lord\nd*:
 \q Behold I will lift up My hand to the nations,
@@ -4918,7 +4928,7 @@
 \q And then you shall know that I am the \nd Lord\nd*,
 \q2 who never will bring those who trust Me to shame.
 
-\s the Lord is Omnipotent
+\s2 The Lord is Omnipotent
 \q
 \v 24 Can prey from the mighty be wrenched,
 \q2 or can captives escape from a tyrant?
@@ -4935,7 +4945,7 @@
 \q2 that I am your Saviour-Redeemer,
 \q2 the \nd Lord\nd*, the Strong One of Jacob.
 
-\s the Lord’s Omnipotent Love
+\s2 the Lord’s Omnipotent Love
 
 \c 50
 \q
@@ -4960,7 +4970,7 @@
 \v 3 I clothed the heavens in mourning,
 \q2 and sackcloth I made their covering.
 
-\ms2 The Servant Tried but Trusting
+\s The Servant Tried but Trusting
 \q
 \v 4 The Lord the \nd Lord\nd* has given me
 \q2 the tongue of a true disciple,
@@ -5013,9 +5023,9 @@
 \q This is your fate at My hand,
 \q2 that you lie in the place of torment.
 
-\ms2 Words of Encouragement and Promise
+\s Words of Encouragement and Promise
 
-\s Deliverance is Near and Sure
+\s2 Deliverance is Near and Sure
 
 \c 51
 \q
@@ -5069,7 +5079,7 @@
 \q but eternal shall be My salvation,
 \q2 my triumph from age to age.
 
-\s Appeal to the Lord to Show His Ancient Power
+\s2 Appeal to the Lord to Show His Ancient Power
 \q
 \v 9 Awake, O Arm of the \nd Lord\nd*,
 \q2 awake, and clothe you with might;
@@ -5110,7 +5120,7 @@
 \q when I stretched forth the heavens and founded the earth,
 \q2 and said unto Zion, “My people are you.”
 
-\s Jerusalem’s Affliction: Her Speedy Redemption and Glory
+\s2 Jerusalem’s Affliction: Her Speedy Redemption and Glory
 \q
 \v 17 Bestir you, bestir you; arise, O Jerusalem,
 \q2 who have drunk at the hand of the \nd Lord\nd*
@@ -5201,9 +5211,9 @@
 \q for the \nd Lord\nd* goes before you,
 \q2 and Israel’s God is your rear guard.
 
-\ms2 The Humiliation and Exaltation of the Servant
+\s The Humiliation and Exaltation of the Servant
 
-\s The servant: His Sufferings and His Great Glory
+\s2 The servant: His Sufferings and His Great Glory
 \q
 \v 13 See, Israel My Servant shall yet be exalted
 \q2 and raised exceeding high.
@@ -5223,7 +5233,7 @@
 \q And to whom has the arm of the \nd Lord\nd*
 \q2 Been ever so revealed?
 
-\s The Sorrows, Humiliation, and Death of the Servant
+\s2 The Sorrows, Humiliation, and Death of the Servant
 \q
 \v 2 He grew like a sapling before us,
 \q2 a shoot out of ground that was dry;
@@ -5277,7 +5287,7 @@
 \q although he had done no violence,
 \q2 nor was any deceit in his mouth.
 
-\s The Servant’s Ultimate Exultation and Glory
+\s2 The Servant’s Ultimate Exultation and Glory
 \q
 \v 10 ’Twas the will of the \nd Lord\nd* that crushed him with pain;
 \q2 but by yielding himself as an offering for sin,
@@ -5298,7 +5308,7 @@
 \q though the sins that he bore were the sins of the world,
 \q2 and for those very rebels he had offered his prayer.”
 
-\ms2 The Future Glory of Jerusalem
+\s The Future Glory of Jerusalem
 
 \c 54
 \q
@@ -5394,9 +5404,9 @@
 \q Such is the lot of the \nd Lord\nd*’s Servants,
 \q2 and this will I vindicate them, says the \nd Lord\nd*.
 
-\ms2 Invitation to Embrace the Impending Salvation
+\s Invitation to Embrace the Impending Salvation
 
-\s The Blessings in Store for Israel
+\s2 The Blessings in Store for Israel
 
 \c 55
 \q
@@ -5425,7 +5435,7 @@
 \q2 the Holy One of Israel,
 \q2 because He has girt you with glory.
 
-\s The Wonderful Salvation is Near: Forth, then, from Babylon!
+\s2 The Wonderful Salvation is Near: Forth, then, from Babylon!
 \q
 \v 6 Seek you the \nd Lord\nd*, while He may be found,
 \q2 call you upon Him, while He is near.
@@ -5470,9 +5480,9 @@
 \q it shall be for the \nd Lord\nd*’s renown,
 \q2 for a sign everlasting that never shall perish.
 
-\s Later Voices of Rebuke, Threat, and Promise
+\ms Later Voices of Rebuke, Threat, and Promise
 
-\ms2 A Word of Cheer to Those who are in Danger of Being Excluded from the Church
+\s A Word of Cheer to Those who are in Danger of Being Excluded from the Church
 
 \c 56
 \q
@@ -5525,9 +5535,9 @@
 \q “I will yet gather others to him
 \q2 beside those that already are gathered.”
 
-\ms2 The Demoralization of Leaders and People
+\s The Demoralization of Leaders and People
 
-\s The Sensuous Leaders
+\s2 The Sensuous Leaders
 \q
 \v 9 All you wild beasts of the field,
 \q2 all you wild beasts of the forest,
@@ -5564,7 +5574,7 @@
 \q2 and those whose walk has been upright
 \q2 do rest at last on their biers.
 
-\s The Idolatrous People
+\s2 The Idolatrous People
 \q
 \v 3 But \em you\em* – hither approach,
 \q2 you children of a sorcerers;
@@ -5633,7 +5643,7 @@
 \q But who trusts in Me shall possess the land,
 \q2 and inherit My holy Mountain.
 
-\ms2 Blessings in store for the Faithful
+\s Blessings in store for the Faithful
 \q
 \v 14 O raise, raise a highway, and clear you a path,
 \q2 take the stumbling-blocks out of the way of My people.
@@ -5666,9 +5676,9 @@
 \q2
 \v 21 So peace there is none, says my God, to the wicked.
 
-\ms2 The true and the False Worship
+\s The true and the False Worship
 
-\s Fasting
+\s2 Fasting
 
 \c 58
 \q
@@ -5743,7 +5753,7 @@
 \q and you shall be called the Repairer of Ruins,
 \q2 who makes waste places a home again.
 
-\s The Sabbath
+\s2 The Sabbath
 \q
 \v 13 If you turn away your foot from the Sabbath,
 \q2 from doing your business on My holy day,
@@ -5757,9 +5767,9 @@
 \q I will give you the portion of Jacob your father
 \q2 in full to enjoy, as the \nd Lord\nd* has promised.
 
-\ms2 The Sinful People and the Devine Deliverance
+\s The Sinful People and the Devine Deliverance
 
-\s The Sins
+\s2 The Sins
 
 \c 59
 \q
@@ -5805,7 +5815,7 @@
 \q For their own selfish ends they have twisted their paths;
 \q2 who treads thereon is a stranger to peace.
 
-\s The Confession
+\s2 The Confession
 \q
 \v 9 For this cause our right remains far,
 \q2 and no victory yet overtakes us;
@@ -5843,7 +5853,7 @@
 \q At the sight was the \nd Lord\nd* displeased,
 \q2 he was angry that justice was lacking.
 
-\s The Deliverance
+\s2 The Deliverance
 \q
 \v 16 He saw with utter amaze
 \q2 not a man to interpose;
@@ -5876,7 +5886,7 @@
 \q nor yet from the mouth of your children’s children,
 \q2 says the \nd Lord\nd*, from the henceforth and evermore.
 
-\ms2 The Glory of the New Jerusalem
+\s The Glory of the New Jerusalem
 
 \c 60
 \q
@@ -6000,7 +6010,7 @@
 \q I (who have promised), the \nd Lord\nd*,
 \q2 will hasten it in its time.
 
-\ms2 The Proclamation of Zion’s Redemption
+\s The Proclamation of Zion’s Redemption
 
 \c 61
 \q
@@ -6138,7 +6148,7 @@
 \q and you shall be called Frequented,
 \q2 the City Unforsaken.
 
-\ms2 The Destruction of the Foes of Zion
+\s The Destruction of the Foes of Zion
 
 \c 63
 \q
@@ -6173,9 +6183,9 @@
 \q2 in My furry I broke them in pieces:
 \q2 Their life-blood I spilt on the ground.”
 
-\ms2 Passionate Prayer for the Divine Favour
+\s Passionate Prayer for the Divine Favour
 
-\s Thanksgiving for Ancient Mercies
+\s2 Thanksgiving for Ancient Mercies
 \q
 \v 7 The \nd Lord\nd*’s renown I would celebrate –
 \q2 all His loving-kindness –
@@ -6227,7 +6237,7 @@
 \q2 as once You did lead Your people,
 \q2 to make You a glorious name.”
 
-\s Passionate Entreaty for the Devine Forgiveness and Pity
+\s2 Passionate Entreaty for the Devine Forgiveness and Pity
 \q
 \v 15 Look down from heaven, and behold
 \q2 from Your holy and glorious palace.
@@ -6314,9 +6324,9 @@
 \q And wilt You still keep silence,
 \q2 and afflict us very sore?
 
-\ms2 The Blessedness of the Faithful and the Doom of the Apostates
+\s The Blessedness of the Faithful and the Doom of the Apostates
 
-\s The Fate of the Apostates
+\s2 The Fate of the Apostates
 
 \c 65
 \q
@@ -6358,7 +6368,7 @@
 \q So first their reward I will measure,
 \q2 then into their bosom requite it.
 
-\s The Destiny of the Faithful in the Impending Judgment
+\s2 The Destiny of the Faithful in the Impending Judgment
 \q
 \v 8 Thus says the \nd Lord\nd*:
 \q2 As when new wine is found in the cluster,
@@ -6418,7 +6428,7 @@
 \v 17 For behold I will soon create
 \q2 the heavens and the earth anew.
 
-\s The Glorious Future
+\s2 The Glorious Future
 \q The past shall not be remembered,
 \q2 nor come into mind again;
 \q
@@ -6469,7 +6479,7 @@
 \q None shall do hurt, says the \nd Lord\nd*, or havoc,
 \q2 on all My holy Mountain.
 
-\s Doom Pronounced upon those who Purpose to Build a Rival Temple
+\s2 Doom Pronounced upon those who Purpose to Build a Rival Temple
 
 \c 66
 \q
@@ -6504,7 +6514,7 @@
 \q but did that which was vile in My sight,
 \q2 and made choice of the things that displeased Me.
 
-\s The Faithful Cheered by the Prospect of Zion’s Prosperity
+\s2 The Faithful Cheered by the Prospect of Zion’s Prosperity
 \q
 \v 5 Hear you the word of the \nd Lord\nd*,
 \q2 you that at \em His\em* word tremble:
@@ -6586,7 +6596,7 @@
 \v 18 Their works and their thoughts, says the \nd Lord\nd*,
 \q2 shall come to an end together.
 
-\s The Lord’s Glory Announced throughout the World: The Complete Restoration and Perpetuity of Israel
+\s2 The Lord’s Glory Announced throughout the World: The Complete Restoration and Perpetuity of Israel
 \q Behold, the time is come
 \q2 to gather all nations and tongues;
 \q they shall come and behold My glory,
@@ -6615,7 +6625,7 @@
 \q shall abide, says the \nd Lord\nd*, before Me,
 \q2 your name and your race shall continue.
 
-\s The Fearful Fate of the Apostates
+\s2 The Fearful Fate of the Apostates
 \q
 \v 23 From one new moon to another,
 \q2 one Sabbath to another,
