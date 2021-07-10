@@ -1,0 +1,3 @@
+[submodule "USFM-Tools"]
+	path = USFM-Tools
+	url = https://github.com/openenglishbible/USFM-Tools
