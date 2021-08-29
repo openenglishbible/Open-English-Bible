@@ -80,7 +80,7 @@ def templateForBook(b):
     template = """
         <td>
           <span class="{}">{}</span><br>
-          <span class="comment"><a href="https://github.com/openenglishbible/Open-English-Bible/blob/dev/artifacts/us/oeb-working-{}.rtf">rtf</a> <a href="https://github.com/openenglishbible/Open-English-Bible/blob/dev/source/{}.usfm.db">usfm.db</a><br>{}
+          <span class="comment"><a href="https://github.com/openenglishbible/Open-English-Bible/blob/master/artifacts/us/rtf/oeb-working-{}.rtf">rtf</a> <a href="https://github.com/openenglishbible/Open-English-Bible/blob/master/source/{}.usfm.db">usfm.db</a><br>{}
           </span>
         </td>
     """
