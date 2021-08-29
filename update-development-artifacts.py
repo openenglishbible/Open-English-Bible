@@ -192,7 +192,7 @@ books.append( Book('18', 'JOB', 'Job'             ))
 books.append( Book('19', 'PSA', 'Psalms'          ))
 books.append( Book('20', 'PRO', 'Proverbs'        ))
 books.append( Book('21', 'ECC', 'Ecclesiastes'    ))
-books.append( Book('22', 'SNG', 'Song of Solomon' ))
+books.append( Book('22', 'SNG', 'Song of Songs'   ))
 
 books.append( Book('23', 'ISA', 'Isaiah'          ))
 books.append( Book('24', 'JER', 'Jeremiah'        ))
