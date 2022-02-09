@@ -9,7 +9,9 @@ import sys
 import datetime
 
 #
-#  Use Pypy if installed - willbe faster.
+#  Use Pypy if installed - will be faster.
+#
+#  This just notifies which
 #
 if shutil.which('pypy3') is None:
 	PYTHON="python3"
