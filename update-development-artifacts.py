@@ -8,16 +8,6 @@ import pathlib
 import sys
 import datetime
 
-#
-#  Use Pypy if installed - will be faster.
-#
-#  This just notifies which
-#
-if shutil.which('pypy3') is None:
-	PYTHON="python3"
-else:
-	PYTHON="pypy3"
-print("Using " + PYTHON + ' at ' + shutil.which(PYTHON))
 
 ##############################
 #
@@ -40,7 +30,7 @@ def updateUSFM():
     print('            rtf: ' + rtfDir)
     print('            tmp: ' + tempDir)
 
-    run = PYTHON + ' ' + toolsDir + '/variant/variant.py -s ' + sourceDir + ' -d ' + tempDir + ' -t ' + tags + ' -b ' + booklist + ' ' + swap
+    run = toolsDir + '/usfm-tools variant -s ' + sourceDir + ' -d ' + tempDir + ' -t ' + tags + ' -b ' + booklist + ' ' + swap
     subprocess.run(run, shell=True)
 
     isDifferent = False
@@ -60,7 +50,7 @@ def updateUSFM():
             # Update RTF
             subprocess.run('rm ' + tempDir2 + '/*', shell=True)
             shutil.copy(to, tempDir2)
-            run = PYTHON + ' ' + toolsDir + '/transform/transform.py --target=rtf --usfmDir=' + tempDir2 + ' --builtDir=' + rtfDir + ' --config=' + config + ' --name="' + buildId + '-' + book.name() + '"'
+            run = toolsDir + '/usfm-tools transform --target=rtf --usfmDir=' + tempDir2 + ' --builtDir=' + rtfDir + ' --config=' + config + ' --name="' + buildId + '-' + book.name() + '"'
             subprocess.run(run, shell=True)
 
             print('Updated ' + book.fileName())
@@ -69,7 +59,7 @@ def updateUSFM():
     #         # Update Accordance
     #         subprocess.run('rm ' + tempDir2 + '/*', shell=True)
     #         shutil.copy(to, tempDir2)
-    #         run = PYTHON + ' ' + toolsDir + '/transform/transform.py --target=accordance --usfmDir=' + usfmDir + ' --builtDir=' + indexDir + ' --config=' + config + ' --name="' + buildId + '"'
+    #         run = toolsDir + '/usfm-tools transform --target=accordance --usfmDir=' + usfmDir + ' --builtDir=' + indexDir + ' --config=' + config + ' --name="' + buildId + '"'
     #         subprocess.run(run, shell=True)
     #         print('Updated Accordance')
 

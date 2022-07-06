@@ -1,7 +1,7 @@
 #!/bin/bash
 
 build() {
-	$PYTHON $USFMTOOLS/transform/transform.py --target=$TARGET --usfmDir=$OEBDIR --builtDir=$BUILTDIR --config=$CONFIG --name=$ID
+	$USFMTOOLS/usfm-tools transform --target=$TARGET --usfmDir=$OEBDIR --builtDir=$BUILTDIR --config=$CONFIG --name=$ID
 }
 
 build-all(){
@@ -12,9 +12,9 @@ build-all(){
 	OEBDIR=$BUILTDIR/usfm
 	mkdir -p $OEBDIR
 
-	$PYTHON $USFMTOOLS/variant/variant.py -s $SOURCEDIR -d $OEBDIR -t $TAGS -b $BOOKLIST $SWAP
+	$USFMTOOLS/usfm-tools variant -s $SOURCEDIR -d $OEBDIR -t $TAGS -b $BOOKLIST $SWAP
 
-	$PYTHON $USFMTOOLS/check/check.py -s $OEBDIR
+	$USFMTOOLS/usfm-tools check -s $OEBDIR
 
 	TARGET=md            ; build
 	TARGET=singlehtml    ; build
@@ -26,12 +26,12 @@ build-all(){
 	TARGET=mobi          ; build
 }
 
-PYTHON=pypy3
+PYTHON=python3
 SOURCEDIR=$PWD/source
 CONFIG=$PWD/support/oeb.config
 USFMTOOLS=USFM-Tools
 
-ID=OEB-2020.2-US
+ID=OEB-2022.1-US
 
 BUILTDIR=$PWD/artifacts/us-release
 TAGS=us-nrsv-neut-gehenna-ioudaioi
@@ -39,7 +39,7 @@ BOOKLIST=$PWD/books-in-release
 SWAP=
 build-all
 
-ID=OEB-2020.2-Cth
+ID=OEB-2022.1-Cth
 
 BUILTDIR=$PWD/artifacts/cth-release
 TAGS=cth-nrsv-neut-gehenna-ioudaioi
