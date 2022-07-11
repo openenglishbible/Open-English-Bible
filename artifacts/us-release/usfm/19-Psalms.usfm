@@ -6,7 +6,7 @@
 \mt Psalms
 
 \rem ORIGINAL BASE TEXT
-\rem McFadyens, Isaiah in Modern Speach
+\rem McFadyen Isaiah in Modern Speach
 \rem TAGS
 \rem us cth (spelling)
 \rem masc neut (gender)
@@ -5518,6 +5518,7 @@
 
 \c 88
 \s Psalm 88 – The Prayer of Despair
+\d A Song, a psalm of the Korahites. To the leader: according to Mahalath Leannoth. A Maskil of Heman the Ezrahite.
 \q
 \v 1 O \nd Lord\nd* my God,
 \q2 I cry for help in the day-time,
@@ -5587,7 +5588,7 @@
 
 \c 89
 \s Psalm 89 – The Promise to David
-\d A song. A psalm of the Korahites.
+\d A Maskil of Ethan the Ezrahite.
 \q
 \v 1 I will sing evermore of the love of the \nd Lord\nd*,
 \q2 proclaiming to all generations his faithfulness.
@@ -6344,6 +6345,7 @@
 
 \c 102
 \s Psalm 102 – A Prayer for Pity and for the Restoration of Zion
+\d The prayer: for a weary and suffering person who pours out their grief to the \nd Lord\nd*.
 \q
 \v 1 Hear my prayer, O \nd Lord\nd*;
 \q2 let my cry for help come to you.
@@ -8271,7 +8273,7 @@ Happy are those who fear the \nd Lord\nd*,
 
 \c 121
 \s Psalm 121 – The Lord Our Protector
-\s A song of ascents
+\d A song of ascents.
 \q
 \v 1 I will lift up my eyes to the mountains.
 \q2 O whence shall help for me come?
@@ -8597,6 +8599,7 @@ Happy are those who fear the \nd Lord\nd*,
 
 \c 132
 \s Psalm 132 – The Ancient Promise to David and Zion
+\d A song of ascents.
 \q
 \v 1 Remember, O \nd Lord\nd*, David
 \q2 all his sufferings,
@@ -9023,6 +9026,7 @@ Happy are those who fear the \nd Lord\nd*,
 
 \c 140
 \s Psalm 140 – A Prayer for Preservation
+\d To the leader. A Psalm of David.
 \q
 \v 1 Rescue me, \nd Lord\nd*, from evil people;
 \q2 from the violent guard me
