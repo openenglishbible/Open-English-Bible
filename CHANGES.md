@@ -3,6 +3,12 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB. It includes changes to the text itself and to the infrastructure in this repository.
 
+Summary of changes to the 2022.1 Release (July 2022)
+-------------------------------------------------------
+
+General small improvements in removing old fashioned language (eg 'ere', 'even'), and small fixes to typos and transcription errors.
+
+
 Summary of changes to the 2020.2 Release (July 2020)
 -------------------------------------------------------
 
@@ -24,7 +30,7 @@ Textual:
 
 * **2019-11-25** - Add missing fix to 1 Corinthians 1:13
 
-* 2019-11-25** - Fix to mistranslation of 'baptize in the name of' - thanks Mitchell Harris
+* **2019-11-25** - Fix to mistranslation of 'baptize in the name of' - thanks Mitchell Harris
 
 * **2018-12-31** - Harmonised use of capitalisation in verse text in OT and NT
 
