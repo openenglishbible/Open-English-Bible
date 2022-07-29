@@ -30,6 +30,9 @@ def updateUSFM():
     print('            rtf: ' + rtfDir)
     print('            tmp: ' + tempDir)
 
+    run = toolsDir + '/usfm-tools check --oeb -s ' + usfmDir
+    subprocess.run(run, shell=True)
+
     run = toolsDir + '/usfm-tools variant -s ' + sourceDir + ' -d ' + tempDir + ' -t ' + tags + ' -b ' + booklist + ' ' + swap
     subprocess.run(run, shell=True)
 
