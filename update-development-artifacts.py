@@ -15,6 +15,44 @@ import datetime
 #
 ##############################
 
+import os
+
+def normalize_newlines_to_usfm(directory_path):
+    """
+    Normalizes newlines in all files within the specified directory by replacing double newlines (\n\n) 
+    with a single newline (\n). The files are overwritten with the updated content.
+
+    Args:
+        directory_path (str): Path to the directory containing the files to process.
+    """
+    if not os.path.isdir(directory_path):
+        print(f"Error: The provided path '{directory_path}' is not a directory.")
+        return
+
+    for filename in os.listdir(directory_path):
+        file_path = os.path.join(directory_path, filename)
+        
+        # Skip directories; only process files
+        if not os.path.isfile(file_path):
+            continue
+
+        try:
+            # Read the file content
+            with open(file_path, 'r', encoding='utf-8') as file:
+                content = file.read()
+
+            # Replace all \n\n with \n
+            while '\n\n' in content:
+                content = content.replace('\n\n', '\n') 
+
+            # Write the updated content back to the file
+            with open(file_path, 'w', encoding='utf-8') as file:
+                file.write(content)
+            
+        except Exception as e:
+            print(f"Failed to process file: {file_path}. Error: {e}")
+
+
 def lastModified(book):
     d = 'cd ' + sourceDir + ' ; git log -1 --format="%ad" -- "' + book.sourceFileName() + '"'
     d = subprocess.getoutput(d)
@@ -30,11 +68,13 @@ def updateUSFM():
     print('            rtf: ' + rtfDir)
     print('            tmp: ' + tempDir)
 
-    run = toolsDir + '/usfm-tools check --oeb -s ' + usfmDir
-    subprocess.run(run, shell=True)
-
     run = toolsDir + '/usfm-tools variant -s ' + sourceDir + ' -d ' + tempDir + ' -t ' + tags + ' -b ' + booklist + ' ' + swap
     subprocess.run(run, shell=True)
+
+    #
+    # Remove double \n\n (which are nice but not valid USFM)
+    #
+    normalize_newlines_to_usfm(tempDir)
 
     isDifferent = False
     for book in books:
@@ -57,6 +97,9 @@ def updateUSFM():
             subprocess.run(run, shell=True)
 
             print('Updated ' + book.fileName())
+
+    run = toolsDir + '/usfm-tools check --oeb -s ' + usfmDir
+    subprocess.run(run, shell=True)
 
     # if isDifferent:
     #         # Update Accordance
@@ -247,7 +290,7 @@ books.append( Book('66', 'REV', 'Revelation'))
 ##############################
 
 baseDir   = os.path.dirname(os.path.abspath(__file__)) + '/'
-toolsDir  = baseDir + 'USFM-Tools'
+toolsDir  = baseDir + '/../USFM-Tools'
 
 sourceDir = baseDir + 'source'
 tempDir   = tempfile.mkdtemp()
