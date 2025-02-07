@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 build() {
 	$USFMTOOLS/usfm-tools transform --target=$TARGET --usfmDir=$OEBDIR --builtDir=$BUILTDIR --config=$CONFIG --name=$ID
@@ -24,14 +24,15 @@ build-all(){
 	TARGET=context       ; build
 	TARGET=accordance    ; build
 	TARGET=mobi          ; build
+	TARGET=ascii	 	 ; build
 }
 
-PYTHON=python3
+#PYTHON=python3
 SOURCEDIR=$PWD/source
 CONFIG=$PWD/support/oeb.config
 USFMTOOLS=USFM-Tools
 
-ID=OEB-2022.1-US
+ID=OEB-$(cat VERSION)-US
 
 BUILTDIR=$PWD/artifacts/us-release
 TAGS=us-nrsv-neut-gehenna-ioudaioi
@@ -39,7 +40,7 @@ BOOKLIST=$PWD/books-in-release
 SWAP=
 build-all
 
-ID=OEB-2022.1-Cth
+ID=OEB-$(cat VERSION)-Cth
 
 BUILTDIR=$PWD/artifacts/cth-release
 TAGS=cth-nrsv-neut-gehenna-ioudaioi
