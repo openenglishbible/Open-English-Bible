@@ -96,6 +96,12 @@ def updateUSFM():
             run = toolsDir + '/usfm-tools transform --target=rtf --usfmDir=' + tempDir2 + ' --builtDir=' + rtfDir + ' --config=' + config + ' --name="' + buildId + '-' + book.name() + '"'
             subprocess.run(run, shell=True)
 
+            # Update MD
+            subprocess.run('rm ' + tempDir2 + '/*', shell=True)
+            shutil.copy(to, tempDir2)
+            run = toolsDir + '/usfm-tools transform --target=md --usfmDir=' + tempDir2 + ' --builtDir=' + mdDir + ' --config=' + config + ' --name="' + buildId + '-' + book.name() + '"'
+            subprocess.run(run, shell=True)
+
             print('Updated ' + book.fileName())
 
     run = toolsDir + '/usfm-tools check --oeb -s ' + usfmDir
@@ -313,6 +319,7 @@ tags = 'us-nrsv-neut-gehenna-ioudaioi-working'
 swap = ''
 usfmDir   = baseDir + 'artifacts/us/usfm'
 rtfDir    = baseDir + 'artifacts/us/rtf'
+mdDir     = baseDir + 'artifacts/us/md'
 indexDir  = baseDir + 'artifacts/us'
 for d in [usfmDir, rtfDir, indexDir]: pathlib.Path(d).mkdir(parents=True, exist_ok=True) 
 updateUSFM()
@@ -321,6 +328,7 @@ tags = 'cth-nrsv-neut-gehenna-ioudaioi-working'
 swap = '--punctuation'
 usfmDir   = baseDir + 'artifacts/cth/usfm'
 rtfDir    = baseDir + 'artifacts/cth/rtf'
+mdDir     = baseDir + 'artifacts/cth/md'
 indexDir  = baseDir + 'artifacts/cth'
 for d in [usfmDir, rtfDir, indexDir]: pathlib.Path(d).mkdir(parents=True, exist_ok=True) 
 updateUSFM()
