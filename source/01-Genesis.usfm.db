@@ -6,23 +6,28 @@
 \mt2 Called
 \mt Genesis
 
-\rem ORIGINAL BASE TEXT
-\rem Kent's Shorter Bible
-\rem Kent's Children's Bible
-\rem Kent's Student's Old Testament
-\rem Sui Generis
-\rem TAGS
-\rem us cth (spelling)
-\rem STATUS
-\rem DEVELOPMENT ONLY
-\rem Initial Check Only
-\rem US and Cth English ok
+[Comment:
 
-\rem notes:
-\rem angel -> messenger
-\rem covenant -> solemn agreement (Maybe. Open to arguments, but we shouldn't do what some versions do and create a linguistic distinction between a treaty between people and a convenant with God)
-\rem lad -> boy
-\rem kid -> (young) goat
+TODO: revert solemn agreement to covenant
+
+ORIGINAL BASE TEXT
+Kent's Shorter Bible
+Kent's Children's Bible
+Kent's Student's Old Testament
+Sui Generis
+
+TAGS
+us cth (spelling)
+
+STATUS
+DEVELOPMENT ONLY
+Initial Check Only
+US and Cth English ok
+
+notes:
+angel -> messenger
+
+]
 
 \c 1
 \s Creation
@@ -791,8 +796,7 @@
 \q2 who has delivered your foes into your power.
 
 \b
-\m
-Then Abram gave him a tenth of everything.
+\m Then Abram gave him a tenth of everything.
 
 \p
 \v 21 The king of Sodom said to Abram, “Give me my people, and take the goods for yourself.”
