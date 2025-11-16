@@ -592,7 +592,7 @@ angel -> messenger
 
 \c 10
 \rem Multiple
-
+\nb
 \v 1 Now these are the descendants of the sons of Noah: Shem, Ham, and Japheth; and to them were sons born after the flood.
 \v 2 The sons of Japheth: Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 \v 3 The sons of Gomer: Ashkenaz, and Riphath, and Togarmah.
@@ -938,11 +938,7 @@ angel -> messenger
 
 \p
 \v 9 Then they said to him, “Where is your wife?” He said, “There, within the tent.”
-\v 10 One of them said, “I will surely return to you about nine months from now, and then, Sarah your wife shall have a son.”
-
-\rem Students
-
-But Sarah was listening behind the door of the tent.
+\v 10 One of them said, “I will surely return to you about nine months from now, and then, Sarah your wife shall have a son.” [Comment:Students] But Sarah was listening behind the door of the tent.
 \v 11 Now Sarah and Abraham were advanced in years;
 \v 12 so she laughed to herself, saying, “After I and my husband are so old will I have pleasure?”
 \v 13 But the \nd Lord\nd* said to Abraham, “Why did Sarah laugh, saying, ‘Will I, indeed, even when I am old give birth to a child?’
@@ -1872,6 +1868,7 @@ In this way the weaker became Laban's, and the stronger Jacob.
 \s Dinah and Shechem
 \rem Students
 
+\p
 \v 18 Now Jacob came in peace to the city of Shechem in the land of Canaan, when he came from Paddan-Aram, and encamped before the city.
 \v 19 He bought the piece of ground where he pitched his tent from the sons of Hamor, the father of Shechem, for four hundred shekels;
 \v 20 and he erected there an altar and called it El, God of Israel.
@@ -2522,6 +2519,7 @@ In this way the weaker became Laban's, and the stronger Jacob.
 \s Geneaology
 \rem Multiple
 
+\p
 \v 8 Now these are the names of the Israelites, Jacob and his family, who came to Egypt. Reuben, Jacob's firstborn,
 \v 9 and the sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
 \v 10 The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
