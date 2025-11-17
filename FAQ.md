@@ -1,22 +1,10 @@
-Introduction
-============
+Frequently Asked Questions
+==========================
 
 What is this?
 -------------
 
-This is the Frequently Asked Questions list for the Open English Bible. It is updated and posted to the mailing list on a regular basis.
-
-
-Why I am receiving this?
-------------------------
-
-You are receiving this because you signed up to the Open English Bible mailing list at http://forum.openenglishbible.org
-
-If you wish to unsubscribe, go to http://forum.openenglishbible.org and follow the instructions there.
-
-
-About the Open English Bible
-============================
+This is the Frequently Asked Questions list for the Open English Bible.
 
 
 What is the Open English Bible?
@@ -64,16 +52,12 @@ The language of the 20CNT has been edited, and continues to be edited:
 This editing was moderate, aiming for a scholarly defensible mainstream translation usable within a religious community rather than a translation focused on a readership completely unfamiliar with the Bible or Christianity (as an example, the OEB is comfortable with the words ‘Christ’ and ‘Messiah’ and will not replace them with ‘Annointed One’ or similar). A freely licensed translation for the audiences of the Better Life Bible or the CEV is a project for another day.
 
 
-Frequently Asked Questions
-==========================
-
-
 Why another translation?
 ------------------------
 
 The English language market is currently very well covered by translations for all seasons, everything from the Message, through the CEV, NRSV, AV, and so on through the acronym soup. The OEB aims at the levels of accuracy and natural language achieved by these translations, but the purpose of the OEB is not to gift the world with a more accurate or ‘better’ translation per se. The existing commercial English translations are, for the large part, of a high standard of accuracy and are the result of much work by knowledgeable and well intended translators.
 
-However, with the honourable exception of the [World English Bible (WEB)](http://ebible.org) - and of course the Authorised Version - all of these Bibles are subject to copyright, and owned by a particular organisation or publisher. Without wishing to criticise these organisations, their translations naturally have limitations on what end users can do with them.
+However, with the honourable exception of the [World English Bible (WEB)](http://ebible.org) - and of course the Authorised Version - these Bibles are subject to copyright, and owned by a particular organisation or publisher. Without wishing to criticise these organisations, their translations naturally have limitations on what end users can do with them.
 
 The OEB has no restrictions on what its readers and users can do with it (for both good and bad). You may quote it, publish it in part or full, on their blogs, in your churches, remix it, reword it, correct its egregious translation mistakes or indeed add your own.
 
@@ -110,9 +94,6 @@ Who is involved in this?
 The OEB is organised by Russell Allen and includes the comments, corrections and work of a number of volunteers. We are always open to offers of help.
 
 
-Copyright
-=========
-
 What licence is the OEB under?
 ------------------------------
 
@@ -137,10 +118,10 @@ Who do I contact about the OEB's copyright?
 Contact Russell Allen at oebible@openenglishbible.org
 
 
-How to Help
-===========
+How can I help?
+---------------
 
-The first step is to join the OEB mailing list by going to http://forum.openenglishbible.org and following the instructions there.
+You can join the discussion on GitHub: https://github.com/openenglishbible/Open-English-Bible/discussions
 
 If you are a professional translator of Koine Greek or ancient Hebrew, let us know!
 
