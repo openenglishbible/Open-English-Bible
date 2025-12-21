@@ -14,7 +14,7 @@ build-all(){
 
 	$USFMTOOLS/usfm-tools variant -s $SOURCEDIR -d $OEBDIR -t $TAGS -b $BOOKLIST $SWAP
 
-	$USFMTOOLS/usfm-tools check -s $OEBDIR
+	$USFMTOOLS/usfm-tools check  --oeb -s $OEBDIR
 
 	TARGET=md            ; build
 	TARGET=singlehtml    ; build

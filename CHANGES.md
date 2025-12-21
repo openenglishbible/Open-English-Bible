@@ -3,6 +3,12 @@ Open English Bible Changes
 
 This is a summary of the progress of the OEB. It includes changes to the text itself and to the infrastructure in this repository.
 
+Summary of changes to the 2025.6 Release (December 2025)
+--------------------------------------------------------
+
+- Continued small improvements.
+- Added Genesis.
+
 Summary of changes to the 2022.1 Release (July 2022)
 -------------------------------------------------------
 
