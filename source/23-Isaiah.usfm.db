@@ -1,42 +1,17 @@
 \id ISA Open English Bible – Isaiah
 \ide UTF-8
-
-\rem ORIGINAL BASE TEXT
-\rem McFadyens, Isaiah in Modern Speach
-\rem TAGS
-\rem STATUS
-\rem NOT CHECKED
-\rem Checked as marked.
-\rem Versification (nrsv jps) not marked
-\rem NOTES - DONE
-\rem to-day -> today
-\rem to-morrow -> tomorrow
-\rem furry -> fury
-\rem mine -> my
-\rem pronoun capitalisation
-\rem that -> who
-\rem purpose as verb -> propose
-\rem even (as in even a remnant)
-\rem shall removal
-\rem nought -> nothing
-\rem NOTES - TODO
-
 \h Isaiah
 
 \mt The Book of the Prophet Isaiah
 
-\ms The Book of Judgment
+\ms Book One - Judgement and hope
 
-\ms2 Prophecies Concerning Judah and Israel
-
-\s Jerusalem: her present sin and punishment; her future redemption and glory
+\s Prophesies against Judah
 
 \c 1
-
 \p
 \v 1 The vision of Judah and Jerusalem, as seen by Isaiah the son of Amoz, in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah.
 
-\s2 The prophet's lament over the unfaithfulness of the people to their God
 \q
 \v 2 Hear, you heavens! Listen, earth,
 \q2 for the \nd Lord\nd* is the speaker.
@@ -86,7 +61,6 @@
 \q we would be like Sodom,
 \q2 or another Gomorrah.
 
-\s2 The futility of a merely ceremonial worship
 \q
 \v 10 Attend to the \nd Lord\nd*'s message,
 \q2 you rulers of Sodom!
@@ -137,7 +111,6 @@ Your hands are full of blood:
 \q uphold the rights of the orphan,
 \q2 defend the cause of the widow.”
 
-\s2 The great alternatives
 \q
 \v 18 “Come,” says the \nd Lord\nd*, “and now
 \q2 let us reason together.
@@ -153,7 +126,6 @@ Your hands are full of blood:
 \q2 by the sword you will be eaten,
 \q2 for the mouth of the \nd Lord\nd* has spoken it.”
 
-\s2 Zion's present shame and future glory
 \q
 \v 21 Alas! How the once faithful city
 \q2 has become a prostitute.
@@ -194,7 +166,6 @@ Your hands are full of blood:
 \v 28 But rebels and sinners will be crushed,
 \q2 and those who abandon the \nd Lord\nd* will perish.
 
-\s2 The heathen cult and its doom
 \q
 \v 29 The sacred oaks you delight in will bring you shame,
 \q2 the gardens you worship in will make you blush.
@@ -207,12 +178,9 @@ Your hands are full of blood:
 \q and both will burn together
 \q2 and no one will quench the flame.
 
-\s2 Jerusalem the centre of blessing to the world; arbitration, disarmament, and international peace
 
 \rem Marker
-
 \c 2
-
 \p
 \v 1 The message of Isaiah the son of Amoz: his vision of Judah and Jerusalem.
 \q
@@ -241,9 +209,7 @@ Your hands are full of blood:
 \v 5 O household of Jacob, come,
 \q2 let us walk in the light of the \nd Lord\nd*.
 
-\s Judgment upon the wealth and pride of Judah
 
-\s2 The Lord's judgement-day
 \q
 \v 6 \em (Get you into the caves of the rocks,
 \q2 and hide in the holes of the ground,
@@ -251,7 +217,6 @@ Your hands are full of blood:
 \q2 he rises with terror to smile the earth.) \em*
 \q For he has forsaken his people,
 \q2 the household of Jacob.
-
 \b
 \q Filled is his land from the east with diviners,
 \q2 with soothsayers like to the Philistines,
@@ -311,11 +276,9 @@ Your hands are full of blood:
 \q2 and into the rents of the cliffs,
 \q from the \nd Lord\nd*'s dread face, when in glory majestic
 \q2 he rises-with terror to smite the earth. \em*
-
 \p
 \v 22 Oh cease your trust in man, in whose nostrils is but a breath. Of what account is he?
 
-\s2 A reign of anarchy
 \c 3
 \q
 \v 1 Behold, the Lord the \nd Lord\nd* of Hosts
@@ -382,7 +345,6 @@ Your hands are full of blood:
 \q2 and grinding the faces of the poor?”
 \q2 says the Lord \nd God\nd* of Hosts.
 
-\s2 The doom of the haughty women
 \q
 \v 16 Moreover the \nd Lord\nd* said:
 \q2 “Because Zion's daughters are haughty,
@@ -423,9 +385,7 @@ Your hands are full of blood:
 \v 26 Her gates will lament and mourn,
 \q2 as she lies despoiled on the ground.
 \q
-
 \c 4
-
 \v 1 That day will seven women
 \q2 take hold of one man and say,
 \q “Our own bread will we eat,
@@ -433,7 +393,6 @@ Your hands are full of blood:
 \q but oh, let us bear your name,
 \q2 and take our reproach away.”
 
-\s2 Zion's final glory
 \q2
 \v 2 In that day
 \q will the wild vegetation be glorious and fair,
@@ -460,9 +419,7 @@ Your hands are full of blood:
 \q a shade by day from the heat,
 \q2 a refuge and shelter from storm and rain.
 
-\s The vineyard with the wild grapes
 
-\s2 The song of the vineyard
 
 \c 5
 \q
@@ -504,7 +461,6 @@ Your hands are full of blood:
 \q But instead of the justice he looked for was bloodshed,
 \q2 instead of the right was the cry (of the wronged).
 
-\s2 The national sins: woe!
 \q
 \v 8 Woe unto you who join house unto house
 \q2 and who add one field to another,
@@ -583,7 +539,6 @@ Your hands are full of blood:
 \q because they rejected the \nd Lord\nd*'s instruction,
 \q2 and the message of Israel's Holy One scorned.
 
-\s2 A foreign army is coming
 \q
 \v 25 So against his people his anger was kindled,
 \q2 against them he stretched forth his hand and he smote them;
@@ -619,14 +574,12 @@ Your hands are full of blood:
 \s The prophet's call
 
 \c 6
-
 \p
 \v 1 In the year that King Uzi died, I had a vision of the Lord seated on a high and lofty throne, and
 \v 2 the skirts if his robe filled the Temple. Before him were standing seraphs, each with six wings – two for covering the face, two the loins, and two
 \v 3 to fly with; and thus they kept calling to one another:
 \q “Holy, holy, holy, is the \nd Lord\nd* of Hosts;
 \q2 the whole earth is filled with his glory.”
-
 \p
 \v 4 At the sound of their calling the foundations of threshold shook, and the House began to fill
 \v 5 with smoke. Then I said
@@ -635,7 +588,6 @@ Your hands are full of blood:
 \q2 and I dwell in a nation of unclean lips;
 \q and yet my eyes have seen
 \q2 the king, the \nd Lord\nd* of Hosts.”
-
 \p
 \v 6 Then one of the seraphs flew to me with a live coal in his hand, which with tongs he had taken
 \v 7 from off the altar. With this he touched my mouth, and said,
@@ -668,22 +620,17 @@ Your hands are full of blood:
 \q2 that too, in its turn, must be given to the fire,
 \q2 like the stump of an oak or a terebinth felled.”
 
-\s The crisis Created by the menace to Judah in 735 B.C.
-
-\s2 The prophet's word to the terrified king
+\s The prophet's word to the terrified king
 
 \c 7
-
 \p
 \v 1 In the days Ahaz, the son of Jotham, the son of Uzziah, Rezin King of Aram, and Pekah, the son of Remaliah, King of Israel, marched against Jerusalem to attack it, but they were unable to develop an actual assault upon it.
-
 \p
 \v 2 When news reached the Court that the Aramean army was on Ephraimite soil, the heart of Ahaz and his people shook like forest-trees before the
 \v 3 wind. Then the \nd Lord\nd* said to Isaiah, “Go out – you and your son Shear-yashub – to meet Ahaz at the end of the conduit of the upper pool on the
 \v 4 Fuller's Field Road, and say to him: be careful to keep calm. Be not faint-hearted or afraid of this pair of fire-brands that are nothing but smoking stumps. Be not afraid of the fierce anger of Rezin
 \v 5 and Aram and the son of Remaliah. Aram and Ephraim with the son of Remaliah have indeed
 \v 6 plotted your ruin: their purpose is to invade Judah, and, after reducing her straits, to break into (Jerusalem); then, having overpowered her, they intend to set the son of Tabeel on the throne.
-
 \p
 \v 7 But thus says the Lord the \nd God\nd*:
 \q 'This thing will not succeed,
@@ -696,7 +643,6 @@ Your hands are full of blood:
 \q Your faith must firmly hold,
 \q2 if you would yourselves be held.'”
 
-\s2 The great refusal and the sign
 
 \p
 \v 10 Once more I addressed Ahaz thus, “Ask the \nd Lord\nd*
@@ -717,7 +663,6 @@ Your hands are full of blood:
 \q that land will be deserted
 \q2 whose two kings you so dreaded.
 
-\s2 Judah will also be ravaged
 \q
 \v 17 The \nd Lord\nd* will bring upon you your people
 \q2 and on your father's house
@@ -760,9 +705,7 @@ Your hands are full of blood:
 \q2 from the hills that used to be hoed with the hoe.
 \q2 There cattle will wander and sheep will tread.
 
-\s2 The fall of Damascus and Samaria
 \c 8
-
 \p
 \v 1 The \nd Lord\nd* said to me, “Take a large tablet, and write upon it in the common script 'Speed-spoil
 \v 2 Hurry-prey;' and take (two) reliable witnesses,
@@ -773,7 +716,6 @@ Your hands are full of blood:
 \q The wealth of Damascus, the spoil of Samaria,
 \q2 will be carried away to the king of Assyria.”
 
-\s2 The invasion of Judah
 
 \p
 \v 5 Once more I had a message from the \nd Lord\nd* – it was this:
@@ -797,7 +739,6 @@ Your hands are full of blood:
 \q2 will cover the breadth of the land;
 \q2 for with us is God.
 
-\s2 The futility of opposition to Judah
 \q
 \v 9 you may storm as you will, you nations,
 \q2 you will be shattered.
@@ -812,8 +753,6 @@ Your hands are full of blood:
 \q2 they will not be accomplished;
 \q2 for with us is God.
 
-
-\s2 None is to be feared but the Lord
 
 \p
 \v 11 These were the \nd Lord\nd*'s words to me, as he grasped me with his hand and warned me not to walk in the ways of the people:
@@ -834,14 +773,11 @@ Your hands are full of blood:
 \q2 will be broken and snared and taken.
 
 
-\s2 Isaiah's patient hope
-
 \p
 \v 16 I will seal my teaching and fasten my message
 \v 17 in (the heart of) my disciples. I will patiently wait for the \nd Lord\nd* who hides his face from the
 \v 18 household of Israel; I will set my hope in him. I myself and the children the \nd Lord\nd* has given me are in Israel as signs and symbols from the \nd Lord\nd* of Hosts whose home is on Mount Zion.
 
-\s2 The awful plight of unbelieving Judah
 
 \p
 \v 19 When they tell you have recourse to ghosts and familiar spirits that chirp and mutter, ask them if a nation should not rather have recourse to its God. Why should they consult the dead on behalf
@@ -855,9 +791,7 @@ Your hands are full of blood:
 \q but they will see nothing but distress and anguish,
 \q2 and thick impenetrable gloom.
 
-\s2 The great deliverance and the glorious king
 \c 9
-
 \p
 \v 1 In the former time he brought the territory of Zebulon and Naphtali into contempt, but in the latter time has he covered with glory the ground held by the nations beyond the Jordan on the way to the sea.
 \q
@@ -909,7 +843,8 @@ Your hands are full of blood:
 \q2 The zeal of the \nd Lord\nd* of Hosts
 \q2 will bring this thing to pass.
 
-\s The doom of Israel
+\s Prophesies against Israel
+
 \q
 \v 8 The Lord sent a word into Jacob,
 \q2 on Israel it will alight
@@ -991,9 +926,7 @@ Your hands are full of blood:
 \q Yet for all this his anger is not turned back,
 \q2 but his hand is stretched out still.
 
-\s The doom of Assyria
 
-\s2 The two plans – Assyria's and the Lord's
 \q
 \v 5 Oh! Assyria! Rod of my anger,
 \q2 and staff of my indignation!
@@ -1022,7 +955,6 @@ Your hands are full of blood:
 \q2 and to her images also,
 \q as I have done to Samaria
 \q2 and to her idols also?
-
 \p
 \v 12 When the Lord has accomplished all his work on Mount Zion and in Jerusalem, he will punish the fruit of the stout heart of the king of Assyria and the glory of his lofty looks. For the Lord has said:
 \q
@@ -1046,7 +978,6 @@ Your hands are full of blood:
 \q As if ever a rod could swing him who lifts it,
 \q2 or staff of wood could brandish a man!
 
-\s2 The fate of Assyria and Judah
 \q
 \v 16 So into his fat will the Lord
 \q2 \nd God\nd* of Hosts send leanness,
@@ -1086,7 +1017,6 @@ Your hands are full of blood:
 \q2 the \nd Lord\nd* of Hosts will accomplish
 \q2 in the midst of all the earth.
 
-\s2 The consolation of Zion: Assyria will assuredly fall
 \q
 \v 24 Therefore thus says the Lord the \nd Lord\nd*,
 \q2 “You my people who dwell in Zion,
@@ -1139,9 +1069,7 @@ Your hands are full of blood:
 \v 34 He strikes with his axe the wild thickets away,
 \q2 and Lebanon's glorious cedar are fallen.
 
-\s The bliss of Israel in the latter days
 
-\s2 The messianic king and kingdom
 
 \c 11
 \q
@@ -1183,7 +1111,6 @@ Your hands are full of blood:
 \q2 with the knowledge of the \nd Lord\nd*,
 \q2 as the waters cover sea.
 
-\s2 The triumphant return
 \q
 \v 10 That day it will come to pass,
 \q that the root of Jesse who stands
@@ -1225,7 +1152,6 @@ Your hands are full of blood:
 \q like that on which Israel trod
 \q2 on the day he came up out of Egypt.
 
-\s2 The song of thanksgiving
 
 \c 12
 \q
@@ -1254,11 +1180,7 @@ Your hands are full of blood:
 \q Lift up your voices, you dwellers in Zion;
 \q2 for great in your midst is the Holy One of Israel.”
 
-\ms2 Prophecies Concerning Foreign Nations
-
-\s Prophecy concerning Babylon
-
-\s2 The doom of Babylon
+\s Prophesies against foreign nations
 
 \c 13
 \p
@@ -1372,14 +1294,11 @@ Your hands are full of blood:
 \q Her time is wellnigh come,
 \q2 her day lasts not much longer.
 
-\s2 Song of triumph over the fall of Babylon's king
 
 \c 14
-
 \p
 \v 1 For the \nd Lord\nd* will take pity on Jacob, he will elect Israel once more and settle them on their own land: resident foreigners will join them and attach themselves to the household
 \v 2 of Jacob. (Foreign) people will take them and bring them to their place; and the household of Israel will employ them in the \nd Lord\nd*'s land as men-servants and maid-servants, thus reducing their erstwhile captors to captivity, and lording it over those who had been their taskmasters.
-
 \p
 \v 3 Then, in the day that the \nd Lord\nd* gives you rest from your toil and turmoil and from the hard service that was
 \v 4 laid upon you, you will take up this taunt-song over the King of Babylon, and say:
@@ -1471,11 +1390,8 @@ Your hands are full of blood:
 \q2 to atone for the guilt of their father;
 \q lest they rise and posses the earth,
 \q2 and fill the face of the world.
-
 \p
 \v 22 I will rise up against them, says the \nd Lord\nd* of Hosts, cut off from Babylon record and remnant, kith and kin, says the \nd Lord\nd*. And I will make it a possession of the bittern, and pools of water; and I will sweep it with the besom of destruction, says the \nd Lord\nd* of Hosts.
-
-\s The Lord's invincible world-plan
 
 \p
 \v 24 The \nd Lord\nd* of Hosts has sworn this oath:
@@ -1496,8 +1412,6 @@ Your hands are full of blood:
 \q2 what the \nd Lord\nd* of Hosts has planned?
 \q And when his is the hand that is outstretched,
 \q2 who can turn it back?
-
-\s Warning to Philistia
 
 \p
 \v 28 In the year that King Ahaz died, came this oracle:
@@ -1524,9 +1438,7 @@ Your hands are full of blood:
 \q That “the \nd Lord\nd* himself is the founder of Zion,
 \q2 and there do his suffering people find refuge.”
 
-\s Lament over Moab
 \c 15
-
 \p
 \v 1 Oracle on Moab
 \q Alas! In a night has Ar-Moab
@@ -1653,9 +1565,7 @@ Your hands are full of blood:
 \v 12 When Moab appears on the heights
 \q2 and makes herself weary,
 
-\s Prophecy concerning Damascus and Northern Israel
 
-\s2 The destruction of Damascus
 
 \c 17
 \p
@@ -1672,7 +1582,6 @@ Your hands are full of blood:
 \q2 their fate will be Israel's fate,
 \q2 says the \nd Lord\nd* of Hosts.
 
-\s2 The doom of Israel
 \q
 \v 4 That day it will come to pass
 \q that the glory of Jacob will pale,
@@ -1709,8 +1618,7 @@ Your hands are full of blood:
 \q your harvest will vanish away
 \q2 in the day of your sickness and desperate pain.
 
-\s The speedy doom of the Assyrians
-\s2 Their sudden destruction
+
 \q
 \v 12 Ha!
 \q The uproar of peoples many!
@@ -1728,7 +1636,6 @@ Your hands are full of blood:
 \q Such is the fate of those who despoil us,
 \q2 the lot of those who plunder us.
 
-\s2 Isaiah's answer to the Ethiopian ambassadors
 
 \c 18
 \q
@@ -1763,15 +1670,11 @@ Your hands are full of blood:
 \q2 to the ravenous birds that haunt the mountains;
 \q all summer the ravenous birds will devour them,
 \q2 all winter the beasts of the land will consume them.”
-
 \p
 \v 7 At that time will a gift of homage be brought to the \nd Lord\nd* of Hosts from that tall and bronze-skinned people, whose land is divided by rivers – that nation strong and victorious, dreaded near and far – to Mount Zion, the place of the name of the \nd Lord\nd* of Hosts.
 
-\s The destiny of Egypt
-\s2 The disaster of Egypt
 
 \p Oracle on Egypt
-
 \c 19
 \q
 \v 1 Behold! On swift cloud riding
@@ -1852,27 +1755,21 @@ Your hands are full of blood:
 \v 15 Thus head, tail, palm-branch and rush,
 \q2 will nothing accomplish for Egypt.
 
-\s2 The conversion of Egypt
 
 \p
 \v 16 In that day will Egypt fear and tremble like a woman, at the hand which the \nd Lord\nd* of Hosts
 \v 17 will swing over her. The land of Judah will be a terror to her; the very mention of the name will fill her with dread at the thought of the purpose which the \nd Lord\nd* of Hosts has formed against her.
-
 \p
 \v 18 In that day there will be in the land of Egypt five cities speaking the language of Canaan, and swearing allegiance to the \nd Lord\nd* of Hosts; and one of them will be called the City of the Sun.
-
 \p
 \v 19 In that day there will be an altar to the \nd Lord\nd* in the heart of the land of Egypt, and a pillar to
 \v 20 the \nd Lord\nd* at the border. It will be a sign and a witness to the \nd Lord\nd* of Hosts in the land of Egypt: for when, under oppression, they cry to the \nd Lord\nd* to send a deliver, he will intervene and rescue
 \v 21 them. And the \nd Lord\nd* will reveal himself to the Egyptians, and the Egyptians will acknowledge the \nd Lord\nd* on that day: they will worship him with sacrifice and offering, they will make vows to the \nd Lord\nd* and discharge them. The \nd Lord\nd* will smite
 \v 22 Egypt – smite and heal her: when they turn to the \nd Lord\nd*, he will heal them in answer to their entreaty.
-
 \p
 \v 23 In that day there will be a highway between Egypt and Assyria. Assyrians will come to Egypt, and Egyptians to Assyria: Egyptians and Assyrians will worship (the \nd Lord\nd*) in common.
 \v 24 In that day Israel will join Egypt and Assyria in a triple alliance, and so bring blessing to the world
 \v 25 around, which the \nd Lord\nd* of Hosts has in these words blessed: “Blessed be Egypt my people, and Assyria the work of my hands, and Israel my inheritance.”
-
-\s Warning against the folly of an alliance with Egypt
 
 \c 20
 \p
@@ -1883,11 +1780,8 @@ Your hands are full of blood:
 \v 5 shoe, and with buttocks exposed. Then those who had looked with hope to Ethiopia and made their boast of Egypt, will be put to shame and dismay.
 \v 6 And in that day the people who live in the coast-land will say, 'If this be the fate of those to whom we had fled in expectation of help and deliverance from the King of Assyria, how can \em we\em* escape?”
 
-\s The fall of Babylon
-\s2 The fall of Babylon: its consequences for Judah
 
 \c 21
-
 \p
 \v 1 Oracle on the Wilderness
 \q Like the roar of the whirlwind
@@ -1957,7 +1851,6 @@ Your hands are full of blood:
 \q2 from Israel's God,
 \q2 from the \nd Lord\nd* of Hosts.
 
-\s2 The fall of Babylon: its consequences for the trading tribes of the desert!
 
 \p
 \v 11 Oracle of Edom
@@ -1970,7 +1863,6 @@ Your hands are full of blood:
 \q2 but still it is night.
 \q If you would enquire,
 \q2 come hither again.”
-
 \p
 \v 13 Oracle “in the steppe”
 \q In the bush, in the steppe, you must lodge for the night,
@@ -1984,12 +1876,9 @@ Your hands are full of blood:
 \q2 before the whetted sword,
 \q before the bow that is bent,
 \q2 before the press of battle.
-
 \p
 \v 16 For thus has the Lord said unto me, “Within a year, no more and no less, will all the glory of
 \v 17 Kadar be at an end; and few will remain of the mighty archers of the Kedareness. The \nd Lord\nd* the God of Israel has decreed it.”
-
-\s Judah's unpardonable sin
 
 \c 22
 \p
@@ -2048,8 +1937,7 @@ Your hands are full of blood:
 \q2 “This sin will assuredly never be purged
 \q2 till you die” – says the Lord, \nd God\nd* of Hosts.
 
-\s Personal threats and promises
-\s2 The doom of Sheba
+
 \q
 \v 15 Against Shebna, the Governor of the Palace.
 \q Thus says the Lord \nd God\nd*,
@@ -2069,7 +1957,6 @@ Your hands are full of blood:
 \q2 and there you will die,
 \q2 you disgrace of the house of your lord.
 
-\s2 The exaltation of Eliakim
 \q
 \v 19 I will thrust you from your office,
 \q2 and tear you down from your post.
@@ -2093,14 +1980,11 @@ Your hands are full of blood:
 \q Through him will his father's house
 \q2 be lifted to seats of honour.”
 
-\s2 The downfall of Eliakim's family
 
 \p
 \v 24 his family will hang upon him with all their weight – off-spring and off-scourings, all the meaner sort of vessels, be they bowls or be they pitchers.
 \v 25 In that day, says the \nd Lord\nd* of Hosts, will the nail so firmly fastened be removed with a wrench, and down will come in ruin all that had hung upon it: for the \nd Lord\nd* of Hosts has spoken it.
 
-\s The fate of Phoenicia
-\s2 The elegy
 
 \c 23
 \p
@@ -2164,7 +2048,6 @@ Your hands are full of blood:
 \v 14 Howl, you ships of Tarshish,
 \q2 your haven is ruined.
 
-\s2 The revival of Tyre
 
 \p
 \v 15 In that day Tyre will pass into oblivion for seventy years, covering the period of one dynasty. At the end of seventy years, Tyre will fare like the harlot in the song:
@@ -2173,13 +2056,11 @@ Your hands are full of blood:
 \q2 harlot, forgot by all:
 \q play skilfully, and sing them many ditty,
 \q2 that they may you recall.
-
 \p
 \v 17 But at the end of seventy years the \nd Lord\nd* will visit Tyre (with favour). She will resume her meretricious practices, selling herself to all the kingdoms of the
 \v 18 world on the face of the earth. But her gains from this traffic will be dedicated to the \nd Lord\nd*: they will not be stored or hoarded, but they are to belong to those who dwell in the \nd Lord\nd*'s presence; and these are to be furnished there from with abundance of food and stately apparel.
 
-\ms2 The great world-judgment
-\s The judgment: the rebels punished
+\s The great judgement
 
 \c 24
 \q
@@ -2291,8 +2172,6 @@ Your hands are full of blood:
 \q will manifest his glory
 \q2 in the presence of his elders.
 
-\s The banquet of the nations on Mount Zion.
-
 \c 25
 \q
 \v 6 On this mountain the \nd Lord\nd* of Hosts
@@ -2312,8 +2191,6 @@ Your hands are full of blood:
 \q and remove from off the earth
 \q2 the reproach that has clung to his people.
 \q2 The \nd Lord\nd* himself has decreed it.
-
-\s Israel's security in the great world-judgment
 
 \c 26
 \q
@@ -2344,8 +2221,6 @@ Your hands are full of blood:
 \q will come and bow down to the \nd Lord\nd* in worship
 \q2 on the holy Mount in Jerusalem.
 
-\s Song of thanksgiving over the destruction of some proud city
-
 \c 25
 \q
 \v 1 The \nd Lord\nd*, you are my God;
@@ -2368,7 +2243,6 @@ Your hands are full of blood:
 \v 5 You subdued the voice of the proud,
 \q2 and you humbled the song of the tyrant.
 
-\s Song over the anticipated destruction of Moab
 \q
 \v 9 That day it will be said:
 \q behold! This is our God,
@@ -2384,8 +2258,7 @@ Your hands are full of blood:
 \q
 \v 11 should he spread forth his hands.
 
-\s Song of gratitude and hope
-\s2 Jerusalem secure: the proud city destroyed
+
 \c 26
 \q
 \v 1 In that day this song will be sung in the land of Judah:
@@ -2416,7 +2289,6 @@ Your hands are full of blood:
 \q2 the feet of the poor,
 \q2 and the steps of the needy.
 
-\s2 It is well with the righteous, ill with the persistently wicked
 \q
 \v 7 The path of the upright is even,
 \q2 you smooth the way of the righteous.
@@ -2438,7 +2310,6 @@ Your hands are full of blood:
 \q and are altogether blind
 \q2 to the majesty of the \nd Lord\nd*.
 
-\s2 The utter destruction of the enemy
 \q
 \v 11 The \nd Lord\nd*, your hand is uplifted,
 \q2 but they are blind thereto;
@@ -2460,7 +2331,6 @@ Your hands are full of blood:
 \q you have visited them with destruction,
 \q2 and blotted their memory clean.
 
-\s2 A yet more glorious day
 \q
 \v 15 you have, O \nd Lord\nd*, increased the nation,
 \q2 enlarged all the bounds of the land,
@@ -2488,8 +2358,6 @@ Your hands are full of blood:
 \q2 and the earth (refreshed thereby)
 \q2 will quicken the shades into life.
 
-\s Song of the vineyard
-
 \c 27
 \q
 \v 2 In that day it will be said:
@@ -2516,7 +2384,6 @@ Your hands are full of blood:
 \q2 Israel will blossom and bud,
 \q2 and with fruit fill the face of the world.
 
-\s The Lord's mercy to Israel
 \q
 \v 7 Has (Israel) been smitten so sorely
 \q2 as those who smote \em her\em* have been smitten?
@@ -2548,8 +2415,7 @@ Your hands are full of blood:
 \q and so from their maker they win no pity,
 \q2 no favour from their creator.
 
-\ms2 Warnings and promises to Jerusalem
-\s Woe to Samaria
+\s Judah, Egypt and Assyria
 
 \c 28
 \q
@@ -2581,9 +2447,7 @@ Your hands are full of blood:
 \q of valour to those at the gate
 \q2 that stem the tide of war.
 
-\s The scoffers of Jerusalem threatened
 
-\s2 Isaiah's solemn warning to the drunken priests and prophets
 \q
 \v 7 But here also men reel with wine
 \q2 and stagger under drink;
@@ -2621,7 +2485,6 @@ Your hands are full of blood:
 \q to the end that you trip on your way and fall backward,
 \q2 shattered and snared and taken.
 
-\s2 The folly of the Egyptian alliance
 \q
 \v 14 Hear therefore the word of the \nd Lord\nd*, you scoffers,
 \q2 who rule this folk in Jerusalem.
@@ -2664,7 +2527,6 @@ Your hands are full of blood:
 \q2 for this have I heard from the \nd Lord\nd* of Hosts –
 \q2 a decree of destruction o'er all the earth.
 
-\s The patience and considerateness of the divine purpose
 \q
 \v 23 Listen, and hear you my voice;
 \q2 attend and hear my speech.
@@ -2689,9 +2551,7 @@ Your hands are full of blood:
 \v 28 Do we ever crush bread-corn to pieces?
 \q2 No, we do not keep threshing for ever.
 
-\s The character and fate of Jerusalem
 
-\s2 The fate of Jerusalem
 
 \c 29
 \rem Initial check
@@ -2737,7 +2597,6 @@ Your hands are full of blood:
 \q even so will it be with the horde of all nations
 \q2 that fight against Mount Zion.
 
-\s2 The spiritual torpor and religious formality of the people
 \q
 \v 9 Utterly dazed you will be,
 \q2 utterly blind you will be,
@@ -2751,7 +2610,6 @@ Your hands are full of blood:
 \q
 \v 11 so that the sight of all this is to you
 \q2 as the words on a scroll that is sealed.
-
 \p If put into the hands of a scholar with the request that he read it, he will reply, “I cannot, it is sealed.”
 \v 12 If, however, it be put into the hands of a man who is no scholar, with the request that he read it, he will reply, “I cannot, I am no scholar.”
 \q
@@ -2772,7 +2630,6 @@ Your hands are full of blood:
 \q doing their deeds in the dark,
 \q2 unseen, unperceived – so they think!
 
-\s Doubters rebuked by a vision of Israel's welfare in the latter days
 \q
 \v 16 O perverse that you are!
 \q2 Is the potter no more than the clay?
@@ -2821,9 +2678,7 @@ Your hands are full of blood:
 \q and those who had grumbled
 \q2 will willingly learn the truth.
 
-\s The Egyptian alliance a ruinous policy
 
-\s2 The embassy to Egypt
 
 \c 30
 \q
@@ -2858,7 +2713,6 @@ Your hands are full of blood:
 \v 7 And therefore I name her Rahab,
 \q2 the monster brought to silence.
 
-\s2 Judah's rebellion and ruin
 \q
 \v 8 Now go and write it down,
 \q2 and on a roll inscribe it,
@@ -2917,9 +2771,7 @@ Your hands are full of blood:
 \q like a pole on the top of a mountain,
 \q2 or a signal upon a hill.
 
-\s The final triumph and prosperity of Jerusalem
 
-\s2 Forgiveness and prosperity
 \q
 \v 18 Therefore the \nd Lord\nd* waits
 \q2 to show unto you his favour,
@@ -2971,7 +2823,6 @@ Your hands are full of blood:
 \q2 the hurt of his people,
 \q2 and heals the wound that has smitten them.
 
-\s2 The glorious triumph
 \q
 \v 27 Behold, the \nd Lord\nd* comes from afar
 \q2 in thick rising clouds and with anger that blazes,
@@ -3012,8 +2863,6 @@ Your hands are full of blood:
 \q2 and fired by the breath of the \nd Lord\nd*,
 \q2 as by a stream of brimstone.
 
-\s The folly of the Egyptian alliance
-
 \c 31
 \q
 \v 1 Woe to those who journey
@@ -3052,7 +2901,6 @@ Your hands are full of blood:
 \q he will shield her and deliver her,
 \q2 he will spare her and bring her to safety.
 
-\s The enemy's downfall
 \q
 \v 6 O turn, you men of Israel, to him
 \q2 whom deeply you have offended.
@@ -3070,8 +2918,6 @@ Your hands are full of blood:
 \q2 and his princes will run from the standard in panic.
 \q Thus says the \nd Lord\nd* whose fire is in Zion,
 \q2 whose furnace is in Jerusalem.
-
-\s Rulers and people in the coming days
 
 \c 32
 \q
@@ -3110,7 +2956,6 @@ Your hands are full of blood:
 \v 8 But the plans of the “noble” are noble,
 \q2 by nobleness he will endure.
 
-\s Warning to the women
 \q
 \v 9 You women who are at ease,
 \q2 arise and hear my voice;
@@ -3141,7 +2986,6 @@ Your hands are full of blood:
 \q watchtower and hill will become
 \q2 an everlasting waste.
 
-\s The security and prosperity of the coming days
 \q
 \v 15 But yet from the heavenly height
 \q2 will a spirit be poured upon us,
@@ -3165,9 +3009,7 @@ Your hands are full of blood:
 \q2 in a land that is all well watered,
 \q2 where oxen and asses may roam.
 
-\s The present distress and the future glory of Jerusalem
 
-\s2 The distress
 
 \c 33
 \q
@@ -3209,7 +3051,6 @@ Your hands are full of blood:
 \q Sharon is now like a desert,
 \q2 and Bashan and Carmel are leafless.
 
-\s2 The deliverance
 \q
 \v 10 But thus says the \nd Lord\nd*, “Now \em I\em* will arise;
 \q2 yea now, even now, I will lift me on high.
@@ -3279,11 +3120,9 @@ Your hands are full of blood:
 \v 24 Nevermore will inhabitants say, “I am sick,”
 \q2 for the sins of her people are all forgiven.
 
-\ms2 The Golden Age
+\ms Transition
 
-\s The day of vengeance
-
-\s2 The destruction of the nations
+\s Judgment and renewal
 
 \c 34
 \q
@@ -3309,7 +3148,6 @@ Your hands are full of blood:
 \q as the leaves fade away from the vine,
 \q2 as the foliage fades from the fig tree.
 
-\s2 The destruction of Edom
 \q
 \v 5 For already drunk with his wrath
 \q2 is the sword of the \nd Lord\nd* in heaven.
@@ -3387,8 +3225,6 @@ Your hands are full of blood:
 \q as their everlasting possession,
 \q2 their home through all the ages.
 
-\s The joy of the redeemed
-
 \c 35
 \q
 \v 1 Let the desert and parched land rejoice,
@@ -3450,18 +3286,13 @@ Your hands are full of blood:
 \q for at last joy and gladness have found them,
 \q2 and sorrow and sighing are fled.
 
-\ms2 Historical Appendix
-
-\s Isaiah encourages Hezekiah to resist Sennacheirb's summons to surrender Jerusalem
-
-\s2 First narrative
+\s Looking back and ahead
 
 \c 36
 \p
 \v 1 In the fourteenth year of the reign of Hezekiah, Sennacherib, King of Assyria, after having assaulted and captured all the fortified cities of Judah,
 \v 2 despatched his Chief Officer from Lachish with a large force against King Hezekiah in Jerusalem. Near the conduit of the upper pool, where he had taken up his position on the Fuller's Field Road,
 \v 3 he was visited by a deputation consisting of Eliakim the son of Hilkiah, Governor of the Palace, Shebna the Secretary, and Joah the son of Asaph, the Recorder.
-
 \p
 \v 4 The Chief Officer began: “This is the message from the Great King, the King of Assyria: I desire
 \v 5 you to deliver it to Hezekiah. 'What sort of confidence is this that you cherish? Do you imagine that in war a mere word of the lips is the equivalent of wisdom and strength? Now who is it you are
@@ -3470,11 +3301,9 @@ Your hands are full of blood:
 \v 8 place? Now, make a wager, if you like, with my lord the King of Assyria: I am prepared to furnish you with two thousand horses, if you on your part
 \v 9 can supply them with riders. (But if you cannot), how do you propose to repel the onset of one of the least of my lord's officers? Yet you trust to Egypt
 \v 10 for chariots and horsemen. And now do you imagine that I have not the \nd Lord\nd*'s sanction for invading this land with a view to its destruction? Why, it is the \nd Lord\nd* himself who commissioned me to invade this land and destroy it.'”
-
 \p
 \v 11 Thereupon Eliakim, Shebna, and Joah asked the Chief Officer to be good enough not to speak to them in Hebrew, in the hearing of the people on the wall, but in Aramaic, which they assured him
 \v 12 they understood. “No,” replied the Officer, “it is not to your lord and yourself that my lord has sent me with this message, but precisely to the men on the wall, whom your policy is likely to reduce to eating their own filth and drinking their own water. ”
-
 \p
 \v 13 Then the Chief Officer came forward and cried aloud in Hebrew, “Listen to the words of the
 \v 14 Great King, the King of Assyria. Thus says the King: do not let yourselves be imposed upon by
@@ -3486,7 +3315,6 @@ Your hands are full of blood:
 \v 20 his grasp? Which of all these national gods has succeeded in rescuing his land from my grasp, that the \nd Lord\nd* should now rescue Jerusalem from my
 \v 21 grasp?” To this they answered not a word, they remained silent; for the King had expressly told
 \v 22 them not to answer him. Then Eliakim the son of Hilkiah, Governor of the Palace, and Shebna the Secretary, and Joah the son of Asaph, the Recorder, tore their garments, and returned to Hezekiah, telling him what the Chief Officer had said.
-
 \c 37
 \p
 \v 1 When King Hezekiah heard this, he tore his garments, covered himself with sackcloth, and went
@@ -3495,18 +3323,15 @@ Your hands are full of blood:
 \v 4 and there is not strength to bear them. But it may be that the \nd Lord\nd* your God will hear the words of the Chief Officer, whom the King of Assyria, his master, has sent to insult the living God, and will punish the word which the \nd Lord\nd* your God has heard: so lift up
 \v 5,6 your prayer for those that remain.” And this was the answer that Isaiah returned to the deputation of King Hezekiah's ministers: “Tell your master,” he said, “that the \nd Lord\nd*'s message to him is this: he is not to be afraid of the blasphemous words he has heard from the minions of the King of Assyria.
 \v 7 'Behold,' says he, 'I will inspire him with such a spirit (of panic) that on the strength of a rumour he will return to this own land, and there, in his own land, I will cause him to fall a victim to the sword.'”
-
 \p
 \v 8 Then the Chief Officer returned and found the King of Assyria engaged in the siege of Libnah, for he had heard that he had moved his camp from Lachish.
 \v 9 When the news reached him that Tirhakah King of Ethiopia was advancing to give him battle, he sent messengers to Hezekiah with the following instructions.
 
-\s2 Second narrative
 \q
 \v 10 “This,” said he, “is what you are to say to Hezekiah King of Judah,
 \v 11 Do not let the god you trust in delude you with his assurance that Jerusalem will not be delivered into the hands of the King of Assyria. you are well aware of the ruin the King of Assyria has brought upon all lands, and are \em you\em* to escape?
 \v 12 Were the nations which my father destroyed saved by their gods – Gozan and Haran and Rezeph and the
 \v 13 Edenites in Telassar? Where is the King of Hamath and the King of Arpad and the King of the city of Sepharvaim, of Hena and Ivvah?”
-
 \p
 \v 14 Hezekiah received the letter at the hands of the messengers and read it; then he went up to the
 \v 15 Temple and spread it before the \nd Lord\nd*, and to
@@ -3591,18 +3416,12 @@ Your hands are full of blood:
 \q
 \v 35 for I will protect and deliver this city,
 \q2 for my own sake and David my servant's sake.
-
 \p
 \v 36 Then the angel of the \nd Lord\nd* went forth and slew in the camp of Assyria one hundred and eighty-five thousand men: when they rose in the morning, behold! Every man was a lifeless corpse.
 \v 37 So Sennacherib, King of Assyria, broke up camp and returned to Nineveh, where he settled. 
 \v 38 Subsequently, as he was worshipping in the temple of Nisroch his god, he was assassinated by his sons Adrammelech and Sharezer. They, however, made good their escape to Armenia, and he was succeeded by Esar-haddon his son.
 
-\s Hezekiah's sickness, recovery, and song of thanksgiving
-
-\s2 Hezekiah's sickness
-
 \c 38
-
 \p
 \v 1 In those days Hezekiah was seized with a mortal sickness: and the prophet Isaiah the son of Amoz came to him and said, “The \nd Lord\nd* commands you to set your household affairs in order; for you will
 \v 2 not recover, you are to die.” Then, turning his face to the wall, Hezekiah offered this prayer to
@@ -3613,7 +3432,6 @@ Your hands are full of blood:
 \v 7 “Take this,” he replied, “as a sign from the \nd Lord\nd*
 \v 8 that he will do what he has promised. Watch the shadow that the descending sun has cast on the step-clock of Ahaz: I will bring that shadow ten steps backward.” and the sun did indeed go back on the step-clock the ten steps it had gone down.
 
-\s2 Hezekiah's song of thanksgiving
 
 \p
 \v 9 A psalm of Hezekiah King of Judah, to celebrate his recovery from the sickness which had overtaken him:
@@ -3678,13 +3496,10 @@ Your hands are full of blood:
 \p Then Isaiah said, “Let them take a cake of figs and press it on the boil, to
 \v 22 ensure his recovery.” And Hezekiah said, “What is the sign that I will yet go up to the Temple?”
 
-\s Hezekiah's vanity and Isaiah's rebuke
-
 \c 39
 \p
 \v 1 At that time, merodach-baladan the son of Baladan, King of Babylon, having heard that Hezekiah had been ill and had recovered, despatched
 \v 2 eunuchs to him with a present. Hezekiah, delighted, proceeded to display to them his treasure-house, the silver, the gold, the spices, the fine oil, the armoury, and the whole range of his treasures: there was nothing in his place or indeed in all his dominion that Hezekiah did not show them.
-
 \p
 \v 3 Then came the prophet Isaiah to King Hezekiah and said, “Where do these men come from, and what have they said?” “They have come,” said Hezekiah, “from a distant land, from Babylon.”
 \v 4 “What have they seen in your palace?” said Isaiah; and Hezekiah answered, “Everything: there is none of my treasures that I have not shown them.”
@@ -3693,11 +3508,9 @@ Your hands are full of blood:
 \v 7 Babylon: nothing will be left, says the \nd Lord\nd*. And of the sons who may yet be born to you, some will be taken to become eunuchs is the palace of the
 \v 8 King of Babylon.” Then said Hezekiah to Isaiah, “I accept the word of the \nd Lord\nd* which you have spoken.” At least, thought he, there will be peace and stability in my day.
 
-\ms The Exiles' Book of Consolation
+\ms Book Two - The exiles' book of consolation
 
-\ms2 The Lord is the Lord of Nature and History
-
-\s The glorious news – redemption is nigh
+\s Israel delivered and redeemed
 
 \c 40
 \q
@@ -3758,7 +3571,6 @@ Your hands are full of blood:
 \q he carries the lambs in his bosom,
 \q2 and those who give suck he leads.
 
-\s The sovereignty and omnipotence of God as seen in nature
 \q
 \v 12 Who has measured the waters in the hollow of his hand?
 \q2 Who has ruled off the heavens with a span,
@@ -3863,9 +3675,7 @@ Your hands are full of blood:
 \q They will run, and not grow weary;
 \q2 they will walk, and not be faint.
 
-\s The sovereignty of God as seen in history, and especially in the rise of Cyrus
 
-\s2 The rise of Cyrus a proof of the Lord's power
 
 \c 41
 \q
@@ -3897,7 +3707,6 @@ Your hands are full of blood:
 \q2 the ends of the earth fell a-trembling,
 \q2 they came and drew nigh (to the judgment).
 
-\s2 Israel is the Lord's servant, loved and upheld by him
 \q
 \v 8 But you, Israel my servant,
 \q2 Jacob, whom I have chosen,
@@ -3950,7 +3759,6 @@ Your hands are full of blood:
 \q I will set in the wilderness fir-trees,
 \q2 the plane and the cypress together.
 
-\s2 No heathen god can predict the future
 \q
 \v 21 Now then, says the \nd Lord\nd*, bring forward your suit,
 \q2 produce your idols, says Jacob's king.
@@ -3971,7 +3779,6 @@ Your hands are full of blood:
 \v 24 Now see, you are nothing, and you can do nothing:
 \q2 hateful is he who chooses you.
 
-\s2 No heathen god, but the Lord alone, predicted the advent of Cyrus
 \q
 \v 25 I have roused up one from the north, he is come –
 \q2 one from the sunrise who calls on my name;
@@ -3999,10 +3806,6 @@ Your hands are full of blood:
 \v 29 See! One and all they are nothing,
 \q2 and nothing can they do:
 \q2 their idols are wind and waste.
-
-\ms2 The servant (Israel), his Task and Destiny
-
-\s The servant's task
 
 \c 42
 \q
@@ -4054,7 +3857,6 @@ Your hands are full of blood:
 \q before they spring into being,
 \q2 I make them know unto you.
 
-\s The new song
 \q
 \v 10 Sing a new song to the \nd Lord\nd*,
 \q2 his praise form the end of the earth;
@@ -4074,7 +3876,6 @@ Your hands are full of blood:
 \q he shouts his fierce battle-cry,
 \q2 he engages his foes like a hero.
 
-\s The Lord at last bestirs himself
 \q
 \v 14 Long time have I held my peace,
 \q2 and restrained myself in silence;
@@ -4097,7 +3898,6 @@ Your hands are full of blood:
 \q2 and call an image their god,
 \q2 will backward be driven in shame.
 
-\s A call for repentance on Israel's part
 \q
 \v 18 Hearken, you who are deaf;
 \q2 and you blind, look up, that you see;
@@ -4130,8 +3930,6 @@ Your hands are full of blood:
 \q2 in fury of war so intense
 \q that it blazed round about him – he knew not why –
 \q2 and it burned him, yet never heart did he lay it?
-
-\s The Lord will show his love for Israel by gathering her exiles home
 
 \c 43
 \q
@@ -4169,7 +3967,6 @@ Your hands are full of blood:
 \v 7 every one who is called by my name,
 \q2 whom I fashioned and made for my glory.
 
-\s Israel is the Lord's witness to the world
 \q
 \v 8 Forth! you folk who have eyes, but are blind;
 \q2 and you who have ears, yet are deaf.
@@ -4202,7 +3999,6 @@ Your hands are full of blood:
 \q There is none who can snatch from my hand,
 \q2 and who can reverse what I do?
 
-\s The deliverance from Babylon more wonderful than the deliverance from Egypt
 \q
 \v 14 Thus says the \nd Lord\nd*, your redeemer,
 \q2 the Holy One of Israel:
@@ -4243,7 +4039,6 @@ Your hands are full of blood:
 \v 21 the people I formed for myself,
 \q to tell abroad my praise.
 
-\s Israel's restoration is due, not to her own merits, but to the Lord's free grace
 \q
 \v 22 Yet you have not called upon me, O Jacob,
 \q2 nor wearied yourself about me, O Israel.
@@ -4299,7 +4094,6 @@ Your hands are full of blood:
 \q another will write on his hand, “To the \nd Lord\nd*,”
 \q2 and add to his own name the surname of Israel.
 
-\s Israel's God is sovereign and eternal
 \q
 \v 6 Thus says the \nd Lord\nd*, the King of Israel,
 \q2 his redeemer, the \nd Lord\nd* of Hosts:
@@ -4315,8 +4109,6 @@ Your hands are full of blood:
 \q2 have not I from the old time proclaimed and declared it?
 \q you are my witnesses: is there a God
 \q2 or a rock beside me at all?
-
-\s The folly of idolatry
 
 \q
 \v 9 Makers of idols are all an illusion,
@@ -4385,7 +4177,6 @@ Your hands are full of blood:
 \q he cannot deliver himself, and confess
 \q2 that his hand has been grasping an utter delusion.
 
-\s Let the world rejoice over Israel's redemption
 \q
 \v 21 Remember these things, O Jacob;
 \q2 yea, Israel, for you are my servant.
@@ -4403,9 +4194,6 @@ Your hands are full of blood:
 \q For the \nd Lord\nd* has now wrought redemption for Jacob,
 \q2 he shows his glory in Israel.
 
-\ms2 Cyrus and the Overthrow of Babylon
-
-\s The Lord calls Cyrus and bestows upon him a career of victory, for Israel and the world's sake
 \q
 \v 24 Thus says the \nd Lord\nd*, your redeemer,
 \q2 who formed you from the womb:
@@ -4432,7 +4220,6 @@ Your hands are full of blood:
 \q2 he will execute all my purpose,
 \q2 Jerusalem will yet be rebuilt,
 \q2 the Temple foundations will yet be laid.
-
 \b
 \c 45
 \q
@@ -4478,7 +4265,6 @@ Your hands are full of blood:
 \q Let victory blossom,
 \q2 I, the \nd Lord\nd* have created it.
 
-\s Murmurs against Cyrus rebuked
 \q
 \v 9 Woe unto him who strives with his maker –
 \q2 a potsherd no better than earthen potsherd.
@@ -4509,7 +4295,6 @@ Your hands are full of blood:
 \q yet neither for price nor reward.
 \q2 Thus says the \nd Lord\nd* of Hosts.
 
-\s The heathen acknowledge the uniqueness of Israel and her God
 \q
 \v 14 Thus says the \nd Lord\nd* of Hosts:
 \q the peasants of Egypt, the merchants of Cush,
@@ -4534,7 +4319,6 @@ Your hands are full of blood:
 \q you will not be ashamed or confounded
 \q2 for ever and evermore.
 
-\s The Lord desires the salvation of the whole world
 \q
 \v 18 For thus says the \nd Lord\nd*, God indeed,
 \q2 creator of the heavens,
@@ -4586,8 +4370,6 @@ Your hands are full of blood:
 \q
 \v 25 but all the descendants of Israel
 \q2 will triumph and boast in the \nd Lord\nd*.
-
-\s The downfall of Babylon's gods
 
 \c 46
 \q
@@ -4650,8 +4432,6 @@ Your hands are full of blood:
 \q2 my deliverance will not tarry.
 \q I will set the deliverance in Zion,
 \q2 and lavish my glory on Israel.
-
-\s The downfall of Babylon
 
 \c 47
 \q
@@ -4750,9 +4530,7 @@ Your hands are full of blood:
 \q your flee staggering, each his own way –
 \q2 not a man of them all to save you.
 
-\s The summons to depart from Babylon
 
-\s2 The new prophecies will be fulfilled as surely as the old
 
 \c 48
 \q
@@ -4784,11 +4562,7 @@ Your hands are full of blood:
 \v 6 You have heard it, now see it fulfilled;
 \q2 wilt you not bear witness to it?
 
-\ms2 The Restoration of Israel and the Future Glory of Zion
-
-\s The servant discouraged, but at last triumphant
-
-\s2 The servant: his seeming failure and his great destiny
+\s Israel a light to the nations
 
 \c 49
 \q
@@ -4828,7 +4602,6 @@ Your hands are full of blood:
 \q2 that so my salvation may reach
 \q2 to the very ends of the earth.”
 
-\s2 Israel's happy return and restoration
 \q
 \v 7 Thus says the (true) God the \nd Lord\nd*,
 \q2 Israel's holy redeemer,
@@ -4873,9 +4646,7 @@ Your hands are full of blood:
 \q For the \nd Lord\nd* comforts his folk,
 \q2 takes pity upon his affected.
 
-\s The consolation of Zion
 
-\s2 Wasted Zion will be rebuilt and repeopled
 \q
 \v 14 “But the \nd Lord\nd*,” says Zion, “has left me;
 \q2 my Lord has forgotten me clean.”
@@ -4917,9 +4688,7 @@ Your hands are full of blood:
 \q Behold! I was left all alone:
 \q2 who then can these children be?”
 
-\s Three words of consolation
 
-\s2 At a signal from the Lord, the nations will bring Israel back to Zion
 
 \q
 \v 22 Thus says the Lord the \nd Lord\nd*:
@@ -4935,7 +4704,6 @@ Your hands are full of blood:
 \q and then you will know that I am the \nd Lord\nd*,
 \q2 who never will bring those who trust me to shame.
 
-\s2 The Lord is omnipotent
 
 \q
 \v 24 Can prey from the mighty be wrenched,
@@ -4953,7 +4721,6 @@ Your hands are full of blood:
 \q2 that I am your saviour-redeemer,
 \q2 the \nd Lord\nd*, the Strong One of Jacob.
 
-\s2 The Lord's omnipotent love
 
 \c 50
 \q
@@ -4977,8 +4744,6 @@ Your hands are full of blood:
 \q
 \v 3 I clothed the heavens in mourning,
 \q2 and sackcloth I made their covering.
-
-\s The servant tried but trusting
 
 \q
 \v 4 The Lord the \nd Lord\nd* has given me
@@ -5032,9 +4797,7 @@ Your hands are full of blood:
 \q This is your fate at my hand,
 \q2 that you lie in the place of torment.
 
-\s Words of encouragement and promise
 
-\s2 Deliverance is near and sure
 
 \c 51
 \q
@@ -5088,7 +4851,6 @@ Your hands are full of blood:
 \q but eternal will be my salvation,
 \q2 my triumph from age to age.
 
-\s2 Appeal to the Lord to show his ancient power
 
 \q
 \v 9 Awake, O arm of the \nd Lord\nd*,
@@ -5130,7 +4892,6 @@ Your hands are full of blood:
 \q when I stretched forth the heavens and founded the earth,
 \q2 and said unto Zion, “My people are you.”
 
-\s2 Jerusalem's affliction: her speedy redemption and glory
 
 \q
 \v 17 Bestir you, bestir you; arise, O Jerusalem,
@@ -5183,7 +4944,6 @@ Your hands are full of blood:
 \q2 and arise, O captive Jerusalem;
 \q loose you the bands of your neck,
 \q2 O captive daughter of Zion.
-
 \p
 \v 3 For thus says the \nd Lord\nd*, “You were sold for nothing and
 \v 4 without money you will be redeemed.” For thus says the Lord the \nd Lord\nd*, “My people went down at the first to Egypt to sojourn there; and Assyria oppressed them
@@ -5222,9 +4982,7 @@ Your hands are full of blood:
 \q for the \nd Lord\nd* goes before you,
 \q2 and Israel's God is your rear guard.
 
-\s The humiliation and exaltation of the servant
 
-\s2 The servant: his sufferings and his great glory
 
 \q
 \v 13 See, Israel my servant will yet be exalted
@@ -5245,7 +5003,6 @@ Your hands are full of blood:
 \q And to whom has the arm of the \nd Lord\nd*
 \q2 been ever so revealed?
 
-\s2 The sorrows, humiliation, and death of the servant
 
 \q
 \v 2 He grew like a sapling before us,
@@ -5294,7 +5051,6 @@ Your hands are full of blood:
 \q although he had done no violence,
 \q2 nor was any deceit in his mouth.
 
-\s2 The servant's ultimate exultation and glory
 \q
 \v 10 'Twas the will of the \nd Lord\nd* that crushed him with pain;
 \q2 but by yielding himself as an offering for sin,
@@ -5314,8 +5070,6 @@ Your hands are full of blood:
 \q2 and had suffered himself to be numbered with rebels;
 \q though the sins that he bore were the sins of the world,
 \q2 and for those very rebels he had offered his prayer.”
-
-\s The future glory of Jerusalem
 
 \c 54
 \q
@@ -5411,9 +5165,7 @@ Your hands are full of blood:
 \q Such is the lot of the \nd Lord\nd*'s servants,
 \q2 and this will I vindicate them, says the \nd Lord\nd*.
 
-\s Invitation to embrace the impending salvation
 
-\s2 The blessings in store for Israel
 
 \c 55
 \q
@@ -5442,7 +5194,6 @@ Your hands are full of blood:
 \q2 the Holy One of Israel,
 \q2 because he has girt you with glory.
 
-\s2 The wonderful salvation is near: forth, then, from Babylon!
 
 \q
 \v 6 Seek you the \nd Lord\nd*, while he may be found,
@@ -5488,9 +5239,9 @@ Your hands are full of blood:
 \q it will be for the \nd Lord\nd*'s renown,
 \q2 for a sign everlasting that never will perish.
 
-\ms Later Voices of Rebuke, Threat, and Promise
+\ms Book Three - Words of warning and hope to the restored community
 
-\s A word of cheer to those who are in danger of being excluded from the church
+\s God's warnings to the restored community
 
 \c 56
 \q
@@ -5543,9 +5294,7 @@ Your hands are full of blood:
 \q “I will yet gather others to him
 \q2 beside those who already are gathered.”
 
-\s The demoralization of leaders and people
 
-\s2 The sensuous leaders
 
 \q
 \v 9 All you wild beasts of the field,
@@ -5583,7 +5332,6 @@ Your hands are full of blood:
 \q2 and those whose walk has been upright
 \q2 do rest at last on their biers.
 
-\s2 The idolatrous people
 
 \q
 \v 3 But \em you\em* – hither approach,
@@ -5653,8 +5401,6 @@ Your hands are full of blood:
 \q But who trusts in me will possess the land,
 \q2 and inherit my holy mountain.
 
-\s Blessings in store for the faithful
-
 \q
 \v 14 O raise, raise a highway, and clear you a path,
 \q2 take the stumbling-blocks out of the way of my people.
@@ -5687,9 +5433,7 @@ Your hands are full of blood:
 \q2
 \v 21 So peace there is none, says my God, to the wicked.
 
-\s The true and the false worship
 
-\s2 Fasting
 
 \c 58
 \q
@@ -5764,7 +5508,6 @@ Your hands are full of blood:
 \q and you will be called the repairer of ruins,
 \q2 who makes waste places a home again.
 
-\s2 The Sabbath
 \q
 \v 13 If you turn away your foot from the Sabbath,
 \q2 from doing your business on my holy day,
@@ -5778,9 +5521,7 @@ Your hands are full of blood:
 \q I will give you the portion of Jacob your father
 \q2 in full to enjoy, as the \nd Lord\nd* has promised.
 
-\s The sinful people and the devine deliverance
 
-\s2 The sins
 
 \c 59
 \q
@@ -5826,7 +5567,6 @@ Your hands are full of blood:
 \q for their own selfish ends they have twisted their paths;
 \q2 who treads thereon is a stranger to peace.
 
-\s2 The confession
 \q
 \v 9 For this cause our right remains far,
 \q2 and no victory yet overtakes us;
@@ -5864,7 +5604,6 @@ Your hands are full of blood:
 \q At the sight was the \nd Lord\nd* displeased,
 \q2 he was angry that justice was lacking.
 
-\s2 The deliverance
 \q
 \v 16 He saw with utter amaze
 \q2 not a man to interpose;
@@ -5897,7 +5636,7 @@ Your hands are full of blood:
 \q nor yet from the mouth of your children's children,
 \q2 says the \nd Lord\nd*, from the henceforth and evermore.
 
-\s The glory of the new Jerusalem
+\s Promise of the New Jerusalem
 
 \c 60
 \q
@@ -6020,8 +5759,6 @@ Your hands are full of blood:
 \q2 and the least to a mighty nation.
 \q I (who have promised), the \nd Lord\nd*,
 \q2 will hasten it in its time.
-
-\s The proclamation of Zion's redemption
 
 \c 61
 \q
@@ -6159,7 +5896,7 @@ Your hands are full of blood:
 \q and you will be called frequented,
 \q2 the city unforsaken.
 
-\s The destruction of the foes of Zion
+\s The people's lament and God's response
 
 \c 63
 \q
@@ -6194,9 +5931,7 @@ Your hands are full of blood:
 \q2 in my fury I broke them in pieces:
 \q2 their life-blood I spilt on the ground.”
 
-\s Passionate prayer for the divine favour
 
-\s2 Thanksgiving for ancient mercies
 \q
 \v 7 The \nd Lord\nd*'s renown I would celebrate –
 \q2 all his loving-kindness –
@@ -6246,7 +5981,6 @@ Your hands are full of blood:
 \q This was the way you lead your people,
 \q2 bring glory to your name.”
 
-\s2 Passionate entreaty for the devine forgiveness and pity
 \q
 \v 15 Look down from heaven, and behold
 \q2 from your holy and glorious palace.
@@ -6333,9 +6067,7 @@ Your hands are full of blood:
 \q And will you still keep silence,
 \q2 and afflict us very sore?
 
-\s The blessedness of the faithful and the doom of the apostates
-
-\s2 The fate of the apostates
+\s Judgement and final salvation
 
 \c 65
 \q
@@ -6377,7 +6109,6 @@ Your hands are full of blood:
 \q So first their reward I will measure,
 \q2 then into their bosom requite it.
 
-\s2 The destiny of the faithful in the impending judgment
 \q
 \v 8 Thus says the \nd Lord\nd*:
 \q2 as when new wine is found in the cluster,
@@ -6437,7 +6168,6 @@ Your hands are full of blood:
 \v 17 for behold I will soon create
 \q2 the heavens and the earth anew.
 
-\s2 The glorious future
 
 \q The past will not be remembered,
 \q2 nor come into mind again;
@@ -6489,7 +6219,6 @@ Your hands are full of blood:
 \q None will do hurt, says the \nd Lord\nd*, or havoc,
 \q2 on all my holy mountain.
 
-\s2 Doom pronounced upon those who intend to build a rival temple
 
 \c 66
 \q
@@ -6524,7 +6253,6 @@ Your hands are full of blood:
 \q but did that which was vile in my sight,
 \q2 and made choice of the things that displeased me.
 
-\s2 The faithful cheered by the prospect of Zion's prosperity
 \q
 \v 5 Hear you the word of the \nd Lord\nd*,
 \q2 you who at \em His\em* word tremble:
@@ -6606,7 +6334,6 @@ Your hands are full of blood:
 \v 18 their works and their thoughts, says the \nd Lord\nd*,
 \q2 will come to an end together.
 
-\s2 The Lord's glory announced throughout the world: the complete restoration and perpetuity of Israel
 
 \q Behold, the time is come
 \q2 to gather all nations and tongues;
@@ -6636,7 +6363,6 @@ Your hands are full of blood:
 \q will abide, says the \nd Lord\nd*, before me,
 \q2 your name and your race will continue.
 
-\s2 The fearful fate of the apostates
 \q
 \v 23 From one new moon to another,
 \q2 one Sabbath to another,
@@ -6649,5 +6375,4 @@ Your hands are full of blood:
 \q whose worm never dies,
 \q2 whose fire is never quenched:
 \q2 they are held by all flesh in abhorrence.
-
 
